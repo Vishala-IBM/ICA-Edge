@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SAP Datasphere ↔ Azure Databricks Integration Architecture</title>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script>mermaid.initialize({ startOnLoad: true, theme: 'default' });</script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: #f7f8fa;
+      color: #1d2b3a;
+      line-height: 1.65;
+      font-size: 15px;
+    }
+
+    /* ── Header ── */
+    .page-header {
+      background: linear-gradient(135deg, #0070F2 0%, #003d8f 100%);
+      color: #fff;
+      padding: 48px 32px 40px;
+      text-align: center;
+    }
+    .page-header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      margin-bottom: 10px;
+    }
+    .page-header .subtitle {
+      font-size: 0.95rem;
+      opacity: 0.82;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 18px;
+      flex-wrap: wrap;
+    }
+    .page-header .badge {
+      background: rgba(255,255,255,0.18);
+      border: 1px solid rgba(255,255,255,0.35);
+      border-radius: 20px;
+      padding: 3px 14px;
+      font-size: 0.82rem;
+      font-weight: 600;
+    }
+
+    /* ── Layout ── */
+    .content {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 40px 24px 80px;
+    }
+
+    /* ── Sections ── */
+    .section {
+      background: #fff;
+      border-radius: 10px;
+      border: 1px solid #e2e6ed;
+      margin-bottom: 28px;
+      padding: 32px 36px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+    }
+
+    .section-title {
+      font-size: 1.22rem;
+      font-weight: 700;
+      color: #0070F2;
+      margin-bottom: 18px;
+      padding-bottom: 12px;
+      border-bottom: 2px solid #e8f0fe;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    /* ── Typography ── */
+    p { margin-bottom: 14px; }
+    p:last-child { margin-bottom: 0; }
+
+    ul, ol { padding-left: 22px; margin-bottom: 14px; }
+    li { margin-bottom: 6px; }
+
+    strong { color: #003d8f; }
+
+    a { color: #0070F2; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Tables ── */
+    .table-wrap { overflow-x: auto; margin-top: 16px; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+    thead tr {
+      background: #0070F2;
+      color: #fff;
+    }
+    thead th {
+      padding: 11px 14px;
+      text-align: left;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    tbody tr:nth-child(even) { background: #f2f6ff; }
+    tbody tr:nth-child(odd)  { background: #fff; }
+    tbody tr:hover { background: #dce9ff; transition: background 0.15s; }
+    tbody td {
+      padding: 10px 14px;
+      border-bottom: 1px solid #e4e8f0;
+      vertical-align: top;
+    }
+
+    /* ── Pros/Cons table special coloring ── */
+    .cell-good  { color: #1a7a3c; font-weight: 600; }
+    .cell-ok    { color: #b45309; font-weight: 600; }
+    .cell-bad   { color: #c0392b; font-weight: 600; }
+
+    /* ── Mermaid card ── */
+    .mermaid-card {
+      background: #f9fbff;
+      border: 1px solid #c9d8f8;
+      border-radius: 8px;
+      padding: 28px 18px;
+      margin-top: 18px;
+      text-align: center;
+      overflow-x: auto;
+    }
+    .mermaid-card .diagram-label {
+      font-size: 0.78rem;
+      color: #6c7a8d;
+      margin-top: 12px;
+      font-style: italic;
+    }
+
+    /* ── Sub-section headings ── */
+    .sub-title {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #1d2b3a;
+      margin: 22px 0 10px;
+      padding-left: 10px;
+      border-left: 3px solid #0070F2;
+    }
+
+    /* ── Option cards ── */
+    .option-card {
+      border: 1px solid #e2e6ed;
+      border-radius: 8px;
+      padding: 20px 22px;
+      margin-bottom: 18px;
+      background: #fbfcff;
+    }
+    .option-card:last-child { margin-bottom: 0; }
+    .option-card .option-title {
+      font-weight: 700;
+      font-size: 1rem;
+      color: #0070F2;
+      margin-bottom: 8px;
+    }
+    .option-card .option-badge {
+      display: inline-block;
+      background: #e8f0fe;
+      color: #0070F2;
+      border-radius: 4px;
+      padding: 2px 9px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+    .option-card .option-badge.alt { background: #fff3cd; color: #856404; }
+
+    /* ── Callout box ── */
+    .callout {
+      background: #e8f4e8;
+      border-left: 4px solid #28a745;
+      border-radius: 5px;
+      padding: 14px 18px;
+      margin: 14px 0;
+      font-size: 0.9rem;
+    }
+    .callout.warn {
+      background: #fff8e1;
+      border-left-color: #f59f00;
+    }
+    .callout.info {
+      background: #e8f0fe;
+      border-left-color: #0070F2;
+    }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      font-size: 0.78rem;
+      color: #8a95a3;
+      padding: 24px;
+      border-top: 1px solid #e2e6ed;
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    /* ── Numbered steps ── */
+    .steps { counter-reset: step-counter; list-style: none; padding-left: 0; }
+    .steps li {
+      counter-increment: step-counter;
+      position: relative;
+      padding-left: 46px;
+      margin-bottom: 12px;
+      min-height: 32px;
+    }
+    .steps li::before {
+      content: counter(step-counter);
+      position: absolute;
+      left: 0; top: 0;
+      background: #0070F2;
+      color: #fff;
+      font-weight: 700;
+      font-size: 0.82rem;
+      width: 28px; height: 28px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════════════════════
+     HEADER
+═══════════════════════════════════════════════════════════════ -->
+<div class="page-header">
+  <h1>SAP Datasphere ↔ Azure Databricks<br>Integration Architecture</h1>
+  <div class="subtitle">
+    <span>SAP Solution Architecture Advisory</span>
+    <span class="badge">📅 October 2026</span>
+    <span class="badge">🔍 Research-Based</span>
+    <span class="badge">✅ SAP BDC + Delta Sharing</span>
+  </div>
+</div>
+
+<div class="content">
+
+  <!-- ══════════════════════════════════════════════════════════════
+       EXECUTIVE SUMMARY
+  ═══════════════════════════════════════════════════════════════ -->
+  <div class="section">
+    <div class="section-title">📋 Executive Summary</div>
+    <p>
+      SAP Datasphere and Azure Databricks can be integrated through three mature patterns, each suited to different use cases.
+      The <strong>SAP-recommended path</strong> is the <strong>SAP Business Data Cloud (BDC) Connector for Databricks</strong>,
+      which leverages the open-source <strong>Delta Sharing / OpenSharing protocol</strong> to deliver live, zero-copy,
+      bi-directional data access between SAP's curated data products and Databricks workspaces — without replicating or moving data.
+    </p>
+    <p>
+      This approach is natively integrated into Databricks' <strong>Unity Catalog</strong>, provides automatic sync of
+      SAP semantic metadata (table/column comments, primary/foreign keys, governance tags), and uses mutual TLS + OIDC
+      for secure exchange. For teams requiring direct extraction from SAP ERP systems, the Databricks connector ecosystem
+      (OData, SLT, Fabric Dataflows) offers viable alternatives at the cost of added operational complexity.
+    </p>
+    <p>
+      This document details all three options, with a deep dive into the BDC Connector architecture, pros/cons analysis,
+      security posture, and step-by-step implementation guidance.
+    </p>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       RECOMMENDED ARCHITECTURE: BDC CONNECTOR / DELTA SHARING
+  ═══════════════════════════════════════════════════════════════ -->
+  <div class="section">
+    <div class="section-title">🏗️ Recommended Architecture: SAP BDC Connector (OpenSharing / Delta Sharing)</div>
+
+    <p>
+      <strong>SAP Business Data Cloud (BDC)</strong> is SAP's integrated data platform that bundles SAP Datasphere,
+      SAP Analytics Cloud, and — crucially — the <strong>SAP BDC Connector for Databricks</strong>.
+      This connector uses <strong>Databricks OpenSharing</strong> (the open-protocol implementation of Delta Sharing)
+      to share data products defined in SAP Datasphere directly into Databricks workspaces registered with Unity Catalog.
+      Data <em>remains in place</em> inside SAP's HANA Cloud storage — no ETL pipeline, no data duplication.
+    </p>
+
+    <div class="callout">
+      <strong>🚀 SAP Official Recommendation (as of 2026):</strong> Use the SAP BDC Connector for Databricks via
+      OpenSharing for all net-new Datasphere → Databricks integration work. This is the only pattern where SAP's
+      governance, semantic layer, and data lineage fully travel with the data.
+    </div>
+
+    <div class="sub-title">Components</div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Component</th>
+            <th>Role</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>SAP S/4HANA / ECC</strong></td>
+            <td>Operational source data</td>
+            <td>Exposes data via ODP extractors, CDS Views, or SLT replication into Datasphere</td>
+          </tr>
+          <tr>
+            <td><strong>SAP Datasphere</strong></td>
+            <td>Data orchestration &amp; product creation</td>
+            <td>Models, transforms, and curates data into governed <em>Data Products</em>; acts as OpenSharing <em>provider</em></td>
+          </tr>
+          <tr>
+            <td><strong>SAP HANA Cloud</strong></td>
+            <td>Persistent columnar storage</td>
+            <td>Underlying storage for Datasphere spaces; data stays here — never moves to Databricks</td>
+          </tr>
+          <tr>
+            <td><strong>SAP BDC Connector for Databricks</strong></td>
+            <td>Bi-directional sharing bridge</td>
+            <td>Manages connection handshake, credential exchange, and OpenSharing share provisioning between SAP BDC and Databricks</td>
+          </tr>
+          <tr>
+            <td><strong>OpenSharing (Delta Sharing)</strong></td>
+            <td>Open data-sharing protocol</td>
+            <td>Open-source Linux Foundation protocol; enables zero-copy, live table access across platforms and cloud boundaries</td>
+          </tr>
+          <tr>
+            <td><strong>Azure Databricks</strong></td>
+            <td>Analytics &amp; ML platform</td>
+            <td>Acts as OpenSharing <em>recipient</em>; receives catalogs from SAP BDC as external tables in Unity Catalog</td>
+          </tr>
+          <tr>
+            <td><strong>Databricks Unity Catalog</strong></td>
+            <td>Governance &amp; discoverability</td>
+            <td>Mounts SAP-shared catalogs; automatically ingests SAP semantic metadata (keys, comments, tags); enforces access policies</td>
+          </tr>
+          <tr>
+            <td><strong>Azure Data Lake Storage Gen2</strong></td>
+            <td>Databricks-native storage</td>
+            <td>Used for Databricks-side Delta tables, notebooks, and derived outputs — not required for the zero-copy path</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="sub-title">Integration Flow</div>
+    <ol class="steps">
+      <li><strong>Source Data Ingestion:</strong> SAP S/4HANA / ECC pushes operational data into SAP Datasphere using ODP extractors, CDS View replication, or SAP Landscape Transformation (SLT). Data lands in SAP HANA Cloud columnar storage.</li>
+      <li><strong>Data Modeling &amp; Curation:</strong> Data engineers in Datasphere's Data Builder create Views, Data Flows, and Analytic Models. These are promoted as governed <strong>Data Products</strong> in the Datasphere catalog, ready for sharing.</li>
+      <li><strong>OpenSharing Setup (Provider Side — SAP BDC Admin):</strong> The SAP BDC admin enables OpenSharing on the Datasphere tenant and configures a <strong>Third-Party Connection</strong>. The SAP BDC admin receives a <em>Connection Identifier</em> from the Databricks workspace admin.</li>
+      <li><strong>OpenSharing Setup (Recipient Side — Databricks Admin):</strong> The Databricks workspace admin (with <code>CREATE PROVIDER</code> and <code>CREATE RECIPIENT</code> privileges) obtains a connection identifier and sends it to the SAP BDC admin. Once the SAP BDC admin creates the connection and returns an <em>invitation link</em>, the Databricks admin completes the SAP BDC connection in Unity Catalog.</li>
+      <li><strong>Data Product Sharing:</strong> The SAP BDC admin grants the Databricks recipient access to selected OpenSharing <em>shares</em> containing published Data Products (tables and views).</li>
+      <li><strong>Catalog Mount in Databricks:</strong> The Databricks admin creates a Unity Catalog <em>catalog</em> from the received share. SAP semantic metadata (column descriptions, primary/foreign keys, SAP governance tags) synchronizes automatically into Unity Catalog.</li>
+      <li><strong>Analytics &amp; ML Consumption:</strong> Databricks users query SAP data directly via Spark SQL, Databricks SQL, or MLflow notebooks — live, without data movement. Queries resolve against SAP HANA Cloud via the Delta Sharing protocol over HTTPS/mTLS.</li>
+      <li><strong>Bi-directional Write-back (Optional):</strong> Databricks-side Delta Tables and ML outputs can be shared back into SAP Datasphere via the same connector for closed-loop scenarios (e.g., ML predictions surfaced in SAP Analytics Cloud).</li>
+    </ol>
+
+    <div class="sub-title">Architecture Diagram</div>
+    <div class="mermaid-card">
+      <div class="mermaid">
+graph LR
+  classDef sap fill:#0070F2,color:#fff,stroke:#005BBB
+  classDef bdc fill:#003d8f,color:#fff,stroke:#002266
+  classDef databricks fill:#FF3621,color:#fff,stroke:#CC2D1B
+  classDef azure fill:#00A4EF,color:#fff,stroke:#0078D4
+  classDef protocol fill:#6f42c1,color:#fff,stroke:#5a30a8
+  classDef neutral fill:#F4F4F4,color:#333,stroke:#AAA
+
+  subgraph SAP["☁️ SAP BTP / Business Data Cloud"]
+    S4["SAP S/4HANA\n(ODP / CDS Views)"]:::sap
+    DS["SAP Datasphere\n(Data Products)"]:::sap
+    HC["SAP HANA Cloud\n(Columnar Storage)"]:::sap
+    BDCC["SAP BDC Connector\n(OpenSharing Provider)"]:::bdc
+  end
+
+  subgraph Proto["🔄 Delta Sharing Protocol"]
+    OS["OpenSharing\n(mTLS + OIDC)"]:::protocol
+  end
+
+  subgraph AzureCloud["☁️ Microsoft Azure"]
+    ADB["Azure Databricks\n(Notebooks / SQL)"]:::databricks
+    UC["Unity Catalog\n(SAP Semantic Metadata)"]:::databricks
+    ADLS["Azure Data Lake\nStorage Gen2"]:::azure
+  end
+
+  S4 -->|"Replicate via ODP\nCDS Views / SLT"| DS
+  DS -->|"Data Products\n(governed views)"| HC
+  DS -->|"Publish Share"| BDCC
+  BDCC -->|"OpenSharing Protocol"| OS
+  OS -->|"Zero-copy\nlive access"| UC
+  UC -->|"Mount catalog\nfrom share"| ADB
+  ADB -->|"Write outputs\n(Delta Tables)"| ADLS
+  ADLS -.->|"Optional write-back\nshare"| BDCC
+      </div>
+      <div class="diagram-label">Figure 1 — SAP BDC Connector / OpenSharing zero-copy integration architecture (recommended path)</div>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       ALTERNATIVE OPTIONS
+  ═══════════════════════════════════════════════════════════════ -->
+  <div class="section">
+    <div class="section-title">🔀 Alternative Integration Options</div>
+
+    <div class="option-card">
+      <div class="option-title">
+        Option 2 — SAP Connector / OData API (S/4HANA Direct → Databricks)
+        <span class="option-badge alt">Alternative</span>
+      </div>
+      <p>
+        Databricks provides native connectivity to SAP source systems (S/4HANA, ECC, BW) through the
+        <strong>SAP OData connector</strong> and community-maintained ODP/RFC connectors. This approach
+        <em>bypasses Datasphere entirely</em> and pulls raw data directly into Databricks Delta tables via Spark.
+      </p>
+      <ul>
+        <li><strong>Use case:</strong> Teams already on Databricks who want SAP transactional data without a Datasphere license, or needing full historical loads from BW InfoProviders.</li>
+        <li><strong>Mechanism:</strong> Databricks cluster calls SAP OData services (via SAP Gateway) or uses the SAP JCo RFC library. Data lands in ADLS as Delta tables.</li>
+        <li><strong>Limitations:</strong> No SAP semantic metadata, no governed data products, requires SAP Gateway setup, limited incremental extraction support without SLT or ODP configuration.</li>
+        <li><strong>Microsoft tooling:</strong> Azure Data Factory's SAP ECC / SAP HANA connectors can mediate the extraction, then land data in ADLS for Databricks consumption — adding a managed ETL layer.</li>
+      </ul>
+      <div class="callout warn">
+        ⚠️ This pattern does NOT leverage Datasphere's governance or semantic layer. Consider it only when
+        Datasphere is not part of the landscape.
+      </div>
+    </div>
+
+    <div class="option-card">
+      <div class="option-title">
+        Option 3 — Azure Data Factory / Synapse Pipelines (ADF-mediated ETL)
+        <span class="option-badge alt">Alternative</span>
+      </div>
+      <p>
+        Azure Data Factory (ADF) or Synapse Pipelines can act as the integration middleware between
+        SAP Datasphere (or SAP HANA Cloud) and Azure Databricks. ADF exposes native connectors for
+        <strong>SAP HANA, SAP OData, SAP BW</strong> and can write outputs directly to ADLS Gen2,
+        which Databricks accesses via external tables or Auto Loader.
+      </p>
+      <ul>
+        <li><strong>Use case:</strong> Organizations already heavily invested in Azure integration services (ADF/Synapse), or requiring scheduled batch ETL with complex transformation logic managed in Azure.</li>
+        <li><strong>Mechanism:</strong> ADF pipeline reads from Datasphere OData API or SAP HANA Cloud via JDBC → transforms in ADF mapping data flows or Azure Databricks activity → writes Parquet/Delta to ADLS.</li>
+        <li><strong>Limitations:</strong> Introduces data copies (ETL = data duplication), latency, and additional cost. No live/streaming access. ADF pipelines need maintenance as SAP schemas evolve.</li>
+        <li><strong>Governance:</strong> Data lineage must be managed separately in Azure Purview; SAP Datasphere lineage does not propagate through ADF into Databricks.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       PROS & CONS COMPARISON
+  ═══════════════════════════════════════════════════════════════ -->
+  <div class="section">
+    <div class="section-title">⚖️ Pros &amp; Cons — Comparison of All Three Options</div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Criterion</th>
+            <th>Option 1 — BDC Connector / OpenSharing<br><small>(Recommended)</small></th>
+            <th>Option 2 — OData / Direct SAP Connector</th>
+            <th>Option 3 — ADF-Mediated ETL</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Real-time / Near-real-time Access</strong></td>
+            <td class="cell-good">✅ Live zero-copy (sub-second query latency)</td>
+            <td class="cell-ok">⚠️ Pull-based; near real-time with SLT</td>
+            <td class="cell-bad">❌ Batch only; pipeline-scheduled</td>
+          </tr>
+          <tr>
+            <td><strong>Data Volume Support</strong></td>
+            <td class="cell-good">✅ High (pushdown to HANA Cloud)</td>
+            <td class="cell-ok">⚠️ Limited by SAP Gateway throughput</td>
+            <td class="cell-good">✅ High (ADF scales with Azure IR)</td>
+          </tr>
+          <tr>
+            <td><strong>Implementation Complexity</strong></td>
+            <td class="cell-good">✅ Low (wizard-based connection setup)</td>
+            <td class="cell-ok">⚠️ Medium (SAP Gateway config + Spark code)</td>
+            <td class="cell-ok">⚠️ Medium-High (pipeline design + maintenance)</td>
+          </tr>
+          <tr>
+            <td><strong>Data Movement / Copies</strong></td>
+            <td class="cell-good">✅ Zero-copy — data stays in HANA Cloud</td>
+            <td class="cell-bad">❌ Full copy to ADLS Delta tables</td>
+            <td class="cell-bad">❌ Full copy via ADF staging area</td>
+          </tr>
+          <tr>
+            <td><strong>Cost Profile</strong></td>
+            <td class="cell-ok">⚠️ SAP BDC license required; no storage duplication costs</td>
+            <td class="cell-ok">⚠️ Databricks DBUs + ADLS storage</td>
+            <td class="cell-bad">❌ ADF DIU costs + storage + Databricks DBUs</td>
+          </tr>
+          <tr>
+            <td><strong>SAP-Native Tooling &amp; Governance</strong></td>
+            <td class="cell-good">✅ Full — Data Products, semantic metadata, Datasphere lineage</td>
+            <td class="cell-bad">❌ None — raw data, no SAP semantics</td>
+            <td class="cell-bad">❌ Minimal — SAP connector metadata only</td>
+          </tr>
+          <tr>
+            <td><strong>Semantic Metadata Propagation</strong></td>
+            <td class="cell-good">✅ Auto-sync to Unity Catalog (keys, tags, descriptions)</td>
+            <td class="cell-bad">❌ Not available</td>
+            <td class="cell-bad">❌ Manual documentation required</td>
+          </tr>
+          <tr>
+            <td><strong>Governance &amp; Lineage</strong></td>
+            <td class="cell-good">✅ End-to-end: Datasphere catalog → Unity Catalog</td>
+            <td class="cell-bad">❌ Databricks Unity Catalog only (from ingestion)</td>
+            <td class="cell-ok">⚠️ Azure Purview required for end-to-end lineage</td>
+          </tr>
+          <tr>
+            <td><strong>Bi-directional Write-back</strong></td>
+            <td class="cell-good">✅ Native (Databricks → SAP BDC via same connector)</td>
+            <td class="cell-bad">❌ Custom development required</td>
+            <td class="cell-ok">⚠️ Possible via ADF reverse pipeline</td>
+          </tr>
+          <tr>
+            <td><strong>Security Protocols</strong></td>
+            <td class="cell-good">✅ mTLS + OIDC (enterprise-grade)</td>
+            <td class="cell-ok">⚠️ HTTPS + SAP OAuth / Basic Auth</td>
+            <td class="cell-ok">⚠️ Azure IR + SAP service user credentials</td>
+          </tr>
+          <tr>
+            <td><strong>SAP S/4HANA Required</strong></td>
+            <td class="cell-ok">⚠️ Indirectly (via Datasphere replication)</td>
+            <td class="cell-good">✅ Direct — no Datasphere needed</td>
+            <td class="cell-good">✅ Direct — Datasphere optional</td>
+          </tr>
+          <tr>
+            <td><strong>Maturity / Official Support</strong></td>
+            <td class="cell-good">✅ GA — last updated Sep 2026 (Databricks docs)</td>
+            <td class="cell-ok">⚠️ Community connectors; partial official support</td>
+            <td class="cell-good">✅ GA ADF connectors; widely used</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SECURITY & GOVERNANCE
+  ═══════════════════════════════════════════════════════════════ -->
+  <div class="section">
+    <div class="section-title">🔒 Security &amp; Governance Considerations</div>
+
+    <div class="sub-title">Authentication &amp; Transport Security (BDC Connector)</div>
+    <ul>
+      <li><strong>Mutual TLS (mTLS):</strong> All data exchange between SAP BDC and Databricks is encrypted and authenticated using mutual TLS — both parties present certificates, preventing man-in-the-middle attacks.</li>
+      <li><strong>OpenID Connect (OIDC):</strong> Identity federation uses OIDC tokens, enabling seamless SSO with Azure Active Directory / Microsoft Entra ID. No static passwords or API keys are exchanged.</li>
+      <li><strong>Zero-copy by design:</strong> Because data never leaves SAP HANA Cloud, data residency and sovereignty requirements (GDPR, PDPA, etc.) are significantly easier to maintain.</li>
+    </ul>
+
+    <div class="sub-title">Authorization &amp; Access Control</div>
+    <ul>
+      <li><strong>SAP Datasphere Space Security:</strong> Data is exposed only from explicitly shared spaces; space-level access controls in Datasphere restrict which Data Products can be shared via the BDC Connector.</li>
+      <li><strong>Databricks Unity Catalog Policies:</strong> Once mounted, SAP-shared catalogs inherit Unity Catalog's row-level, column-level, and table-level access control policies. Column masking and dynamic data masking can be applied on the Databricks side.</li>
+      <li><strong>SAP BDC Admin Required:</strong> A dedicated SAP BDC administrator account is needed to create and manage Third-Party Connections — follow the principle of least privilege.</li>
+      <li><strong>Databricks Workspace Admin Privileges:</strong> The Databricks admin performing setup must have <code>CREATE PROVIDER</code> and <code>CREATE RECIPIENT</code> privileges on the Unity Catalog metastore.</li>
+    </ul>
+
+    <div class="sub-title">Data Governance &amp; Lineage</div>
+    <ul>
+      <li><strong>Semantic metadata sync:</strong> Table and column descriptions, primary keys, foreign keys, and SAP governance tags auto-sync from SAP BDC Data Products into Unity Catalog — making SAP data discoverable and annotated in Databricks Catalog Explorer without manual effort.</li>
+      <li><strong>SAP Data Lineage:</strong> Datasphere's built-in lineage graph tracks data from source (S/4HANA) through transformation layers to the published Data Product; this lineage is visible in the SAP Datasphere catalog.</li>
+      <li><strong>Audit Trail:</strong> Both SAP BDC and Databricks maintain audit logs of all sharing events. The Databricks audit log records all share access events per recipient, supporting SOC 2 and compliance reviews.</li>
+      <li><strong>Usage Disclosure:</strong> Note that Databricks may share usage telemetry (volume of SAP BDC data queried, workload timestamps, organizational pricing data) with SAP for billing and administrative purposes when using the SAP BDC Connector. Review the Databricks Privacy Notice before deployment.</li>
+    </ul>
+
+    <div class="sub-title">Network &amp; Perimeter</div>
+    <ul>
+      <li>Ensure SAP BTP outbound network rules allow HTTPS (port 443) to the Databricks OpenSharing endpoint.</li>
+      <li>For private networking, Databricks supports Azure Private Link; confirm SAP BTP Private Link Service is configured if your Datasphere tenant is on Azure BTP.</li>
+      <li>Review and whitelist Databricks workspace IP ranges in SAP BTP network policies if IP allowlisting is enforced.</li>
+    </ul>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       IMPLEMENTATION GUIDANCE
+  ═══════════════════════════════════════════════════════════════ -->
+  <div class="section">
+    <div class="section-title">🚀 Implementation Guidance</div>
+
+    <div class="sub-title">Prerequisites</div>
+    <ul>
+      <li>✅ <strong>SAP Business Data Cloud (BDC) license</strong> — required for the BDC Connector; SAP Datasphere standalone tenants may need the BDC add-on. Confirm with your SAP Account Executive.</li>
+      <li>✅ <strong>Databricks workspace on Azure</strong> with <strong>Unity Catalog enabled</strong> (Premium tier or higher).</li>
+      <li>✅ <strong>OpenSharing enabled</strong> in your Databricks account — requires Account Admin setup via the Databricks Account Console (<em>Data Sharing → OpenSharing</em>).</li>
+      <li>✅ <strong>Databricks admin</strong> with <code>CREATE PROVIDER</code> + <code>CREATE RECIPIENT</code> metastore-level privileges.</li>
+      <li>✅ <strong>SAP BDC Admin</strong> role with permissions to create Third-Party Connections in SAP BDC.</li>
+      <li>✅ SAP Datasphere <strong>Data Products published</strong> in at least one space — data must be modeled and released before it can be shared.</li>
+      <li>✅ Network connectivity: SAP BTP → Azure (HTTPS 443); check if BTP Private Link Service is needed.</li>
+    </ul>
+
+    <div class="sub-title">Key Configuration Steps</div>
+    <ol class="steps">
+      <li>
+        <strong>Enable OpenSharing (Databricks Account Admin):</strong>
+        Navigate to the Databricks Account Console → <em>Data Sharing</em> → enable OpenSharing for your Azure workspace. This activates the OpenSharing endpoint URL for your account.
+      </li>
+      <li>
+        <strong>Obtain Connection Identifier (Databricks Workspace Admin):</strong>
+        In the Unity Catalog, run <code>SHOW PROVIDERS</code> or navigate to <em>Data Sharing → Providers</em>. Obtain the connection identifier string (an encoded token) to share with the SAP BDC admin.
+      </li>
+      <li>
+        <strong>Create Third-Party Connection in SAP BDC (SAP Admin):</strong>
+        In SAP BDC, navigate to <em>Administration → Connections → Third-Party Connections</em> → New Connection of type "Databricks". Paste the Databricks connection identifier. SAP BDC generates an <em>invitation link</em>.
+      </li>
+      <li>
+        <strong>Complete Connection in Databricks (Databricks Admin):</strong>
+        Use the invitation link from the SAP BDC admin. In the Unity Catalog provider configuration, click <em>Finish Setup</em> with the invitation link. The SAP BDC connection will appear under <em>Providers</em> as active.
+      </li>
+      <li>
+        <strong>Grant Access to SAP Data Products (SAP Admin):</strong>
+        In SAP BDC, navigate to the published Data Products you want to share. Use <em>Share → Grant to Recipient → Databricks</em>. Select the tables/views to include in the share.
+      </li>
+      <li>
+        <strong>Create a Catalog from Share (Databricks Admin):</strong>
+        In Unity Catalog, run:
+        <code style="display:block;background:#f4f6fa;border:1px solid #dde3ef;border-radius:4px;padding:8px 12px;margin:8px 0;font-size:0.85rem;">
+          CREATE CATALOG sap_bdc_data USING SHARE `&lt;provider-name&gt;`.`&lt;share-name&gt;`;
+        </code>
+        SAP semantic metadata (table descriptions, keys, tags) will auto-populate into the new catalog.
+      </li>
+      <li>
+        <strong>Validate &amp; Test:</strong>
+        Run a Databricks SQL query against the newly mounted SAP catalog. Verify column metadata, primary/foreign key annotations, and row counts match expectations in Datasphere. Check audit logs on both sides.
+      </li>
+      <li>
+        <strong>Configure Row/Column Security (Databricks Admin):</strong>
+        Apply Unity Catalog row filters and column masks as needed. Assign catalog-level GRANT permissions to Databricks users and groups.
+      </li>
+    </ol>
+
+    <div class="sub-title">Common Pitfalls &amp; How to Avoid Them</div>
+    <ul>
+      <li>
+        <strong>❌ Pitfall: Data Products not yet published.</strong>
+        Data must be explicitly <em>published/released</em> in the Datasphere Data Product catalog before they appear as shareable. Unpublished views will not show up in the BDC sharing workflow.
+        <em>Fix: Ensure the DW Modeler has completed the Data Product release lifecycle in Datasphere.</em>
+      </li>
+      <li>
+        <strong>❌ Pitfall: Unity Catalog not enabled on Databricks workspace.</strong>
+        The SAP BDC Connector requires Unity Catalog (not the legacy Hive metastore). Workspaces on the Standard tier may not support UC.
+        <em>Fix: Upgrade to Premium and assign the workspace to a Unity Catalog metastore before starting setup.</em>
+      </li>
+      <li>
+        <strong>❌ Pitfall: OpenSharing endpoint not enabled.</strong>
+        The connection identifier cannot be generated if OpenSharing is not activated at the Databricks Account level.
+        <em>Fix: Account Admin must enable OpenSharing in Databricks Account Console first.</em>
+      </li>
+      <li>
+        <strong>❌ Pitfall: Firewall blocking BTP → Databricks HTTPS traffic.</strong>
+        SAP BTP outbound rules or Azure NSGs blocking port 443 will silently fail the connection handshake.
+        <em>Fix: Whitelist Databricks OpenSharing endpoint IPs in SAP BTP network policies and Azure NSG rules.</em>
+      </li>
+      <li>
+        <strong>❌ Pitfall: Assuming Delta file format from Databricks is needed.</strong>
+        OpenSharing uses the Delta Sharing protocol but data physically stays in SAP HANA Cloud columnar format — Databricks does not write Delta files for incoming SAP shares. Only Databricks-native output tables are in Delta format.
+        <em>Fix: Educate the team on zero-copy semantics; monitor query pushdown performance via Databricks query profiler.</em>
+      </li>
+      <li>
+        <strong>❌ Pitfall: Neglecting the SAP usage telemetry clause.</strong>
+        Databricks contractually shares usage metadata with SAP (workload volumes, timing, org pricing). This must be disclosed to your legal and compliance teams before go-live.
+        <em>Fix: Review the Databricks Privacy Notice and SAP BDC Connector terms with your DPO before production deployment.</em>
+      </li>
+    </ul>
+  </div>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       DOCUMENTATION & REFERENCES
+  ═══════════════════════════════════════════════════════════════ -->
+  <div class="section">
+    <div class="section-title">📚 Documentation &amp; References</div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Source</th>
+            <th>Document / Topic</th>
+            <th>URL</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Databricks Docs</strong></td>
+            <td>SAP BDC Connector for Databricks — Overview &amp; Setup</td>
+            <td><a href="https://docs.databricks.com/aws/en/opensharing/sap-bdc" target="_blank">docs.databricks.com/aws/en/opensharing/sap-bdc</a></td>
+          </tr>
+          <tr>
+            <td><strong>Databricks Docs</strong></td>
+            <td>Create an SAP BDC Connection (Step-by-Step)</td>
+            <td><a href="https://docs.databricks.com/aws/en/opensharing/sap-bdc-create-connection" target="_blank">docs.databricks.com/aws/en/opensharing/sap-bdc-create-connection</a></td>
+          </tr>
+          <tr>
+            <td><strong>Databricks Docs</strong></td>
+            <td>SAP BDC Semantic Metadata in Unity Catalog</td>
+            <td><a href="https://docs.databricks.com/aws/en/opensharing/sap-bdc-semantic-metadata" target="_blank">docs.databricks.com/aws/en/opensharing/sap-bdc-semantic-metadata</a></td>
+          </tr>
+          <tr>
+            <td><strong>Databricks Docs</strong></td>
+            <td>OpenSharing — Providers &amp; Recipients Overview</td>
+            <td><a href="https://docs.databricks.com/aws/en/opensharing" target="_blank">docs.databricks.com/aws/en/opensharing</a></td>
+          </tr>
+          <tr>
+            <td><strong>Databricks Docs</strong></td>
+            <td>Connect to SAP Systems (OData, HANA, S/4HANA)</td>
+            <td><a href="https://docs.databricks.com/en/connect/external-systems/sap.html" target="_blank">docs.databricks.com/en/connect/external-systems/sap.html</a></td>
+          </tr>
+          <tr>
+            <td><strong>SAP Help Portal</strong></td>
+            <td>SAP Datasphere — Administering &amp; Configuring</td>
+            <td><a href="https://help.sap.com/docs/SAP_DATASPHERE/c8a54ee704e94e15926551293243fd1d/9f804b8efa8043539289f42f372c4862.html" target="_blank">help.sap.com/docs/SAP_DATASPHERE (Admin Guide)</a></td>
+          </tr>
+          <tr>
+            <td><strong>SAP Help Portal</strong></td>
+            <td>Sharing Data via Delta Sharing (Data Product Sharing)</td>
+            <td><a href="https://help.sap.com/docs/SAP_DATASPHERE/c8a54ee704e94e15926551293243fd1d/2f8e4bc8a01b4e9681d57c29b7866e5e.html" target="_blank">help.sap.com — Delta Sharing / Data Sharing</a></td>
+          </tr>
+          <tr>
+            <td><strong>SAP Help Portal</strong></td>
+            <td>SAP Datasphere — Managing Data Sharing &amp; Connectivity</td>
+            <td><a href="https://help.sap.com/docs/SAP_DATASPHERE/c8a54ee704e94e15926551293243fd1d/e2a18c0dece348c09e9c31fde1973c73.html" target="_blank">help.sap.com — Data Sharing &amp; Connectivity</a></td>
+          </tr>
+          <tr>
+            <td><strong>SAP Community Blog</strong></td>
+            <td>"Share Data from SAP Datasphere to Azure Databricks via Delta Sharing"</td>
+            <td><a href="https://community.sap.com/t5/technology-blogs-by-sap/share-data-from-sap-datasphere-to-azure-databricks-via-delta-sharing/ba-p/13695095" target="_blank">community.sap.com — Delta Sharing Blog</a></td>
+          </tr>
+          <tr>
+            <td><strong>SAP Community Blog</strong></td>
+            <td>"Triggering SAP Databricks Jobs through SAP Datasphere Task Chains"</td>
+            <td><a href="https://community.sap.com/t5/technology-blogs-by-sap/triggering-sap-databricks-jobs-through-sap-datasphere-task-chains/ba-p/13957497" target="_blank">community.sap.com — Task Chain Orchestration</a></td>
+          </tr>
+          <tr>
+            <td><strong>SAP Community Blog</strong></td>
+            <td>"SAP Business Data Cloud Architecture — Datasphere, Databricks and SAC"</td>
+            <td><a href="https://community.sap.com/t5/technology-blogs-by-sap/sap-business-data-cloud-architecture-datasphere-databricks-and-sac/ba-p/14106571" target="_blank">community.sap.com — BDC Architecture</a></td>
+          </tr>
+          <tr>
+            <td><strong>Microsoft Learn</strong></td>
+            <td>Azure Databricks — Connect to SAP Systems</td>
+            <td><a href="https://learn.microsoft.com/en-us/azure/databricks/connect/external-systems/sap" target="_blank">learn.microsoft.com — Azure Databricks SAP</a></td>
+          </tr>
+          <tr>
+            <td><strong>Delta Sharing</strong></td>
+            <td>Delta Sharing — Open Protocol Specification (Linux Foundation)</td>
+            <td><a href="https://delta.io/sharing/" target="_blank">delta.io/sharing</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="callout info" style="margin-top:20px;">
+      <strong>📌 Research Note:</strong> All references were verified as of October 2026. The SAP BDC Connector for Databricks
+      documentation on docs.databricks.com was last updated September 11, 2026, confirming active maintenance and GA status.
+      The connector supports both SAP-to-Databricks and Databricks-to-SAP sharing directions via OpenSharing.
+    </div>
+  </div>
+
+</div><!-- /.content -->
+
+<footer>
+  SAP Datasphere ↔ Azure Databricks Integration Architecture · SAP Solution Architecture Advisory · October 2026<br>
+  Based on official SAP Help Portal, Databricks Docs, SAP Community, and Microsoft Learn documentation.
+</footer>
+
+</body>
+</html>
