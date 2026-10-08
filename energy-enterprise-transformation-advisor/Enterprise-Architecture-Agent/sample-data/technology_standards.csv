@@ -1,0 +1,101 @@
+Technology,Category,Status,Standard_ID,Vendor,License_Model,Architecture_Domain,Approved_Since_Year,Last_Review_Date,Next_Review_Date,Sunset_Date,Replacement_Technology,Applications_Using,Rationale
+SAP HANA 2.0 SPS07,Database,Standard,TS-001,SAP,Subscription,Data,2016,2025-06-27,2027-05-11,,,55,Enterprise standard - preferred for new solutions
+SAP HANA Cloud,Database,Standard,TS-002,SAP,Subscription,Data,2016,2025-06-14,2027-02-06,,,0,Enterprise standard - preferred for new solutions
+Oracle Database 19c,Database,Contained,TS-003,Oracle,Perpetual,Data,2015,2025-11-09,2027-05-03,2029-12-31,SAP HANA 2.0 SPS07,9,Tolerated for existing use; no new investment
+Oracle Database 12c,Database,Retire,TS-004,Oracle,Perpetual,Data,2018,2025-10-05,2027-02-10,2028-06-28,Oracle Database 19c,3,Vendor support ending or superseded; planned decommissioning
+Microsoft SQL Server 2022,Database,Standard,TS-005,Microsoft,Subscription,Data,2014,2025-11-05,2027-01-11,,,40,Enterprise standard - preferred for new solutions
+Microsoft SQL Server 2016,Database,Retire,TS-006,Microsoft,Perpetual,Data,2023,2025-07-09,2027-03-18,2028-05-28,Microsoft SQL Server 2022,13,Vendor support ending or superseded; planned decommissioning
+PostgreSQL 15,Database,Standard,TS-007,Open source,Open source,Data,2024,2025-10-14,2027-04-18,,,7,Enterprise standard - preferred for new solutions
+MongoDB,Database,Contained,TS-008,MongoDB,Subscription,Data,2018,2025-11-21,2027-02-08,,PostgreSQL 15,1,Tolerated for existing use; no new investment
+SAP ASE (Sybase) 16,Database,Retire,TS-009,SAP,Perpetual,Data,2025,2025-12-06,2027-06-28,2028-12-28,SAP HANA 2.0 SPS07,2,Vendor support ending or superseded; planned decommissioning
+Azure SQL Database,Database,Standard,TS-010,Microsoft,Subscription,Data,2017,2025-06-02,2027-06-01,,,0,Enterprise standard - preferred for new solutions
+RHEL 9,Operating System,Standard,TS-011,Red Hat,Subscription,Infrastructure,2025,2025-08-19,2027-03-14,,,4,Enterprise standard - preferred for new solutions
+SUSE Linux Enterprise Server for SAP 15,Operating System,Standard,TS-012,SUSE,Subscription,Infrastructure,2020,2025-08-03,2027-02-06,,,0,Enterprise standard - preferred for new solutions
+Windows Server 2022,Operating System,Standard,TS-013,Microsoft,Subscription,Infrastructure,2025,2025-12-01,2027-02-21,,,30,Enterprise standard - preferred for new solutions
+Windows Server 2019,Operating System,Contained,TS-014,Microsoft,Perpetual,Infrastructure,2022,2025-08-08,2027-01-06,2029-12-31,Windows Server 2022,18,Tolerated for existing use; no new investment
+Windows Server 2012 R2,Operating System,Retire,TS-015,Microsoft,Perpetual,Infrastructure,2015,2025-06-13,2027-01-19,2026-08-28,Windows Server 2022,10,Vendor support ending or superseded; planned decommissioning
+AIX 7.2,Operating System,Contained,TS-016,IBM,Perpetual,Infrastructure,2025,2025-07-09,2027-03-03,2028-12-31,RHEL 9,0,Tolerated for existing use; no new investment
+Solaris 11,Operating System,Retire,TS-017,Oracle,Perpetual,Infrastructure,2022,2025-12-09,2027-03-09,2027-06-28,RHEL 9,1,Vendor support ending or superseded; planned decommissioning
+Microsoft Azure,Cloud & Hosting,Standard,TS-018,Microsoft,Subscription,Infrastructure,2016,2025-08-25,2027-06-13,,,0,Enterprise standard - preferred for new solutions
+Amazon Web Services,Cloud & Hosting,Contained,TS-019,Amazon,Subscription,Infrastructure,2021,2025-12-19,2027-06-01,2029-12-31,Microsoft Azure,0,Tolerated for existing use; no new investment
+Google Cloud Platform,Cloud & Hosting,Prohibited,TS-020,Google,Subscription,Infrastructure,2014,2025-12-15,2027-04-27,2027-06-28,Microsoft Azure,0,"Not approved; security, licensing or support risk"
+SAP Business Technology Platform,Cloud & Hosting,Standard,TS-021,SAP,Subscription,Application,2020,2025-08-07,2027-04-13,,,0,Enterprise standard - preferred for new solutions
+SAP RISE (S/4HANA Private Edition),Cloud & Hosting,Standard,TS-022,SAP,Subscription,Application,2017,2025-07-14,2027-03-04,,,1,Enterprise standard - preferred for new solutions
+VMware vSphere 7,Cloud & Hosting,Contained,TS-023,Broadcom,Subscription,Infrastructure,2015,2025-12-19,2027-04-16,2028-12-31,VMware vSphere 8,0,Tolerated for existing use; no new investment
+VMware vSphere 8,Cloud & Hosting,Standard,TS-024,Broadcom,Subscription,Infrastructure,2020,2025-12-13,2027-04-27,,,0,Enterprise standard - preferred for new solutions
+Azure Kubernetes Service,Cloud & Hosting,Standard,TS-025,Microsoft,Subscription,Infrastructure,2022,2025-07-17,2027-04-12,,,0,Enterprise standard - preferred for new solutions
+ABAP Cloud (RAP),Languages & Frameworks,Standard,TS-026,SAP,Subscription,Application,2025,2025-07-10,2027-01-21,,,0,Enterprise standard - preferred for new solutions
+Python 3.11,Languages & Frameworks,Standard,TS-027,Open source,Open source,Application,2023,2025-06-12,2027-04-20,,,0,Enterprise standard - preferred for new solutions
+Java 17 LTS,Languages & Frameworks,Standard,TS-028,Open source,Open source,Application,2024,2025-09-22,2027-02-03,,,0,Enterprise standard - preferred for new solutions
+Java 8,Languages & Frameworks,Retire,TS-029,Oracle,Subscription,Application,2021,2025-11-14,2027-03-25,2027-04-28,Java 17 LTS,1,Vendor support ending or superseded; planned decommissioning
+Node.js 20 LTS,Languages & Frameworks,Standard,TS-030,Open source,Open source,Application,2016,2025-10-15,2027-01-28,,,1,Enterprise standard - preferred for new solutions
+.NET 8,Languages & Frameworks,Standard,TS-031,Microsoft,Open source,Application,2014,2025-10-15,2027-01-18,,,0,Enterprise standard - preferred for new solutions
+.NET Framework 4.8,Languages & Frameworks,Contained,TS-032,Microsoft,Perpetual,Application,2017,2025-11-19,2027-05-18,2028-12-31,.NET 8,3,Tolerated for existing use; no new investment
+SAPUI5 / Fiori Elements,Languages & Frameworks,Standard,TS-033,SAP,Subscription,Application,2017,2025-11-06,2027-03-13,,,1,Enterprise standard - preferred for new solutions
+React 18,Languages & Frameworks,Standard,TS-034,Open source,Open source,Application,2019,2025-08-25,2027-06-23,,,1,Enterprise standard - preferred for new solutions
+Angular,Languages & Frameworks,Contained,TS-035,Open source,Open source,Application,2021,2025-10-26,2027-06-27,2028-12-31,React 18,0,Tolerated for existing use; no new investment
+PHP,Languages & Frameworks,Prohibited,TS-036,Open source,Open source,Application,2015,2025-07-05,2027-02-23,2026-01-28,Node.js 20 LTS,1,"Not approved; security, licensing or support risk"
+Visual Basic 6 / VBA macros,Languages & Frameworks,Retire,TS-037,Microsoft,Perpetual,Application,2021,2025-12-10,2027-04-01,2026-08-28,Python 3.11,2,Vendor support ending or superseded; planned decommissioning
+SAP Integration Suite (Cloud Integration),Integration,Standard,TS-038,SAP,Subscription,Integration,2017,2025-11-10,2027-02-19,,,0,Enterprise standard - preferred for new solutions
+SAP Process Orchestration 7.5,Integration,Retire,TS-039,SAP,Perpetual,Integration,2014,2025-08-23,2027-03-22,2027-08-28,SAP Integration Suite (Cloud Integration),1,Vendor support ending or superseded; planned decommissioning
+MuleSoft Anypoint Platform,Integration,Contained,TS-040,Salesforce,Subscription,Integration,2023,2025-07-18,2027-02-02,,SAP Integration Suite (Cloud Integration),1,Tolerated for existing use; no new investment
+Azure Service Bus,Integration,Standard,TS-041,Microsoft,Subscription,Integration,2024,2025-08-09,2027-01-01,,,1,Enterprise standard - preferred for new solutions
+Azure API Management,Integration,Standard,TS-042,Microsoft,Subscription,Integration,2025,2025-12-02,2027-02-15,,,1,Enterprise standard - preferred for new solutions
+Apache Kafka (Confluent),Integration,Emerging,TS-043,Confluent,Subscription,Integration,2023,2025-12-27,2027-06-09,,,1,Approved for pilots and proofs of concept
+SFTP Managed File Transfer,Integration,Contained,TS-044,Internal,Subscription,Integration,2024,2025-08-12,2027-05-27,,Azure API Management,1,Tolerated for existing use; no new investment
+SAP IDoc / ALE,Integration,Contained,TS-045,SAP,Perpetual,Integration,2022,2025-08-08,2027-05-04,,OData v4,0,Tolerated for existing use; no new investment
+OData v4,Integration,Standard,TS-046,Open standard,Open source,Integration,2015,2025-10-28,2027-05-06,,,0,Enterprise standard - preferred for new solutions
+REST / JSON,Integration,Standard,TS-047,Open standard,Open source,Integration,2018,2025-12-07,2027-02-07,,,0,Enterprise standard - preferred for new solutions
+SOAP / WSDL,Integration,Contained,TS-048,Open standard,Open source,Integration,2025,2025-12-04,2027-04-28,,REST / JSON,0,Tolerated for existing use; no new investment
+EDI X12,Integration,Standard,TS-049,Open standard,Open source,Integration,2021,2025-09-18,2027-02-06,,,0,Enterprise standard - preferred for new solutions
+SAP Datasphere,Data & Analytics,Standard,TS-050,SAP,Subscription,Data,2014,2025-10-26,2027-03-25,,,0,Enterprise standard - preferred for new solutions
+SAP Analytics Cloud,Data & Analytics,Standard,TS-051,SAP,Subscription,Data,2015,2025-09-19,2027-01-13,,,0,Enterprise standard - preferred for new solutions
+SAP BW/4HANA 2023,Data & Analytics,Contained,TS-052,SAP,Perpetual,Data,2021,2025-09-01,2027-04-28,,SAP Datasphere,0,Tolerated for existing use; no new investment
+SAP BW 7.5 on HANA,Data & Analytics,Retire,TS-053,SAP,Perpetual,Data,2015,2025-09-14,2027-03-28,2027-06-28,SAP BW/4HANA 2023,1,Vendor support ending or superseded; planned decommissioning
+SAP BusinessObjects BI 4.3,Data & Analytics,Contained,TS-054,SAP,Perpetual,Data,2014,2025-08-19,2027-01-01,,SAP Analytics Cloud,0,Tolerated for existing use; no new investment
+SAP Crystal Reports,Data & Analytics,Retire,TS-055,SAP,Perpetual,Data,2024,2025-11-13,2027-05-26,2026-04-28,SAP Analytics Cloud,0,Vendor support ending or superseded; planned decommissioning
+Power BI,Data & Analytics,Contained,TS-056,Microsoft,Subscription,Data,2024,2025-06-26,2027-06-25,,SAP Analytics Cloud,1,Tolerated for existing use; no new investment
+Tableau,Data & Analytics,Prohibited,TS-057,Salesforce,Subscription,Data,2018,2025-06-08,2027-01-13,2026-07-28,SAP Analytics Cloud,0,"Not approved; security, licensing or support risk"
+Qlik Sense,Data & Analytics,Prohibited,TS-058,Qlik,Subscription,Data,2020,2025-11-21,2027-02-07,2028-02-28,SAP Analytics Cloud,0,"Not approved; security, licensing or support risk"
+TIBCO Spotfire,Data & Analytics,Contained,TS-059,Cloud Software Group,Subscription,Data,2018,2025-07-22,2027-02-20,,SAP Analytics Cloud,1,Tolerated for existing use; no new investment
+Azure Databricks,Data & Analytics,Emerging,TS-060,Microsoft,Subscription,Data,2016,2025-06-07,2027-06-18,,,1,Approved for pilots and proofs of concept
+Azure Data Lake Storage Gen2,Data & Analytics,Standard,TS-061,Microsoft,Subscription,Data,2015,2025-09-10,2027-06-05,,,1,Enterprise standard - preferred for new solutions
+SAP Business Data Cloud,Data & Analytics,Emerging,TS-062,SAP,Subscription,Data,2021,2025-09-02,2027-04-14,,,0,Approved for pilots and proofs of concept
+SAP SLT Replication Server,Data & Analytics,Standard,TS-063,SAP,Perpetual,Data,2023,2025-08-22,2027-06-03,,,0,Enterprise standard - preferred for new solutions
+Microsoft Entra ID,Security & Identity,Standard,TS-064,Microsoft,Subscription,Security,2021,2025-08-23,2027-06-07,,,1,Enterprise standard - preferred for new solutions
+Okta,Security & Identity,Contained,TS-065,Okta,Subscription,Security,2020,2025-06-19,2027-04-02,2029-12-31,Microsoft Entra ID,0,Tolerated for existing use; no new investment
+CrowdStrike Falcon,Security & Identity,Standard,TS-066,CrowdStrike,Subscription,Security,2015,2025-10-26,2027-03-19,,,1,Enterprise standard - preferred for new solutions
+CyberArk Privileged Access Manager,Security & Identity,Standard,TS-067,CyberArk,Subscription,Security,2025,2025-09-12,2027-04-27,,,0,Enterprise standard - preferred for new solutions
+Zscaler Internet Access,Security & Identity,Standard,TS-068,Zscaler,Subscription,Security,2015,2025-06-19,2027-03-13,,,1,Enterprise standard - preferred for new solutions
+Palo Alto Next-Generation Firewall,Security & Identity,Standard,TS-069,Palo Alto Networks,Subscription,Security,2021,2025-11-27,2027-06-27,,,1,Enterprise standard - preferred for new solutions
+TLS 1.3,Security & Identity,Standard,TS-070,Open standard,Open source,Security,2017,2025-07-14,2027-06-02,,,0,Enterprise standard - preferred for new solutions
+TLS 1.0 / 1.1,Security & Identity,Prohibited,TS-071,Open standard,Open source,Security,2015,2025-08-07,2027-03-06,2026-06-28,TLS 1.3,0,"Not approved; security, licensing or support risk"
+SHA-1 certificates,Security & Identity,Prohibited,TS-072,Open standard,Open source,Security,2022,2025-08-11,2027-05-02,2026-07-28,TLS 1.3,0,"Not approved; security, licensing or support risk"
+FIDO2 multi-factor authentication,Security & Identity,Standard,TS-073,Open standard,Open source,Security,2021,2025-09-22,2027-03-16,,,0,Enterprise standard - preferred for new solutions
+Microsoft Sentinel,Security & Identity,Standard,TS-074,Microsoft,Subscription,Security,2023,2025-11-08,2027-02-25,,,1,Enterprise standard - preferred for new solutions
+GitHub Enterprise,DevOps & Operations,Standard,TS-075,Microsoft,Subscription,Application,2019,2025-08-16,2027-04-11,,,1,Enterprise standard - preferred for new solutions
+Azure DevOps,DevOps & Operations,Contained,TS-076,Microsoft,Subscription,Application,2018,2025-11-15,2027-06-06,2030-12-31,GitHub Enterprise,1,Tolerated for existing use; no new investment
+Jenkins,DevOps & Operations,Retire,TS-077,Open source,Open source,Application,2016,2025-08-06,2027-01-20,2026-01-28,GitHub Enterprise,1,Vendor support ending or superseded; planned decommissioning
+Terraform,DevOps & Operations,Standard,TS-078,HashiCorp,Subscription,Infrastructure,2022,2025-10-19,2027-01-22,,,0,Enterprise standard - preferred for new solutions
+Ansible,DevOps & Operations,Standard,TS-079,Red Hat,Subscription,Infrastructure,2016,2025-08-22,2027-04-01,,,0,Enterprise standard - preferred for new solutions
+SAP Cloud ALM,DevOps & Operations,Standard,TS-080,SAP,Subscription,Application,2018,2025-11-05,2027-03-18,,,1,Enterprise standard - preferred for new solutions
+SAP Solution Manager 7.2,DevOps & Operations,Contained,TS-081,SAP,Perpetual,Application,2016,2025-10-13,2027-02-17,,SAP Cloud ALM,1,Tolerated for existing use; no new investment
+ServiceNow,DevOps & Operations,Standard,TS-082,ServiceNow,Subscription,Infrastructure,2023,2025-11-12,2027-05-11,,,0,Enterprise standard - preferred for new solutions
+Splunk,DevOps & Operations,Standard,TS-083,Cisco,Subscription,Infrastructure,2020,2025-11-17,2027-03-18,,,0,Enterprise standard - preferred for new solutions
+Dynatrace,DevOps & Operations,Standard,TS-084,Dynatrace,Subscription,Infrastructure,2020,2025-06-26,2027-06-28,,,1,Enterprise standard - preferred for new solutions
+Microsoft 365,Collaboration,Standard,TS-085,Microsoft,Subscription,Application,2023,2025-08-16,2027-05-08,,,1,Enterprise standard - preferred for new solutions
+Microsoft Teams,Collaboration,Standard,TS-086,Microsoft,Subscription,Application,2020,2025-10-03,2027-05-25,,,1,Enterprise standard - preferred for new solutions
+Slack,Collaboration,Prohibited,TS-087,Salesforce,Subscription,Application,2015,2025-08-02,2027-05-05,2026-02-28,Microsoft Teams,0,"Not approved; security, licensing or support risk"
+Zoom,Collaboration,Contained,TS-088,Zoom,Subscription,Application,2019,2025-12-06,2027-04-09,2028-12-31,Microsoft Teams,0,Tolerated for existing use; no new investment
+AVEVA PI System,OT & Industrial,Standard,TS-089,AVEVA,Subscription,Operational Technology,2021,2025-08-25,2027-04-08,,,1,Enterprise standard - preferred for new solutions
+Honeywell Experion PKS,OT & Industrial,Standard,TS-090,Honeywell,Subscription,Operational Technology,2018,2025-11-19,2027-04-09,,,4,Enterprise standard - preferred for new solutions
+Emerson DeltaV,OT & Industrial,Contained,TS-091,Emerson,Subscription,Operational Technology,2020,2025-12-22,2027-04-16,2028-12-31,Honeywell Experion PKS,5,Tolerated for existing use; no new investment
+Siemens SIMATIC PCS 7,OT & Industrial,Retire,TS-092,Siemens,Perpetual,Operational Technology,2016,2025-11-20,2027-02-26,2028-05-28,Honeywell Experion PKS,1,Vendor support ending or superseded; planned decommissioning
+OPC UA,OT & Industrial,Standard,TS-093,Open standard,Open source,Operational Technology,2019,2025-09-13,2027-04-26,,,0,Enterprise standard - preferred for new solutions
+OPC DA,OT & Industrial,Retire,TS-094,Open standard,Open source,Operational Technology,2014,2025-07-14,2027-04-07,2028-10-28,OPC UA,0,Vendor support ending or superseded; planned decommissioning
+MQTT / Sparkplug B,OT & Industrial,Emerging,TS-095,Open standard,Open source,Operational Technology,2017,2025-06-10,2027-02-17,,,0,Approved for pilots and proofs of concept
+Modbus TCP,OT & Industrial,Contained,TS-096,Open standard,Open source,Operational Technology,2014,2025-07-17,2027-06-02,2029-12-31,OPC UA,0,Tolerated for existing use; no new investment
+IEC 62443 zones and conduits,OT & Industrial,Standard,TS-097,Open standard,Open source,Operational Technology,2015,2025-11-11,2027-05-13,,,0,Enterprise standard - preferred for new solutions
+Aspen PIMS,OT & Industrial,Standard,TS-098,AspenTech,Subscription,Operational Technology,2014,2025-11-28,2027-02-16,,,2,Enterprise standard - preferred for new solutions
+Esri ArcGIS Enterprise,Geospatial & Mobile,Standard,TS-099,Esri,Subscription,Application,2021,2025-07-20,2027-06-21,,,1,Enterprise standard - preferred for new solutions
+Microsoft Intune,Geospatial & Mobile,Standard,TS-100,Microsoft,Subscription,Security,2024,2025-06-01,2027-03-15,,,1,Enterprise standard - preferred for new solutions
