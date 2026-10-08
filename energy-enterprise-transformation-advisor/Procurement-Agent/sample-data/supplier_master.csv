@@ -1,0 +1,201 @@
+Supplier_ID,Supplier_Name,Category,Risk_Score
+SUP-0001,Stonebridge Drilling Services Ltd.,Drilling Services,35
+SUP-0002,Boreal Well Engineering Corp.,Drilling Services,31
+SUP-0003,Granite Well Engineering Corp.,Drilling Services,38
+SUP-0004,Lonepine Drilling Services Ltd.,Drilling Services,30
+SUP-0005,Thunder Ridge Drilling Services Ltd.,Drilling Services,49
+SUP-0006,Timberline Well Engineering Corp.,Drilling Services,51
+SUP-0007,Highland Drilling Services Ltd.,Drilling Services,44
+SUP-0008,Coldwater Directional Drilling Inc.,Drilling Services,38
+SUP-0009,Silverton Rig Contractors Ltd.,Rig Contractors,39
+SUP-0010,Keystone Rig Contractors Ltd.,Rig Contractors,48
+SUP-0011,Tidewater Well Servicing Corp.,Rig Contractors,39
+SUP-0012,Meridian Rig Contractors Ltd.,Rig Contractors,53
+SUP-0013,Prairie Rig Contractors Ltd.,Rig Contractors,29
+SUP-0014,Riverbend Rig Contractors Ltd.,Rig Contractors,42
+SUP-0015,Summit Well Servicing Corp.,Rig Contractors,20
+SUP-0016,Tidewater Pressure Pumping Ltd.,Pressure Pumping,39
+SUP-0017,Lakeland Frac Solutions Corp.,Pressure Pumping,34
+SUP-0018,Granite Completions Services Inc.,Pressure Pumping,51
+SUP-0019,Foothills Completions Services Inc.,Pressure Pumping,36
+SUP-0020,Stonebridge Completions Services Inc.,Pressure Pumping,53
+SUP-0021,Falcon Frac Solutions Corp.,Pressure Pumping,60
+SUP-0022,Lonepine Pressure Pumping Ltd.,Pressure Pumping,11
+SUP-0023,Clearwater Production Chemicals Inc.,Oilfield Chemicals,50
+SUP-0024,Sentinel Flow Assurance Corp.,Oilfield Chemicals,25
+SUP-0025,Harbourfront Oilfield Chemicals Ltd.,Oilfield Chemicals,38
+SUP-0026,Keystone Production Chemicals Inc.,Oilfield Chemicals,39
+SUP-0027,Redwood Oilfield Chemicals Ltd.,Oilfield Chemicals,30
+SUP-0028,Westgate Flow Assurance Corp.,Oilfield Chemicals,26
+SUP-0029,Rocky Ridge Oilfield Chemicals Ltd.,Oilfield Chemicals,12
+SUP-0030,Timberline Production Chemicals Inc.,Oilfield Chemicals,43
+SUP-0031,Prairie Steel Tubulars Corp.,OCTG and Tubulars,45
+SUP-0032,Aurora Tubular Supply Ltd.,OCTG and Tubulars,36
+SUP-0033,Rocky Ridge Tubular Supply Ltd.,OCTG and Tubulars,36
+SUP-0034,Evergreen Pipe and Tubing Inc.,OCTG and Tubulars,66
+SUP-0035,Prairie Pipe and Tubing Inc.,OCTG and Tubulars,34
+SUP-0036,Northgate Steel Tubulars Corp.,OCTG and Tubulars,36
+SUP-0037,Bow Valley Steel Tubulars Corp.,OCTG and Tubulars,24
+SUP-0038,Bow Valley Valve and Actuation Ltd.,Valves and Actuators,25
+SUP-0039,Whitecap Ridge Valve Supply Corp.,Valves and Actuators,27
+SUP-0040,Clearwater Valve and Actuation Ltd.,Valves and Actuators,5
+SUP-0041,Ironwood Flow Control Inc.,Valves and Actuators,44
+SUP-0042,Kestrel Valve and Actuation Ltd.,Valves and Actuators,5
+SUP-0043,Ridgeline Valve and Actuation Ltd.,Valves and Actuators,32
+SUP-0044,Great Plains Valve and Actuation Ltd.,Valves and Actuators,48
+SUP-0045,Badlands Pumps and Compressors Ltd.,Pumps and Compressors,23
+SUP-0046,Glacier Pumps and Compressors Ltd.,Pumps and Compressors,33
+SUP-0047,Rocky Ridge Rotating Equipment Inc.,Pumps and Compressors,34
+SUP-0048,Meridian Compression Systems Corp.,Pumps and Compressors,24
+SUP-0049,Wolverine Compression Systems Corp.,Pumps and Compressors,37
+SUP-0050,Granite Compression Systems Corp.,Pumps and Compressors,25
+SUP-0051,Rocky Ridge Compression Systems Corp.,Pumps and Compressors,32
+SUP-0052,Athabasca Basin Measurement and Control Inc.,Instrumentation and Controls,29
+SUP-0053,Badlands Measurement and Control Inc.,Instrumentation and Controls,54
+SUP-0054,Lonepine Instrumentation Ltd.,Instrumentation and Controls,54
+SUP-0055,Harbourfront Process Instruments Corp.,Instrumentation and Controls,20
+SUP-0056,Foothills Process Instruments Corp.,Instrumentation and Controls,54
+SUP-0057,Boreal Process Instruments Corp.,Instrumentation and Controls,30
+SUP-0058,Riverbend Measurement and Control Inc.,Instrumentation and Controls,41
+SUP-0059,Tidewater Power Equipment Inc.,Electrical Equipment,55
+SUP-0060,Frontier Electrical Systems Ltd.,Electrical Equipment,38
+SUP-0061,Clearwater Power Equipment Inc.,Electrical Equipment,44
+SUP-0062,Foothills Power Equipment Inc.,Electrical Equipment,20
+SUP-0063,Glacier Power Equipment Inc.,Electrical Equipment,45
+SUP-0064,Redwood Power Equipment Inc.,Electrical Equipment,55
+SUP-0065,Riverbend Switchgear and Drives Corp.,Electrical Equipment,49
+SUP-0066,Kestrel Thermal Equipment Inc.,Heat Exchange and Heaters,48
+SUP-0067,Redwood Thermal Equipment Inc.,Heat Exchange and Heaters,46
+SUP-0068,Blue Heron Heater and Exchanger Corp.,Heat Exchange and Heaters,45
+SUP-0069,Bow Valley Thermal Equipment Inc.,Heat Exchange and Heaters,49
+SUP-0070,Great Plains Thermal Equipment Inc.,Heat Exchange and Heaters,35
+SUP-0071,Foothills Heat Transfer Ltd.,Heat Exchange and Heaters,27
+SUP-0072,Peace Country Heat Transfer Ltd.,Heat Exchange and Heaters,40
+SUP-0073,Ridgeline Refining Chemicals Inc.,Catalysts and Process Chemicals,35
+SUP-0074,Westgate Catalyst Technologies Ltd.,Catalysts and Process Chemicals,68
+SUP-0075,Frontier Refining Chemicals Inc.,Catalysts and Process Chemicals,32
+SUP-0076,Granite Catalyst Technologies Ltd.,Catalysts and Process Chemicals,66
+SUP-0077,Keystone Catalyst Technologies Ltd.,Catalysts and Process Chemicals,62
+SUP-0078,Pinecrest Catalyst Technologies Ltd.,Catalysts and Process Chemicals,38
+SUP-0079,Thunder Ridge Process Materials Corp.,Catalysts and Process Chemicals,51
+SUP-0080,Sentinel Shutdown Contractors Inc.,Turnaround Contractors,41
+SUP-0081,Westgate Plant Maintenance Corp.,Turnaround Contractors,11
+SUP-0082,Ironwood Shutdown Contractors Inc.,Turnaround Contractors,50
+SUP-0083,Riverbend Shutdown Contractors Inc.,Turnaround Contractors,36
+SUP-0084,Granite Shutdown Contractors Inc.,Turnaround Contractors,28
+SUP-0085,Prairie Plant Maintenance Corp.,Turnaround Contractors,45
+SUP-0086,Prairie Shutdown Contractors Inc.,Turnaround Contractors,66
+SUP-0087,Copperline Industrial Maintenance Inc.,Mechanical and Maintenance,32
+SUP-0088,Meridian Mechanical Contractors Ltd.,Mechanical and Maintenance,40
+SUP-0089,Pinecrest Mechanical Contractors Ltd.,Mechanical and Maintenance,30
+SUP-0090,Lakeland Mechanical Contractors Ltd.,Mechanical and Maintenance,10
+SUP-0091,Clearwater Mechanical Contractors Ltd.,Mechanical and Maintenance,24
+SUP-0092,Highland Mechanical Contractors Ltd.,Mechanical and Maintenance,56
+SUP-0093,Sentinel Industrial Maintenance Inc.,Mechanical and Maintenance,28
+SUP-0094,Bow Valley NDT and Integrity Inc.,Inspection and NDT,28
+SUP-0095,Timberline NDT and Integrity Inc.,Inspection and NDT,14
+SUP-0096,Copperline Inspection Services Ltd.,Inspection and NDT,32
+SUP-0097,Copperline Asset Integrity Corp.,Inspection and NDT,24
+SUP-0098,Summit NDT and Integrity Inc.,Inspection and NDT,22
+SUP-0099,Kestrel Inspection Services Ltd.,Inspection and NDT,43
+SUP-0100,Pinecrest Asset Integrity Corp.,Inspection and NDT,25
+SUP-0101,Riverbend Engineering Ltd.,Engineering Services,5
+SUP-0102,Copperline Process Engineering Inc.,Engineering Services,48
+SUP-0103,Foothills Design and Projects Corp.,Engineering Services,11
+SUP-0104,Badlands Design and Projects Corp.,Engineering Services,43
+SUP-0105,Lonepine Design and Projects Corp.,Engineering Services,43
+SUP-0106,Meridian Process Engineering Inc.,Engineering Services,23
+SUP-0107,Summit Process Engineering Inc.,Engineering Services,58
+SUP-0108,Westgate Industrial Builders Corp.,EPC Contractors,53
+SUP-0109,Rocky Ridge Construction Group Ltd.,EPC Contractors,33
+SUP-0110,Cedar Valley Engineering and Construction Inc.,EPC Contractors,31
+SUP-0111,Silverton Engineering and Construction Inc.,EPC Contractors,47
+SUP-0112,Keystone Engineering and Construction Inc.,EPC Contractors,17
+SUP-0113,Thunder Ridge Engineering and Construction Inc.,EPC Contractors,38
+SUP-0114,Granite Engineering and Construction Inc.,EPC Contractors,51
+SUP-0115,Red River Construction Group Ltd.,EPC Contractors,43
+SUP-0116,Westgate Insulation and Coatings Inc.,Scaffolding and Insulation,25
+SUP-0117,Thunder Ridge Insulation and Coatings Inc.,Scaffolding and Insulation,27
+SUP-0118,Cascade Insulation and Coatings Inc.,Scaffolding and Insulation,34
+SUP-0119,Sentinel Insulation and Coatings Inc.,Scaffolding and Insulation,24
+SUP-0120,Lakeland Insulation and Coatings Inc.,Scaffolding and Insulation,33
+SUP-0121,Evergreen Scaffolding Ltd.,Scaffolding and Insulation,32
+SUP-0122,Westgate Access Services Corp.,Scaffolding and Insulation,44
+SUP-0123,Prairie Bulk Chemicals Inc.,Industrial Gases and Chemicals,50
+SUP-0124,Glacier Gas and Chemical Supply Corp.,Industrial Gases and Chemicals,49
+SUP-0125,Granite Gas and Chemical Supply Corp.,Industrial Gases and Chemicals,15
+SUP-0126,Great Plains Bulk Chemicals Inc.,Industrial Gases and Chemicals,33
+SUP-0127,Badlands Gas and Chemical Supply Corp.,Industrial Gases and Chemicals,29
+SUP-0128,Timberline Gas and Chemical Supply Corp.,Industrial Gases and Chemicals,47
+SUP-0129,Pinecrest Gas and Chemical Supply Corp.,Industrial Gases and Chemicals,45
+SUP-0130,Northern Lubrication Services Corp.,Lubricants and Greases (MRO),26
+SUP-0131,Glacier Lubricants Ltd.,Lubricants and Greases (MRO),50
+SUP-0132,Peace Country Lubrication Services Corp.,Lubricants and Greases (MRO),58
+SUP-0133,Whitecap Ridge Lubrication Services Corp.,Lubricants and Greases (MRO),33
+SUP-0134,Athabasca Basin Lubricants Ltd.,Lubricants and Greases (MRO),22
+SUP-0135,Great Plains Industrial Fluids Inc.,Lubricants and Greases (MRO),7
+SUP-0136,Frontier Industrial Fluids Inc.,Lubricants and Greases (MRO),26
+SUP-0137,Riverbend Industrial Safety Inc.,Safety and PPE,46
+SUP-0138,Silverton Safety Supply Ltd.,Safety and PPE,9
+SUP-0139,Bow Valley Industrial Safety Inc.,Safety and PPE,20
+SUP-0140,Badlands Industrial Safety Inc.,Safety and PPE,17
+SUP-0141,Westgate Safety Supply Ltd.,Safety and PPE,27
+SUP-0142,Athabasca Basin Protective Equipment Corp.,Safety and PPE,31
+SUP-0143,Badlands Safety Supply Ltd.,Safety and PPE,26
+SUP-0144,Keystone Consulting Group Inc.,IT and SAP Services,5
+SUP-0145,Red River Technology Services Ltd.,IT and SAP Services,56
+SUP-0146,Kestrel Digital Solutions Corp.,IT and SAP Services,50
+SUP-0147,Great Plains Technology Services Ltd.,IT and SAP Services,48
+SUP-0148,Westgate Digital Solutions Corp.,IT and SAP Services,41
+SUP-0149,Prairie Consulting Group Inc.,IT and SAP Services,30
+SUP-0150,Cascade Consulting Group Inc.,IT and SAP Services,39
+SUP-0151,Red River Industrial Automation Corp.,OT and Automation,30
+SUP-0152,Kestrel Automation Ltd.,OT and Automation,55
+SUP-0153,Sentinel Automation Ltd.,OT and Automation,27
+SUP-0154,Clearwater Industrial Automation Corp.,OT and Automation,43
+SUP-0155,Whitecap Ridge Automation Ltd.,OT and Automation,31
+SUP-0156,Keystone Controls Integration Inc.,OT and Automation,45
+SUP-0157,Clearwater Controls Integration Inc.,OT and Automation,21
+SUP-0158,Falcon Transport Ltd.,Logistics and Trucking,29
+SUP-0159,Ironwood Freight and Logistics Corp.,Logistics and Trucking,49
+SUP-0160,Tidewater Freight and Logistics Corp.,Logistics and Trucking,33
+SUP-0161,Coldwater Transport Ltd.,Logistics and Trucking,29
+SUP-0162,Thunder Ridge Transport Ltd.,Logistics and Trucking,12
+SUP-0163,Cedar Valley Freight and Logistics Corp.,Logistics and Trucking,35
+SUP-0164,Athabasca Basin Transport Ltd.,Logistics and Trucking,40
+SUP-0165,Harbourfront Marine Transport Inc.,Rail and Marine Freight,30
+SUP-0166,Cedar Valley Terminals and Shipping Corp.,Rail and Marine Freight,9
+SUP-0167,Kestrel Terminals and Shipping Corp.,Rail and Marine Freight,51
+SUP-0168,Athabasca Basin Marine Transport Inc.,Rail and Marine Freight,37
+SUP-0169,Black Diamond Terminals and Shipping Corp.,Rail and Marine Freight,29
+SUP-0170,Pioneer Terminals and Shipping Corp.,Rail and Marine Freight,51
+SUP-0171,Whitecap Ridge Rail Services Ltd.,Rail and Marine Freight,57
+SUP-0172,Caribou Remediation Corp.,Environmental and Waste,31
+SUP-0173,Peace Country Waste Management Inc.,Environmental and Waste,45
+SUP-0174,Frontier Remediation Corp.,Environmental and Waste,38
+SUP-0175,Clearwater Waste Management Inc.,Environmental and Waste,12
+SUP-0176,Meridian Environmental Services Ltd.,Environmental and Waste,30
+SUP-0177,Ridgeline Environmental Services Ltd.,Environmental and Waste,24
+SUP-0178,Stonebridge Waste Management Inc.,Environmental and Waste,29
+SUP-0179,Sundog Waste Management Inc.,Environmental and Waste,26
+SUP-0180,Red River Workforce Solutions Inc.,"Camp, Catering and Staffing",48
+SUP-0181,Keystone Camp Services Ltd.,"Camp, Catering and Staffing",16
+SUP-0182,Granite Camp Services Ltd.,"Camp, Catering and Staffing",46
+SUP-0183,Keystone Remote Site Hospitality Corp.,"Camp, Catering and Staffing",32
+SUP-0184,Silverton Camp Services Ltd.,"Camp, Catering and Staffing",16
+SUP-0185,Ironwood Workforce Solutions Inc.,"Camp, Catering and Staffing",26
+SUP-0186,Cascade Camp Services Ltd.,"Camp, Catering and Staffing",15
+SUP-0187,Stonebridge Heavy Equipment Inc.,Heavy Equipment Rental,50
+SUP-0188,Cascade Heavy Equipment Inc.,Heavy Equipment Rental,36
+SUP-0189,Boreal Crane and Hauling Corp.,Heavy Equipment Rental,9
+SUP-0190,Clearwater Heavy Equipment Inc.,Heavy Equipment Rental,34
+SUP-0191,Red River Equipment Rentals Ltd.,Heavy Equipment Rental,12
+SUP-0192,Keystone Heavy Equipment Inc.,Heavy Equipment Rental,59
+SUP-0193,Northgate Heavy Equipment Inc.,Heavy Equipment Rental,35
+SUP-0194,Ironwood Hydrocarbon Trading Corp.,Crude and Feedstock Supply,36
+SUP-0195,Northern Energy Marketing Ltd.,Crude and Feedstock Supply,33
+SUP-0196,Westgate Hydrocarbon Trading Corp.,Crude and Feedstock Supply,27
+SUP-0197,Timberline Energy Marketing Ltd.,Crude and Feedstock Supply,41
+SUP-0198,Sundog Hydrocarbon Trading Corp.,Crude and Feedstock Supply,63
+SUP-0199,Riverbend Hydrocarbon Trading Corp.,Crude and Feedstock Supply,44
+SUP-0200,Pioneer Energy Marketing Ltd.,Crude and Feedstock Supply,38
