@@ -1,0 +1,151 @@
+Source_System,Owner,Domain,Source_ID,System_Type,Vendor,Interface,Refresh_Frequency,Hosting,Contains_PII,Approx_Size_GB,Ingestion_Method,Criticality,Data_Quality_Score,Status,Go_Live_Year
+SAP S/4HANA - Plant Maintenance (PM),Maintenance & Reliability,Asset Reliability,DS-001,ERP,SAP,SLT replication,Real-time,On-premise,No,420,SLT -> Datasphere Remote Table,High,80.3,Active,2025
+SAP S/4HANA - Materials Management (MM),Supply Chain & Procurement,Procurement,DS-002,ERP,SAP,SLT replication,Real-time,On-premise,No,610,Datasphere Replication Flow,High,78.9,Active,2010
+SAP S/4HANA - Inventory Management (MM-IM),Supply Chain Operations,Warehouse,DS-003,ERP,SAP,SLT replication,Real-time,On-premise,No,880,Datasphere Replication Flow,High,87.3,Active,2008
+SAP S/4HANA - Sales & Distribution (SD),Commercial Operations,Sales & Trading,DS-004,ERP,SAP,SLT replication,Real-time,On-premise,Yes,950,SLT -> Datasphere Remote Table,High,91.3,Active,2012
+SAP S/4HANA - Finance (FI),Finance - Controllership,Finance,DS-005,ERP,SAP,ODP extractor,Daily,On-premise,No,1400,ODP -> Datasphere Replication Flow,High,92.3,Active,2009
+SAP S/4HANA - Controlling (CO / CO-PA),Finance - FP&A,Finance,DS-006,ERP,SAP,ODP extractor,Daily,On-premise,No,520,Datasphere Replication Flow,High,84.0,Active,2016
+SAP S/4HANA - Production Planning (PP),Refining Operations - Planning,Supply Planning,DS-007,ERP,SAP,SLT replication,Hourly,On-premise,No,240,Datasphere Replication Flow,Medium,64.5,Active,2023
+SAP S/4HANA - Quality Management (QM),Refining Operations - Quality,Refining Operations,DS-008,ERP,SAP,ODP extractor,Daily,On-premise,No,95,Datasphere Replication Flow,Medium,74.2,Active,2025
+SAP S/4HANA - Project System (PS),Capital Projects Office,Corporate Strategy,DS-009,ERP,SAP,ODP extractor,Daily,On-premise,No,70,ODP -> Datasphere Replication Flow,Medium,94.8,Active,2020
+SAP EHS - Incident Management,HSE,ESG,DS-010,EHS,SAP,OData API,Daily,On-premise,Yes,22,Datasphere OData connection,Medium,73.9,Planned,2011
+SAP IS-Oil - Trader's & Scheduler's Workbench (TSW),Supply & Distribution,Logistics,DS-011,Oil industry solution,SAP,SLT replication,Hourly,On-premise,No,310,SLT -> Datasphere Remote Table,High,88.6,Active,2013
+SAP IS-Oil - Transportation & Distribution (TD),Supply & Distribution,Logistics,DS-012,Oil industry solution,SAP,SLT replication,Hourly,On-premise,No,260,SLT -> Datasphere Remote Table,High,96.4,Active,2019
+SAP IS-Oil - Hydrocarbon Product Management (HPM),Refining Operations - Accounting,Refining Operations,DS-013,Oil industry solution,SAP,ODP extractor,Daily,On-premise,No,180,ODP -> Datasphere Replication Flow,Medium,77.1,Active,2014
+SAP IS-Oil - Production & Revenue Accounting (PRA),Upstream Accounting,Upstream Operations,DS-014,Oil industry solution,SAP,ODP extractor,Daily,On-premise,No,340,Datasphere Replication Flow,High,79.0,Active,2019
+SAP S/4HANA - Joint Venture Accounting (JVA),Finance - JV Accounting,Finance,DS-015,ERP,SAP,ODP extractor,Daily,On-premise,No,130,ODP -> Datasphere Replication Flow,Medium,68.3,Active,2023
+SAP Commodity Management,Trading Operations,Sales & Trading,DS-016,ERP,SAP,SLT replication,Hourly,On-premise,No,85,SLT -> Datasphere Remote Table,Medium,68.9,Active,2021
+SAP Treasury & Risk Management (TRM),Treasury,Finance,DS-017,ERP,SAP,ODP extractor,Daily,On-premise,No,30,ODP -> Datasphere Replication Flow,Medium,66.4,Active,2011
+SAP Transportation Management (TM),Logistics Operations,Logistics,DS-018,ERP,SAP,SLT replication,Hourly,On-premise,No,210,Datasphere Replication Flow,High,81.1,Active,2009
+SAP Extended Warehouse Management (EWM),Warehouse Operations,Warehouse,DS-019,ERP,SAP,SLT replication,Real-time,On-premise,No,730,Datasphere Replication Flow,Medium,82.0,Active,2014
+SAP Global Trade Services (GTS),Trade Compliance,Logistics,DS-020,ERP,SAP,ODP extractor,Daily,On-premise,No,24,ODP -> Datasphere Replication Flow,Medium,90.4,Active,2015
+SAP Integrated Business Planning (IBP),Supply Chain Planning,Demand Planning,DS-021,Planning,SAP,OData API,Daily,SaaS,No,160,Datasphere OData connection,High,96.8,Decommissioning,2010
+SAP Ariba Sourcing & Contracts,Strategic Sourcing,Procurement,DS-022,Procurement SaaS,SAP,Ariba API,Daily,SaaS,No,38,File upload -> Local Table,Medium,84.1,Active,2018
+SAP Fieldglass (Contingent Labour),Strategic Sourcing,Procurement,DS-023,Procurement SaaS,SAP,OData API,Daily,SaaS,Yes,9,Datasphere OData connection,Medium,79.7,Active,2016
+SAP SuccessFactors Employee Central,HR - People Analytics,Human Resources,DS-024,HCM SaaS,SAP,OData API,Daily,SaaS,Yes,18,Datasphere OData connection,High,85.9,Active,2015
+SAP SuccessFactors Learning,HR - Learning & Development,Human Resources,DS-025,HCM SaaS,SAP,OData API,Daily,SaaS,Yes,7,Datasphere OData connection,Medium,80.5,Planned,2011
+SAP Concur Expense,Finance - Accounts Payable,Finance,DS-026,Expense SaaS,SAP,REST API,Daily,SaaS,Yes,12,API ingestion via Integration Suite,Medium,96.9,Active,2009
+SAP Analytics Cloud - Planning Models,Finance - FP&A,Corporate Strategy,DS-027,Planning,SAP,SAC data export API,Daily,SaaS,No,14,File upload -> Local Table,High,88.6,Active,2013
+SAP BW/4HANA - Legacy InfoProviders,BI Centre of Excellence,Data & Analytics,DS-028,Data warehouse,SAP,BW/4HANA Bridge,Daily,On-premise,No,4200,File upload -> Local Table,High,97.5,Active,2024
+SAP BusinessObjects Audit Database,BI Centre of Excellence,Data & Analytics,DS-029,BI platform,SAP,JDBC,Daily,On-premise,No,6,File upload -> Local Table,Medium,89.1,Active,2018
+SAP Analytics Cloud - Activity Log,BI Centre of Excellence,Data & Analytics,DS-030,BI platform,SAP,REST API,Daily,SaaS,No,2,API ingestion via Integration Suite,Medium,75.6,Active,2013
+Power BI Service - Admin Activity Log,BI Centre of Excellence,Data & Analytics,DS-031,BI platform,Microsoft,REST API,Daily,SaaS,No,3,API ingestion via Integration Suite,Medium,75.6,Active,2019
+SAP LeanIX Enterprise Architecture,Enterprise Architecture,Enterprise Architecture,DS-032,EA repository,SAP,REST API,Weekly,SaaS,No,1,API ingestion via Integration Suite,Medium,79.3,Active,2023
+SAP Signavio Process Manager,Enterprise Architecture,Enterprise Architecture,DS-033,Process mgmt,SAP,REST API,Weekly,SaaS,No,1,API ingestion via Integration Suite,Medium,81.9,Active,2019
+SAP Integration Suite - Monitoring,Integration CoE,Enterprise Architecture,DS-034,Integration,SAP,OData API,Daily,SaaS,No,5,Datasphere OData connection,Medium,83.6,Active,2019
+AVEVA PI Historian - Prairie Refinery (R100),Refining Operations - Process Control,Refining Operations,DS-035,Historian,AVEVA,PI Web API,Real-time,On-premise,No,2600,PI -> Data Flow (batch),High,86.7,Active,2013
+AVEVA PI Historian - Lakehead Refinery (R200),Refining Operations - Process Control,Refining Operations,DS-036,Historian,AVEVA,PI Web API,Real-time,On-premise,No,1700,PI -> Data Flow (batch),High,78.8,Active,2014
+AVEVA PI Historian - Saint-Laurent Refinery (R300),Refining Operations - Process Control,Refining Operations,DS-037,Historian,AVEVA,PI Web API,Real-time,On-premise,No,2300,PI -> Data Flow (batch),High,84.1,Planned,2024
+AVEVA PI Historian - Oil Sands / Heavy Oil Facilities,Upstream Operations - Control Systems,Upstream Operations,DS-038,Historian,AVEVA,PI Web API,Real-time,On-premise,No,3100,PI -> Data Flow (batch),High,90.4,Decommissioning,2010
+AVEVA PI Historian - Gas Plants (Montney / Deep Basin),Upstream Operations - Control Systems,Upstream Operations,DS-039,Historian,AVEVA,PI Web API,Real-time,On-premise,No,1900,PI -> Data Flow (batch),Medium,88.1,Active,2021
+AVEVA PI Historian - Saskatchewan Batteries,Upstream Operations - Control Systems,Upstream Operations,DS-040,Historian,AVEVA,PI Web API,Real-time,On-premise,No,900,PI -> Data Flow (batch),Medium,96.3,Active,2010
+Energy Components Production Allocation,Upstream Accounting,Upstream Operations,DS-041,Production accounting,Quorum,JDBC,Daily,On-premise,No,290,File upload -> Local Table,High,93.9,Active,2017
+WellView Drilling & Completions,Drilling & Completions,Upstream Operations,DS-042,Drilling reports,Peloton,REST API,Daily,SaaS,No,45,API ingestion via Integration Suite,Medium,86.6,Active,2012
+Petrel Subsurface Reservoir Models,Subsurface & Reservoir,Upstream Operations,DS-043,Subsurface,SLB,File export (CSV),Monthly,On-premise,No,1400,File upload -> Local Table,Medium,76.1,Planned,2020
+AER Public Production Data (ST-series),Regulatory Affairs,Upstream Operations,DS-044,External data,Alberta Energy Regulator,File download (CSV),Monthly,External,No,8,File upload -> Local Table,Medium,93.2,Active,2019
+Pipeline SCADA & Leak Detection,Pipeline Operations,Logistics,DS-045,SCADA,Honeywell,OPC-UA,Real-time,On-premise,No,1200,Edge historian -> file landing,High,98.8,Active,2020
+Pipeline Integrity Management (PODS),Pipeline Integrity,Asset Reliability,DS-046,Asset integrity,Esri / PODS,JDBC,Weekly,On-premise,No,75,File upload -> Local Table,Medium,98.8,Active,2011
+Honeywell Experion DCS - R100,Refining Operations - Process Control,Refining Operations,DS-047,DCS,Honeywell,OPC-UA,Real-time,On-premise,No,300,Edge historian -> file landing,Medium,65.4,Active,2017
+Honeywell Experion DCS - R200,Refining Operations - Process Control,Refining Operations,DS-048,DCS,Honeywell,OPC-UA,Real-time,On-premise,No,210,Edge historian -> file landing,Medium,83.7,Active,2010
+Honeywell Experion DCS - R300,Refining Operations - Process Control,Refining Operations,DS-049,DCS,Honeywell,OPC-UA,Real-time,On-premise,No,280,Edge historian -> file landing,Medium,76.7,Active,2022
+LabWare LIMS - R100,Refining Operations - Quality,Refining Operations,DS-050,LIMS,LabWare,JDBC,Hourly,On-premise,No,110,File upload -> Local Table,Medium,66.1,Active,2015
+LabWare LIMS - R200,Refining Operations - Quality,Refining Operations,DS-051,LIMS,LabWare,JDBC,Hourly,On-premise,No,70,File upload -> Local Table,Medium,67.6,Active,2016
+LabWare LIMS - R300,Refining Operations - Quality,Refining Operations,DS-052,LIMS,LabWare,JDBC,Hourly,On-premise,No,95,File upload -> Local Table,Medium,81.2,Active,2014
+GE Digital APM (Meridium) Reliability,Maintenance & Reliability,Asset Reliability,DS-053,Asset performance,GE Vernova,REST API,Daily,On-premise,No,60,API ingestion via Integration Suite,High,92.8,Active,2019
+Condition Monitoring - Vibration Analytics,Maintenance & Reliability,Asset Reliability,DS-054,Condition monitoring,Emerson,File export (CSV),Daily,On-premise,No,190,File upload -> Local Table,Medium,89.8,Active,2023
+Oracle Primavera P6 - Turnaround Schedules,Turnaround Management,Asset Reliability,DS-055,Scheduling,Oracle,File export (XER),Weekly,On-premise,No,14,File upload -> Local Table,Medium,94.5,Active,2023
+Continuous Emissions Monitoring (CEMS),Environmental Compliance,ESG,DS-056,Monitoring,Thermo Fisher,OPC-UA,Real-time,On-premise,No,410,Edge historian -> file landing,High,92.2,Active,2020
+Enablon GHG & Sustainability Reporting,Sustainability Reporting,ESG,DS-057,ESG SaaS,Wolters Kluwer,REST API,Monthly,SaaS,No,11,API ingestion via Integration Suite,High,87.2,Active,2018
+Water Management Database,Environmental Compliance,ESG,DS-058,Environmental DB,Internal,JDBC,Monthly,On-premise,No,6,File upload -> Local Table,Medium,97.5,Active,2016
+LDAR & Methane Survey Platform,Environmental Compliance,ESG,DS-059,Monitoring,Highwood Emissions,REST API,Weekly,SaaS,No,25,API ingestion via Integration Suite,Medium,70.4,Decommissioning,2025
+Alberta TIER / Federal CFR Credit Registries,Sustainability Reporting,ESG,DS-060,External data,Government of Canada,File download (CSV),Monthly,External,No,1,File upload -> Local Table,Medium,82.6,Decommissioning,2013
+Intelex Incident & Audit Management,HSE,ESG,DS-061,EHS,Intelex,REST API,Daily,SaaS,Yes,16,API ingestion via Integration Suite,Medium,81.9,Active,2022
+Salesforce Sales Cloud (B2B Accounts),Commercial Operations,Commercial & Marketing,DS-062,CRM,Salesforce,REST API,Daily,SaaS,Yes,85,API ingestion via Integration Suite,Medium,83.8,Active,2013
+Retail POS Transaction Platform,Retail Operations,Commercial & Marketing,DS-063,POS,Verifone,Flat-file transfer,Daily,On-premise,Yes,1900,File upload -> Local Table,Medium,75.3,Active,2010
+Retail Loyalty & Rewards Platform,Retail Marketing,Commercial & Marketing,DS-064,Loyalty,Internal,REST API,Daily,SaaS,Yes,420,API ingestion via Integration Suite,Medium,64.2,Active,2012
+Cardlock & Fleet Card System,Commercial Operations,Commercial & Marketing,DS-065,Fuel card,Internal,JDBC,Daily,On-premise,Yes,210,File upload -> Local Table,Medium,88.1,Planned,2017
+EV Charging Management System (CSMS),Low Carbon & New Energy,Commercial & Marketing,DS-066,IoT platform,Internal,REST API,Hourly,SaaS,Yes,44,API ingestion via Integration Suite,Medium,75.2,Active,2023
+Allegro ETRM,Trading Operations,Sales & Trading,DS-067,ETRM,Allegro,JDBC,Hourly,On-premise,No,210,File upload -> Local Table,High,95.1,Planned,2022
+Argus Media Price Assessments,Market Intelligence,Sales & Trading,DS-068,Market data,Argus,SFTP feed,Daily,External,No,4,File upload -> Local Table,Medium,74.1,Active,2018
+S&P Global Platts Price Feed,Market Intelligence,Sales & Trading,DS-069,Market data,S&P Global,SFTP feed,Daily,External,No,5,File upload -> Local Table,Medium,86.2,Active,2023
+ICE / CME Futures Settlement Prices,Market Intelligence,Sales & Trading,DS-070,Market data,ICE / CME,SFTP feed,Daily,External,No,12,File upload -> Local Table,Medium,78.5,Active,2010
+Enverus Market Analytics,Corporate Strategy,Corporate Strategy,DS-071,Market data,Enverus,REST API,Weekly,SaaS,No,30,API ingestion via Integration Suite,Medium,87.9,Active,2020
+Statistics Canada / ECCC Weather Data,Supply Chain Planning,Demand Planning,DS-072,External data,Government of Canada,REST API,Daily,External,No,3,API ingestion via Integration Suite,Medium,81.0,Active,2015
+Fleet Telematics Platform,Logistics Operations,Logistics,DS-073,Telematics,Geotab,REST API,Hourly,SaaS,No,380,API ingestion via Integration Suite,Medium,94.0,Active,2009
+Terminal Automation System (Racks & Gauging),Terminal Operations,Warehouse,DS-074,Terminal automation,Emerson,OPC-UA,Real-time,On-premise,No,520,Edge historian -> file landing,Medium,93.7,Active,2018
+Carrier Portal & EDI (Rail / Marine),Logistics Operations,Logistics,DS-075,EDI,Internal,EDI X12,Hourly,External,No,60,File upload -> Local Table,Medium,69.8,Planned,2021
+ServiceNow IT Service Management,IT Service Management,Enterprise Architecture,DS-076,ITSM,ServiceNow,REST API,Daily,SaaS,No,20,API ingestion via Integration Suite,Medium,84.3,Planned,2012
+SharePoint Online - Knowledge & Policy Library,Knowledge Management,Knowledge Repository,DS-077,Document store,Microsoft,Graph API,Daily,SaaS,No,950,File upload -> Local Table,Medium,79.3,Decommissioning,2014
+Confluence - Engineering Standards & Lessons Learned,Knowledge Management,Knowledge Repository,DS-078,Wiki,Atlassian,REST API,Daily,SaaS,No,140,API ingestion via Integration Suite,Medium,95.3,Active,2015
+Data Quality & Master Data Governance Hub,Data Governance,Data & Analytics,DS-079,MDG,SAP,OData API,Daily,On-premise,No,35,Datasphere OData connection,Medium,93.7,Active,2008
+Excel / SharePoint - Corporate Strategy Planning Inputs,Corporate Strategy,Corporate Strategy,DS-080,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,84.7,Active,2017
+Excel / SharePoint - Commercial & Marketing Planning Inputs,Commercial Operations,Commercial & Marketing,DS-081,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,82.0,Active,2015
+Excel / SharePoint - Demand Planning Planning Inputs,Supply Chain Planning,Demand Planning,DS-082,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,95.6,Active,2017
+Excel / SharePoint - Procurement Planning Inputs,Supply Chain & Procurement,Procurement,DS-083,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,83.6,Active,2023
+Excel / SharePoint - Supply Planning Planning Inputs,Supply Chain Planning,Supply Planning,DS-084,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,73.8,Active,2009
+Excel / SharePoint - Warehouse Planning Inputs,Warehouse Operations,Warehouse,DS-085,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,66.3,Active,2024
+Excel / SharePoint - Logistics Planning Inputs,Logistics Operations,Logistics,DS-086,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,79.6,Active,2010
+Excel / SharePoint - Upstream Operations Planning Inputs,Upstream Operations - Planning,Upstream Operations,DS-087,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,87.3,Active,2017
+Excel / SharePoint - Refining Operations Planning Inputs,Refining Operations - Planning,Refining Operations,DS-088,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,98.9,Active,2013
+Excel / SharePoint - Asset Reliability Planning Inputs,Maintenance & Reliability,Asset Reliability,DS-089,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,76.3,Active,2009
+Excel / SharePoint - Sales & Trading Planning Inputs,Trading Operations,Sales & Trading,DS-090,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,93.4,Active,2009
+Excel / SharePoint - Finance Planning Inputs,Finance - FP&A,Finance,DS-091,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,92.1,Active,2014
+Excel / SharePoint - ESG Planning Inputs,Sustainability Reporting,ESG,DS-092,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,94.1,Active,2020
+Excel / SharePoint - Human Resources Planning Inputs,HR - People Analytics,Human Resources,DS-093,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,70.1,Active,2019
+Excel / SharePoint - Data & Analytics Planning Inputs,BI Centre of Excellence,Data & Analytics,DS-094,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,97.8,Active,2013
+Excel / SharePoint - Enterprise Architecture Planning Inputs,Enterprise Architecture,Enterprise Architecture,DS-095,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,82.2,Active,2009
+Excel / SharePoint - Knowledge Repository Planning Inputs,Knowledge Management,Knowledge Repository,DS-096,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,1,File upload -> Local Table,Medium,71.7,Decommissioning,2025
+Tank Gauging & Inventory Feed - Terminal T100,Terminal Operations,Warehouse,DS-097,Tank gauging,Emerson,OPC-UA,Real-time,On-premise,No,40,Edge historian -> file landing,Medium,93.5,Active,2012
+Tank Gauging & Inventory Feed - Terminal T200,Terminal Operations,Warehouse,DS-098,Tank gauging,Emerson,OPC-UA,Real-time,On-premise,No,40,Edge historian -> file landing,Medium,74.8,Active,2016
+Tank Gauging & Inventory Feed - Terminal T300,Terminal Operations,Warehouse,DS-099,Tank gauging,Emerson,OPC-UA,Real-time,On-premise,No,40,Edge historian -> file landing,Medium,90.8,Active,2021
+Tank Gauging & Inventory Feed - Terminal T400,Terminal Operations,Warehouse,DS-100,Tank gauging,Emerson,OPC-UA,Real-time,On-premise,No,40,Edge historian -> file landing,Medium,77.1,Active,2015
+Tank Gauging & Inventory Feed - Terminal T500,Terminal Operations,Warehouse,DS-101,Tank gauging,Emerson,OPC-UA,Real-time,On-premise,No,40,Edge historian -> file landing,Medium,71.5,Planned,2010
+Tank Gauging & Inventory Feed - Terminal T600,Terminal Operations,Warehouse,DS-102,Tank gauging,Emerson,OPC-UA,Real-time,On-premise,No,40,Edge historian -> file landing,Medium,83.1,Active,2019
+Tank Gauging & Inventory Feed - Terminal T700,Terminal Operations,Warehouse,DS-103,Tank gauging,Emerson,OPC-UA,Real-time,On-premise,No,40,Edge historian -> file landing,Medium,69.7,Active,2015
+Tank Gauging & Inventory Feed - Terminal T800,Terminal Operations,Warehouse,DS-104,Tank gauging,Emerson,OPC-UA,Real-time,On-premise,No,40,Edge historian -> file landing,Medium,83.2,Active,2009
+Field SCADA Region A (Wellsite RTUs),Upstream Operations - Control Systems,Upstream Operations,DS-105,SCADA,Emerson,OPC-UA,Real-time,On-premise,No,700,Edge historian -> file landing,Medium,64.9,Active,2024
+Field SCADA Region B (Wellsite RTUs),Upstream Operations - Control Systems,Upstream Operations,DS-106,SCADA,Emerson,OPC-UA,Real-time,On-premise,No,700,Edge historian -> file landing,Medium,66.8,Active,2012
+Field SCADA Region C (Wellsite RTUs),Upstream Operations - Control Systems,Upstream Operations,DS-107,SCADA,Emerson,OPC-UA,Real-time,On-premise,No,700,Edge historian -> file landing,Medium,73.5,Active,2015
+Field SCADA Region D (Wellsite RTUs),Upstream Operations - Control Systems,Upstream Operations,DS-108,SCADA,Emerson,OPC-UA,Real-time,On-premise,No,700,Edge historian -> file landing,Medium,63.7,Active,2024
+Field SCADA Region E (Wellsite RTUs),Upstream Operations - Control Systems,Upstream Operations,DS-109,SCADA,Emerson,OPC-UA,Real-time,On-premise,No,700,Edge historian -> file landing,Medium,67.5,Active,2008
+Field SCADA Region F (Wellsite RTUs),Upstream Operations - Control Systems,Upstream Operations,DS-110,SCADA,Emerson,OPC-UA,Real-time,On-premise,No,700,Edge historian -> file landing,Medium,82.8,Active,2024
+Retail Site Controller & Pump Data - AB,Retail Operations,Commercial & Marketing,DS-111,POS,Gilbarco,Flat-file transfer,Daily,On-premise,No,300,File upload -> Local Table,Medium,87.1,Active,2017
+Retail Site Controller & Pump Data - BC,Retail Operations,Commercial & Marketing,DS-112,POS,Gilbarco,Flat-file transfer,Daily,On-premise,No,300,File upload -> Local Table,Medium,88.0,Active,2013
+Retail Site Controller & Pump Data - SK,Retail Operations,Commercial & Marketing,DS-113,POS,Gilbarco,Flat-file transfer,Daily,On-premise,No,300,File upload -> Local Table,Medium,74.8,Active,2010
+Retail Site Controller & Pump Data - MB,Retail Operations,Commercial & Marketing,DS-114,POS,Gilbarco,Flat-file transfer,Daily,On-premise,No,300,File upload -> Local Table,Medium,91.0,Active,2023
+Retail Site Controller & Pump Data - ON,Retail Operations,Commercial & Marketing,DS-115,POS,Gilbarco,Flat-file transfer,Daily,On-premise,No,300,File upload -> Local Table,Medium,87.6,Active,2012
+Retail Site Controller & Pump Data - QC,Retail Operations,Commercial & Marketing,DS-116,POS,Gilbarco,Flat-file transfer,Daily,On-premise,No,300,File upload -> Local Table,Medium,73.4,Active,2023
+Retail Site Controller & Pump Data - ATL,Retail Operations,Commercial & Marketing,DS-117,POS,Gilbarco,Flat-file transfer,Daily,On-premise,No,300,File upload -> Local Table,Medium,64.3,Decommissioning,2018
+Refinery Energy & Utilities Metering - R100,Refining Operations - Energy,Refining Operations,DS-118,Metering,Schneider Electric,OPC-UA,Real-time,On-premise,No,150,Edge historian -> file landing,Medium,76.3,Active,2022
+Turnaround & Inspection Records - R100,Inspection & Turnaround,Asset Reliability,DS-119,Inspection,Internal,File export (CSV),Weekly,On-premise,No,12,File upload -> Local Table,Medium,74.4,Active,2021
+Refinery Energy & Utilities Metering - R200,Refining Operations - Energy,Refining Operations,DS-120,Metering,Schneider Electric,OPC-UA,Real-time,On-premise,No,150,Edge historian -> file landing,Medium,79.2,Active,2024
+Turnaround & Inspection Records - R200,Inspection & Turnaround,Asset Reliability,DS-121,Inspection,Internal,File export (CSV),Weekly,On-premise,No,12,File upload -> Local Table,Medium,63.2,Active,2024
+Refinery Energy & Utilities Metering - R300,Refining Operations - Energy,Refining Operations,DS-122,Metering,Schneider Electric,OPC-UA,Real-time,On-premise,No,150,Edge historian -> file landing,Medium,69.6,Active,2024
+Turnaround & Inspection Records - R300,Inspection & Turnaround,Asset Reliability,DS-123,Inspection,Internal,File export (CSV),Weekly,On-premise,No,12,File upload -> Local Table,Medium,69.4,Active,2012
+HR - Contractor Safety Orientation Records,HR - Learning & Development,Human Resources,DS-124,Spreadsheet,Microsoft,File upload (CSV/XLSX),Monthly,SaaS,No,12,File upload -> Local Table,Medium,65.2,Active,2015
+Supplier Qualification Database (ESG & Safety),Strategic Sourcing,Procurement,DS-125,Supplier risk,Internal,REST API,Weekly,SaaS,No,12,API ingestion via Integration Suite,Medium,98.6,Active,2010
+Enterprise Risk Register (GRC),Enterprise Risk Management,Corporate Strategy,DS-126,GRC,SAP,OData API,Monthly,On-premise,No,30,Datasphere OData connection,Medium,84.4,Active,2011
+Project Portfolio Management Tool,Capital Projects Office,Corporate Strategy,DS-127,PPM,Planview,REST API,Weekly,SaaS,No,5,API ingestion via Integration Suite,Medium,77.2,Active,2023
+Low-Carbon Fuel Certificates Ledger,Trading Operations,Sales & Trading,DS-128,Environmental credits,Internal,JDBC,Daily,On-premise,No,5,File upload -> Local Table,Medium,88.0,Active,2024
+Hedge Accounting & Derivative Valuation Tool,Treasury,Finance,DS-129,Valuation,Internal,File upload (CSV/XLSX),Daily,On-premise,No,12,File upload -> Local Table,Medium,89.8,Active,2023
+Supplier EDI Gateway (ASN / Invoices),Supply Chain & Procurement,Procurement,DS-130,EDI,Internal,EDI X12,Hourly,External,No,12,File upload -> Local Table,Medium,77.5,Active,2015
+BI Platform Content Catalogue (WebI / SAC / Power BI),BI Centre of Excellence,Data & Analytics,DS-131,Metadata,Internal,REST API,Weekly,SaaS,No,12,API ingestion via Integration Suite,Medium,85.7,Active,2025
+API Gateway Traffic Logs,Integration CoE,Enterprise Architecture,DS-132,Integration,Internal,REST API,Daily,SaaS,No,5,API ingestion via Integration Suite,Medium,77.9,Active,2020
+Cloud Cost Management (FinOps) Export,IT Finance,Enterprise Architecture,DS-133,FinOps,Microsoft,File export (CSV),Monthly,SaaS,No,12,File upload -> Local Table,Medium,71.2,Planned,2015
+AVEVA PI Asset Framework - Region 1,Upstream Operations - Control Systems,Upstream Operations,DS-134,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,81.5,Active,2024
+AVEVA PI Asset Framework - Region 2,Upstream Operations - Control Systems,Upstream Operations,DS-135,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,62.7,Active,2019
+AVEVA PI Asset Framework - Region 3,Upstream Operations - Control Systems,Upstream Operations,DS-136,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,85.8,Active,2016
+AVEVA PI Asset Framework - Region 4,Upstream Operations - Control Systems,Upstream Operations,DS-137,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,84.0,Active,2011
+AVEVA PI Asset Framework - Region 5,Upstream Operations - Control Systems,Upstream Operations,DS-138,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,77.2,Active,2011
+AVEVA PI Asset Framework - Region 6,Upstream Operations - Control Systems,Upstream Operations,DS-139,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,72.4,Active,2019
+AVEVA PI Asset Framework - Region 7,Upstream Operations - Control Systems,Upstream Operations,DS-140,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,68.3,Active,2020
+AVEVA PI Asset Framework - Region 8,Upstream Operations - Control Systems,Upstream Operations,DS-141,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,73.2,Active,2015
+AVEVA PI Asset Framework - Region 9,Upstream Operations - Control Systems,Upstream Operations,DS-142,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,81.2,Active,2012
+AVEVA PI Asset Framework - Region 10,Upstream Operations - Control Systems,Upstream Operations,DS-143,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,75.1,Active,2008
+AVEVA PI Asset Framework - Region 11,Upstream Operations - Control Systems,Upstream Operations,DS-144,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,76.7,Active,2013
+AVEVA PI Asset Framework - Region 12,Upstream Operations - Control Systems,Upstream Operations,DS-145,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,94.9,Active,2024
+AVEVA PI Asset Framework - Region 13,Upstream Operations - Control Systems,Upstream Operations,DS-146,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,97.8,Active,2015
+AVEVA PI Asset Framework - Region 14,Upstream Operations - Control Systems,Upstream Operations,DS-147,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,88.7,Planned,2021
+AVEVA PI Asset Framework - Region 15,Upstream Operations - Control Systems,Upstream Operations,DS-148,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,83.7,Active,2018
+AVEVA PI Asset Framework - Region 16,Upstream Operations - Control Systems,Upstream Operations,DS-149,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,70.6,Active,2013
+AVEVA PI Asset Framework - Region 17,Upstream Operations - Control Systems,Upstream Operations,DS-150,Historian,AVEVA,PI Web API,Real-time,On-premise,No,500,PI -> Data Flow (batch),Medium,96.3,Active,2011
