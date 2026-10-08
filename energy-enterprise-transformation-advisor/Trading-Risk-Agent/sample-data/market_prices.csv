@@ -1,0 +1,1001 @@
+Commodity,Date,Price,Unit,Currency,Benchmark,Price_Source,Daily_Change_Pct,Price_CAD,Volatility_20D_Annualized_Pct
+WTI Crude,2026-05-21,63.01,bbl,USD,NYMEX WTI front-month settlement,CME,,86.32,
+WTI Crude,2026-05-22,62.42,bbl,USD,NYMEX WTI front-month settlement,CME,-0.94,85.52,
+WTI Crude,2026-05-25,61.98,bbl,USD,NYMEX WTI front-month settlement,CME,-0.7,84.91,
+WTI Crude,2026-05-26,60.74,bbl,USD,NYMEX WTI front-month settlement,CME,-2.0,83.21,
+WTI Crude,2026-05-27,61.29,bbl,USD,NYMEX WTI front-month settlement,CME,0.91,83.97,
+WTI Crude,2026-05-28,62.38,bbl,USD,NYMEX WTI front-month settlement,CME,1.78,85.46,
+WTI Crude,2026-05-29,62.79,bbl,USD,NYMEX WTI front-month settlement,CME,0.65,86.02,
+WTI Crude,2026-06-01,63.53,bbl,USD,NYMEX WTI front-month settlement,CME,1.18,87.04,
+WTI Crude,2026-06-02,63.25,bbl,USD,NYMEX WTI front-month settlement,CME,-0.44,86.65,
+WTI Crude,2026-06-03,60.76,bbl,USD,NYMEX WTI front-month settlement,CME,-3.94,83.24,
+WTI Crude,2026-06-04,61.41,bbl,USD,NYMEX WTI front-month settlement,CME,1.07,84.13,
+WTI Crude,2026-06-05,61.63,bbl,USD,NYMEX WTI front-month settlement,CME,0.36,84.43,
+WTI Crude,2026-06-08,59.97,bbl,USD,NYMEX WTI front-month settlement,CME,-2.69,82.16,
+WTI Crude,2026-06-09,59.59,bbl,USD,NYMEX WTI front-month settlement,CME,-0.64,81.64,
+WTI Crude,2026-06-10,59.59,bbl,USD,NYMEX WTI front-month settlement,CME,-0.01,81.64,
+WTI Crude,2026-06-11,58.75,bbl,USD,NYMEX WTI front-month settlement,CME,-1.41,80.49,
+WTI Crude,2026-06-12,58.94,bbl,USD,NYMEX WTI front-month settlement,CME,0.32,80.75,
+WTI Crude,2026-06-15,58.72,bbl,USD,NYMEX WTI front-month settlement,CME,-0.38,80.45,
+WTI Crude,2026-06-16,58.74,bbl,USD,NYMEX WTI front-month settlement,CME,0.04,80.47,
+WTI Crude,2026-06-17,58.39,bbl,USD,NYMEX WTI front-month settlement,CME,-0.59,79.99,
+WTI Crude,2026-06-18,58.2,bbl,USD,NYMEX WTI front-month settlement,CME,-0.33,79.73,21.9
+WTI Crude,2026-06-19,56.89,bbl,USD,NYMEX WTI front-month settlement,CME,-2.25,77.94,22.8
+WTI Crude,2026-06-22,57.21,bbl,USD,NYMEX WTI front-month settlement,CME,0.56,78.38,23.1
+WTI Crude,2026-06-23,56.72,bbl,USD,NYMEX WTI front-month settlement,CME,-0.86,77.71,22.4
+WTI Crude,2026-06-24,56.96,bbl,USD,NYMEX WTI front-month settlement,CME,0.43,78.04,22.1
+WTI Crude,2026-06-25,56.6,bbl,USD,NYMEX WTI front-month settlement,CME,-0.63,77.54,20.6
+WTI Crude,2026-06-26,56.35,bbl,USD,NYMEX WTI front-month settlement,CME,-0.44,77.2,20.2
+WTI Crude,2026-06-29,56.37,bbl,USD,NYMEX WTI front-month settlement,CME,0.03,77.23,19.3
+WTI Crude,2026-06-30,56.22,bbl,USD,NYMEX WTI front-month settlement,CME,-0.26,77.02,19.3
+WTI Crude,2026-07-01,56.61,bbl,USD,NYMEX WTI front-month settlement,CME,0.69,77.56,14.9
+WTI Crude,2026-07-02,56.49,bbl,USD,NYMEX WTI front-month settlement,CME,-0.21,77.39,14.0
+WTI Crude,2026-07-03,56.63,bbl,USD,NYMEX WTI front-month settlement,CME,0.27,77.58,13.9
+WTI Crude,2026-07-06,57.46,bbl,USD,NYMEX WTI front-month settlement,CME,1.46,78.72,12.6
+WTI Crude,2026-07-07,56.25,bbl,USD,NYMEX WTI front-month settlement,CME,-2.1,77.06,14.3
+WTI Crude,2026-07-08,55.02,bbl,USD,NYMEX WTI front-month settlement,CME,-2.19,75.38,15.8
+WTI Crude,2026-07-09,53.82,bbl,USD,NYMEX WTI front-month settlement,CME,-2.17,73.73,16.6
+WTI Crude,2026-07-10,52.51,bbl,USD,NYMEX WTI front-month settlement,CME,-2.44,71.94,17.9
+WTI Crude,2026-07-13,52.0,bbl,USD,NYMEX WTI front-month settlement,CME,-0.97,71.24,17.9
+WTI Crude,2026-07-14,52.0,bbl,USD,NYMEX WTI front-month settlement,CME,0.0,71.24,17.9
+WTI Crude,2026-07-15,52.09,bbl,USD,NYMEX WTI front-month settlement,CME,0.18,71.36,18.1
+WTI Crude,2026-07-16,52.39,bbl,USD,NYMEX WTI front-month settlement,CME,0.57,71.77,18.5
+WTI Crude,2026-07-17,53.06,bbl,USD,NYMEX WTI front-month settlement,CME,1.28,72.69,18.4
+WTI Crude,2026-07-20,54.35,bbl,USD,NYMEX WTI front-month settlement,CME,2.44,74.46,20.6
+WTI Crude,2026-07-21,54.73,bbl,USD,NYMEX WTI front-month settlement,CME,0.69,74.98,20.7
+WTI Crude,2026-07-22,53.84,bbl,USD,NYMEX WTI front-month settlement,CME,-1.63,73.76,21.2
+WTI Crude,2026-07-23,52.97,bbl,USD,NYMEX WTI front-month settlement,CME,-1.61,72.57,21.7
+WTI Crude,2026-07-24,53.34,bbl,USD,NYMEX WTI front-month settlement,CME,0.7,73.08,22.0
+WTI Crude,2026-07-27,54.78,bbl,USD,NYMEX WTI front-month settlement,CME,2.7,75.05,24.4
+WTI Crude,2026-07-28,54.98,bbl,USD,NYMEX WTI front-month settlement,CME,0.36,75.32,24.4
+WTI Crude,2026-07-29,55.49,bbl,USD,NYMEX WTI front-month settlement,CME,0.94,76.02,24.6
+WTI Crude,2026-07-30,55.79,bbl,USD,NYMEX WTI front-month settlement,CME,0.54,76.43,24.7
+WTI Crude,2026-07-31,54.79,bbl,USD,NYMEX WTI front-month settlement,CME,-1.79,75.06,25.4
+WTI Crude,2026-08-03,56.41,bbl,USD,NYMEX WTI front-month settlement,CME,2.96,77.28,27.1
+WTI Crude,2026-08-04,56.73,bbl,USD,NYMEX WTI front-month settlement,CME,0.56,77.72,26.1
+WTI Crude,2026-08-05,57.0,bbl,USD,NYMEX WTI front-month settlement,CME,0.48,78.09,24.7
+WTI Crude,2026-08-06,57.6,bbl,USD,NYMEX WTI front-month settlement,CME,1.05,78.91,23.2
+WTI Crude,2026-08-07,57.84,bbl,USD,NYMEX WTI front-month settlement,CME,0.41,79.24,20.7
+WTI Crude,2026-08-10,57.5,bbl,USD,NYMEX WTI front-month settlement,CME,-0.58,78.78,20.4
+WTI Crude,2026-08-11,57.33,bbl,USD,NYMEX WTI front-month settlement,CME,-0.3,78.54,20.5
+WTI Crude,2026-08-12,56.84,bbl,USD,NYMEX WTI front-month settlement,CME,-0.85,77.87,21.0
+WTI Crude,2026-08-13,56.6,bbl,USD,NYMEX WTI front-month settlement,CME,-0.43,77.54,21.3
+WTI Crude,2026-08-14,56.22,bbl,USD,NYMEX WTI front-month settlement,CME,-0.67,77.02,21.3
+WTI Crude,2026-08-17,55.76,bbl,USD,NYMEX WTI front-month settlement,CME,-0.82,76.39,20.1
+WTI Crude,2026-08-18,55.99,bbl,USD,NYMEX WTI front-month settlement,CME,0.41,76.71,20.0
+WTI Crude,2026-08-19,54.97,bbl,USD,NYMEX WTI front-month settlement,CME,-1.82,75.31,20.3
+WTI Crude,2026-08-20,55.64,bbl,USD,NYMEX WTI front-month settlement,CME,1.22,76.23,19.5
+WTI Crude,2026-08-21,56.55,bbl,USD,NYMEX WTI front-month settlement,CME,1.64,77.47,20.1
+WTI Crude,2026-08-24,54.56,bbl,USD,NYMEX WTI front-month settlement,CME,-3.52,74.75,22.4
+WTI Crude,2026-08-25,55.72,bbl,USD,NYMEX WTI front-month settlement,CME,2.12,76.34,23.6
+WTI Crude,2026-08-26,56.45,bbl,USD,NYMEX WTI front-month settlement,CME,1.31,77.34,23.8
+WTI Crude,2026-08-27,56.22,bbl,USD,NYMEX WTI front-month settlement,CME,-0.41,77.02,23.8
+WTI Crude,2026-08-28,56.22,bbl,USD,NYMEX WTI front-month settlement,CME,-0.01,77.02,22.8
+WTI Crude,2026-08-31,56.41,bbl,USD,NYMEX WTI front-month settlement,CME,0.34,77.28,20.3
+WTI Crude,2026-09-01,56.36,bbl,USD,NYMEX WTI front-month settlement,CME,-0.07,77.21,20.2
+WTI Crude,2026-09-02,56.58,bbl,USD,NYMEX WTI front-month settlement,CME,0.39,77.51,20.2
+WTI Crude,2026-09-03,56.69,bbl,USD,NYMEX WTI front-month settlement,CME,0.19,77.67,19.8
+WTI Crude,2026-09-04,57.4,bbl,USD,NYMEX WTI front-month settlement,CME,1.25,78.64,20.3
+WTI Crude,2026-09-07,56.52,bbl,USD,NYMEX WTI front-month settlement,CME,-1.54,77.43,20.9
+WTI Crude,2026-09-08,56.28,bbl,USD,NYMEX WTI front-month settlement,CME,-0.42,77.1,20.9
+WTI Crude,2026-09-09,57.21,bbl,USD,NYMEX WTI front-month settlement,CME,1.65,78.38,21.6
+WTI Crude,2026-09-10,58.56,bbl,USD,NYMEX WTI front-month settlement,CME,2.36,80.23,23.0
+WTI Crude,2026-09-11,58.59,bbl,USD,NYMEX WTI front-month settlement,CME,0.05,80.27,22.8
+WTI Crude,2026-09-14,58.98,bbl,USD,NYMEX WTI front-month settlement,CME,0.66,80.8,22.5
+WTI Crude,2026-09-15,59.14,bbl,USD,NYMEX WTI front-month settlement,CME,0.27,81.02,22.5
+WTI Crude,2026-09-16,59.65,bbl,USD,NYMEX WTI front-month settlement,CME,0.86,81.72,21.1
+WTI Crude,2026-09-17,59.7,bbl,USD,NYMEX WTI front-month settlement,CME,0.09,81.79,20.9
+WTI Crude,2026-09-18,59.27,bbl,USD,NYMEX WTI front-month settlement,CME,-0.73,81.2,20.7
+WTI Crude,2026-09-21,59.85,bbl,USD,NYMEX WTI front-month settlement,CME,0.97,81.99,15.1
+WTI Crude,2026-09-22,60.13,bbl,USD,NYMEX WTI front-month settlement,CME,0.47,82.38,13.9
+WTI Crude,2026-09-23,60.42,bbl,USD,NYMEX WTI front-month settlement,CME,0.5,82.78,13.4
+WTI Crude,2026-09-24,61.07,bbl,USD,NYMEX WTI front-month settlement,CME,1.07,83.67,13.4
+WTI Crude,2026-09-25,60.8,bbl,USD,NYMEX WTI front-month settlement,CME,-0.44,83.3,13.6
+WTI Crude,2026-09-28,60.57,bbl,USD,NYMEX WTI front-month settlement,CME,-0.38,82.98,13.9
+WTI Crude,2026-09-29,60.08,bbl,USD,NYMEX WTI front-month settlement,CME,-0.81,82.31,14.4
+WTI Crude,2026-09-30,59.33,bbl,USD,NYMEX WTI front-month settlement,CME,-1.24,81.28,15.5
+WTI Crude,2026-10-01,59.0,bbl,USD,NYMEX WTI front-month settlement,CME,-0.56,80.83,15.7
+WTI Crude,2026-10-02,58.52,bbl,USD,NYMEX WTI front-month settlement,CME,-0.81,80.17,15.6
+WTI Crude,2026-10-05,56.68,bbl,USD,NYMEX WTI front-month settlement,CME,-3.15,77.65,18.7
+WTI Crude,2026-10-06,56.12,bbl,USD,NYMEX WTI front-month settlement,CME,-0.99,76.88,19.0
+WTI Crude,2026-10-07,56.12,bbl,USD,NYMEX WTI front-month settlement,CME,0.0,76.88,18.0
+WCS Heavy Crude,2026-05-21,49.3,bbl,USD,WCS at Hardisty (assessment),Argus,,67.54,
+WCS Heavy Crude,2026-05-22,48.21,bbl,USD,WCS at Hardisty (assessment),Argus,-2.21,66.05,
+WCS Heavy Crude,2026-05-25,47.65,bbl,USD,WCS at Hardisty (assessment),Argus,-1.16,65.28,
+WCS Heavy Crude,2026-05-26,46.55,bbl,USD,WCS at Hardisty (assessment),Argus,-2.33,63.77,
+WCS Heavy Crude,2026-05-27,47.76,bbl,USD,WCS at Hardisty (assessment),Argus,2.6,65.43,
+WCS Heavy Crude,2026-05-28,49.56,bbl,USD,WCS at Hardisty (assessment),Argus,3.77,67.9,
+WCS Heavy Crude,2026-05-29,48.59,bbl,USD,WCS at Hardisty (assessment),Argus,-1.94,66.57,
+WCS Heavy Crude,2026-06-01,50.64,bbl,USD,WCS at Hardisty (assessment),Argus,4.2,69.38,
+WCS Heavy Crude,2026-06-02,50.02,bbl,USD,WCS at Hardisty (assessment),Argus,-1.22,68.53,
+WCS Heavy Crude,2026-06-03,48.21,bbl,USD,WCS at Hardisty (assessment),Argus,-3.61,66.05,
+WCS Heavy Crude,2026-06-04,49.52,bbl,USD,WCS at Hardisty (assessment),Argus,2.7,67.84,
+WCS Heavy Crude,2026-06-05,48.38,bbl,USD,WCS at Hardisty (assessment),Argus,-2.29,66.28,
+WCS Heavy Crude,2026-06-08,46.59,bbl,USD,WCS at Hardisty (assessment),Argus,-3.69,63.83,
+WCS Heavy Crude,2026-06-09,44.87,bbl,USD,WCS at Hardisty (assessment),Argus,-3.7,61.47,
+WCS Heavy Crude,2026-06-10,46.13,bbl,USD,WCS at Hardisty (assessment),Argus,2.8,63.2,
+WCS Heavy Crude,2026-06-11,44.25,bbl,USD,WCS at Hardisty (assessment),Argus,-4.07,60.62,
+WCS Heavy Crude,2026-06-12,43.99,bbl,USD,WCS at Hardisty (assessment),Argus,-0.59,60.27,
+WCS Heavy Crude,2026-06-15,42.45,bbl,USD,WCS at Hardisty (assessment),Argus,-3.5,58.16,
+WCS Heavy Crude,2026-06-16,44.36,bbl,USD,WCS at Hardisty (assessment),Argus,4.49,60.77,
+WCS Heavy Crude,2026-06-17,42.95,bbl,USD,WCS at Hardisty (assessment),Argus,-3.17,58.84,
+WCS Heavy Crude,2026-06-18,43.43,bbl,USD,WCS at Hardisty (assessment),Argus,1.11,59.5,47.4
+WCS Heavy Crude,2026-06-19,43.38,bbl,USD,WCS at Hardisty (assessment),Argus,-0.12,59.43,47.1
+WCS Heavy Crude,2026-06-22,43.78,bbl,USD,WCS at Hardisty (assessment),Argus,0.93,59.98,47.3
+WCS Heavy Crude,2026-06-23,43.42,bbl,USD,WCS at Hardisty (assessment),Argus,-0.82,59.49,46.8
+WCS Heavy Crude,2026-06-24,43.88,bbl,USD,WCS at Hardisty (assessment),Argus,1.04,60.12,45.8
+WCS Heavy Crude,2026-06-25,43.75,bbl,USD,WCS at Hardisty (assessment),Argus,-0.3,59.94,43.2
+WCS Heavy Crude,2026-06-26,42.06,bbl,USD,WCS at Hardisty (assessment),Argus,-3.85,57.62,44.5
+WCS Heavy Crude,2026-06-29,42.71,bbl,USD,WCS at Hardisty (assessment),Argus,1.53,58.51,41.6
+WCS Heavy Crude,2026-06-30,41.96,bbl,USD,WCS at Hardisty (assessment),Argus,-1.75,57.49,41.7
+WCS Heavy Crude,2026-07-01,41.65,bbl,USD,WCS at Hardisty (assessment),Argus,-0.74,57.06,40.4
+WCS Heavy Crude,2026-07-02,41.19,bbl,USD,WCS at Hardisty (assessment),Argus,-1.1,56.43,38.4
+WCS Heavy Crude,2026-07-03,42.62,bbl,USD,WCS at Hardisty (assessment),Argus,3.47,58.39,40.9
+WCS Heavy Crude,2026-07-06,42.47,bbl,USD,WCS at Hardisty (assessment),Argus,-0.36,58.18,39.2
+WCS Heavy Crude,2026-07-07,41.82,bbl,USD,WCS at Hardisty (assessment),Argus,-1.52,57.29,37.5
+WCS Heavy Crude,2026-07-08,40.16,bbl,USD,WCS at Hardisty (assessment),Argus,-3.97,55.02,37.8
+WCS Heavy Crude,2026-07-09,38.3,bbl,USD,WCS at Hardisty (assessment),Argus,-4.64,52.47,38.5
+WCS Heavy Crude,2026-07-10,37.73,bbl,USD,WCS at Hardisty (assessment),Argus,-1.49,51.69,38.6
+WCS Heavy Crude,2026-07-13,38.98,bbl,USD,WCS at Hardisty (assessment),Argus,3.32,53.4,39.7
+WCS Heavy Crude,2026-07-14,40.42,bbl,USD,WCS at Hardisty (assessment),Argus,3.68,55.38,38.5
+WCS Heavy Crude,2026-07-15,39.18,bbl,USD,WCS at Hardisty (assessment),Argus,-3.06,53.68,38.4
+WCS Heavy Crude,2026-07-16,39.24,bbl,USD,WCS at Hardisty (assessment),Argus,0.15,53.76,38.0
+WCS Heavy Crude,2026-07-17,39.59,bbl,USD,WCS at Hardisty (assessment),Argus,0.89,54.24,38.3
+WCS Heavy Crude,2026-07-20,40.23,bbl,USD,WCS at Hardisty (assessment),Argus,1.63,55.12,38.7
+WCS Heavy Crude,2026-07-21,40.51,bbl,USD,WCS at Hardisty (assessment),Argus,0.69,55.5,38.9
+WCS Heavy Crude,2026-07-22,39.33,bbl,USD,WCS at Hardisty (assessment),Argus,-2.92,53.88,39.6
+WCS Heavy Crude,2026-07-23,36.3,bbl,USD,WCS at Hardisty (assessment),Argus,-7.7,49.73,47.6
+WCS Heavy Crude,2026-07-24,37.04,bbl,USD,WCS at Hardisty (assessment),Argus,2.04,50.74,47.3
+WCS Heavy Crude,2026-07-27,39.07,bbl,USD,WCS at Hardisty (assessment),Argus,5.48,53.53,51.4
+WCS Heavy Crude,2026-07-28,41.12,bbl,USD,WCS at Hardisty (assessment),Argus,5.25,56.33,54.7
+WCS Heavy Crude,2026-07-29,41.2,bbl,USD,WCS at Hardisty (assessment),Argus,0.21,56.44,54.7
+WCS Heavy Crude,2026-07-30,42.66,bbl,USD,WCS at Hardisty (assessment),Argus,3.54,58.44,55.9
+WCS Heavy Crude,2026-07-31,41.87,bbl,USD,WCS at Hardisty (assessment),Argus,-1.86,57.36,55.0
+WCS Heavy Crude,2026-08-03,44.91,bbl,USD,WCS at Hardisty (assessment),Argus,7.26,61.53,60.5
+WCS Heavy Crude,2026-08-04,44.63,bbl,USD,WCS at Hardisty (assessment),Argus,-0.62,61.14,60.2
+WCS Heavy Crude,2026-08-05,46.0,bbl,USD,WCS at Hardisty (assessment),Argus,3.08,63.02,58.6
+WCS Heavy Crude,2026-08-06,46.6,bbl,USD,WCS at Hardisty (assessment),Argus,1.3,63.84,55.0
+WCS Heavy Crude,2026-08-07,45.79,bbl,USD,WCS at Hardisty (assessment),Argus,-1.75,62.73,55.1
+WCS Heavy Crude,2026-08-10,45.21,bbl,USD,WCS at Hardisty (assessment),Argus,-1.26,61.94,55.0
+WCS Heavy Crude,2026-08-11,43.41,bbl,USD,WCS at Hardisty (assessment),Argus,-3.99,59.47,56.4
+WCS Heavy Crude,2026-08-12,41.69,bbl,USD,WCS at Hardisty (assessment),Argus,-3.97,57.12,57.3
+WCS Heavy Crude,2026-08-13,40.3,bbl,USD,WCS at Hardisty (assessment),Argus,-3.32,55.21,58.7
+WCS Heavy Crude,2026-08-14,39.22,bbl,USD,WCS at Hardisty (assessment),Argus,-2.69,53.73,59.5
+WCS Heavy Crude,2026-08-17,39.56,bbl,USD,WCS at Hardisty (assessment),Argus,0.87,54.2,59.3
+WCS Heavy Crude,2026-08-18,39.62,bbl,USD,WCS at Hardisty (assessment),Argus,0.13,54.28,59.2
+WCS Heavy Crude,2026-08-19,38.23,bbl,USD,WCS at Hardisty (assessment),Argus,-3.5,52.38,59.7
+WCS Heavy Crude,2026-08-20,38.64,bbl,USD,WCS at Hardisty (assessment),Argus,1.08,52.94,52.0
+WCS Heavy Crude,2026-08-21,40.73,bbl,USD,WCS at Hardisty (assessment),Argus,5.4,55.8,54.6
+WCS Heavy Crude,2026-08-24,38.03,bbl,USD,WCS at Hardisty (assessment),Argus,-6.61,52.1,57.3
+WCS Heavy Crude,2026-08-25,38.8,bbl,USD,WCS at Hardisty (assessment),Argus,2.02,53.16,54.5
+WCS Heavy Crude,2026-08-26,40.98,bbl,USD,WCS at Hardisty (assessment),Argus,5.62,56.14,58.2
+WCS Heavy Crude,2026-08-27,40.38,bbl,USD,WCS at Hardisty (assessment),Argus,-1.46,55.32,56.9
+WCS Heavy Crude,2026-08-28,40.33,bbl,USD,WCS at Hardisty (assessment),Argus,-0.13,55.25,56.6
+WCS Heavy Crude,2026-08-31,41.57,bbl,USD,WCS at Hardisty (assessment),Argus,3.08,56.95,51.4
+WCS Heavy Crude,2026-09-01,40.87,bbl,USD,WCS at Hardisty (assessment),Argus,-1.69,55.99,51.6
+WCS Heavy Crude,2026-09-02,41.19,bbl,USD,WCS at Hardisty (assessment),Argus,0.79,56.43,50.2
+WCS Heavy Crude,2026-09-03,39.91,bbl,USD,WCS at Hardisty (assessment),Argus,-3.12,54.68,50.5
+WCS Heavy Crude,2026-09-04,40.94,bbl,USD,WCS at Hardisty (assessment),Argus,2.57,56.09,51.7
+WCS Heavy Crude,2026-09-07,40.83,bbl,USD,WCS at Hardisty (assessment),Argus,-0.25,55.94,51.6
+WCS Heavy Crude,2026-09-08,40.13,bbl,USD,WCS at Hardisty (assessment),Argus,-1.72,54.98,50.1
+WCS Heavy Crude,2026-09-09,41.13,bbl,USD,WCS at Hardisty (assessment),Argus,2.5,56.35,49.2
+WCS Heavy Crude,2026-09-10,41.97,bbl,USD,WCS at Hardisty (assessment),Argus,2.04,57.5,48.1
+WCS Heavy Crude,2026-09-11,42.69,bbl,USD,WCS at Hardisty (assessment),Argus,1.71,58.49,47.0
+WCS Heavy Crude,2026-09-14,41.98,bbl,USD,WCS at Hardisty (assessment),Argus,-1.67,57.51,47.6
+WCS Heavy Crude,2026-09-15,42.39,bbl,USD,WCS at Hardisty (assessment),Argus,0.99,58.07,47.7
+WCS Heavy Crude,2026-09-16,44.17,bbl,USD,WCS at Hardisty (assessment),Argus,4.19,60.51,47.1
+WCS Heavy Crude,2026-09-17,45.23,bbl,USD,WCS at Hardisty (assessment),Argus,2.4,61.97,47.4
+WCS Heavy Crude,2026-09-18,44.39,bbl,USD,WCS at Hardisty (assessment),Argus,-1.85,60.81,45.2
+WCS Heavy Crude,2026-09-21,45.06,bbl,USD,WCS at Hardisty (assessment),Argus,1.49,61.73,36.2
+WCS Heavy Crude,2026-09-22,45.41,bbl,USD,WCS at Hardisty (assessment),Argus,0.78,62.21,36.0
+WCS Heavy Crude,2026-09-23,45.23,bbl,USD,WCS at Hardisty (assessment),Argus,-0.4,61.97,31.6
+WCS Heavy Crude,2026-09-24,45.88,bbl,USD,WCS at Hardisty (assessment),Argus,1.44,62.86,30.9
+WCS Heavy Crude,2026-09-25,46.38,bbl,USD,WCS at Hardisty (assessment),Argus,1.09,63.54,30.8
+WCS Heavy Crude,2026-09-28,45.46,bbl,USD,WCS at Hardisty (assessment),Argus,-1.99,62.28,30.9
+WCS Heavy Crude,2026-09-29,45.28,bbl,USD,WCS at Hardisty (assessment),Argus,-0.39,62.03,30.1
+WCS Heavy Crude,2026-09-30,44.2,bbl,USD,WCS at Hardisty (assessment),Argus,-2.39,60.55,31.8
+WCS Heavy Crude,2026-10-01,44.14,bbl,USD,WCS at Hardisty (assessment),Argus,-0.12,60.47,29.0
+WCS Heavy Crude,2026-10-02,45.49,bbl,USD,WCS at Hardisty (assessment),Argus,3.06,62.32,29.5
+WCS Heavy Crude,2026-10-05,44.07,bbl,USD,WCS at Hardisty (assessment),Argus,-3.14,60.38,32.2
+WCS Heavy Crude,2026-10-06,42.69,bbl,USD,WCS at Hardisty (assessment),Argus,-3.12,58.49,33.9
+WCS Heavy Crude,2026-10-07,43.17,bbl,USD,WCS at Hardisty (assessment),Argus,1.12,59.14,33.0
+Edmonton Par (MSW) Crude,2026-05-21,57.78,bbl,USD,Edmonton Par (MSW) assessment,Argus,,79.16,
+Edmonton Par (MSW) Crude,2026-05-22,56.95,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.43,78.02,
+Edmonton Par (MSW) Crude,2026-05-25,56.53,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.73,77.45,
+Edmonton Par (MSW) Crude,2026-05-26,55.86,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.2,76.53,
+Edmonton Par (MSW) Crude,2026-05-27,56.54,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.22,77.46,
+Edmonton Par (MSW) Crude,2026-05-28,57.78,bbl,USD,Edmonton Par (MSW) assessment,Argus,2.2,79.16,
+Edmonton Par (MSW) Crude,2026-05-29,57.46,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.55,78.72,
+Edmonton Par (MSW) Crude,2026-06-01,58.18,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.25,79.71,
+Edmonton Par (MSW) Crude,2026-06-02,57.43,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.3,78.68,
+Edmonton Par (MSW) Crude,2026-06-03,55.16,bbl,USD,Edmonton Par (MSW) assessment,Argus,-3.95,75.57,
+Edmonton Par (MSW) Crude,2026-06-04,55.2,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.09,75.62,
+Edmonton Par (MSW) Crude,2026-06-05,55.22,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.03,75.65,
+Edmonton Par (MSW) Crude,2026-06-08,54.1,bbl,USD,Edmonton Par (MSW) assessment,Argus,-2.04,74.12,
+Edmonton Par (MSW) Crude,2026-06-09,53.86,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.43,73.79,
+Edmonton Par (MSW) Crude,2026-06-10,53.52,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.64,73.32,
+Edmonton Par (MSW) Crude,2026-06-11,52.81,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.31,72.35,
+Edmonton Par (MSW) Crude,2026-06-12,53.52,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.34,73.32,
+Edmonton Par (MSW) Crude,2026-06-15,53.61,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.16,73.45,
+Edmonton Par (MSW) Crude,2026-06-16,52.57,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.93,72.02,
+Edmonton Par (MSW) Crude,2026-06-17,53.05,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.91,72.68,
+Edmonton Par (MSW) Crude,2026-06-18,52.64,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.77,72.12,22.9
+Edmonton Par (MSW) Crude,2026-06-19,52.47,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.32,71.88,22.6
+Edmonton Par (MSW) Crude,2026-06-22,52.57,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.18,72.02,22.6
+Edmonton Par (MSW) Crude,2026-06-23,52.27,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.56,71.61,22.4
+Edmonton Par (MSW) Crude,2026-06-24,52.61,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.64,72.08,22.0
+Edmonton Par (MSW) Crude,2026-06-25,51.8,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.53,70.97,20.2
+Edmonton Par (MSW) Crude,2026-06-26,51.28,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.0,70.25,20.3
+Edmonton Par (MSW) Crude,2026-06-29,50.94,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.66,69.79,19.1
+Edmonton Par (MSW) Crude,2026-06-30,51.05,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.21,69.94,19.2
+Edmonton Par (MSW) Crude,2026-07-01,51.04,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.01,69.92,14.3
+Edmonton Par (MSW) Crude,2026-07-02,51.45,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.79,70.49,14.8
+Edmonton Par (MSW) Crude,2026-07-03,52.07,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.22,71.34,15.8
+Edmonton Par (MSW) Crude,2026-07-06,52.44,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.71,71.84,14.7
+Edmonton Par (MSW) Crude,2026-07-07,50.94,bbl,USD,Edmonton Par (MSW) assessment,Argus,-2.86,69.79,17.6
+Edmonton Par (MSW) Crude,2026-07-08,49.51,bbl,USD,Edmonton Par (MSW) assessment,Argus,-2.81,67.83,19.8
+Edmonton Par (MSW) Crude,2026-07-09,47.86,bbl,USD,Edmonton Par (MSW) assessment,Argus,-3.34,65.57,22.3
+Edmonton Par (MSW) Crude,2026-07-10,47.17,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.43,64.62,21.5
+Edmonton Par (MSW) Crude,2026-07-13,46.87,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.63,64.21,21.3
+Edmonton Par (MSW) Crude,2026-07-14,46.95,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.17,64.32,20.9
+Edmonton Par (MSW) Crude,2026-07-15,47.91,bbl,USD,Edmonton Par (MSW) assessment,Argus,2.04,65.64,22.3
+Edmonton Par (MSW) Crude,2026-07-16,48.66,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.58,66.66,23.4
+Edmonton Par (MSW) Crude,2026-07-17,49.23,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.17,67.45,24.1
+Edmonton Par (MSW) Crude,2026-07-20,51.18,bbl,USD,Edmonton Par (MSW) assessment,Argus,3.94,70.12,28.3
+Edmonton Par (MSW) Crude,2026-07-21,50.81,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.71,69.61,28.3
+Edmonton Par (MSW) Crude,2026-07-22,49.84,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.92,68.28,28.8
+Edmonton Par (MSW) Crude,2026-07-23,49.22,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.23,67.43,28.7
+Edmonton Par (MSW) Crude,2026-07-24,49.34,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.23,67.6,28.6
+Edmonton Par (MSW) Crude,2026-07-27,51.38,bbl,USD,Edmonton Par (MSW) assessment,Argus,4.15,70.39,32.2
+Edmonton Par (MSW) Crude,2026-07-28,51.06,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.63,69.95,32.3
+Edmonton Par (MSW) Crude,2026-07-29,50.23,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.63,68.82,32.8
+Edmonton Par (MSW) Crude,2026-07-30,50.57,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.69,69.28,32.8
+Edmonton Par (MSW) Crude,2026-07-31,51.05,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.95,69.94,32.7
+Edmonton Par (MSW) Crude,2026-08-03,52.37,bbl,USD,Edmonton Par (MSW) assessment,Argus,2.57,71.75,33.9
+Edmonton Par (MSW) Crude,2026-08-04,52.41,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.08,71.8,32.1
+Edmonton Par (MSW) Crude,2026-08-05,52.08,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.63,71.35,30.3
+Edmonton Par (MSW) Crude,2026-08-06,53.09,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.94,72.73,27.6
+Edmonton Par (MSW) Crude,2026-08-07,53.61,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.99,73.45,26.6
+Edmonton Par (MSW) Crude,2026-08-10,53.6,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.03,73.43,26.3
+Edmonton Par (MSW) Crude,2026-08-11,53.71,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.21,73.58,26.3
+Edmonton Par (MSW) Crude,2026-08-12,52.05,bbl,USD,Edmonton Par (MSW) assessment,Argus,-3.09,71.31,29.0
+Edmonton Par (MSW) Crude,2026-08-13,51.54,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.98,70.61,29.1
+Edmonton Par (MSW) Crude,2026-08-14,51.84,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.59,71.02,28.9
+Edmonton Par (MSW) Crude,2026-08-17,50.17,bbl,USD,Edmonton Par (MSW) assessment,Argus,-3.22,68.73,28.2
+Edmonton Par (MSW) Crude,2026-08-18,51.16,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.97,70.09,29.0
+Edmonton Par (MSW) Crude,2026-08-19,50.82,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.68,69.62,28.2
+Edmonton Par (MSW) Crude,2026-08-20,51.51,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.36,70.57,28.1
+Edmonton Par (MSW) Crude,2026-08-21,52.02,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.0,71.27,28.2
+Edmonton Par (MSW) Crude,2026-08-24,49.01,bbl,USD,Edmonton Par (MSW) assessment,Argus,-5.79,67.14,32.5
+Edmonton Par (MSW) Crude,2026-08-25,49.96,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.94,68.45,33.3
+Edmonton Par (MSW) Crude,2026-08-26,50.91,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.91,69.75,33.5
+Edmonton Par (MSW) Crude,2026-08-27,50.8,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.22,69.6,33.4
+Edmonton Par (MSW) Crude,2026-08-28,50.47,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.66,69.14,33.3
+Edmonton Par (MSW) Crude,2026-08-31,50.4,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.14,69.05,31.9
+Edmonton Par (MSW) Crude,2026-09-01,51.45,bbl,USD,Edmonton Par (MSW) assessment,Argus,2.09,70.49,32.9
+Edmonton Par (MSW) Crude,2026-09-02,51.96,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.99,71.19,33.0
+Edmonton Par (MSW) Crude,2026-09-03,52.12,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.3,71.4,32.3
+Edmonton Par (MSW) Crude,2026-09-04,53.19,bbl,USD,Edmonton Par (MSW) assessment,Argus,2.05,72.87,32.9
+Edmonton Par (MSW) Crude,2026-09-07,52.39,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.5,71.77,33.3
+Edmonton Par (MSW) Crude,2026-09-08,52.19,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.38,71.5,33.3
+Edmonton Par (MSW) Crude,2026-09-09,53.42,bbl,USD,Edmonton Par (MSW) assessment,Argus,2.35,73.19,32.5
+Edmonton Par (MSW) Crude,2026-09-10,54.05,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.18,74.05,32.4
+Edmonton Par (MSW) Crude,2026-09-11,54.14,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.16,74.17,32.3
+Edmonton Par (MSW) Crude,2026-09-14,54.35,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.39,74.46,29.6
+Edmonton Par (MSW) Crude,2026-09-15,54.94,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.08,75.27,29.2
+Edmonton Par (MSW) Crude,2026-09-16,55.32,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.7,75.79,28.9
+Edmonton Par (MSW) Crude,2026-09-17,55.12,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.37,75.51,28.8
+Edmonton Par (MSW) Crude,2026-09-18,54.84,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.51,75.13,28.9
+Edmonton Par (MSW) Crude,2026-09-21,55.79,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.74,76.43,17.6
+Edmonton Par (MSW) Crude,2026-09-22,56.41,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.11,77.28,17.0
+Edmonton Par (MSW) Crude,2026-09-23,56.4,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.03,77.27,16.4
+Edmonton Par (MSW) Crude,2026-09-24,55.79,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.07,76.43,17.2
+Edmonton Par (MSW) Crude,2026-09-25,55.38,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.74,75.87,17.3
+Edmonton Par (MSW) Crude,2026-09-28,54.76,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.11,75.02,18.1
+Edmonton Par (MSW) Crude,2026-09-29,54.17,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.08,74.21,17.7
+Edmonton Par (MSW) Crude,2026-09-30,54.17,bbl,USD,Edmonton Par (MSW) assessment,Argus,-0.0,74.21,17.5
+Edmonton Par (MSW) Crude,2026-10-01,54.81,bbl,USD,Edmonton Par (MSW) assessment,Argus,1.19,75.09,17.8
+Edmonton Par (MSW) Crude,2026-10-02,53.32,bbl,USD,Edmonton Par (MSW) assessment,Argus,-2.72,73.05,19.5
+Edmonton Par (MSW) Crude,2026-10-05,51.23,bbl,USD,Edmonton Par (MSW) assessment,Argus,-3.93,70.19,23.7
+Edmonton Par (MSW) Crude,2026-10-06,50.34,bbl,USD,Edmonton Par (MSW) assessment,Argus,-1.74,68.97,24.4
+Edmonton Par (MSW) Crude,2026-10-07,50.76,bbl,USD,Edmonton Par (MSW) assessment,Argus,0.84,69.54,22.9
+Synthetic Crude (SYN),2026-05-21,63.05,bbl,USD,SYN at Edmonton (assessment),Platts,,86.38,
+Synthetic Crude (SYN),2026-05-22,62.39,bbl,USD,SYN at Edmonton (assessment),Platts,-1.05,85.47,
+Synthetic Crude (SYN),2026-05-25,61.2,bbl,USD,SYN at Edmonton (assessment),Platts,-1.91,83.84,
+Synthetic Crude (SYN),2026-05-26,60.08,bbl,USD,SYN at Edmonton (assessment),Platts,-1.83,82.31,
+Synthetic Crude (SYN),2026-05-27,61.24,bbl,USD,SYN at Edmonton (assessment),Platts,1.93,83.9,
+Synthetic Crude (SYN),2026-05-28,62.49,bbl,USD,SYN at Edmonton (assessment),Platts,2.03,85.61,
+Synthetic Crude (SYN),2026-05-29,62.72,bbl,USD,SYN at Edmonton (assessment),Platts,0.38,85.93,
+Synthetic Crude (SYN),2026-06-01,63.36,bbl,USD,SYN at Edmonton (assessment),Platts,1.02,86.8,
+Synthetic Crude (SYN),2026-06-02,62.51,bbl,USD,SYN at Edmonton (assessment),Platts,-1.34,85.64,
+Synthetic Crude (SYN),2026-06-03,60.42,bbl,USD,SYN at Edmonton (assessment),Platts,-3.34,82.78,
+Synthetic Crude (SYN),2026-06-04,60.96,bbl,USD,SYN at Edmonton (assessment),Platts,0.88,83.52,
+Synthetic Crude (SYN),2026-06-05,60.5,bbl,USD,SYN at Edmonton (assessment),Platts,-0.75,82.89,
+Synthetic Crude (SYN),2026-06-08,59.37,bbl,USD,SYN at Edmonton (assessment),Platts,-1.87,81.34,
+Synthetic Crude (SYN),2026-06-09,59.75,bbl,USD,SYN at Edmonton (assessment),Platts,0.64,81.86,
+Synthetic Crude (SYN),2026-06-10,59.69,bbl,USD,SYN at Edmonton (assessment),Platts,-0.1,81.78,
+Synthetic Crude (SYN),2026-06-11,59.03,bbl,USD,SYN at Edmonton (assessment),Platts,-1.1,80.87,
+Synthetic Crude (SYN),2026-06-12,59.27,bbl,USD,SYN at Edmonton (assessment),Platts,0.41,81.2,
+Synthetic Crude (SYN),2026-06-15,58.37,bbl,USD,SYN at Edmonton (assessment),Platts,-1.52,79.97,
+Synthetic Crude (SYN),2026-06-16,58.58,bbl,USD,SYN at Edmonton (assessment),Platts,0.35,80.25,
+Synthetic Crude (SYN),2026-06-17,58.18,bbl,USD,SYN at Edmonton (assessment),Platts,-0.67,79.71,
+Synthetic Crude (SYN),2026-06-18,57.94,bbl,USD,SYN at Edmonton (assessment),Platts,-0.42,79.38,22.1
+Synthetic Crude (SYN),2026-06-19,56.67,bbl,USD,SYN at Edmonton (assessment),Platts,-2.2,77.64,22.9
+Synthetic Crude (SYN),2026-06-22,56.86,bbl,USD,SYN at Edmonton (assessment),Platts,0.33,77.9,22.4
+Synthetic Crude (SYN),2026-06-23,57.09,bbl,USD,SYN at Edmonton (assessment),Platts,0.41,78.21,21.8
+Synthetic Crude (SYN),2026-06-24,57.12,bbl,USD,SYN at Edmonton (assessment),Platts,0.06,78.25,20.3
+Synthetic Crude (SYN),2026-06-25,56.94,bbl,USD,SYN at Edmonton (assessment),Platts,-0.31,78.01,18.3
+Synthetic Crude (SYN),2026-06-26,56.75,bbl,USD,SYN at Edmonton (assessment),Platts,-0.35,77.75,18.1
+Synthetic Crude (SYN),2026-06-29,56.77,bbl,USD,SYN at Edmonton (assessment),Platts,0.04,77.77,17.3
+Synthetic Crude (SYN),2026-06-30,57.08,bbl,USD,SYN at Edmonton (assessment),Platts,0.54,78.2,17.4
+Synthetic Crude (SYN),2026-07-01,57.28,bbl,USD,SYN at Edmonton (assessment),Platts,0.36,78.47,13.7
+Synthetic Crude (SYN),2026-07-02,57.29,bbl,USD,SYN at Edmonton (assessment),Platts,0.02,78.49,13.1
+Synthetic Crude (SYN),2026-07-03,57.06,bbl,USD,SYN at Edmonton (assessment),Platts,-0.4,78.17,13.0
+Synthetic Crude (SYN),2026-07-06,57.27,bbl,USD,SYN at Edmonton (assessment),Platts,0.36,78.46,11.8
+Synthetic Crude (SYN),2026-07-07,56.99,bbl,USD,SYN at Edmonton (assessment),Platts,-0.49,78.08,11.4
+Synthetic Crude (SYN),2026-07-08,55.95,bbl,USD,SYN at Edmonton (assessment),Platts,-1.81,76.65,12.7
+Synthetic Crude (SYN),2026-07-09,53.42,bbl,USD,SYN at Edmonton (assessment),Platts,-4.53,73.19,19.8
+Synthetic Crude (SYN),2026-07-10,51.84,bbl,USD,SYN at Edmonton (assessment),Platts,-2.97,71.02,21.4
+Synthetic Crude (SYN),2026-07-13,51.23,bbl,USD,SYN at Edmonton (assessment),Platts,-1.17,70.19,21.2
+Synthetic Crude (SYN),2026-07-14,51.24,bbl,USD,SYN at Edmonton (assessment),Platts,0.02,70.2,21.0
+Synthetic Crude (SYN),2026-07-15,51.71,bbl,USD,SYN at Edmonton (assessment),Platts,0.91,70.84,21.8
+Synthetic Crude (SYN),2026-07-16,51.82,bbl,USD,SYN at Edmonton (assessment),Platts,0.21,70.99,21.9
+Synthetic Crude (SYN),2026-07-17,52.52,bbl,USD,SYN at Edmonton (assessment),Platts,1.36,71.95,22.0
+Synthetic Crude (SYN),2026-07-20,54.19,bbl,USD,SYN at Edmonton (assessment),Platts,3.16,74.24,25.2
+Synthetic Crude (SYN),2026-07-21,53.91,bbl,USD,SYN at Edmonton (assessment),Platts,-0.51,73.86,25.1
+Synthetic Crude (SYN),2026-07-22,53.54,bbl,USD,SYN at Edmonton (assessment),Platts,-0.69,73.35,25.1
+Synthetic Crude (SYN),2026-07-23,53.12,bbl,USD,SYN at Edmonton (assessment),Platts,-0.77,72.77,25.1
+Synthetic Crude (SYN),2026-07-24,53.0,bbl,USD,SYN at Edmonton (assessment),Platts,-0.23,72.61,25.1
+Synthetic Crude (SYN),2026-07-27,54.91,bbl,USD,SYN at Edmonton (assessment),Platts,3.6,75.23,28.7
+Synthetic Crude (SYN),2026-07-28,54.91,bbl,USD,SYN at Edmonton (assessment),Platts,0.0,75.23,28.6
+Synthetic Crude (SYN),2026-07-29,55.31,bbl,USD,SYN at Edmonton (assessment),Platts,0.72,75.77,28.7
+Synthetic Crude (SYN),2026-07-30,55.62,bbl,USD,SYN at Edmonton (assessment),Platts,0.56,76.2,28.8
+Synthetic Crude (SYN),2026-07-31,55.01,bbl,USD,SYN at Edmonton (assessment),Platts,-1.09,75.36,29.0
+Synthetic Crude (SYN),2026-08-03,57.01,bbl,USD,SYN at Edmonton (assessment),Platts,3.63,78.1,31.9
+Synthetic Crude (SYN),2026-08-04,56.97,bbl,USD,SYN at Edmonton (assessment),Platts,-0.08,78.05,31.8
+Synthetic Crude (SYN),2026-08-05,57.53,bbl,USD,SYN at Edmonton (assessment),Platts,0.99,78.82,31.2
+Synthetic Crude (SYN),2026-08-06,57.71,bbl,USD,SYN at Edmonton (assessment),Platts,0.31,79.06,25.7
+Synthetic Crude (SYN),2026-08-07,58.15,bbl,USD,SYN at Edmonton (assessment),Platts,0.76,79.67,22.3
+Synthetic Crude (SYN),2026-08-10,57.23,bbl,USD,SYN at Edmonton (assessment),Platts,-1.58,78.41,22.8
+Synthetic Crude (SYN),2026-08-11,57.29,bbl,USD,SYN at Edmonton (assessment),Platts,0.1,78.49,22.8
+Synthetic Crude (SYN),2026-08-12,57.24,bbl,USD,SYN at Edmonton (assessment),Platts,-0.08,78.42,22.8
+Synthetic Crude (SYN),2026-08-13,57.71,bbl,USD,SYN at Edmonton (assessment),Platts,0.81,79.06,22.8
+Synthetic Crude (SYN),2026-08-14,57.39,bbl,USD,SYN at Edmonton (assessment),Platts,-0.55,78.62,22.9
+Synthetic Crude (SYN),2026-08-17,57.07,bbl,USD,SYN at Edmonton (assessment),Platts,-0.55,78.19,20.9
+Synthetic Crude (SYN),2026-08-18,56.67,bbl,USD,SYN at Edmonton (assessment),Platts,-0.7,77.64,21.0
+Synthetic Crude (SYN),2026-08-19,55.39,bbl,USD,SYN at Edmonton (assessment),Platts,-2.27,75.88,22.6
+Synthetic Crude (SYN),2026-08-20,55.85,bbl,USD,SYN at Edmonton (assessment),Platts,0.85,76.51,22.5
+Synthetic Crude (SYN),2026-08-21,57.61,bbl,USD,SYN at Edmonton (assessment),Platts,3.14,78.93,24.5
+Synthetic Crude (SYN),2026-08-24,55.82,bbl,USD,SYN at Edmonton (assessment),Platts,-3.1,76.47,24.7
+Synthetic Crude (SYN),2026-08-25,56.54,bbl,USD,SYN at Edmonton (assessment),Platts,1.28,77.46,25.1
+Synthetic Crude (SYN),2026-08-26,57.58,bbl,USD,SYN at Edmonton (assessment),Platts,1.83,78.88,25.7
+Synthetic Crude (SYN),2026-08-27,57.44,bbl,USD,SYN at Edmonton (assessment),Platts,-0.23,78.69,25.7
+Synthetic Crude (SYN),2026-08-28,57.31,bbl,USD,SYN at Edmonton (assessment),Platts,-0.23,78.51,25.3
+Synthetic Crude (SYN),2026-08-31,57.16,bbl,USD,SYN at Edmonton (assessment),Platts,-0.26,78.31,22.0
+Synthetic Crude (SYN),2026-09-01,56.98,bbl,USD,SYN at Edmonton (assessment),Platts,-0.31,78.06,22.0
+Synthetic Crude (SYN),2026-09-02,57.29,bbl,USD,SYN at Edmonton (assessment),Platts,0.54,78.49,21.8
+Synthetic Crude (SYN),2026-09-03,57.64,bbl,USD,SYN at Edmonton (assessment),Platts,0.61,78.97,21.9
+Synthetic Crude (SYN),2026-09-04,57.96,bbl,USD,SYN at Edmonton (assessment),Platts,0.56,79.41,21.8
+Synthetic Crude (SYN),2026-09-07,56.59,bbl,USD,SYN at Edmonton (assessment),Platts,-2.36,77.53,22.8
+Synthetic Crude (SYN),2026-09-08,55.63,bbl,USD,SYN at Edmonton (assessment),Platts,-1.69,76.21,23.5
+Synthetic Crude (SYN),2026-09-09,56.91,bbl,USD,SYN at Edmonton (assessment),Platts,2.29,77.97,25.0
+Synthetic Crude (SYN),2026-09-10,57.71,bbl,USD,SYN at Edmonton (assessment),Platts,1.42,79.06,25.4
+Synthetic Crude (SYN),2026-09-11,58.34,bbl,USD,SYN at Edmonton (assessment),Platts,1.08,79.93,25.5
+Synthetic Crude (SYN),2026-09-14,58.77,bbl,USD,SYN at Edmonton (assessment),Platts,0.75,80.51,25.5
+Synthetic Crude (SYN),2026-09-15,59.45,bbl,USD,SYN at Edmonton (assessment),Platts,1.15,81.45,25.6
+Synthetic Crude (SYN),2026-09-16,60.44,bbl,USD,SYN at Edmonton (assessment),Platts,1.66,82.8,24.2
+Synthetic Crude (SYN),2026-09-17,60.06,bbl,USD,SYN at Edmonton (assessment),Platts,-0.62,82.28,24.4
+Synthetic Crude (SYN),2026-09-18,59.26,bbl,USD,SYN at Edmonton (assessment),Platts,-1.34,81.19,22.8
+Synthetic Crude (SYN),2026-09-21,59.5,bbl,USD,SYN at Edmonton (assessment),Platts,0.41,81.52,19.3
+Synthetic Crude (SYN),2026-09-22,59.91,bbl,USD,SYN at Edmonton (assessment),Platts,0.69,82.08,19.0
+Synthetic Crude (SYN),2026-09-23,59.9,bbl,USD,SYN at Edmonton (assessment),Platts,-0.02,82.06,18.1
+Synthetic Crude (SYN),2026-09-24,60.34,bbl,USD,SYN at Edmonton (assessment),Platts,0.74,82.67,18.2
+Synthetic Crude (SYN),2026-09-25,60.32,bbl,USD,SYN at Edmonton (assessment),Platts,-0.03,82.64,18.1
+Synthetic Crude (SYN),2026-09-28,60.77,bbl,USD,SYN at Edmonton (assessment),Platts,0.74,83.25,18.1
+Synthetic Crude (SYN),2026-09-29,60.34,bbl,USD,SYN at Edmonton (assessment),Platts,-0.71,82.67,18.3
+Synthetic Crude (SYN),2026-09-30,59.59,bbl,USD,SYN at Edmonton (assessment),Platts,-1.24,81.64,19.0
+Synthetic Crude (SYN),2026-10-01,59.65,bbl,USD,SYN at Edmonton (assessment),Platts,0.09,81.72,19.0
+Synthetic Crude (SYN),2026-10-02,59.62,bbl,USD,SYN at Edmonton (assessment),Platts,-0.04,81.68,18.9
+Synthetic Crude (SYN),2026-10-05,57.94,bbl,USD,SYN at Edmonton (assessment),Platts,-2.82,79.38,19.8
+Synthetic Crude (SYN),2026-10-06,57.16,bbl,USD,SYN at Edmonton (assessment),Platts,-1.35,78.31,19.4
+Synthetic Crude (SYN),2026-10-07,57.05,bbl,USD,SYN at Edmonton (assessment),Platts,-0.2,78.16,17.8
+Condensate (C5+),2026-05-21,60.12,bbl,USD,Condensate at Edmonton (assessment),Argus,,82.36,
+Condensate (C5+),2026-05-22,59.4,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.2,81.38,
+Condensate (C5+),2026-05-25,59.38,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.03,81.35,
+Condensate (C5+),2026-05-26,57.84,bbl,USD,Condensate at Edmonton (assessment),Argus,-2.59,79.24,
+Condensate (C5+),2026-05-27,57.87,bbl,USD,Condensate at Edmonton (assessment),Argus,0.05,79.28,
+Condensate (C5+),2026-05-28,59.84,bbl,USD,Condensate at Edmonton (assessment),Argus,3.4,81.98,
+Condensate (C5+),2026-05-29,60.48,bbl,USD,Condensate at Edmonton (assessment),Argus,1.07,82.86,
+Condensate (C5+),2026-06-01,61.86,bbl,USD,Condensate at Edmonton (assessment),Argus,2.27,84.75,
+Condensate (C5+),2026-06-02,61.2,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.07,83.84,
+Condensate (C5+),2026-06-03,59.26,bbl,USD,Condensate at Edmonton (assessment),Argus,-3.17,81.19,
+Condensate (C5+),2026-06-04,59.07,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.32,80.93,
+Condensate (C5+),2026-06-05,59.02,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.09,80.86,
+Condensate (C5+),2026-06-08,56.52,bbl,USD,Condensate at Edmonton (assessment),Argus,-4.24,77.43,
+Condensate (C5+),2026-06-09,56.04,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.85,76.77,
+Condensate (C5+),2026-06-10,56.38,bbl,USD,Condensate at Edmonton (assessment),Argus,0.61,77.24,
+Condensate (C5+),2026-06-11,54.79,bbl,USD,Condensate at Edmonton (assessment),Argus,-2.81,75.06,
+Condensate (C5+),2026-06-12,55.78,bbl,USD,Condensate at Edmonton (assessment),Argus,1.79,76.42,
+Condensate (C5+),2026-06-15,56.0,bbl,USD,Condensate at Edmonton (assessment),Argus,0.4,76.72,
+Condensate (C5+),2026-06-16,55.62,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.67,76.2,
+Condensate (C5+),2026-06-17,54.59,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.85,74.79,
+Condensate (C5+),2026-06-18,54.86,bbl,USD,Condensate at Edmonton (assessment),Argus,0.49,75.16,30.2
+Condensate (C5+),2026-06-19,54.34,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.95,74.45,30.1
+Condensate (C5+),2026-06-22,55.06,bbl,USD,Condensate at Edmonton (assessment),Argus,1.33,75.43,30.7
+Condensate (C5+),2026-06-23,54.99,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.14,75.34,29.6
+Condensate (C5+),2026-06-24,54.92,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.13,75.24,29.5
+Condensate (C5+),2026-06-25,54.42,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.91,74.56,26.3
+Condensate (C5+),2026-06-26,54.28,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.25,74.36,25.7
+Condensate (C5+),2026-06-29,53.28,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.84,72.99,23.9
+Condensate (C5+),2026-06-30,52.73,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.04,72.24,23.9
+Condensate (C5+),2026-07-01,53.37,bbl,USD,Condensate at Edmonton (assessment),Argus,1.21,73.12,22.9
+Condensate (C5+),2026-07-02,53.08,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.53,72.72,22.9
+Condensate (C5+),2026-07-03,53.3,bbl,USD,Condensate at Edmonton (assessment),Argus,0.41,73.02,23.1
+Condensate (C5+),2026-07-06,54.0,bbl,USD,Condensate at Edmonton (assessment),Argus,1.31,73.98,19.1
+Condensate (C5+),2026-07-07,52.34,bbl,USD,Condensate at Edmonton (assessment),Argus,-3.07,71.71,21.6
+Condensate (C5+),2026-07-08,51.25,bbl,USD,Condensate at Edmonton (assessment),Argus,-2.09,70.21,22.1
+Condensate (C5+),2026-07-09,50.54,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.39,69.24,20.6
+Condensate (C5+),2026-07-10,48.57,bbl,USD,Condensate at Edmonton (assessment),Argus,-3.89,66.54,22.6
+Condensate (C5+),2026-07-13,48.62,bbl,USD,Condensate at Edmonton (assessment),Argus,0.09,66.61,22.4
+Condensate (C5+),2026-07-14,49.13,bbl,USD,Condensate at Edmonton (assessment),Argus,1.06,67.31,23.2
+Condensate (C5+),2026-07-15,49.63,bbl,USD,Condensate at Edmonton (assessment),Argus,1.01,67.99,23.4
+Condensate (C5+),2026-07-16,49.73,bbl,USD,Condensate at Edmonton (assessment),Argus,0.2,68.13,23.3
+Condensate (C5+),2026-07-17,50.19,bbl,USD,Condensate at Edmonton (assessment),Argus,0.93,68.76,23.7
+Condensate (C5+),2026-07-20,50.91,bbl,USD,Condensate at Edmonton (assessment),Argus,1.44,69.75,23.9
+Condensate (C5+),2026-07-21,51.44,bbl,USD,Condensate at Edmonton (assessment),Argus,1.03,70.47,24.4
+Condensate (C5+),2026-07-22,50.87,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.1,69.69,24.5
+Condensate (C5+),2026-07-23,50.49,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.76,69.17,24.5
+Condensate (C5+),2026-07-24,51.06,bbl,USD,Condensate at Edmonton (assessment),Argus,1.15,69.95,25.1
+Condensate (C5+),2026-07-27,51.73,bbl,USD,Condensate at Edmonton (assessment),Argus,1.3,70.87,25.0
+Condensate (C5+),2026-07-28,51.97,bbl,USD,Condensate at Edmonton (assessment),Argus,0.47,71.2,24.8
+Condensate (C5+),2026-07-29,52.33,bbl,USD,Condensate at Edmonton (assessment),Argus,0.7,71.69,24.5
+Condensate (C5+),2026-07-30,52.48,bbl,USD,Condensate at Edmonton (assessment),Argus,0.28,71.9,24.5
+Condensate (C5+),2026-07-31,52.19,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.56,71.5,24.5
+Condensate (C5+),2026-08-03,53.14,bbl,USD,Condensate at Edmonton (assessment),Argus,1.82,72.8,25.0
+Condensate (C5+),2026-08-04,53.76,bbl,USD,Condensate at Edmonton (assessment),Argus,1.17,73.65,22.6
+Condensate (C5+),2026-08-05,54.47,bbl,USD,Condensate at Edmonton (assessment),Argus,1.33,74.62,21.3
+Condensate (C5+),2026-08-06,55.86,bbl,USD,Condensate at Edmonton (assessment),Argus,2.55,76.53,21.7
+Condensate (C5+),2026-08-07,55.54,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.59,76.09,14.6
+Condensate (C5+),2026-08-10,54.7,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.51,74.94,16.5
+Condensate (C5+),2026-08-11,55.03,bbl,USD,Condensate at Edmonton (assessment),Argus,0.61,75.39,16.4
+Condensate (C5+),2026-08-12,54.67,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.66,74.9,16.8
+Condensate (C5+),2026-08-13,53.94,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.34,73.9,18.0
+Condensate (C5+),2026-08-14,53.27,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.24,72.98,18.8
+Condensate (C5+),2026-08-17,52.38,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.66,71.76,19.6
+Condensate (C5+),2026-08-18,52.39,bbl,USD,Condensate at Edmonton (assessment),Argus,0.02,71.77,19.3
+Condensate (C5+),2026-08-19,51.66,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.39,70.77,19.6
+Condensate (C5+),2026-08-20,53.12,bbl,USD,Condensate at Edmonton (assessment),Argus,2.83,72.77,21.5
+Condensate (C5+),2026-08-21,54.67,bbl,USD,Condensate at Edmonton (assessment),Argus,2.9,74.9,23.2
+Condensate (C5+),2026-08-24,53.16,bbl,USD,Condensate at Edmonton (assessment),Argus,-2.75,72.83,25.4
+Condensate (C5+),2026-08-25,54.11,bbl,USD,Condensate at Edmonton (assessment),Argus,1.78,74.13,26.1
+Condensate (C5+),2026-08-26,55.42,bbl,USD,Condensate at Edmonton (assessment),Argus,2.43,75.93,27.2
+Condensate (C5+),2026-08-27,54.52,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.63,74.69,28.0
+Condensate (C5+),2026-08-28,54.06,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.84,74.06,28.2
+Condensate (C5+),2026-08-31,54.3,bbl,USD,Condensate at Edmonton (assessment),Argus,0.43,74.39,27.5
+Condensate (C5+),2026-09-01,53.82,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.89,73.73,27.4
+Condensate (C5+),2026-09-02,53.45,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.67,73.23,27.1
+Condensate (C5+),2026-09-03,52.93,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.97,72.51,25.4
+Condensate (C5+),2026-09-04,53.88,bbl,USD,Condensate at Edmonton (assessment),Argus,1.78,73.82,26.4
+Condensate (C5+),2026-09-07,52.7,bbl,USD,Condensate at Edmonton (assessment),Argus,-2.19,72.2,26.9
+Condensate (C5+),2026-09-08,52.55,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.29,71.99,26.8
+Condensate (C5+),2026-09-09,53.71,bbl,USD,Condensate at Edmonton (assessment),Argus,2.21,73.58,28.0
+Condensate (C5+),2026-09-10,55.68,bbl,USD,Condensate at Edmonton (assessment),Argus,3.67,76.28,30.5
+Condensate (C5+),2026-09-11,55.36,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.57,75.84,30.2
+Condensate (C5+),2026-09-14,55.81,bbl,USD,Condensate at Edmonton (assessment),Argus,0.82,76.46,29.4
+Condensate (C5+),2026-09-15,56.18,bbl,USD,Condensate at Edmonton (assessment),Argus,0.65,76.97,29.4
+Condensate (C5+),2026-09-16,56.14,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.07,76.91,28.7
+Condensate (C5+),2026-09-17,56.34,bbl,USD,Condensate at Edmonton (assessment),Argus,0.36,77.19,27.3
+Condensate (C5+),2026-09-18,55.84,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.89,76.5,25.9
+Condensate (C5+),2026-09-21,56.25,bbl,USD,Condensate at Edmonton (assessment),Argus,0.74,77.06,23.5
+Condensate (C5+),2026-09-22,56.36,bbl,USD,Condensate at Edmonton (assessment),Argus,0.2,77.21,22.9
+Condensate (C5+),2026-09-23,56.72,bbl,USD,Condensate at Edmonton (assessment),Argus,0.64,77.71,21.4
+Condensate (C5+),2026-09-24,58.56,bbl,USD,Condensate at Edmonton (assessment),Argus,3.25,80.23,23.0
+Condensate (C5+),2026-09-25,58.61,bbl,USD,Condensate at Edmonton (assessment),Argus,0.08,80.3,22.6
+Condensate (C5+),2026-09-28,57.82,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.34,79.21,23.4
+Condensate (C5+),2026-09-29,56.46,bbl,USD,Condensate at Edmonton (assessment),Argus,-2.34,77.35,25.0
+Condensate (C5+),2026-09-30,55.59,bbl,USD,Condensate at Edmonton (assessment),Argus,-1.54,76.16,25.6
+Condensate (C5+),2026-10-01,55.24,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.63,75.68,25.4
+Condensate (C5+),2026-10-02,55.43,bbl,USD,Condensate at Edmonton (assessment),Argus,0.33,75.94,24.8
+Condensate (C5+),2026-10-05,53.17,bbl,USD,Condensate at Edmonton (assessment),Argus,-4.08,72.84,28.0
+Condensate (C5+),2026-10-06,52.06,bbl,USD,Condensate at Edmonton (assessment),Argus,-2.08,71.32,29.0
+Condensate (C5+),2026-10-07,51.89,bbl,USD,Condensate at Edmonton (assessment),Argus,-0.33,71.09,27.8
+AECO Natural Gas,2026-05-21,1.832,GJ,CAD,AECO-C daily index,ICE,,1.832,
+AECO Natural Gas,2026-05-22,1.862,GJ,CAD,AECO-C daily index,ICE,1.65,1.862,
+AECO Natural Gas,2026-05-25,1.941,GJ,CAD,AECO-C daily index,ICE,4.25,1.941,
+AECO Natural Gas,2026-05-26,1.987,GJ,CAD,AECO-C daily index,ICE,2.35,1.987,
+AECO Natural Gas,2026-05-27,1.88,GJ,CAD,AECO-C daily index,ICE,-5.36,1.88,
+AECO Natural Gas,2026-05-28,1.778,GJ,CAD,AECO-C daily index,ICE,-5.42,1.778,
+AECO Natural Gas,2026-05-29,1.676,GJ,CAD,AECO-C daily index,ICE,-5.78,1.676,
+AECO Natural Gas,2026-06-01,1.85,GJ,CAD,AECO-C daily index,ICE,10.43,1.85,
+AECO Natural Gas,2026-06-02,1.821,GJ,CAD,AECO-C daily index,ICE,-1.59,1.821,
+AECO Natural Gas,2026-06-03,1.646,GJ,CAD,AECO-C daily index,ICE,-9.61,1.646,
+AECO Natural Gas,2026-06-04,1.584,GJ,CAD,AECO-C daily index,ICE,-3.76,1.584,
+AECO Natural Gas,2026-06-05,1.479,GJ,CAD,AECO-C daily index,ICE,-6.66,1.479,
+AECO Natural Gas,2026-06-08,1.426,GJ,CAD,AECO-C daily index,ICE,-3.54,1.426,
+AECO Natural Gas,2026-06-09,1.549,GJ,CAD,AECO-C daily index,ICE,8.64,1.549,
+AECO Natural Gas,2026-06-10,1.458,GJ,CAD,AECO-C daily index,ICE,-5.88,1.458,
+AECO Natural Gas,2026-06-11,1.501,GJ,CAD,AECO-C daily index,ICE,2.96,1.501,
+AECO Natural Gas,2026-06-12,1.46,GJ,CAD,AECO-C daily index,ICE,-2.8,1.46,
+AECO Natural Gas,2026-06-15,1.556,GJ,CAD,AECO-C daily index,ICE,6.63,1.556,
+AECO Natural Gas,2026-06-16,1.637,GJ,CAD,AECO-C daily index,ICE,5.19,1.637,
+AECO Natural Gas,2026-06-17,1.696,GJ,CAD,AECO-C daily index,ICE,3.62,1.696,
+AECO Natural Gas,2026-06-18,1.606,GJ,CAD,AECO-C daily index,ICE,-5.3,1.606,90.9
+AECO Natural Gas,2026-06-19,1.687,GJ,CAD,AECO-C daily index,ICE,5.02,1.687,92.7
+AECO Natural Gas,2026-06-22,1.537,GJ,CAD,AECO-C daily index,ICE,-8.9,1.537,96.0
+AECO Natural Gas,2026-06-23,1.524,GJ,CAD,AECO-C daily index,ICE,-0.81,1.524,95.1
+AECO Natural Gas,2026-06-24,1.459,GJ,CAD,AECO-C daily index,ICE,-4.28,1.459,94.6
+AECO Natural Gas,2026-06-25,1.558,GJ,CAD,AECO-C daily index,ICE,6.77,1.558,97.0
+AECO Natural Gas,2026-06-26,1.498,GJ,CAD,AECO-C daily index,ICE,-3.83,1.498,95.8
+AECO Natural Gas,2026-06-29,1.434,GJ,CAD,AECO-C daily index,ICE,-4.3,1.434,88.2
+AECO Natural Gas,2026-06-30,1.656,GJ,CAD,AECO-C daily index,ICE,15.52,1.656,104.3
+AECO Natural Gas,2026-07-01,1.631,GJ,CAD,AECO-C daily index,ICE,-1.53,1.631,98.1
+AECO Natural Gas,2026-07-02,1.516,GJ,CAD,AECO-C daily index,ICE,-7.05,1.516,100.6
+AECO Natural Gas,2026-07-03,1.499,GJ,CAD,AECO-C daily index,ICE,-1.11,1.499,97.5
+AECO Natural Gas,2026-07-06,1.47,GJ,CAD,AECO-C daily index,ICE,-1.91,1.47,96.9
+AECO Natural Gas,2026-07-07,1.492,GJ,CAD,AECO-C daily index,ICE,1.5,1.492,92.2
+AECO Natural Gas,2026-07-08,1.466,GJ,CAD,AECO-C daily index,ICE,-1.79,1.466,89.8
+AECO Natural Gas,2026-07-09,1.26,GJ,CAD,AECO-C daily index,ICE,-14.02,1.26,103.8
+AECO Natural Gas,2026-07-10,1.365,GJ,CAD,AECO-C daily index,ICE,8.27,1.365,108.1
+AECO Natural Gas,2026-07-13,1.38,GJ,CAD,AECO-C daily index,ICE,1.12,1.38,105.3
+AECO Natural Gas,2026-07-14,1.353,GJ,CAD,AECO-C daily index,ICE,-1.97,1.353,103.2
+AECO Natural Gas,2026-07-15,1.448,GJ,CAD,AECO-C daily index,ICE,7.02,1.448,105.7
+AECO Natural Gas,2026-07-16,1.447,GJ,CAD,AECO-C daily index,ICE,-0.07,1.447,104.2
+AECO Natural Gas,2026-07-17,1.44,GJ,CAD,AECO-C daily index,ICE,-0.46,1.44,102.3
+AECO Natural Gas,2026-07-20,1.521,GJ,CAD,AECO-C daily index,ICE,5.6,1.521,99.3
+AECO Natural Gas,2026-07-21,1.556,GJ,CAD,AECO-C daily index,ICE,2.35,1.556,99.6
+AECO Natural Gas,2026-07-22,1.542,GJ,CAD,AECO-C daily index,ICE,-0.93,1.542,98.3
+AECO Natural Gas,2026-07-23,1.518,GJ,CAD,AECO-C daily index,ICE,-1.58,1.518,95.6
+AECO Natural Gas,2026-07-24,1.54,GJ,CAD,AECO-C daily index,ICE,1.49,1.54,94.7
+AECO Natural Gas,2026-07-27,1.629,GJ,CAD,AECO-C daily index,ICE,5.74,1.629,95.0
+AECO Natural Gas,2026-07-28,1.621,GJ,CAD,AECO-C daily index,ICE,-0.45,1.621,79.9
+AECO Natural Gas,2026-07-29,1.57,GJ,CAD,AECO-C daily index,ICE,-3.16,1.57,80.5
+AECO Natural Gas,2026-07-30,1.576,GJ,CAD,AECO-C daily index,ICE,0.38,1.576,75.9
+AECO Natural Gas,2026-07-31,1.609,GJ,CAD,AECO-C daily index,ICE,2.08,1.609,76.1
+AECO Natural Gas,2026-08-03,1.624,GJ,CAD,AECO-C daily index,ICE,0.93,1.624,75.6
+AECO Natural Gas,2026-08-04,1.649,GJ,CAD,AECO-C daily index,ICE,1.56,1.649,75.6
+AECO Natural Gas,2026-08-05,1.681,GJ,CAD,AECO-C daily index,ICE,1.92,1.681,75.2
+AECO Natural Gas,2026-08-06,1.595,GJ,CAD,AECO-C daily index,ICE,-5.09,1.595,52.5
+AECO Natural Gas,2026-08-07,1.613,GJ,CAD,AECO-C daily index,ICE,1.12,1.613,46.0
+AECO Natural Gas,2026-08-10,1.564,GJ,CAD,AECO-C daily index,ICE,-3.04,1.564,48.0
+AECO Natural Gas,2026-08-11,1.673,GJ,CAD,AECO-C daily index,ICE,6.96,1.673,51.6
+AECO Natural Gas,2026-08-12,1.624,GJ,CAD,AECO-C daily index,ICE,-2.92,1.624,48.8
+AECO Natural Gas,2026-08-13,1.555,GJ,CAD,AECO-C daily index,ICE,-4.24,1.555,51.8
+AECO Natural Gas,2026-08-14,1.458,GJ,CAD,AECO-C daily index,ICE,-6.24,1.458,57.1
+AECO Natural Gas,2026-08-17,1.489,GJ,CAD,AECO-C daily index,ICE,2.07,1.489,54.0
+AECO Natural Gas,2026-08-18,1.479,GJ,CAD,AECO-C daily index,ICE,-0.64,1.479,53.3
+AECO Natural Gas,2026-08-19,1.61,GJ,CAD,AECO-C daily index,ICE,8.85,1.61,61.5
+AECO Natural Gas,2026-08-20,1.611,GJ,CAD,AECO-C daily index,ICE,0.1,1.611,61.2
+AECO Natural Gas,2026-08-21,1.621,GJ,CAD,AECO-C daily index,ICE,0.62,1.621,61.0
+AECO Natural Gas,2026-08-24,1.621,GJ,CAD,AECO-C daily index,ICE,-0.03,1.621,57.7
+AECO Natural Gas,2026-08-25,1.588,GJ,CAD,AECO-C daily index,ICE,-2.06,1.588,58.1
+AECO Natural Gas,2026-08-26,1.589,GJ,CAD,AECO-C daily index,ICE,0.08,1.589,57.0
+AECO Natural Gas,2026-08-27,1.652,GJ,CAD,AECO-C daily index,ICE,3.98,1.652,58.6
+AECO Natural Gas,2026-08-28,1.624,GJ,CAD,AECO-C daily index,ICE,-1.67,1.624,58.5
+AECO Natural Gas,2026-08-31,1.727,GJ,CAD,AECO-C daily index,ICE,6.3,1.727,62.3
+AECO Natural Gas,2026-09-01,1.821,GJ,CAD,AECO-C daily index,ICE,5.45,1.821,64.7
+AECO Natural Gas,2026-09-02,1.817,GJ,CAD,AECO-C daily index,ICE,-0.19,1.817,64.5
+AECO Natural Gas,2026-09-03,1.83,GJ,CAD,AECO-C daily index,ICE,0.68,1.83,61.0
+AECO Natural Gas,2026-09-04,1.797,GJ,CAD,AECO-C daily index,ICE,-1.79,1.797,61.6
+AECO Natural Gas,2026-09-07,1.89,GJ,CAD,AECO-C daily index,ICE,5.18,1.89,62.1
+AECO Natural Gas,2026-09-08,1.875,GJ,CAD,AECO-C daily index,ICE,-0.82,1.875,58.4
+AECO Natural Gas,2026-09-09,1.979,GJ,CAD,AECO-C daily index,ICE,5.56,1.979,59.3
+AECO Natural Gas,2026-09-10,1.961,GJ,CAD,AECO-C daily index,ICE,-0.91,1.961,56.4
+AECO Natural Gas,2026-09-11,1.877,GJ,CAD,AECO-C daily index,ICE,-4.28,1.877,53.0
+AECO Natural Gas,2026-09-14,1.826,GJ,CAD,AECO-C daily index,ICE,-2.72,1.826,54.8
+AECO Natural Gas,2026-09-15,1.756,GJ,CAD,AECO-C daily index,ICE,-3.81,1.756,57.3
+AECO Natural Gas,2026-09-16,1.761,GJ,CAD,AECO-C daily index,ICE,0.24,1.761,49.7
+AECO Natural Gas,2026-09-17,1.795,GJ,CAD,AECO-C daily index,ICE,1.93,1.795,50.0
+AECO Natural Gas,2026-09-18,1.911,GJ,CAD,AECO-C daily index,ICE,6.47,1.911,53.9
+AECO Natural Gas,2026-09-21,1.927,GJ,CAD,AECO-C daily index,ICE,0.86,1.927,53.8
+AECO Natural Gas,2026-09-22,1.931,GJ,CAD,AECO-C daily index,ICE,0.2,1.931,52.8
+AECO Natural Gas,2026-09-23,1.939,GJ,CAD,AECO-C daily index,ICE,0.4,1.939,52.7
+AECO Natural Gas,2026-09-24,1.973,GJ,CAD,AECO-C daily index,ICE,1.78,1.973,51.7
+AECO Natural Gas,2026-09-25,1.936,GJ,CAD,AECO-C daily index,ICE,-1.88,1.936,51.8
+AECO Natural Gas,2026-09-28,2.045,GJ,CAD,AECO-C daily index,ICE,5.64,2.045,51.0
+AECO Natural Gas,2026-09-29,2.118,GJ,CAD,AECO-C daily index,ICE,3.56,2.118,49.3
+AECO Natural Gas,2026-09-30,2.04,GJ,CAD,AECO-C daily index,ICE,-3.67,2.04,51.8
+AECO Natural Gas,2026-10-01,1.924,GJ,CAD,AECO-C daily index,ICE,-5.68,1.924,56.6
+AECO Natural Gas,2026-10-02,1.96,GJ,CAD,AECO-C daily index,ICE,1.83,1.96,56.3
+AECO Natural Gas,2026-10-05,2.019,GJ,CAD,AECO-C daily index,ICE,3.03,2.019,54.5
+AECO Natural Gas,2026-10-06,1.964,GJ,CAD,AECO-C daily index,ICE,-2.7,1.964,55.4
+AECO Natural Gas,2026-10-07,2.071,GJ,CAD,AECO-C daily index,ICE,5.44,2.071,55.3
+Propane,2026-05-21,21.84,bbl,USD,Propane at Edmonton (assessment),Argus,,29.92,
+Propane,2026-05-22,20.98,bbl,USD,Propane at Edmonton (assessment),Argus,-3.92,28.74,
+Propane,2026-05-25,20.94,bbl,USD,Propane at Edmonton (assessment),Argus,-0.23,28.69,
+Propane,2026-05-26,20.78,bbl,USD,Propane at Edmonton (assessment),Argus,-0.73,28.47,
+Propane,2026-05-27,21.49,bbl,USD,Propane at Edmonton (assessment),Argus,3.4,29.44,
+Propane,2026-05-28,22.76,bbl,USD,Propane at Edmonton (assessment),Argus,5.91,31.18,
+Propane,2026-05-29,23.35,bbl,USD,Propane at Edmonton (assessment),Argus,2.59,31.99,
+Propane,2026-06-01,24.13,bbl,USD,Propane at Edmonton (assessment),Argus,3.33,33.06,
+Propane,2026-06-02,24.78,bbl,USD,Propane at Edmonton (assessment),Argus,2.69,33.95,
+Propane,2026-06-03,23.31,bbl,USD,Propane at Edmonton (assessment),Argus,-5.9,31.93,
+Propane,2026-06-04,23.11,bbl,USD,Propane at Edmonton (assessment),Argus,-0.88,31.66,
+Propane,2026-06-05,23.97,bbl,USD,Propane at Edmonton (assessment),Argus,3.73,32.84,
+Propane,2026-06-08,23.75,bbl,USD,Propane at Edmonton (assessment),Argus,-0.93,32.54,
+Propane,2026-06-09,22.98,bbl,USD,Propane at Edmonton (assessment),Argus,-3.23,31.48,
+Propane,2026-06-10,22.1,bbl,USD,Propane at Edmonton (assessment),Argus,-3.82,30.28,
+Propane,2026-06-11,21.94,bbl,USD,Propane at Edmonton (assessment),Argus,-0.74,30.06,
+Propane,2026-06-12,21.83,bbl,USD,Propane at Edmonton (assessment),Argus,-0.48,29.91,
+Propane,2026-06-15,22.11,bbl,USD,Propane at Edmonton (assessment),Argus,1.27,30.29,
+Propane,2026-06-16,21.64,bbl,USD,Propane at Edmonton (assessment),Argus,-2.12,29.65,
+Propane,2026-06-17,21.87,bbl,USD,Propane at Edmonton (assessment),Argus,1.07,29.96,
+Propane,2026-06-18,21.7,bbl,USD,Propane at Edmonton (assessment),Argus,-0.78,29.73,47.7
+Propane,2026-06-19,21.37,bbl,USD,Propane at Edmonton (assessment),Argus,-1.51,29.28,45.8
+Propane,2026-06-22,21.21,bbl,USD,Propane at Edmonton (assessment),Argus,-0.77,29.06,45.9
+Propane,2026-06-23,21.21,bbl,USD,Propane at Edmonton (assessment),Argus,0.03,29.06,45.8
+Propane,2026-06-24,20.86,bbl,USD,Propane at Edmonton (assessment),Argus,-1.69,28.58,44.5
+Propane,2026-06-25,21.05,bbl,USD,Propane at Edmonton (assessment),Argus,0.94,28.84,39.0
+Propane,2026-06-26,21.57,bbl,USD,Propane at Edmonton (assessment),Argus,2.46,29.55,38.9
+Propane,2026-06-29,21.63,bbl,USD,Propane at Edmonton (assessment),Argus,0.3,29.63,36.5
+Propane,2026-06-30,22.13,bbl,USD,Propane at Edmonton (assessment),Argus,2.27,30.32,36.1
+Propane,2026-07-01,22.37,bbl,USD,Propane at Edmonton (assessment),Argus,1.1,30.65,30.0
+Propane,2026-07-02,22.06,bbl,USD,Propane at Edmonton (assessment),Argus,-1.37,30.22,30.2
+Propane,2026-07-03,22.39,bbl,USD,Propane at Edmonton (assessment),Argus,1.47,30.67,27.3
+Propane,2026-07-06,22.56,bbl,USD,Propane at Edmonton (assessment),Argus,0.76,30.91,27.5
+Propane,2026-07-07,22.49,bbl,USD,Propane at Edmonton (assessment),Argus,-0.32,30.81,25.0
+Propane,2026-07-08,21.39,bbl,USD,Propane at Edmonton (assessment),Argus,-4.87,29.3,27.4
+Propane,2026-07-09,21.53,bbl,USD,Propane at Edmonton (assessment),Argus,0.65,29.5,27.5
+Propane,2026-07-10,20.51,bbl,USD,Propane at Edmonton (assessment),Argus,-4.74,28.1,32.3
+Propane,2026-07-13,20.26,bbl,USD,Propane at Edmonton (assessment),Argus,-1.21,27.76,31.9
+Propane,2026-07-14,20.06,bbl,USD,Propane at Edmonton (assessment),Argus,-0.99,27.48,31.3
+Propane,2026-07-15,19.69,bbl,USD,Propane at Edmonton (assessment),Argus,-1.86,26.98,31.3
+Propane,2026-07-16,19.85,bbl,USD,Propane at Edmonton (assessment),Argus,0.82,27.19,31.6
+Propane,2026-07-17,20.27,bbl,USD,Propane at Edmonton (assessment),Argus,2.1,27.77,32.5
+Propane,2026-07-20,20.19,bbl,USD,Propane at Edmonton (assessment),Argus,-0.39,27.66,32.5
+Propane,2026-07-21,20.6,bbl,USD,Propane at Edmonton (assessment),Argus,2.03,28.22,33.5
+Propane,2026-07-22,20.12,bbl,USD,Propane at Edmonton (assessment),Argus,-2.32,27.56,33.9
+Propane,2026-07-23,19.99,bbl,USD,Propane at Edmonton (assessment),Argus,-0.64,27.39,33.7
+Propane,2026-07-24,19.09,bbl,USD,Propane at Edmonton (assessment),Argus,-4.51,26.15,35.5
+Propane,2026-07-27,19.83,bbl,USD,Propane at Edmonton (assessment),Argus,3.9,27.17,38.7
+Propane,2026-07-28,18.44,bbl,USD,Propane at Edmonton (assessment),Argus,-7.03,25.26,44.4
+Propane,2026-07-29,18.69,bbl,USD,Propane at Edmonton (assessment),Argus,1.37,25.61,44.5
+Propane,2026-07-30,18.1,bbl,USD,Propane at Edmonton (assessment),Argus,-3.16,24.8,45.3
+Propane,2026-07-31,18.01,bbl,USD,Propane at Edmonton (assessment),Argus,-0.5,24.67,44.4
+Propane,2026-08-03,18.16,bbl,USD,Propane at Edmonton (assessment),Argus,0.87,24.88,44.5
+Propane,2026-08-04,19.43,bbl,USD,Propane at Edmonton (assessment),Argus,6.96,26.62,52.4
+Propane,2026-08-05,19.88,bbl,USD,Propane at Edmonton (assessment),Argus,2.32,27.24,50.9
+Propane,2026-08-06,19.87,bbl,USD,Propane at Edmonton (assessment),Argus,-0.04,27.22,50.8
+Propane,2026-08-07,19.3,bbl,USD,Propane at Edmonton (assessment),Argus,-2.85,26.44,48.9
+Propane,2026-08-10,18.94,bbl,USD,Propane at Edmonton (assessment),Argus,-1.89,25.95,49.2
+Propane,2026-08-11,18.28,bbl,USD,Propane at Edmonton (assessment),Argus,-3.46,25.04,50.4
+Propane,2026-08-12,18.2,bbl,USD,Propane at Edmonton (assessment),Argus,-0.44,24.93,50.1
+Propane,2026-08-13,18.12,bbl,USD,Propane at Edmonton (assessment),Argus,-0.46,24.82,49.9
+Propane,2026-08-14,18.1,bbl,USD,Propane at Edmonton (assessment),Argus,-0.1,24.8,49.0
+Propane,2026-08-17,17.28,bbl,USD,Propane at Edmonton (assessment),Argus,-4.56,23.67,51.1
+Propane,2026-08-18,17.46,bbl,USD,Propane at Edmonton (assessment),Argus,1.07,23.92,50.6
+Propane,2026-08-19,17.98,bbl,USD,Propane at Edmonton (assessment),Argus,2.98,24.63,51.9
+Propane,2026-08-20,18.19,bbl,USD,Propane at Edmonton (assessment),Argus,1.18,24.92,52.3
+Propane,2026-08-21,17.61,bbl,USD,Propane at Edmonton (assessment),Argus,-3.23,24.13,51.1
+Propane,2026-08-24,17.54,bbl,USD,Propane at Edmonton (assessment),Argus,-0.37,24.03,48.6
+Propane,2026-08-25,18.09,bbl,USD,Propane at Edmonton (assessment),Argus,3.15,24.78,43.4
+Propane,2026-08-26,18.54,bbl,USD,Propane at Edmonton (assessment),Argus,2.45,25.4,44.0
+Propane,2026-08-27,18.47,bbl,USD,Propane at Edmonton (assessment),Argus,-0.38,25.3,42.4
+Propane,2026-08-28,18.44,bbl,USD,Propane at Edmonton (assessment),Argus,-0.14,25.26,42.3
+Propane,2026-08-31,18.01,bbl,USD,Propane at Edmonton (assessment),Argus,-2.35,24.67,43.1
+Propane,2026-09-01,17.66,bbl,USD,Propane at Edmonton (assessment),Argus,-1.95,24.19,35.4
+Propane,2026-09-02,17.51,bbl,USD,Propane at Edmonton (assessment),Argus,-0.82,23.99,33.9
+Propane,2026-09-03,17.63,bbl,USD,Propane at Edmonton (assessment),Argus,0.65,24.15,34.1
+Propane,2026-09-04,18.48,bbl,USD,Propane at Edmonton (assessment),Argus,4.83,25.32,37.8
+Propane,2026-09-07,18.11,bbl,USD,Propane at Edmonton (assessment),Argus,-1.98,24.81,37.9
+Propane,2026-09-08,18.58,bbl,USD,Propane at Edmonton (assessment),Argus,2.57,25.45,37.0
+Propane,2026-09-09,19.1,bbl,USD,Propane at Edmonton (assessment),Argus,2.84,26.17,38.1
+Propane,2026-09-10,19.24,bbl,USD,Propane at Edmonton (assessment),Argus,0.69,26.36,38.1
+Propane,2026-09-11,19.43,bbl,USD,Propane at Edmonton (assessment),Argus,1.0,26.62,38.1
+Propane,2026-09-14,20.12,bbl,USD,Propane at Edmonton (assessment),Argus,3.59,27.56,34.8
+Propane,2026-09-15,20.55,bbl,USD,Propane at Edmonton (assessment),Argus,2.1,28.15,35.1
+Propane,2026-09-16,20.42,bbl,USD,Propane at Edmonton (assessment),Argus,-0.62,27.98,34.5
+Propane,2026-09-17,19.93,bbl,USD,Propane at Edmonton (assessment),Argus,-2.39,27.3,36.1
+Propane,2026-09-18,20.67,bbl,USD,Propane at Edmonton (assessment),Argus,3.71,28.32,34.9
+Propane,2026-09-21,20.64,bbl,USD,Propane at Edmonton (assessment),Argus,-0.12,28.28,34.8
+Propane,2026-09-22,20.83,bbl,USD,Propane at Edmonton (assessment),Argus,0.93,28.54,33.7
+Propane,2026-09-23,20.78,bbl,USD,Propane at Edmonton (assessment),Argus,-0.28,28.47,33.3
+Propane,2026-09-24,20.39,bbl,USD,Propane at Edmonton (assessment),Argus,-1.88,27.93,34.3
+Propane,2026-09-25,20.84,bbl,USD,Propane at Edmonton (assessment),Argus,2.21,28.55,34.7
+Propane,2026-09-28,20.49,bbl,USD,Propane at Edmonton (assessment),Argus,-1.65,28.07,34.0
+Propane,2026-09-29,20.27,bbl,USD,Propane at Edmonton (assessment),Argus,-1.1,27.77,33.2
+Propane,2026-09-30,20.6,bbl,USD,Propane at Edmonton (assessment),Argus,1.63,28.22,32.9
+Propane,2026-10-01,20.64,bbl,USD,Propane at Edmonton (assessment),Argus,0.23,28.28,32.9
+Propane,2026-10-02,20.03,bbl,USD,Propane at Edmonton (assessment),Argus,-2.98,27.44,32.1
+Propane,2026-10-05,18.77,bbl,USD,Propane at Edmonton (assessment),Argus,-6.29,25.71,39.7
+Propane,2026-10-06,18.23,bbl,USD,Propane at Edmonton (assessment),Argus,-2.87,24.98,40.1
+Propane,2026-10-07,18.51,bbl,USD,Propane at Edmonton (assessment),Argus,1.53,25.36,39.1
+ULSD (Rack),2026-05-21,101.57,bbl,USD,ULSD rack Edmonton (assessment),Platts,,139.15,
+ULSD (Rack),2026-05-22,101.23,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.33,138.69,
+ULSD (Rack),2026-05-25,101.5,bbl,USD,ULSD rack Edmonton (assessment),Platts,0.26,139.06,
+ULSD (Rack),2026-05-26,98.88,bbl,USD,ULSD rack Edmonton (assessment),Platts,-2.58,135.47,
+ULSD (Rack),2026-05-27,98.5,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.39,134.95,
+ULSD (Rack),2026-05-28,97.91,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.6,134.14,
+ULSD (Rack),2026-05-29,98.43,bbl,USD,ULSD rack Edmonton (assessment),Platts,0.53,134.85,
+ULSD (Rack),2026-06-01,98.26,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.17,134.62,
+ULSD (Rack),2026-06-02,97.9,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.37,134.12,
+ULSD (Rack),2026-06-03,93.79,bbl,USD,ULSD rack Edmonton (assessment),Platts,-4.19,128.49,
+ULSD (Rack),2026-06-04,97.61,bbl,USD,ULSD rack Edmonton (assessment),Platts,4.07,133.73,
+ULSD (Rack),2026-06-05,98.27,bbl,USD,ULSD rack Edmonton (assessment),Platts,0.67,134.63,
+ULSD (Rack),2026-06-08,94.13,bbl,USD,ULSD rack Edmonton (assessment),Platts,-4.22,128.96,
+ULSD (Rack),2026-06-09,95.17,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.11,130.38,
+ULSD (Rack),2026-06-10,95.27,bbl,USD,ULSD rack Edmonton (assessment),Platts,0.1,130.52,
+ULSD (Rack),2026-06-11,94.94,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.35,130.07,
+ULSD (Rack),2026-06-12,93.78,bbl,USD,ULSD rack Edmonton (assessment),Platts,-1.22,128.48,
+ULSD (Rack),2026-06-15,94.12,bbl,USD,ULSD rack Edmonton (assessment),Platts,0.36,128.94,
+ULSD (Rack),2026-06-16,93.43,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.74,128.0,
+ULSD (Rack),2026-06-17,90.75,bbl,USD,ULSD rack Edmonton (assessment),Platts,-2.86,124.33,
+ULSD (Rack),2026-06-18,88.27,bbl,USD,ULSD rack Edmonton (assessment),Platts,-2.74,120.93,30.7
+ULSD (Rack),2026-06-19,88.34,bbl,USD,ULSD rack Edmonton (assessment),Platts,0.08,121.03,30.8
+ULSD (Rack),2026-06-22,88.02,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.36,120.59,30.6
+ULSD (Rack),2026-06-23,87.58,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.5,119.98,29.8
+ULSD (Rack),2026-06-24,89.84,bbl,USD,ULSD rack Edmonton (assessment),Platts,2.58,123.08,31.8
+ULSD (Rack),2026-06-25,89.61,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.25,122.77,31.8
+ULSD (Rack),2026-06-26,90.57,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.07,124.08,32.1
+ULSD (Rack),2026-06-29,92.17,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.78,126.27,33.0
+ULSD (Rack),2026-06-30,93.36,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.29,127.9,33.5
+ULSD (Rack),2026-07-01,91.94,bbl,USD,ULSD rack Edmonton (assessment),Platts,-1.52,125.96,30.4
+ULSD (Rack),2026-07-02,93.65,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.86,128.3,27.3
+ULSD (Rack),2026-07-03,92.07,bbl,USD,ULSD rack Edmonton (assessment),Platts,-1.69,126.14,27.6
+ULSD (Rack),2026-07-06,91.46,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.66,125.3,23.4
+ULSD (Rack),2026-07-07,90.37,bbl,USD,ULSD rack Edmonton (assessment),Platts,-1.2,123.81,23.2
+ULSD (Rack),2026-07-08,86.69,bbl,USD,ULSD rack Edmonton (assessment),Platts,-4.07,118.77,26.9
+ULSD (Rack),2026-07-09,84.7,bbl,USD,ULSD rack Edmonton (assessment),Platts,-2.29,116.04,27.7
+ULSD (Rack),2026-07-10,84.4,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.36,115.63,27.6
+ULSD (Rack),2026-07-13,84.35,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.05,115.56,27.4
+ULSD (Rack),2026-07-14,86.08,bbl,USD,ULSD rack Edmonton (assessment),Platts,2.04,117.93,28.9
+ULSD (Rack),2026-07-15,86.02,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.07,117.85,27.4
+ULSD (Rack),2026-07-16,85.46,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.65,117.08,25.8
+ULSD (Rack),2026-07-17,86.37,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.06,118.33,26.1
+ULSD (Rack),2026-07-20,89.26,bbl,USD,ULSD rack Edmonton (assessment),Platts,3.35,122.29,28.8
+ULSD (Rack),2026-07-21,91.12,bbl,USD,ULSD rack Edmonton (assessment),Platts,2.09,124.83,29.5
+ULSD (Rack),2026-07-22,88.57,bbl,USD,ULSD rack Edmonton (assessment),Platts,-2.81,121.34,30.0
+ULSD (Rack),2026-07-23,90.28,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.94,123.68,30.8
+ULSD (Rack),2026-07-24,91.29,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.12,125.07,30.9
+ULSD (Rack),2026-07-27,94.08,bbl,USD,ULSD rack Edmonton (assessment),Platts,3.05,128.89,32.1
+ULSD (Rack),2026-07-28,93.48,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.63,128.07,31.9
+ULSD (Rack),2026-07-29,94.33,bbl,USD,ULSD rack Edmonton (assessment),Platts,0.91,129.23,31.5
+ULSD (Rack),2026-07-30,93.66,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.71,128.31,30.9
+ULSD (Rack),2026-07-31,90.07,bbl,USD,ULSD rack Edmonton (assessment),Platts,-3.83,123.4,33.4
+ULSD (Rack),2026-08-03,91.05,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.09,124.74,33.6
+ULSD (Rack),2026-08-04,91.27,bbl,USD,ULSD rack Edmonton (assessment),Platts,0.24,125.04,33.3
+ULSD (Rack),2026-08-05,93.41,bbl,USD,ULSD rack Edmonton (assessment),Platts,2.34,127.97,30.3
+ULSD (Rack),2026-08-06,93.1,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.33,127.55,28.7
+ULSD (Rack),2026-08-07,94.56,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.57,129.55,28.8
+ULSD (Rack),2026-08-10,93.89,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.71,128.63,29.1
+ULSD (Rack),2026-08-11,92.47,bbl,USD,ULSD rack Edmonton (assessment),Platts,-1.51,126.68,29.4
+ULSD (Rack),2026-08-12,91.5,bbl,USD,ULSD rack Edmonton (assessment),Platts,-1.05,125.36,29.8
+ULSD (Rack),2026-08-13,90.74,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.83,124.31,29.9
+ULSD (Rack),2026-08-14,92.3,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.71,126.45,30.2
+ULSD (Rack),2026-08-17,90.36,bbl,USD,ULSD rack Edmonton (assessment),Platts,-2.1,123.79,29.2
+ULSD (Rack),2026-08-18,90.23,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.15,123.62,28.2
+ULSD (Rack),2026-08-19,88.79,bbl,USD,ULSD rack Edmonton (assessment),Platts,-1.6,121.64,26.9
+ULSD (Rack),2026-08-20,91.0,bbl,USD,ULSD rack Edmonton (assessment),Platts,2.49,124.67,27.5
+ULSD (Rack),2026-08-21,91.22,bbl,USD,ULSD rack Edmonton (assessment),Platts,0.24,124.97,27.2
+ULSD (Rack),2026-08-24,87.93,bbl,USD,ULSD rack Edmonton (assessment),Platts,-3.6,120.46,27.7
+ULSD (Rack),2026-08-25,89.16,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.39,122.15,28.4
+ULSD (Rack),2026-08-26,91.75,bbl,USD,ULSD rack Edmonton (assessment),Platts,2.91,125.7,30.2
+ULSD (Rack),2026-08-27,90.29,bbl,USD,ULSD rack Edmonton (assessment),Platts,-1.59,123.7,30.6
+ULSD (Rack),2026-08-28,88.98,bbl,USD,ULSD rack Edmonton (assessment),Platts,-1.45,121.9,27.7
+ULSD (Rack),2026-08-31,88.9,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.1,121.79,27.4
+ULSD (Rack),2026-09-01,88.26,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.71,120.92,27.5
+ULSD (Rack),2026-09-02,89.88,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.83,123.14,26.9
+ULSD (Rack),2026-09-03,88.98,bbl,USD,ULSD rack Edmonton (assessment),Platts,-1.0,121.9,27.1
+ULSD (Rack),2026-09-04,88.53,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.51,121.29,26.2
+ULSD (Rack),2026-09-07,87.49,bbl,USD,ULSD rack Edmonton (assessment),Platts,-1.18,119.86,26.4
+ULSD (Rack),2026-09-08,88.56,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.22,121.33,26.6
+ULSD (Rack),2026-09-09,91.01,bbl,USD,ULSD rack Edmonton (assessment),Platts,2.78,124.68,28.3
+ULSD (Rack),2026-09-10,95.01,bbl,USD,ULSD rack Edmonton (assessment),Platts,4.39,130.16,32.0
+ULSD (Rack),2026-09-11,95.77,bbl,USD,ULSD rack Edmonton (assessment),Platts,0.8,131.2,31.6
+ULSD (Rack),2026-09-14,95.25,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.54,130.49,30.6
+ULSD (Rack),2026-09-15,96.97,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.8,132.85,31.0
+ULSD (Rack),2026-09-16,99.14,bbl,USD,ULSD rack Edmonton (assessment),Platts,2.25,135.82,30.7
+ULSD (Rack),2026-09-17,99.0,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.15,135.63,30.0
+ULSD (Rack),2026-09-18,95.61,bbl,USD,ULSD rack Edmonton (assessment),Platts,-3.42,130.99,33.0
+ULSD (Rack),2026-09-21,97.52,bbl,USD,ULSD rack Edmonton (assessment),Platts,2.0,133.6,30.2
+ULSD (Rack),2026-09-22,95.5,bbl,USD,ULSD rack Edmonton (assessment),Platts,-2.07,130.84,31.3
+ULSD (Rack),2026-09-23,95.9,bbl,USD,ULSD rack Edmonton (assessment),Platts,0.42,131.38,29.9
+ULSD (Rack),2026-09-24,97.01,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.15,132.9,29.2
+ULSD (Rack),2026-09-25,94.84,bbl,USD,ULSD rack Edmonton (assessment),Platts,-2.23,129.93,30.0
+ULSD (Rack),2026-09-28,94.6,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.26,129.6,30.1
+ULSD (Rack),2026-09-29,92.73,bbl,USD,ULSD rack Edmonton (assessment),Platts,-1.98,127.04,31.0
+ULSD (Rack),2026-09-30,91.98,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.8,126.01,30.6
+ULSD (Rack),2026-10-01,93.06,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.17,127.49,30.5
+ULSD (Rack),2026-10-02,95.3,bbl,USD,ULSD rack Edmonton (assessment),Platts,2.41,130.56,31.3
+ULSD (Rack),2026-10-05,92.96,bbl,USD,ULSD rack Edmonton (assessment),Platts,-2.45,127.36,32.5
+ULSD (Rack),2026-10-06,92.53,bbl,USD,ULSD rack Edmonton (assessment),Platts,-0.46,126.77,32.4
+ULSD (Rack),2026-10-07,93.74,bbl,USD,ULSD rack Edmonton (assessment),Platts,1.3,128.42,31.3
+Gasoline (RBOB-linked),2026-05-21,90.21,bbl,USD,Gasoline rack Edmonton (assessment),Platts,,123.59,
+Gasoline (RBOB-linked),2026-05-22,88.6,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.79,121.38,
+Gasoline (RBOB-linked),2026-05-25,88.52,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.09,121.27,
+Gasoline (RBOB-linked),2026-05-26,87.8,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.82,120.29,
+Gasoline (RBOB-linked),2026-05-27,89.1,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.48,122.07,
+Gasoline (RBOB-linked),2026-05-28,90.75,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.86,124.33,
+Gasoline (RBOB-linked),2026-05-29,90.61,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.16,124.14,
+Gasoline (RBOB-linked),2026-06-01,91.09,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.53,124.79,
+Gasoline (RBOB-linked),2026-06-02,90.46,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.69,123.93,
+Gasoline (RBOB-linked),2026-06-03,85.03,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-6.0,116.49,
+Gasoline (RBOB-linked),2026-06-04,84.85,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.21,116.24,
+Gasoline (RBOB-linked),2026-06-05,84.57,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.34,115.86,
+Gasoline (RBOB-linked),2026-06-08,83.04,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.81,113.76,
+Gasoline (RBOB-linked),2026-06-09,84.35,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.58,115.56,
+Gasoline (RBOB-linked),2026-06-10,85.18,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.99,116.7,
+Gasoline (RBOB-linked),2026-06-11,84.65,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.63,115.97,
+Gasoline (RBOB-linked),2026-06-12,84.98,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.39,116.42,
+Gasoline (RBOB-linked),2026-06-15,85.2,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.26,116.72,
+Gasoline (RBOB-linked),2026-06-16,84.88,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.37,116.29,
+Gasoline (RBOB-linked),2026-06-17,85.03,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.18,116.49,
+Gasoline (RBOB-linked),2026-06-18,85.95,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.08,117.75,27.3
+Gasoline (RBOB-linked),2026-06-19,83.46,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-2.9,114.34,28.5
+Gasoline (RBOB-linked),2026-06-22,82.91,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.66,113.59,28.5
+Gasoline (RBOB-linked),2026-06-23,82.9,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.01,113.57,28.4
+Gasoline (RBOB-linked),2026-06-24,83.12,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.26,113.87,27.7
+Gasoline (RBOB-linked),2026-06-25,81.74,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.67,111.98,26.9
+Gasoline (RBOB-linked),2026-06-26,80.86,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.07,110.78,26.9
+Gasoline (RBOB-linked),2026-06-29,81.6,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.92,111.79,27.1
+Gasoline (RBOB-linked),2026-06-30,79.73,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-2.29,109.23,27.9
+Gasoline (RBOB-linked),2026-07-01,81.21,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.85,111.26,20.1
+Gasoline (RBOB-linked),2026-07-02,80.67,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.66,110.52,20.2
+Gasoline (RBOB-linked),2026-07-03,80.04,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.77,109.65,20.3
+Gasoline (RBOB-linked),2026-07-06,81.05,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.26,111.04,20.1
+Gasoline (RBOB-linked),2026-07-07,79.23,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-2.25,108.55,20.4
+Gasoline (RBOB-linked),2026-07-08,76.05,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-4.01,104.19,23.8
+Gasoline (RBOB-linked),2026-07-09,73.97,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-2.73,101.34,25.1
+Gasoline (RBOB-linked),2026-07-10,72.15,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-2.45,98.85,25.5
+Gasoline (RBOB-linked),2026-07-13,71.06,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.52,97.35,25.3
+Gasoline (RBOB-linked),2026-07-14,72.01,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.34,98.65,26.5
+Gasoline (RBOB-linked),2026-07-15,72.2,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.25,98.91,26.5
+Gasoline (RBOB-linked),2026-07-16,73.74,bbl,USD,Gasoline rack Edmonton (assessment),Platts,2.13,101.02,27.7
+Gasoline (RBOB-linked),2026-07-17,74.72,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.33,102.37,27.4
+Gasoline (RBOB-linked),2026-07-20,75.85,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.52,103.91,28.4
+Gasoline (RBOB-linked),2026-07-21,76.8,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.25,105.22,29.0
+Gasoline (RBOB-linked),2026-07-22,76.75,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.06,105.15,28.9
+Gasoline (RBOB-linked),2026-07-23,75.72,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.34,103.74,28.7
+Gasoline (RBOB-linked),2026-07-24,75.95,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.3,104.05,28.7
+Gasoline (RBOB-linked),2026-07-27,77.63,bbl,USD,Gasoline rack Edmonton (assessment),Platts,2.21,106.35,29.8
+Gasoline (RBOB-linked),2026-07-28,76.75,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.14,105.15,29.0
+Gasoline (RBOB-linked),2026-07-29,76.91,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.21,105.37,28.0
+Gasoline (RBOB-linked),2026-07-30,76.42,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.64,104.7,28.0
+Gasoline (RBOB-linked),2026-07-31,75.31,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.46,103.17,28.3
+Gasoline (RBOB-linked),2026-08-03,78.43,bbl,USD,Gasoline rack Edmonton (assessment),Platts,4.14,107.45,31.9
+Gasoline (RBOB-linked),2026-08-04,78.27,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.2,107.23,30.9
+Gasoline (RBOB-linked),2026-08-05,79.13,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.09,108.41,27.1
+Gasoline (RBOB-linked),2026-08-06,80.56,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.81,110.37,25.3
+Gasoline (RBOB-linked),2026-08-07,82.14,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.97,112.53,23.4
+Gasoline (RBOB-linked),2026-08-10,81.69,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.55,111.92,22.4
+Gasoline (RBOB-linked),2026-08-11,80.81,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.07,110.71,23.1
+Gasoline (RBOB-linked),2026-08-12,80.24,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.72,109.93,23.5
+Gasoline (RBOB-linked),2026-08-13,79.33,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.13,108.68,23.5
+Gasoline (RBOB-linked),2026-08-14,78.45,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.11,107.48,23.7
+Gasoline (RBOB-linked),2026-08-17,77.03,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.81,105.53,24.3
+Gasoline (RBOB-linked),2026-08-18,76.79,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.3,105.2,24.0
+Gasoline (RBOB-linked),2026-08-19,75.86,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.22,103.93,24.4
+Gasoline (RBOB-linked),2026-08-20,76.79,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.23,105.2,24.3
+Gasoline (RBOB-linked),2026-08-21,78.8,bbl,USD,Gasoline rack Edmonton (assessment),Platts,2.61,107.96,25.8
+Gasoline (RBOB-linked),2026-08-24,76.78,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-2.57,105.19,26.5
+Gasoline (RBOB-linked),2026-08-25,79.05,bbl,USD,Gasoline rack Edmonton (assessment),Platts,2.96,108.3,28.2
+Gasoline (RBOB-linked),2026-08-26,79.69,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.81,109.18,28.2
+Gasoline (RBOB-linked),2026-08-27,78.77,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.16,107.91,28.5
+Gasoline (RBOB-linked),2026-08-28,77.14,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-2.08,105.68,29.1
+Gasoline (RBOB-linked),2026-08-31,77.79,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.85,106.57,25.3
+Gasoline (RBOB-linked),2026-09-01,77.55,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.31,106.24,25.3
+Gasoline (RBOB-linked),2026-09-02,77.06,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.62,105.57,25.0
+Gasoline (RBOB-linked),2026-09-03,77.45,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.5,106.11,24.1
+Gasoline (RBOB-linked),2026-09-04,79.53,bbl,USD,Gasoline rack Edmonton (assessment),Platts,2.69,108.96,25.0
+Gasoline (RBOB-linked),2026-09-07,78.64,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.12,107.74,25.2
+Gasoline (RBOB-linked),2026-09-08,79.19,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.7,108.49,25.2
+Gasoline (RBOB-linked),2026-09-09,82.07,bbl,USD,Gasoline rack Edmonton (assessment),Platts,3.64,112.44,28.2
+Gasoline (RBOB-linked),2026-09-10,84.68,bbl,USD,Gasoline rack Edmonton (assessment),Platts,3.19,116.01,29.7
+Gasoline (RBOB-linked),2026-09-11,82.85,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-2.16,113.5,30.7
+Gasoline (RBOB-linked),2026-09-14,82.03,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.99,112.38,30.0
+Gasoline (RBOB-linked),2026-09-15,83.18,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.4,113.96,30.2
+Gasoline (RBOB-linked),2026-09-16,84.15,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.16,115.29,29.7
+Gasoline (RBOB-linked),2026-09-17,83.62,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.63,114.56,29.8
+Gasoline (RBOB-linked),2026-09-18,81.96,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.99,112.29,29.9
+Gasoline (RBOB-linked),2026-09-21,83.55,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.95,114.46,28.5
+Gasoline (RBOB-linked),2026-09-22,83.36,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.22,114.2,27.0
+Gasoline (RBOB-linked),2026-09-23,85.33,bbl,USD,Gasoline rack Edmonton (assessment),Platts,2.36,116.9,28.0
+Gasoline (RBOB-linked),2026-09-24,86.24,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.06,118.15,27.5
+Gasoline (RBOB-linked),2026-09-25,85.83,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.48,117.59,26.0
+Gasoline (RBOB-linked),2026-09-28,86.78,bbl,USD,Gasoline rack Edmonton (assessment),Platts,1.11,118.89,26.1
+Gasoline (RBOB-linked),2026-09-29,86.67,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.13,118.74,26.0
+Gasoline (RBOB-linked),2026-09-30,85.05,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.87,116.52,27.2
+Gasoline (RBOB-linked),2026-10-01,83.65,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.65,114.6,28.2
+Gasoline (RBOB-linked),2026-10-02,83.77,bbl,USD,Gasoline rack Edmonton (assessment),Platts,0.14,114.76,26.9
+Gasoline (RBOB-linked),2026-10-05,82.68,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-1.29,113.27,27.0
+Gasoline (RBOB-linked),2026-10-06,81.03,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-2.0,111.01,28.1
+Gasoline (RBOB-linked),2026-10-07,80.7,bbl,USD,Gasoline rack Edmonton (assessment),Platts,-0.41,110.56,25.0
+Carbon Credits (TIER / CFR),2026-05-21,98.26,tCO2e,CAD,Alberta TIER credit price,Registry,,98.26,
+Carbon Credits (TIER / CFR),2026-05-22,100.8,tCO2e,CAD,Alberta TIER credit price,Registry,2.58,100.8,
+Carbon Credits (TIER / CFR),2026-05-25,98.84,tCO2e,CAD,Alberta TIER credit price,Registry,-1.95,98.84,
+Carbon Credits (TIER / CFR),2026-05-26,99.74,tCO2e,CAD,Alberta TIER credit price,Registry,0.91,99.74,
+Carbon Credits (TIER / CFR),2026-05-27,99.81,tCO2e,CAD,Alberta TIER credit price,Registry,0.08,99.81,
+Carbon Credits (TIER / CFR),2026-05-28,98.28,tCO2e,CAD,Alberta TIER credit price,Registry,-1.54,98.28,
+Carbon Credits (TIER / CFR),2026-05-29,96.92,tCO2e,CAD,Alberta TIER credit price,Registry,-1.39,96.92,
+Carbon Credits (TIER / CFR),2026-06-01,97.8,tCO2e,CAD,Alberta TIER credit price,Registry,0.92,97.8,
+Carbon Credits (TIER / CFR),2026-06-02,97.37,tCO2e,CAD,Alberta TIER credit price,Registry,-0.44,97.37,
+Carbon Credits (TIER / CFR),2026-06-03,98.12,tCO2e,CAD,Alberta TIER credit price,Registry,0.77,98.12,
+Carbon Credits (TIER / CFR),2026-06-04,96.51,tCO2e,CAD,Alberta TIER credit price,Registry,-1.64,96.51,
+Carbon Credits (TIER / CFR),2026-06-05,95.39,tCO2e,CAD,Alberta TIER credit price,Registry,-1.16,95.39,
+Carbon Credits (TIER / CFR),2026-06-08,94.18,tCO2e,CAD,Alberta TIER credit price,Registry,-1.27,94.18,
+Carbon Credits (TIER / CFR),2026-06-09,96.84,tCO2e,CAD,Alberta TIER credit price,Registry,2.83,96.84,
+Carbon Credits (TIER / CFR),2026-06-10,94.81,tCO2e,CAD,Alberta TIER credit price,Registry,-2.1,94.81,
+Carbon Credits (TIER / CFR),2026-06-11,96.6,tCO2e,CAD,Alberta TIER credit price,Registry,1.89,96.6,
+Carbon Credits (TIER / CFR),2026-06-12,97.51,tCO2e,CAD,Alberta TIER credit price,Registry,0.94,97.51,
+Carbon Credits (TIER / CFR),2026-06-15,96.38,tCO2e,CAD,Alberta TIER credit price,Registry,-1.17,96.38,
+Carbon Credits (TIER / CFR),2026-06-16,95.82,tCO2e,CAD,Alberta TIER credit price,Registry,-0.57,95.82,
+Carbon Credits (TIER / CFR),2026-06-17,94.71,tCO2e,CAD,Alberta TIER credit price,Registry,-1.16,94.71,
+Carbon Credits (TIER / CFR),2026-06-18,94.05,tCO2e,CAD,Alberta TIER credit price,Registry,-0.7,94.05,23.6
+Carbon Credits (TIER / CFR),2026-06-19,94.29,tCO2e,CAD,Alberta TIER credit price,Registry,0.25,94.29,21.4
+Carbon Credits (TIER / CFR),2026-06-22,95.52,tCO2e,CAD,Alberta TIER credit price,Registry,1.31,95.52,21.2
+Carbon Credits (TIER / CFR),2026-06-23,93.28,tCO2e,CAD,Alberta TIER credit price,Registry,-2.35,93.28,22.2
+Carbon Credits (TIER / CFR),2026-06-24,93.33,tCO2e,CAD,Alberta TIER credit price,Registry,0.06,93.33,22.2
+Carbon Credits (TIER / CFR),2026-06-25,93.93,tCO2e,CAD,Alberta TIER credit price,Registry,0.64,93.93,22.0
+Carbon Credits (TIER / CFR),2026-06-26,95.17,tCO2e,CAD,Alberta TIER credit price,Registry,1.32,95.17,22.1
+Carbon Credits (TIER / CFR),2026-06-29,95.13,tCO2e,CAD,Alberta TIER credit price,Registry,-0.04,95.13,21.8
+Carbon Credits (TIER / CFR),2026-06-30,96.1,tCO2e,CAD,Alberta TIER credit price,Registry,1.02,96.1,22.2
+Carbon Credits (TIER / CFR),2026-07-01,96.45,tCO2e,CAD,Alberta TIER credit price,Registry,0.37,96.45,22.0
+Carbon Credits (TIER / CFR),2026-07-02,96.88,tCO2e,CAD,Alberta TIER credit price,Registry,0.44,96.88,21.3
+Carbon Credits (TIER / CFR),2026-07-03,96.75,tCO2e,CAD,Alberta TIER credit price,Registry,-0.13,96.75,20.8
+Carbon Credits (TIER / CFR),2026-07-06,96.11,tCO2e,CAD,Alberta TIER credit price,Registry,-0.66,96.11,20.4
+Carbon Credits (TIER / CFR),2026-07-07,95.77,tCO2e,CAD,Alberta TIER credit price,Registry,-0.35,95.77,17.8
+Carbon Credits (TIER / CFR),2026-07-08,97.73,tCO2e,CAD,Alberta TIER credit price,Registry,2.04,97.73,17.5
+Carbon Credits (TIER / CFR),2026-07-09,96.89,tCO2e,CAD,Alberta TIER credit price,Registry,-0.86,96.89,16.6
+Carbon Credits (TIER / CFR),2026-07-10,95.57,tCO2e,CAD,Alberta TIER credit price,Registry,-1.36,95.57,16.9
+Carbon Credits (TIER / CFR),2026-07-13,96.93,tCO2e,CAD,Alberta TIER credit price,Registry,1.43,96.93,17.2
+Carbon Credits (TIER / CFR),2026-07-14,95.72,tCO2e,CAD,Alberta TIER credit price,Registry,-1.26,95.72,17.7
+Carbon Credits (TIER / CFR),2026-07-15,96.28,tCO2e,CAD,Alberta TIER credit price,Registry,0.59,96.28,17.3
+Carbon Credits (TIER / CFR),2026-07-16,95.88,tCO2e,CAD,Alberta TIER credit price,Registry,-0.41,95.88,17.1
+Carbon Credits (TIER / CFR),2026-07-17,94.95,tCO2e,CAD,Alberta TIER credit price,Registry,-0.97,94.95,17.5
+Carbon Credits (TIER / CFR),2026-07-20,95.33,tCO2e,CAD,Alberta TIER credit price,Registry,0.4,95.33,17.0
+Carbon Credits (TIER / CFR),2026-07-21,94.47,tCO2e,CAD,Alberta TIER credit price,Registry,-0.9,94.47,14.9
+Carbon Credits (TIER / CFR),2026-07-22,94.16,tCO2e,CAD,Alberta TIER credit price,Registry,-0.33,94.16,15.0
+Carbon Credits (TIER / CFR),2026-07-23,93.81,tCO2e,CAD,Alberta TIER credit price,Registry,-0.37,93.81,14.9
+Carbon Credits (TIER / CFR),2026-07-24,94.64,tCO2e,CAD,Alberta TIER credit price,Registry,0.88,94.64,14.4
+Carbon Credits (TIER / CFR),2026-07-27,94.25,tCO2e,CAD,Alberta TIER credit price,Registry,-0.4,94.25,14.5
+Carbon Credits (TIER / CFR),2026-07-28,94.01,tCO2e,CAD,Alberta TIER credit price,Registry,-0.26,94.01,14.0
+Carbon Credits (TIER / CFR),2026-07-29,92.82,tCO2e,CAD,Alberta TIER credit price,Registry,-1.27,92.82,14.4
+Carbon Credits (TIER / CFR),2026-07-30,91.71,tCO2e,CAD,Alberta TIER credit price,Registry,-1.2,91.71,14.6
+Carbon Credits (TIER / CFR),2026-07-31,91.88,tCO2e,CAD,Alberta TIER credit price,Registry,0.19,91.88,14.7
+Carbon Credits (TIER / CFR),2026-08-03,90.28,tCO2e,CAD,Alberta TIER credit price,Registry,-1.73,90.28,15.6
+Carbon Credits (TIER / CFR),2026-08-04,90.54,tCO2e,CAD,Alberta TIER credit price,Registry,0.28,90.54,15.7
+Carbon Credits (TIER / CFR),2026-08-05,91.25,tCO2e,CAD,Alberta TIER credit price,Registry,0.79,91.25,13.8
+Carbon Credits (TIER / CFR),2026-08-06,89.6,tCO2e,CAD,Alberta TIER credit price,Registry,-1.81,89.6,14.7
+Carbon Credits (TIER / CFR),2026-08-07,89.48,tCO2e,CAD,Alberta TIER credit price,Registry,-0.14,89.48,14.3
+Carbon Credits (TIER / CFR),2026-08-10,91.16,tCO2e,CAD,Alberta TIER credit price,Registry,1.88,91.16,15.0
+Carbon Credits (TIER / CFR),2026-08-11,94.74,tCO2e,CAD,Alberta TIER credit price,Registry,3.92,94.74,20.6
+Carbon Credits (TIER / CFR),2026-08-12,94.87,tCO2e,CAD,Alberta TIER credit price,Registry,0.14,94.87,20.5
+Carbon Credits (TIER / CFR),2026-08-13,94.55,tCO2e,CAD,Alberta TIER credit price,Registry,-0.34,94.55,20.5
+Carbon Credits (TIER / CFR),2026-08-14,93.66,tCO2e,CAD,Alberta TIER credit price,Registry,-0.94,93.66,20.5
+Carbon Credits (TIER / CFR),2026-08-17,91.9,tCO2e,CAD,Alberta TIER credit price,Registry,-1.88,91.9,21.4
+Carbon Credits (TIER / CFR),2026-08-18,91.73,tCO2e,CAD,Alberta TIER credit price,Registry,-0.18,91.73,21.2
+Carbon Credits (TIER / CFR),2026-08-19,91.76,tCO2e,CAD,Alberta TIER credit price,Registry,0.03,91.76,21.2
+Carbon Credits (TIER / CFR),2026-08-20,92.13,tCO2e,CAD,Alberta TIER credit price,Registry,0.41,92.13,21.3
+Carbon Credits (TIER / CFR),2026-08-21,92.44,tCO2e,CAD,Alberta TIER credit price,Registry,0.33,92.44,21.0
+Carbon Credits (TIER / CFR),2026-08-24,94.69,tCO2e,CAD,Alberta TIER credit price,Registry,2.43,94.69,22.8
+Carbon Credits (TIER / CFR),2026-08-25,94.51,tCO2e,CAD,Alberta TIER credit price,Registry,-0.19,94.51,22.8
+Carbon Credits (TIER / CFR),2026-08-26,93.7,tCO2e,CAD,Alberta TIER credit price,Registry,-0.86,93.7,22.5
+Carbon Credits (TIER / CFR),2026-08-27,92.31,tCO2e,CAD,Alberta TIER credit price,Registry,-1.48,92.31,22.8
+Carbon Credits (TIER / CFR),2026-08-28,90.06,tCO2e,CAD,Alberta TIER credit price,Registry,-2.43,90.06,24.4
+Carbon Credits (TIER / CFR),2026-08-31,90.42,tCO2e,CAD,Alberta TIER credit price,Registry,0.4,90.42,23.7
+Carbon Credits (TIER / CFR),2026-09-01,89.02,tCO2e,CAD,Alberta TIER credit price,Registry,-1.55,89.02,24.3
+Carbon Credits (TIER / CFR),2026-09-02,89.66,tCO2e,CAD,Alberta TIER credit price,Registry,0.72,89.66,24.3
+Carbon Credits (TIER / CFR),2026-09-03,90.73,tCO2e,CAD,Alberta TIER credit price,Registry,1.19,90.73,23.8
+Carbon Credits (TIER / CFR),2026-09-04,90.68,tCO2e,CAD,Alberta TIER credit price,Registry,-0.05,90.68,23.7
+Carbon Credits (TIER / CFR),2026-09-07,92.39,tCO2e,CAD,Alberta TIER credit price,Registry,1.88,92.39,23.7
+Carbon Credits (TIER / CFR),2026-09-08,95.38,tCO2e,CAD,Alberta TIER credit price,Registry,3.24,95.38,22.4
+Carbon Credits (TIER / CFR),2026-09-09,97.37,tCO2e,CAD,Alberta TIER credit price,Registry,2.09,97.37,23.6
+Carbon Credits (TIER / CFR),2026-09-10,98.01,tCO2e,CAD,Alberta TIER credit price,Registry,0.66,98.01,23.6
+Carbon Credits (TIER / CFR),2026-09-11,96.67,tCO2e,CAD,Alberta TIER credit price,Registry,-1.38,96.67,23.9
+Carbon Credits (TIER / CFR),2026-09-14,95.88,tCO2e,CAD,Alberta TIER credit price,Registry,-0.81,95.88,22.9
+Carbon Credits (TIER / CFR),2026-09-15,95.58,tCO2e,CAD,Alberta TIER credit price,Registry,-0.32,95.58,23.0
+Carbon Credits (TIER / CFR),2026-09-16,95.05,tCO2e,CAD,Alberta TIER credit price,Registry,-0.56,95.05,23.1
+Carbon Credits (TIER / CFR),2026-09-17,95.63,tCO2e,CAD,Alberta TIER credit price,Registry,0.61,95.63,23.2
+Carbon Credits (TIER / CFR),2026-09-18,95.22,tCO2e,CAD,Alberta TIER credit price,Registry,-0.43,95.22,23.3
+Carbon Credits (TIER / CFR),2026-09-21,96.5,tCO2e,CAD,Alberta TIER credit price,Registry,1.35,96.5,22.2
+Carbon Credits (TIER / CFR),2026-09-22,97.66,tCO2e,CAD,Alberta TIER credit price,Registry,1.2,97.66,22.5
+Carbon Credits (TIER / CFR),2026-09-23,98.11,tCO2e,CAD,Alberta TIER credit price,Registry,0.46,98.11,22.2
+Carbon Credits (TIER / CFR),2026-09-24,98.22,tCO2e,CAD,Alberta TIER credit price,Registry,0.11,98.22,21.2
+Carbon Credits (TIER / CFR),2026-09-25,99.43,tCO2e,CAD,Alberta TIER credit price,Registry,1.23,99.43,18.7
+Carbon Credits (TIER / CFR),2026-09-28,97.71,tCO2e,CAD,Alberta TIER credit price,Registry,-1.72,97.71,20.3
+Carbon Credits (TIER / CFR),2026-09-29,99.58,tCO2e,CAD,Alberta TIER credit price,Registry,1.91,99.58,19.6
+Carbon Credits (TIER / CFR),2026-09-30,100.49,tCO2e,CAD,Alberta TIER credit price,Registry,0.92,100.49,19.7
+Carbon Credits (TIER / CFR),2026-10-01,102.22,tCO2e,CAD,Alberta TIER credit price,Registry,1.73,102.22,20.0
+Carbon Credits (TIER / CFR),2026-10-02,103.03,tCO2e,CAD,Alberta TIER credit price,Registry,0.79,103.03,19.8
+Carbon Credits (TIER / CFR),2026-10-05,100.75,tCO2e,CAD,Alberta TIER credit price,Registry,-2.21,100.75,21.7
+Carbon Credits (TIER / CFR),2026-10-06,98.68,tCO2e,CAD,Alberta TIER credit price,Registry,-2.05,98.68,20.9
+Carbon Credits (TIER / CFR),2026-10-07,98.62,tCO2e,CAD,Alberta TIER credit price,Registry,-0.07,98.62,19.6
