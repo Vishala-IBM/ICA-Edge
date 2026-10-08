@@ -1,0 +1,501 @@
+Customer,Product,Contract_Volume,Contract_ID,Customer_ID,Unit,Volume_Period,Start_Date,End_Date,Pricing_Basis,Take_Or_Pay_Pct,Region
+Coastal Polymers Inc.,Condensate and Diluent,184000,SCT-0001,CUS-001,tonnes,Annual,2025-01-01,2026-12-31,Rack-linked,85,Ontario
+Coastal Polymers Inc.,Granular Sulphur,285000,SCT-0002,CUS-001,tonnes,Annual,2025-07-01,2027-06-30,Fixed price,70,Ontario
+Coastal Polymers Inc.,Mixed Xylenes,364000,SCT-0003,CUS-001,tonnes,Annual,2026-01-01,2028-12-31,Cost-plus,80,Ontario
+Coastal Polymers Inc.,Naphtha,83000,SCT-0004,CUS-001,tonnes,Annual,2026-04-01,2028-03-31,Rack-linked,80,Ontario
+Coastal Polymers Inc.,Petroleum Coke,55000,SCT-0005,CUS-001,tonnes,Annual,2026-01-01,2027-12-31,Rack-linked,0,Ontario
+Coastal Polymers Inc.,Polymer-Grade Propylene,112000,SCT-0006,CUS-001,tonnes,Annual,2026-04-01,2028-03-31,Index + margin,80,Ontario
+Capital Rail Co-operative Ltd.,Hydraulic Oil AW 46,6422000,SCT-0007,CUS-002,litres,Annual,2025-04-01,2027-03-31,Rack-linked,0,Quebec
+Capital Rail Co-operative Ltd.,Locomotive Diesel,119290000,SCT-0008,CUS-002,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Quebec
+Capital Rail Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,57972000,SCT-0009,CUS-002,litres,Annual,2026-01-01,2027-12-31,Index + margin,85,Quebec
+Heritage Road Materials Ltd.,Asphalt Cement PG 52-34,123000,SCT-0010,CUS-003,tonnes,Annual,2026-04-01,2028-03-31,Fixed price,70,Manitoba
+Heritage Road Materials Ltd.,Asphalt Cement PG 58-28,143000,SCT-0011,CUS-003,tonnes,Annual,2026-07-01,2028-06-30,Index + margin,85,Manitoba
+Heritage Road Materials Ltd.,Cationic Asphalt Emulsion,22000,SCT-0012,CUS-003,tonnes,Annual,2026-04-01,2028-03-31,Cost-plus,90,Manitoba
+Heritage Road Materials Ltd.,Medium-Cure Cutback Asphalt,160000,SCT-0013,CUS-003,tonnes,Annual,2026-01-01,2028-12-31,Rack-linked,85,Manitoba
+Keystone Freightways Ltd.,Biodiesel B20 Blend,7156000,SCT-0014,CUS-004,litres,Annual,2025-07-01,2027-06-30,Cost-plus,0,Northern Canada
+Keystone Freightways Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,692000,SCT-0015,CUS-004,litres,Annual,2025-10-01,2027-09-30,Fixed price,0,Northern Canada
+Keystone Freightways Ltd.,Ultra-Low Sulphur Diesel No. 2,2404000,SCT-0016,CUS-004,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Northern Canada
+Keystone Freightways Ltd.,Winter Diesel No. 1,11583000,SCT-0017,CUS-004,litres,Annual,2026-07-01,2028-06-30,Rack-linked,80,Northern Canada
+Highland Drilling Co-operative Ltd.,Compressor Oil ISO 100,244000,SCT-0018,CUS-005,litres,Annual,2026-01-01,2027-12-31,Fixed price,80,Quebec
+Highland Drilling Co-operative Ltd.,Condensate and Diluent,12553000,SCT-0019,CUS-005,tonnes,Annual,2026-01-01,2027-12-31,Fixed price,80,Quebec
+Highland Drilling Co-operative Ltd.,Drilling Fluid Base Oil,492000,SCT-0020,CUS-005,litres,Annual,2026-07-01,2029-06-30,Fixed price,90,Quebec
+Highland Drilling Co-operative Ltd.,Dyed Off-Road Diesel,8967000,SCT-0021,CUS-005,litres,Annual,2026-10-01,2028-09-30,Cost-plus,70,Quebec
+Highland Drilling Co-operative Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,455000,SCT-0022,CUS-005,litres,Annual,2025-04-01,2027-03-31,Rack-linked,0,Quebec
+Highland Drilling Co-operative Ltd.,Natural Gas Engine Oil,1837000,SCT-0023,CUS-005,litres,Annual,2026-04-01,2029-03-31,Rack-linked,70,Quebec
+Frontier Drilling Limited Partnership,Compressor Oil ISO 100,627000,SCT-0024,CUS-006,litres,Annual,2026-01-01,2028-12-31,Fixed price,0,Alberta
+Frontier Drilling Limited Partnership,Condensate and Diluent,4478000,SCT-0025,CUS-006,tonnes,Annual,2026-01-01,2027-12-31,Cost-plus,70,Alberta
+Frontier Drilling Limited Partnership,Drilling Fluid Base Oil,996000,SCT-0026,CUS-006,litres,Annual,2026-01-01,2028-12-31,Rack-linked,0,Alberta
+Frontier Drilling Limited Partnership,Dyed Off-Road Diesel,4659000,SCT-0027,CUS-006,litres,Annual,2026-01-01,2028-12-31,Rack-linked,0,Alberta
+Frontier Drilling Limited Partnership,Heavy-Duty Diesel Engine Oil 15W-40,2030000,SCT-0028,CUS-006,litres,Annual,2026-04-01,2028-03-31,Fixed price,0,Alberta
+Frontier Drilling Limited Partnership,Natural Gas Engine Oil,1128000,SCT-0029,CUS-006,litres,Annual,2026-01-01,2027-12-31,Index + margin,0,Alberta
+Laurentian Minerals Corp.,Arctic Grade Diesel,18377000,SCT-0030,CUS-007,litres,Annual,2026-03-01,2029-03-31,Index + margin,80,Alberta
+Laurentian Minerals Corp.,Heavy-Duty Diesel Engine Oil 15W-40,2826000,SCT-0031,CUS-007,litres,Annual,2026-04-01,2028-03-31,Rack-linked,70,Alberta
+Laurentian Minerals Corp.,Hydraulic Oil AW 68,16383000,SCT-0032,CUS-007,litres,Annual,2025-10-01,2028-09-30,Rack-linked,0,Alberta
+Laurentian Minerals Corp.,Industrial Gear Oil ISO 220,2501000,SCT-0033,CUS-007,litres,Annual,2026-04-01,2028-03-31,Rack-linked,0,Alberta
+Laurentian Minerals Corp.,Mining-Grade Bulk Diesel,47675000,SCT-0034,CUS-007,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Alberta
+Laurentian Minerals Corp.,Ultra-Low Sulphur Diesel No. 2,47708000,SCT-0035,CUS-007,litres,Annual,2025-07-01,2027-06-30,Cost-plus,90,Alberta
+Silverline Ag Co-op Co-operative Ltd.,Bulk Propane Commercial,1298000,SCT-0036,CUS-008,litres,Annual,2025-07-01,2028-06-30,Rack-linked,70,Alberta
+Silverline Ag Co-op Co-operative Ltd.,Dyed Off-Road Diesel,2284000,SCT-0037,CUS-008,litres,Annual,2026-04-01,2028-03-31,Index + margin,85,Alberta
+Silverline Ag Co-op Co-operative Ltd.,Farm Diesel Bulk Delivery,2155000,SCT-0038,CUS-008,litres,Annual,2026-01-01,2027-12-31,Index + margin,80,Alberta
+Silverline Ag Co-op Co-operative Ltd.,Hydraulic Oil AW 46,675000,SCT-0039,CUS-008,litres,Annual,2025-01-01,2026-12-31,Cost-plus,85,Alberta
+Silverline Ag Co-op Co-operative Ltd.,Regular Unleaded 87,1900000,SCT-0040,CUS-008,litres,Annual,2025-04-01,2027-03-31,Rack-linked,90,Alberta
+Bluewater Airport Fuelling Corp.,Avgas 100LL,33909000,SCT-0041,CUS-009,litres,Annual,2026-06-01,2029-09-30,Rack-linked,0,Ontario
+Bluewater Airport Fuelling Corp.,Ground Support Equipment Diesel,32828000,SCT-0042,CUS-009,litres,Annual,2025-10-01,2027-09-30,Rack-linked,80,Ontario
+Bluewater Airport Fuelling Corp.,Jet A,68813000,SCT-0043,CUS-009,litres,Annual,2025-01-01,2027-12-31,Cost-plus,0,Ontario
+Bluewater Airport Fuelling Corp.,Sustainable Aviation Fuel Blend 10%,38944000,SCT-0044,CUS-009,litres,Annual,2025-10-01,2028-09-30,Fixed price,0,Ontario
+Evergreen Transport Inc.,Arctic Grade Diesel,3522000,SCT-0045,CUS-010,litres,Annual,2026-07-01,2028-06-30,Fixed price,0,Alberta
+Evergreen Transport Inc.,Biodiesel B5 Blend,2794000,SCT-0046,CUS-010,litres,Annual,2026-07-01,2029-06-30,Index + margin,70,Alberta
+Evergreen Transport Inc.,Heavy-Duty Diesel Engine Oil 15W-40,2373000,SCT-0047,CUS-010,litres,Annual,2025-01-01,2026-12-31,Cost-plus,80,Alberta
+Evergreen Transport Inc.,Ultra-Low Sulphur Diesel No. 2,5743000,SCT-0048,CUS-010,litres,Annual,2026-07-01,2028-06-30,Rack-linked,90,Alberta
+Evergreen Transport Inc.,Winter Diesel No. 1,16770000,SCT-0049,CUS-010,litres,Annual,2026-04-01,2028-03-31,Rack-linked,80,Alberta
+Granite Energy Distribution Co-operative Ltd.,Premium Unleaded 91,30244000,SCT-0050,CUS-011,litres,Annual,2025-10-01,2027-09-30,Rack-linked,85,Alberta
+Granite Energy Distribution Co-operative Ltd.,Rack Gasoline 87 (Wholesale),23439000,SCT-0051,CUS-011,litres,Annual,2026-07-01,2029-06-30,Cost-plus,90,Alberta
+Granite Energy Distribution Co-operative Ltd.,Regular E10 Ethanol Blend,16297000,SCT-0052,CUS-011,litres,Annual,2025-01-01,2026-12-31,Index + margin,85,Alberta
+Granite Energy Distribution Co-operative Ltd.,Regular Unleaded 87,46817000,SCT-0053,CUS-011,litres,Annual,2026-01-01,2027-12-31,Index + margin,85,Alberta
+Granite Energy Distribution Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,65153000,SCT-0054,CUS-011,litres,Annual,2026-04-01,2029-03-31,Rack-linked,70,Alberta
+Granite Energy Distribution Co-operative Ltd.,Winter-Blend Regular 87,29142000,SCT-0055,CUS-011,litres,Annual,2026-01-01,2027-12-31,Cost-plus,85,Alberta
+Red River Resources Inc.,Heavy-Duty Diesel Engine Oil 15W-40,7757000,SCT-0056,CUS-012,litres,Annual,2025-01-01,2026-12-31,Index + margin,0,Alberta
+Red River Resources Inc.,Industrial Gear Oil ISO 220,5640000,SCT-0057,CUS-012,litres,Annual,2025-07-01,2027-06-30,Index + margin,90,Alberta
+Red River Resources Inc.,Mining-Grade Bulk Diesel,74868000,SCT-0058,CUS-012,litres,Annual,2026-01-01,2028-12-31,Index + margin,0,Alberta
+Pacific Mining Inc.,Heavy-Duty Diesel Engine Oil 15W-40,10744000,SCT-0059,CUS-013,litres,Annual,2026-07-01,2029-06-30,Index + margin,85,Saskatchewan
+Pacific Mining Inc.,Hydraulic Oil AW 68,16753000,SCT-0060,CUS-013,litres,Annual,2026-01-01,2027-12-31,Cost-plus,90,Saskatchewan
+Pacific Mining Inc.,Industrial Gear Oil ISO 220,2682000,SCT-0061,CUS-013,litres,Annual,2025-10-01,2027-09-30,Rack-linked,80,Saskatchewan
+Pacific Mining Inc.,Mining-Grade Bulk Diesel,24306000,SCT-0062,CUS-013,litres,Annual,2026-07-01,2028-06-30,Index + margin,70,Saskatchewan
+Pacific Mining Inc.,Ultra-Low Sulphur Diesel No. 2,20848000,SCT-0063,CUS-013,litres,Annual,2026-01-01,2027-12-31,Index + margin,0,Saskatchewan
+Canyon Rail Ltd.,Hydraulic Oil AW 46,3309000,SCT-0064,CUS-014,litres,Annual,2025-04-01,2027-03-31,Fixed price,85,Quebec
+Canyon Rail Ltd.,Locomotive Diesel,85184000,SCT-0065,CUS-014,litres,Annual,2026-02-01,2028-09-30,Fixed price,0,Quebec
+Canyon Rail Ltd.,Ultra-Low Sulphur Diesel No. 2,44712000,SCT-0066,CUS-014,litres,Annual,2026-01-01,2028-12-31,Fixed price,70,Quebec
+Arctic Air Limited Partnership,Avgas 100LL,163384000,SCT-0067,CUS-015,litres,Annual,2026-01-01,2027-12-31,Index + margin,90,Alberta
+Arctic Air Limited Partnership,Ground Support Equipment Diesel,270452000,SCT-0068,CUS-015,litres,Annual,2025-10-01,2027-09-30,Index + margin,85,Alberta
+Arctic Air Limited Partnership,Jet A,86019000,SCT-0069,CUS-015,litres,Annual,2026-04-01,2028-03-31,Index + margin,90,Alberta
+Arctic Air Limited Partnership,Jet A-1,215687000,SCT-0070,CUS-015,litres,Annual,2026-02-01,2028-06-30,Fixed price,85,Alberta
+Arctic Air Limited Partnership,Sustainable Aviation Fuel Blend 10%,266643000,SCT-0071,CUS-015,litres,Annual,2026-03-01,2028-03-31,Cost-plus,70,Alberta
+Rocky Chemicals Inc.,Condensate and Diluent,392000,SCT-0072,CUS-016,tonnes,Annual,2026-10-01,2029-09-30,Rack-linked,70,Quebec
+Rocky Chemicals Inc.,Granular Sulphur,453000,SCT-0073,CUS-016,tonnes,Annual,2026-01-01,2028-12-31,Rack-linked,90,Quebec
+Rocky Chemicals Inc.,Mixed Xylenes,173000,SCT-0074,CUS-016,tonnes,Annual,2025-01-01,2026-12-31,Rack-linked,70,Quebec
+Rocky Chemicals Inc.,Petroleum Coke,106000,SCT-0075,CUS-016,tonnes,Annual,2026-04-01,2028-03-31,Rack-linked,80,Quebec
+Northstar Energy Distribution Corp.,Dyed Off-Road Diesel,8203000,SCT-0076,CUS-017,litres,Annual,2025-07-01,2027-06-30,Cost-plus,80,Quebec
+Northstar Energy Distribution Corp.,Mid-Grade Unleaded 89,66879000,SCT-0077,CUS-017,litres,Annual,2026-01-01,2027-12-31,Rack-linked,70,Quebec
+Northstar Energy Distribution Corp.,Rack Gasoline 87 (Wholesale),28978000,SCT-0078,CUS-017,litres,Annual,2025-07-01,2028-06-30,Rack-linked,85,Quebec
+Northstar Energy Distribution Corp.,Regular E10 Ethanol Blend,50318000,SCT-0079,CUS-017,litres,Annual,2026-01-01,2028-03-31,Cost-plus,85,Quebec
+Northstar Energy Distribution Corp.,Regular Unleaded 87,14860000,SCT-0080,CUS-017,litres,Annual,2025-01-01,2026-12-31,Rack-linked,90,Quebec
+Northstar Energy Distribution Corp.,Ultra-Low Sulphur Diesel No. 2,27300000,SCT-0081,CUS-017,litres,Annual,2026-10-01,2028-09-30,Index + margin,90,Quebec
+Northstar Energy Distribution Corp.,Winter Diesel No. 1,16096000,SCT-0082,CUS-017,litres,Annual,2025-07-01,2028-06-30,Rack-linked,70,Quebec
+Northstar Energy Distribution Corp.,Winter-Blend Regular 87,34803000,SCT-0083,CUS-017,litres,Annual,2026-10-01,2028-09-30,Rack-linked,0,Quebec
+Pacific Paving Corp.,Asphalt Cement PG 52-34,192000,SCT-0084,CUS-018,tonnes,Annual,2026-10-01,2029-09-30,Rack-linked,80,Northern Canada
+Pacific Paving Corp.,Asphalt Cement PG 64-22,91000,SCT-0085,CUS-018,tonnes,Annual,2026-01-01,2028-12-31,Fixed price,0,Northern Canada
+Pacific Paving Corp.,Asphalt Cement PG 70-28,133000,SCT-0086,CUS-018,tonnes,Annual,2025-10-01,2027-09-30,Fixed price,0,Northern Canada
+Pacific Paving Corp.,Cationic Asphalt Emulsion,141000,SCT-0087,CUS-018,tonnes,Annual,2026-10-01,2028-09-30,Rack-linked,0,Northern Canada
+Pacific Paving Corp.,Dyed Off-Road Diesel,78000,SCT-0088,CUS-018,litres,Annual,2026-07-01,2028-06-30,Rack-linked,80,Northern Canada
+Pacific Paving Corp.,Medium-Cure Cutback Asphalt,27000,SCT-0089,CUS-018,tonnes,Annual,2026-04-01,2028-03-31,Fixed price,80,Northern Canada
+Frontier Farm Supply Co-operative Ltd.,Bulk Propane Commercial,1522000,SCT-0090,CUS-019,litres,Annual,2026-01-01,2027-12-31,Fixed price,0,Quebec
+Frontier Farm Supply Co-operative Ltd.,Dyed Off-Road Diesel,3900000,SCT-0091,CUS-019,litres,Annual,2026-07-01,2028-06-30,Cost-plus,80,Quebec
+Frontier Farm Supply Co-operative Ltd.,Farm Diesel Bulk Delivery,2465000,SCT-0092,CUS-019,litres,Annual,2026-07-01,2029-06-30,Rack-linked,0,Quebec
+Frontier Farm Supply Co-operative Ltd.,Hydraulic Oil AW 46,628000,SCT-0093,CUS-019,litres,Annual,2025-10-01,2027-09-30,Rack-linked,70,Quebec
+Frontier Farm Supply Co-operative Ltd.,Regular Unleaded 87,1854000,SCT-0094,CUS-019,litres,Annual,2026-10-01,2029-09-30,Rack-linked,70,Quebec
+Granite Petroleum Inc.,Dyed Off-Road Diesel,25069000,SCT-0095,CUS-020,litres,Annual,2026-04-01,2028-03-31,Index + margin,80,Alberta
+Granite Petroleum Inc.,Premium Unleaded 91,72525000,SCT-0096,CUS-020,litres,Annual,2025-01-01,2026-12-31,Rack-linked,90,Alberta
+Granite Petroleum Inc.,Regular E10 Ethanol Blend,20762000,SCT-0097,CUS-020,litres,Annual,2026-01-01,2028-12-31,Index + margin,80,Alberta
+Granite Petroleum Inc.,Regular Unleaded 87,75801000,SCT-0098,CUS-020,litres,Annual,2026-04-01,2028-03-31,Fixed price,70,Alberta
+Granite Petroleum Inc.,Winter Diesel No. 1,11041000,SCT-0099,CUS-020,litres,Annual,2026-04-01,2028-03-31,Rack-linked,0,Alberta
+Granite Petroleum Inc.,Winter-Blend Regular 87,23858000,SCT-0100,CUS-020,litres,Annual,2026-02-01,2028-03-31,Index + margin,0,Alberta
+Cascade Petroleum Co-operative Ltd.,Premium Unleaded 91,10921000,SCT-0101,CUS-021,litres,Annual,2025-10-01,2028-09-30,Index + margin,70,Alberta
+Cascade Petroleum Co-operative Ltd.,Rack Gasoline 87 (Wholesale),16797000,SCT-0102,CUS-021,litres,Annual,2026-01-01,2027-12-31,Index + margin,80,Alberta
+Cascade Petroleum Co-operative Ltd.,Regular Unleaded 87,15737000,SCT-0103,CUS-021,litres,Annual,2026-02-01,2028-03-31,Rack-linked,90,Alberta
+Cascade Petroleum Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,51025000,SCT-0104,CUS-021,litres,Annual,2026-01-01,2028-12-31,Index + margin,90,Alberta
+Cascade Petroleum Co-operative Ltd.,Winter-Blend Regular 87,59372000,SCT-0105,CUS-021,litres,Annual,2025-07-01,2027-06-30,Index + margin,0,Alberta
+Foothills Fuels Corp.,Premium Unleaded 91,44939000,SCT-0106,CUS-022,litres,Annual,2025-04-01,2027-03-31,Fixed price,90,Saskatchewan
+Foothills Fuels Corp.,Ultra-Low Sulphur Diesel No. 2,23307000,SCT-0107,CUS-022,litres,Annual,2026-04-01,2028-03-31,Rack-linked,80,Saskatchewan
+Foothills Fuels Corp.,Winter-Blend Regular 87,68374000,SCT-0108,CUS-022,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Saskatchewan
+Northstar Well Services Co-operative Ltd.,Compressor Oil ISO 100,1636000,SCT-0109,CUS-023,litres,Annual,2026-01-01,2028-12-31,Fixed price,85,Alberta
+Northstar Well Services Co-operative Ltd.,Condensate and Diluent,9265000,SCT-0110,CUS-023,tonnes,Annual,2025-07-01,2027-06-30,Rack-linked,90,Alberta
+Northstar Well Services Co-operative Ltd.,Drilling Fluid Base Oil,387000,SCT-0111,CUS-023,litres,Annual,2025-10-01,2027-09-30,Index + margin,90,Alberta
+Northstar Well Services Co-operative Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,343000,SCT-0112,CUS-023,litres,Annual,2026-01-01,2028-12-31,Index + margin,85,Alberta
+Northstar Well Services Co-operative Ltd.,Natural Gas Engine Oil,275000,SCT-0113,CUS-023,litres,Annual,2026-07-01,2029-06-30,Rack-linked,0,Alberta
+Harbour Air Corp.,Avgas 100LL,199971000,SCT-0114,CUS-024,litres,Annual,2026-02-01,2028-03-31,Fixed price,70,Northern Canada
+Harbour Air Corp.,Ground Support Equipment Diesel,50680000,SCT-0115,CUS-024,litres,Annual,2026-01-01,2028-12-31,Cost-plus,0,Northern Canada
+Harbour Air Corp.,Jet A,154563000,SCT-0116,CUS-024,litres,Annual,2026-01-01,2028-12-31,Rack-linked,80,Northern Canada
+Harbour Air Corp.,Jet A-1,224808000,SCT-0117,CUS-024,litres,Annual,2026-02-01,2028-03-31,Rack-linked,0,Northern Canada
+Harbour Air Corp.,Sustainable Aviation Fuel Blend 10%,286696000,SCT-0118,CUS-024,litres,Annual,2025-01-01,2026-12-31,Rack-linked,90,Northern Canada
+Highland Fuel Stops Corp.,Premium Unleaded 91,92720000,SCT-0119,CUS-025,litres,Annual,2026-01-01,2027-12-31,Fixed price,80,Ontario
+Highland Fuel Stops Corp.,Premium Unleaded 94,24026000,SCT-0120,CUS-025,litres,Annual,2026-10-01,2029-09-30,Index + margin,0,Ontario
+Highland Fuel Stops Corp.,Regular Unleaded 87,100668000,SCT-0121,CUS-025,litres,Annual,2026-01-01,2027-12-31,Index + margin,70,Ontario
+Cedar Propane Inc.,Autogas Propane,8129000,SCT-0122,CUS-026,litres,Annual,2025-10-01,2027-09-30,Fixed price,0,Ontario
+Cedar Propane Inc.,Bulk Propane Commercial,8759000,SCT-0123,CUS-026,litres,Annual,2026-01-01,2027-12-31,Rack-linked,85,Ontario
+Cedar Propane Inc.,Bulk Propane Residential,27386000,SCT-0124,CUS-026,litres,Annual,2026-04-01,2028-09-30,Rack-linked,80,Ontario
+Cedar Propane Inc.,Butane,4620000,SCT-0125,CUS-026,litres,Annual,2026-04-01,2028-03-31,Index + margin,90,Ontario
+Cedar Propane Inc.,Propane-Butane Mix,9992000,SCT-0126,CUS-026,litres,Annual,2026-01-01,2028-12-31,Rack-linked,70,Ontario
+Northern Petro Stations Corp.,Mid-Grade Unleaded 89,34585000,SCT-0127,CUS-027,litres,Annual,2026-07-01,2029-06-30,Fixed price,0,Alberta
+Northern Petro Stations Corp.,Premium Diesel with Additive,125131000,SCT-0128,CUS-027,litres,Annual,2026-01-01,2028-12-31,Fixed price,85,Alberta
+Northern Petro Stations Corp.,Premium Unleaded 91,107354000,SCT-0129,CUS-027,litres,Annual,2025-01-01,2027-12-31,Index + margin,0,Alberta
+Northern Petro Stations Corp.,Winter-Blend Premium 91,137187000,SCT-0130,CUS-027,litres,Annual,2026-04-01,2028-03-31,Rack-linked,0,Alberta
+Northern Petro Stations Corp.,Winter-Blend Regular 87,78543000,SCT-0131,CUS-027,litres,Annual,2026-01-01,2027-12-31,Index + margin,0,Alberta
+Heritage Resources Ltd.,Arctic Grade Diesel,17024000,SCT-0132,CUS-028,litres,Annual,2025-04-01,2027-03-31,Cost-plus,0,Saskatchewan
+Heritage Resources Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,2846000,SCT-0133,CUS-028,litres,Annual,2026-01-01,2029-03-31,Cost-plus,70,Saskatchewan
+Heritage Resources Ltd.,Hydraulic Oil AW 68,14402000,SCT-0134,CUS-028,litres,Annual,2025-01-01,2026-12-31,Rack-linked,80,Saskatchewan
+Heritage Resources Ltd.,Industrial Gear Oil ISO 220,3308000,SCT-0135,CUS-028,litres,Annual,2025-01-01,2026-12-31,Cost-plus,0,Saskatchewan
+Heritage Resources Ltd.,Mining-Grade Bulk Diesel,66010000,SCT-0136,CUS-028,litres,Annual,2026-04-01,2028-06-30,Fixed price,0,Saskatchewan
+Heritage Resources Ltd.,Ultra-Low Sulphur Diesel No. 2,119255000,SCT-0137,CUS-028,litres,Annual,2025-01-01,2027-12-31,Index + margin,70,Saskatchewan
+Laurentian Airport Fuelling Limited Partnership,Avgas 100LL,189852000,SCT-0138,CUS-029,litres,Annual,2025-01-01,2026-12-31,Fixed price,90,Alberta
+Laurentian Airport Fuelling Limited Partnership,Ground Support Equipment Diesel,51534000,SCT-0139,CUS-029,litres,Annual,2026-09-01,2028-09-30,Index + margin,85,Alberta
+Laurentian Airport Fuelling Limited Partnership,Jet A,32863000,SCT-0140,CUS-029,litres,Annual,2025-10-01,2027-09-30,Index + margin,90,Alberta
+Laurentian Airport Fuelling Limited Partnership,Jet A-1,164769000,SCT-0141,CUS-029,litres,Annual,2026-02-01,2028-09-30,Rack-linked,70,Alberta
+Laurentian Airport Fuelling Limited Partnership,Sustainable Aviation Fuel Blend 10%,39337000,SCT-0142,CUS-029,litres,Annual,2026-04-01,2029-03-31,Cost-plus,70,Alberta
+Highland Fuel Stops Co-operative Ltd.,Mid-Grade Unleaded 89,76564000,SCT-0143,CUS-030,litres,Annual,2026-01-01,2027-12-31,Rack-linked,70,Ontario
+Highland Fuel Stops Co-operative Ltd.,Premium Diesel with Additive,30695000,SCT-0144,CUS-030,litres,Annual,2026-02-01,2029-09-30,Index + margin,85,Ontario
+Highland Fuel Stops Co-operative Ltd.,Premium Unleaded 91,28284000,SCT-0145,CUS-030,litres,Annual,2026-09-01,2029-09-30,Rack-linked,90,Ontario
+Highland Fuel Stops Co-operative Ltd.,Premium Unleaded 94,34847000,SCT-0146,CUS-030,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Ontario
+Highland Fuel Stops Co-operative Ltd.,Regular Unleaded 87,74632000,SCT-0147,CUS-030,litres,Annual,2025-07-01,2027-06-30,Rack-linked,0,Ontario
+Highland Fuel Stops Co-operative Ltd.,Winter-Blend Premium 91,79930000,SCT-0148,CUS-030,litres,Annual,2025-10-01,2028-09-30,Index + margin,80,Ontario
+Highland Fuel Stops Co-operative Ltd.,Winter-Blend Regular 87,140281000,SCT-0149,CUS-030,litres,Annual,2026-01-01,2027-12-31,Cost-plus,0,Ontario
+Canyon Minerals Ltd.,Arctic Grade Diesel,103155000,SCT-0150,CUS-031,litres,Annual,2026-01-01,2028-12-31,Rack-linked,70,Saskatchewan
+Canyon Minerals Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,15692000,SCT-0151,CUS-031,litres,Annual,2025-04-01,2027-03-31,Rack-linked,85,Saskatchewan
+Canyon Minerals Ltd.,Hydraulic Oil AW 68,2455000,SCT-0152,CUS-031,litres,Annual,2026-01-01,2027-12-31,Cost-plus,90,Saskatchewan
+Canyon Minerals Ltd.,Industrial Gear Oil ISO 220,2674000,SCT-0153,CUS-031,litres,Annual,2026-01-01,2028-12-31,Index + margin,0,Saskatchewan
+Canyon Minerals Ltd.,Mining-Grade Bulk Diesel,19077000,SCT-0154,CUS-031,litres,Annual,2026-07-01,2028-06-30,Index + margin,0,Saskatchewan
+Canyon Minerals Ltd.,Ultra-Low Sulphur Diesel No. 2,85554000,SCT-0155,CUS-031,litres,Annual,2026-02-01,2028-03-31,Rack-linked,85,Saskatchewan
+Evergreen Gas & Go Corp.,Mid-Grade Unleaded 89,29468000,SCT-0156,CUS-032,litres,Annual,2026-02-01,2028-03-31,Index + margin,70,Ontario
+Evergreen Gas & Go Corp.,Premium Diesel with Additive,23755000,SCT-0157,CUS-032,litres,Annual,2025-01-01,2027-12-31,Rack-linked,80,Ontario
+Evergreen Gas & Go Corp.,Premium Unleaded 91,88069000,SCT-0158,CUS-032,litres,Annual,2026-04-01,2028-03-31,Rack-linked,90,Ontario
+Evergreen Gas & Go Corp.,Premium Unleaded 94,39104000,SCT-0159,CUS-032,litres,Annual,2025-10-01,2027-09-30,Fixed price,85,Ontario
+Evergreen Gas & Go Corp.,Regular Unleaded 87,139316000,SCT-0160,CUS-032,litres,Annual,2026-02-01,2028-03-31,Cost-plus,0,Ontario
+Evergreen Gas & Go Corp.,Ultra-Low Sulphur Diesel No. 2,134704000,SCT-0161,CUS-032,litres,Annual,2026-04-01,2029-03-31,Cost-plus,0,Ontario
+Evergreen Gas & Go Corp.,Winter-Blend Premium 91,59388000,SCT-0162,CUS-032,litres,Annual,2026-09-01,2029-09-30,Fixed price,80,Ontario
+Evergreen Gas & Go Corp.,Winter-Blend Regular 87,61384000,SCT-0163,CUS-032,litres,Annual,2026-01-01,2028-06-30,Rack-linked,90,Ontario
+Pioneer Ag Co-op Ltd.,Bulk Propane Commercial,1542000,SCT-0164,CUS-033,litres,Annual,2025-07-01,2027-06-30,Rack-linked,0,Alberta
+Pioneer Ag Co-op Ltd.,Dyed Off-Road Diesel,7848000,SCT-0165,CUS-033,litres,Annual,2025-04-01,2027-03-31,Rack-linked,90,Alberta
+Pioneer Ag Co-op Ltd.,Farm Diesel Bulk Delivery,2144000,SCT-0166,CUS-033,litres,Annual,2025-01-01,2026-12-31,Rack-linked,85,Alberta
+Pioneer Ag Co-op Ltd.,Hydraulic Oil AW 46,771000,SCT-0167,CUS-033,litres,Annual,2026-04-01,2029-03-31,Index + margin,85,Alberta
+Pioneer Ag Co-op Ltd.,Regular Unleaded 87,2051000,SCT-0168,CUS-033,litres,Annual,2026-04-01,2029-03-31,Rack-linked,0,Alberta
+Canyon Freightways Inc.,Arctic Grade Diesel,22671000,SCT-0169,CUS-034,litres,Annual,2026-01-01,2027-12-31,Fixed price,90,British Columbia
+Canyon Freightways Inc.,Biodiesel B20 Blend,9586000,SCT-0170,CUS-034,litres,Annual,2026-04-01,2029-03-31,Fixed price,0,British Columbia
+Canyon Freightways Inc.,Heavy-Duty Diesel Engine Oil 15W-40,2922000,SCT-0171,CUS-034,litres,Annual,2026-10-01,2028-09-30,Cost-plus,80,British Columbia
+Canyon Freightways Inc.,Premium Diesel with Additive,3373000,SCT-0172,CUS-034,litres,Annual,2026-10-01,2029-09-30,Fixed price,0,British Columbia
+Canyon Freightways Inc.,Ultra-Low Sulphur Diesel No. 2,8254000,SCT-0173,CUS-034,litres,Annual,2026-02-01,2029-09-30,Fixed price,85,British Columbia
+Canyon Freightways Inc.,Winter Diesel No. 1,9624000,SCT-0174,CUS-034,litres,Annual,2026-01-01,2027-12-31,Fixed price,80,British Columbia
+Summit Petrochem Ltd.,Condensate and Diluent,124000,SCT-0175,CUS-035,tonnes,Annual,2026-01-01,2028-12-31,Fixed price,80,Quebec
+Summit Petrochem Ltd.,Granular Sulphur,346000,SCT-0176,CUS-035,tonnes,Annual,2025-04-01,2028-03-31,Cost-plus,85,Quebec
+Summit Petrochem Ltd.,Mixed Xylenes,125000,SCT-0177,CUS-035,tonnes,Annual,2025-07-01,2028-06-30,Fixed price,70,Quebec
+Summit Petrochem Ltd.,Naphtha,57000,SCT-0178,CUS-035,tonnes,Annual,2025-01-01,2027-12-31,Rack-linked,0,Quebec
+Summit Petrochem Ltd.,Petroleum Coke,109000,SCT-0179,CUS-035,tonnes,Annual,2026-10-01,2028-09-30,Index + margin,85,Quebec
+Summit Petrochem Ltd.,Polymer-Grade Propylene,567000,SCT-0180,CUS-035,tonnes,Annual,2026-05-01,2028-09-30,Cost-plus,0,Quebec
+Westcoast Fuels Co-operative Ltd.,Dyed Off-Road Diesel,49826000,SCT-0181,CUS-036,litres,Annual,2026-01-01,2028-12-31,Cost-plus,80,British Columbia
+Westcoast Fuels Co-operative Ltd.,Mid-Grade Unleaded 89,20342000,SCT-0182,CUS-036,litres,Annual,2025-10-01,2028-09-30,Rack-linked,80,British Columbia
+Westcoast Fuels Co-operative Ltd.,Rack Gasoline 87 (Wholesale),29083000,SCT-0183,CUS-036,litres,Annual,2026-01-01,2027-12-31,Rack-linked,85,British Columbia
+Westcoast Fuels Co-operative Ltd.,Regular E10 Ethanol Blend,21651000,SCT-0184,CUS-036,litres,Annual,2025-01-01,2026-12-31,Cost-plus,85,British Columbia
+Westcoast Fuels Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,25621000,SCT-0185,CUS-036,litres,Annual,2025-01-01,2027-12-31,Cost-plus,80,British Columbia
+Westcoast Fuels Co-operative Ltd.,Winter-Blend Regular 87,23314000,SCT-0186,CUS-036,litres,Annual,2026-01-01,2028-12-31,Index + margin,0,British Columbia
+Ironwood Propane Ltd.,Autogas Propane,11146000,SCT-0187,CUS-037,litres,Annual,2026-01-01,2028-12-31,Fixed price,85,Manitoba
+Ironwood Propane Ltd.,Bulk Propane Commercial,31598000,SCT-0188,CUS-037,litres,Annual,2025-10-01,2028-09-30,Cost-plus,70,Manitoba
+Ironwood Propane Ltd.,Bulk Propane Residential,22212000,SCT-0189,CUS-037,litres,Annual,2025-04-01,2028-03-31,Fixed price,0,Manitoba
+Ironwood Propane Ltd.,Butane,10832000,SCT-0190,CUS-037,litres,Annual,2026-01-01,2028-12-31,Cost-plus,0,Manitoba
+Coastal Minerals Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,8678000,SCT-0191,CUS-038,litres,Annual,2026-01-01,2027-12-31,Cost-plus,0,British Columbia
+Coastal Minerals Ltd.,Hydraulic Oil AW 68,14926000,SCT-0192,CUS-038,litres,Annual,2026-01-01,2028-12-31,Index + margin,80,British Columbia
+Coastal Minerals Ltd.,Industrial Gear Oil ISO 220,8546000,SCT-0193,CUS-038,litres,Annual,2026-01-01,2027-12-31,Index + margin,90,British Columbia
+Coastal Minerals Ltd.,Mining-Grade Bulk Diesel,62277000,SCT-0194,CUS-038,litres,Annual,2025-01-01,2027-12-31,Rack-linked,0,British Columbia
+Coastal Minerals Ltd.,Ultra-Low Sulphur Diesel No. 2,95510000,SCT-0195,CUS-038,litres,Annual,2025-10-01,2027-09-30,Rack-linked,0,British Columbia
+Frontier Shipping Corp.,Marine Cylinder Oil,7970000,SCT-0196,CUS-039,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Quebec
+Frontier Shipping Corp.,Marine Diesel Oil,24007000,SCT-0197,CUS-039,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Quebec
+Frontier Shipping Corp.,Marine Gas Oil,54308000,SCT-0198,CUS-039,litres,Annual,2025-10-01,2028-09-30,Cost-plus,0,Quebec
+Frontier Shipping Corp.,Very Low Sulphur Fuel Oil (VLSFO),17840000,SCT-0199,CUS-039,litres,Annual,2026-01-01,2027-12-31,Cost-plus,0,Quebec
+Bow Valley Farm Supply Ltd.,Bulk Propane Commercial,2121000,SCT-0200,CUS-040,litres,Annual,2026-04-01,2029-03-31,Cost-plus,0,Alberta
+Bow Valley Farm Supply Ltd.,Dyed Off-Road Diesel,1261000,SCT-0201,CUS-040,litres,Annual,2025-04-01,2027-03-31,Fixed price,70,Alberta
+Bow Valley Farm Supply Ltd.,Farm Diesel Bulk Delivery,3726000,SCT-0202,CUS-040,litres,Annual,2025-10-01,2028-09-30,Cost-plus,80,Alberta
+Bow Valley Farm Supply Ltd.,Hydraulic Oil AW 46,1081000,SCT-0203,CUS-040,litres,Annual,2026-01-01,2027-12-31,Cost-plus,70,Alberta
+Atlantic Home Energy Inc.,Bulk Propane Commercial,28984000,SCT-0204,CUS-041,litres,Annual,2025-01-01,2027-12-31,Index + margin,90,British Columbia
+Atlantic Home Energy Inc.,Bulk Propane Residential,36119000,SCT-0205,CUS-041,litres,Annual,2026-04-01,2028-03-31,Rack-linked,85,British Columbia
+Atlantic Home Energy Inc.,Propane-Butane Mix,3030000,SCT-0206,CUS-041,litres,Annual,2025-04-01,2027-03-31,Cost-plus,90,British Columbia
+Northstar Energy Distribution Limited Partnership,Mid-Grade Unleaded 89,53072000,SCT-0207,CUS-042,litres,Annual,2026-01-01,2028-06-30,Index + margin,85,Ontario
+Northstar Energy Distribution Limited Partnership,Regular E10 Ethanol Blend,10643000,SCT-0208,CUS-042,litres,Annual,2025-01-01,2026-12-31,Cost-plus,80,Ontario
+Northstar Energy Distribution Limited Partnership,Regular Unleaded 87,35864000,SCT-0209,CUS-042,litres,Annual,2025-01-01,2026-12-31,Cost-plus,0,Ontario
+Northstar Energy Distribution Limited Partnership,Winter Diesel No. 1,12867000,SCT-0210,CUS-042,litres,Annual,2026-07-01,2028-06-30,Fixed price,80,Ontario
+Northstar Energy Distribution Limited Partnership,Winter-Blend Regular 87,51488000,SCT-0211,CUS-042,litres,Annual,2026-07-01,2029-06-30,Rack-linked,85,Ontario
+Redcliff Energy Distribution Co-operative Ltd.,Dyed Off-Road Diesel,38912000,SCT-0212,CUS-043,litres,Annual,2026-01-01,2027-12-31,Fixed price,85,Ontario
+Redcliff Energy Distribution Co-operative Ltd.,Mid-Grade Unleaded 89,44277000,SCT-0213,CUS-043,litres,Annual,2026-03-01,2028-06-30,Rack-linked,80,Ontario
+Redcliff Energy Distribution Co-operative Ltd.,Premium Unleaded 91,49164000,SCT-0214,CUS-043,litres,Annual,2025-10-01,2027-09-30,Rack-linked,0,Ontario
+Redcliff Energy Distribution Co-operative Ltd.,Winter Diesel No. 1,22471000,SCT-0215,CUS-043,litres,Annual,2026-10-01,2028-09-30,Cost-plus,70,Ontario
+Ironwood Chemicals Inc.,Granular Sulphur,117000,SCT-0216,CUS-044,tonnes,Annual,2026-01-01,2027-12-31,Cost-plus,0,Ontario
+Ironwood Chemicals Inc.,Mixed Xylenes,394000,SCT-0217,CUS-044,tonnes,Annual,2026-01-01,2028-12-31,Rack-linked,80,Ontario
+Ironwood Chemicals Inc.,Naphtha,205000,SCT-0218,CUS-044,tonnes,Annual,2026-07-01,2028-09-30,Rack-linked,70,Ontario
+Ironwood Chemicals Inc.,Petroleum Coke,92000,SCT-0219,CUS-044,tonnes,Annual,2026-10-01,2029-09-30,Rack-linked,70,Ontario
+Ironwood Chemicals Inc.,Polymer-Grade Propylene,152000,SCT-0220,CUS-044,tonnes,Annual,2026-10-01,2028-09-30,Rack-linked,90,Ontario
+Bow Valley Petroleum Corp.,Mid-Grade Unleaded 89,20424000,SCT-0221,CUS-045,litres,Annual,2026-07-01,2028-06-30,Index + margin,80,Quebec
+Bow Valley Petroleum Corp.,Rack Gasoline 87 (Wholesale),26332000,SCT-0222,CUS-045,litres,Annual,2026-01-01,2027-12-31,Fixed price,0,Quebec
+Bow Valley Petroleum Corp.,Regular E10 Ethanol Blend,34729000,SCT-0223,CUS-045,litres,Annual,2026-04-01,2028-03-31,Rack-linked,0,Quebec
+Bow Valley Petroleum Corp.,Regular Unleaded 87,14816000,SCT-0224,CUS-045,litres,Annual,2025-07-01,2027-06-30,Rack-linked,70,Quebec
+Prairie Petro Stations Inc.,Mid-Grade Unleaded 89,58677000,SCT-0225,CUS-046,litres,Annual,2026-03-01,2029-09-30,Index + margin,0,Quebec
+Prairie Petro Stations Inc.,Premium Diesel with Additive,79736000,SCT-0226,CUS-046,litres,Annual,2026-07-01,2028-09-30,Rack-linked,90,Quebec
+Prairie Petro Stations Inc.,Premium Unleaded 94,49810000,SCT-0227,CUS-046,litres,Annual,2026-01-01,2027-12-31,Fixed price,85,Quebec
+Prairie Petro Stations Inc.,Regular E10 Ethanol Blend,39668000,SCT-0228,CUS-046,litres,Annual,2026-10-01,2028-09-30,Rack-linked,70,Quebec
+Prairie Petro Stations Inc.,Regular Unleaded 87,27608000,SCT-0229,CUS-046,litres,Annual,2026-10-01,2029-09-30,Rack-linked,70,Quebec
+Prairie Petro Stations Inc.,Ultra-Low Sulphur Diesel No. 2,39164000,SCT-0230,CUS-046,litres,Annual,2025-10-01,2028-09-30,Index + margin,80,Quebec
+Prairie Petro Stations Inc.,Winter-Blend Premium 91,22074000,SCT-0231,CUS-046,litres,Annual,2026-01-01,2027-12-31,Rack-linked,80,Quebec
+Red River Petroleum Limited Partnership,Mid-Grade Unleaded 89,23215000,SCT-0232,CUS-047,litres,Annual,2026-10-01,2029-09-30,Index + margin,80,Alberta
+Red River Petroleum Limited Partnership,Premium Unleaded 91,12382000,SCT-0233,CUS-047,litres,Annual,2026-01-01,2027-12-31,Fixed price,0,Alberta
+Red River Petroleum Limited Partnership,Rack Gasoline 87 (Wholesale),14353000,SCT-0234,CUS-047,litres,Annual,2026-07-01,2028-06-30,Fixed price,0,Alberta
+Red River Petroleum Limited Partnership,Ultra-Low Sulphur Diesel No. 2,39531000,SCT-0235,CUS-047,litres,Annual,2026-03-01,2029-09-30,Fixed price,85,Alberta
+Red River Petroleum Limited Partnership,Winter Diesel No. 1,62033000,SCT-0236,CUS-047,litres,Annual,2026-10-01,2028-09-30,Cost-plus,85,Alberta
+Red River Petroleum Limited Partnership,Winter-Blend Regular 87,15980000,SCT-0237,CUS-047,litres,Annual,2025-07-01,2027-06-30,Rack-linked,90,Alberta
+Granite Freightways Corp.,Arctic Grade Diesel,3269000,SCT-0238,CUS-048,litres,Annual,2025-01-01,2027-12-31,Cost-plus,70,Quebec
+Granite Freightways Corp.,Biodiesel B20 Blend,2604000,SCT-0239,CUS-048,litres,Annual,2026-10-01,2029-09-30,Cost-plus,85,Quebec
+Granite Freightways Corp.,Biodiesel B5 Blend,2245000,SCT-0240,CUS-048,litres,Annual,2026-10-01,2029-09-30,Fixed price,0,Quebec
+Granite Freightways Corp.,Heavy-Duty Diesel Engine Oil 15W-40,2367000,SCT-0241,CUS-048,litres,Annual,2026-10-01,2028-09-30,Rack-linked,70,Quebec
+Granite Freightways Corp.,Premium Diesel with Additive,7938000,SCT-0242,CUS-048,litres,Annual,2026-10-01,2028-09-30,Index + margin,0,Quebec
+Granite Freightways Corp.,Ultra-Low Sulphur Diesel No. 2,3520000,SCT-0243,CUS-048,litres,Annual,2025-01-01,2027-12-31,Index + margin,0,Quebec
+Granite Freightways Corp.,Winter Diesel No. 1,2697000,SCT-0244,CUS-048,litres,Annual,2025-01-01,2026-12-31,Cost-plus,0,Quebec
+Lakeshore Home Energy Ltd.,Autogas Propane,4673000,SCT-0245,CUS-049,litres,Annual,2026-10-01,2028-09-30,Cost-plus,0,Saskatchewan
+Lakeshore Home Energy Ltd.,Bulk Propane Commercial,22701000,SCT-0246,CUS-049,litres,Annual,2026-03-01,2028-06-30,Index + margin,0,Saskatchewan
+Lakeshore Home Energy Ltd.,Bulk Propane Residential,13807000,SCT-0247,CUS-049,litres,Annual,2026-01-01,2028-09-30,Rack-linked,85,Saskatchewan
+Lakeshore Home Energy Ltd.,Butane,9728000,SCT-0248,CUS-049,litres,Annual,2025-01-01,2026-12-31,Rack-linked,80,Saskatchewan
+Lakeshore Home Energy Ltd.,Propane-Butane Mix,3399000,SCT-0249,CUS-049,litres,Annual,2025-07-01,2027-06-30,Fixed price,90,Saskatchewan
+Arctic Home Heating Limited Partnership,Bio-Heating Oil B10,5632000,SCT-0250,CUS-050,litres,Annual,2026-04-01,2028-03-31,Fixed price,85,Manitoba
+Arctic Home Heating Limited Partnership,Kerosene K-1,1156000,SCT-0251,CUS-050,litres,Annual,2025-10-01,2027-09-30,Cost-plus,90,Manitoba
+Arctic Home Heating Limited Partnership,Light Heating Oil No. 2,5816000,SCT-0252,CUS-050,litres,Annual,2025-10-01,2027-09-30,Index + margin,0,Manitoba
+Boreal Oilfield Services Limited Partnership,Compressor Oil ISO 100,161000,SCT-0253,CUS-051,litres,Annual,2026-04-01,2029-03-31,Cost-plus,0,Manitoba
+Boreal Oilfield Services Limited Partnership,Condensate and Diluent,3343000,SCT-0254,CUS-051,tonnes,Annual,2026-04-01,2028-03-31,Rack-linked,90,Manitoba
+Boreal Oilfield Services Limited Partnership,Drilling Fluid Base Oil,359000,SCT-0255,CUS-051,litres,Annual,2025-10-01,2028-09-30,Cost-plus,0,Manitoba
+Boreal Oilfield Services Limited Partnership,Dyed Off-Road Diesel,6448000,SCT-0256,CUS-051,litres,Annual,2026-01-01,2027-12-31,Rack-linked,85,Manitoba
+Boreal Oilfield Services Limited Partnership,Heavy-Duty Diesel Engine Oil 15W-40,511000,SCT-0257,CUS-051,litres,Annual,2025-04-01,2028-03-31,Cost-plus,85,Manitoba
+Boreal Oilfield Services Limited Partnership,Natural Gas Engine Oil,221000,SCT-0258,CUS-051,litres,Annual,2026-01-01,2028-12-31,Fixed price,90,Manitoba
+Evergreen Transport Ltd.,Arctic Grade Diesel,2129000,SCT-0259,CUS-052,litres,Annual,2025-07-01,2027-06-30,Rack-linked,0,Alberta
+Evergreen Transport Ltd.,Biodiesel B5 Blend,13212000,SCT-0260,CUS-052,litres,Annual,2026-01-01,2027-12-31,Cost-plus,0,Alberta
+Evergreen Transport Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,1910000,SCT-0261,CUS-052,litres,Annual,2026-04-01,2028-03-31,Fixed price,85,Alberta
+Evergreen Transport Ltd.,Ultra-Low Sulphur Diesel No. 2,13134000,SCT-0262,CUS-052,litres,Annual,2025-04-01,2027-03-31,Cost-plus,80,Alberta
+Evergreen Transport Ltd.,Winter Diesel No. 1,20832000,SCT-0263,CUS-052,litres,Annual,2026-01-01,2027-12-31,Index + margin,85,Alberta
+Great Lakes Mining Co-operative Ltd.,Arctic Grade Diesel,32094000,SCT-0264,CUS-053,litres,Annual,2026-01-01,2028-12-31,Fixed price,80,Northern Canada
+Great Lakes Mining Co-operative Ltd.,Hydraulic Oil AW 68,9232000,SCT-0265,CUS-053,litres,Annual,2026-07-01,2029-06-30,Rack-linked,0,Northern Canada
+Great Lakes Mining Co-operative Ltd.,Industrial Gear Oil ISO 220,16501000,SCT-0266,CUS-053,litres,Annual,2026-01-01,2029-03-31,Rack-linked,0,Northern Canada
+Bow Valley Transport Inc.,Biodiesel B20 Blend,7480000,SCT-0267,CUS-054,litres,Annual,2025-07-01,2027-06-30,Fixed price,90,Ontario
+Bow Valley Transport Inc.,Biodiesel B5 Blend,3815000,SCT-0268,CUS-054,litres,Annual,2026-01-01,2027-12-31,Cost-plus,70,Ontario
+Bow Valley Transport Inc.,Heavy-Duty Diesel Engine Oil 15W-40,1495000,SCT-0269,CUS-054,litres,Annual,2025-10-01,2028-09-30,Index + margin,0,Ontario
+Bow Valley Transport Inc.,Premium Diesel with Additive,6132000,SCT-0270,CUS-054,litres,Annual,2025-01-01,2026-12-31,Rack-linked,0,Ontario
+Bow Valley Transport Inc.,Ultra-Low Sulphur Diesel No. 2,2434000,SCT-0271,CUS-054,litres,Annual,2026-04-01,2028-03-31,Fixed price,90,Ontario
+Bow Valley Transport Inc.,Winter Diesel No. 1,3986000,SCT-0272,CUS-054,litres,Annual,2026-01-01,2027-12-31,Rack-linked,90,Ontario
+Foothills Petroleum Inc.,Dyed Off-Road Diesel,11525000,SCT-0273,CUS-055,litres,Annual,2026-01-01,2028-12-31,Cost-plus,0,Quebec
+Foothills Petroleum Inc.,Mid-Grade Unleaded 89,29866000,SCT-0274,CUS-055,litres,Annual,2026-01-01,2027-12-31,Rack-linked,80,Quebec
+Foothills Petroleum Inc.,Premium Unleaded 91,9102000,SCT-0275,CUS-055,litres,Annual,2025-07-01,2027-06-30,Index + margin,0,Quebec
+Foothills Petroleum Inc.,Regular Unleaded 87,9447000,SCT-0276,CUS-055,litres,Annual,2026-10-01,2028-09-30,Fixed price,70,Quebec
+Foothills Petroleum Inc.,Winter Diesel No. 1,78582000,SCT-0277,CUS-055,litres,Annual,2026-01-01,2028-06-30,Cost-plus,80,Quebec
+Foothills Petroleum Inc.,Winter-Blend Regular 87,50213000,SCT-0278,CUS-055,litres,Annual,2026-01-01,2028-12-31,Fixed price,90,Quebec
+Coastal Petro Stations Limited Partnership,Premium Unleaded 91,24212000,SCT-0279,CUS-056,litres,Annual,2025-07-01,2027-06-30,Fixed price,0,Quebec
+Coastal Petro Stations Limited Partnership,Ultra-Low Sulphur Diesel No. 2,33932000,SCT-0280,CUS-056,litres,Annual,2026-01-01,2029-06-30,Rack-linked,0,Quebec
+Coastal Petro Stations Limited Partnership,Winter-Blend Premium 91,37973000,SCT-0281,CUS-056,litres,Annual,2025-07-01,2027-06-30,Rack-linked,80,Quebec
+Frontier Industrial Supply Co-operative Ltd.,Automatic Transmission Fluid,89000,SCT-0282,CUS-057,litres,Annual,2026-07-01,2028-06-30,Cost-plus,0,Ontario
+Frontier Industrial Supply Co-operative Ltd.,Diesel Exhaust Fluid (DEF),44000,SCT-0283,CUS-057,litres,Annual,2025-01-01,2027-12-31,Rack-linked,85,Ontario
+Frontier Industrial Supply Co-operative Ltd.,Engine Coolant 50/50,200000,SCT-0284,CUS-057,litres,Annual,2026-04-01,2028-03-31,Fixed price,0,Ontario
+Frontier Industrial Supply Co-operative Ltd.,Full Synthetic Heavy-Duty 10W-30,385000,SCT-0285,CUS-057,litres,Annual,2025-01-01,2026-12-31,Index + margin,90,Ontario
+Frontier Industrial Supply Co-operative Ltd.,Hydraulic Oil AW 32,217000,SCT-0286,CUS-057,litres,Annual,2026-10-01,2029-09-30,Fixed price,80,Ontario
+Frontier Industrial Supply Co-operative Ltd.,Hydraulic Oil AW 68,134000,SCT-0287,CUS-057,litres,Annual,2026-10-01,2028-09-30,Index + margin,0,Ontario
+Frontier Industrial Supply Co-operative Ltd.,Metalworking Fluid,81000,SCT-0288,CUS-057,litres,Annual,2025-01-01,2026-12-31,Index + margin,0,Ontario
+Frontier Industrial Supply Co-operative Ltd.,Multipurpose Grease NLGI 2,199000,SCT-0289,CUS-057,litres,Annual,2026-01-01,2027-12-31,Fixed price,0,Ontario
+Lakeshore Energy Distribution Inc.,Rack Gasoline 87 (Wholesale),8634000,SCT-0290,CUS-058,litres,Annual,2025-01-01,2026-12-31,Rack-linked,80,Ontario
+Lakeshore Energy Distribution Inc.,Regular Unleaded 87,52520000,SCT-0291,CUS-058,litres,Annual,2026-01-01,2028-12-31,Fixed price,80,Ontario
+Lakeshore Energy Distribution Inc.,Ultra-Low Sulphur Diesel No. 2,49612000,SCT-0292,CUS-058,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Ontario
+Lakeshore Energy Distribution Inc.,Winter Diesel No. 1,60414000,SCT-0293,CUS-058,litres,Annual,2026-10-01,2029-09-30,Cost-plus,90,Ontario
+Lakeshore Energy Distribution Inc.,Winter-Blend Regular 87,25320000,SCT-0294,CUS-058,litres,Annual,2025-01-01,2026-12-31,Index + margin,85,Ontario
+Pioneer Petro Stations Limited Partnership,Mid-Grade Unleaded 89,33504000,SCT-0295,CUS-059,litres,Annual,2025-07-01,2027-06-30,Fixed price,0,Alberta
+Pioneer Petro Stations Limited Partnership,Premium Diesel with Additive,29213000,SCT-0296,CUS-059,litres,Annual,2026-04-01,2029-09-30,Fixed price,80,Alberta
+Pioneer Petro Stations Limited Partnership,Premium Unleaded 91,29170000,SCT-0297,CUS-059,litres,Annual,2026-01-01,2028-06-30,Fixed price,85,Alberta
+Pioneer Petro Stations Limited Partnership,Winter-Blend Premium 91,103835000,SCT-0298,CUS-059,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Alberta
+Granite Propane Inc.,Autogas Propane,4208000,SCT-0299,CUS-060,litres,Annual,2025-04-01,2028-03-31,Cost-plus,70,Ontario
+Granite Propane Inc.,Bulk Propane Commercial,20085000,SCT-0300,CUS-060,litres,Annual,2026-01-01,2029-03-31,Rack-linked,80,Ontario
+Granite Propane Inc.,Bulk Propane Residential,14063000,SCT-0301,CUS-060,litres,Annual,2026-03-01,2028-03-31,Rack-linked,80,Ontario
+Granite Propane Inc.,Butane,12234000,SCT-0302,CUS-060,litres,Annual,2026-07-01,2028-09-30,Index + margin,70,Ontario
+Granite Propane Inc.,Propane-Butane Mix,39799000,SCT-0303,CUS-060,litres,Annual,2026-07-01,2028-06-30,Index + margin,80,Ontario
+Atlantic Lubricants Co-operative Ltd.,Engine Coolant 50/50,32000,SCT-0304,CUS-061,litres,Annual,2026-10-01,2029-09-30,Rack-linked,70,British Columbia
+Atlantic Lubricants Co-operative Ltd.,Full Synthetic Heavy-Duty 10W-30,44000,SCT-0305,CUS-061,litres,Annual,2026-01-01,2028-12-31,Rack-linked,80,British Columbia
+Atlantic Lubricants Co-operative Ltd.,Gear Oil 80W-90,31000,SCT-0306,CUS-061,litres,Annual,2025-01-01,2026-12-31,Rack-linked,85,British Columbia
+Northstar Petroleum Corp.,Mid-Grade Unleaded 89,17337000,SCT-0307,CUS-062,litres,Annual,2026-01-01,2028-12-31,Cost-plus,85,Alberta
+Northstar Petroleum Corp.,Premium Unleaded 91,54194000,SCT-0308,CUS-062,litres,Annual,2025-01-01,2026-12-31,Rack-linked,90,Alberta
+Northstar Petroleum Corp.,Rack Gasoline 87 (Wholesale),33916000,SCT-0309,CUS-062,litres,Annual,2026-01-01,2028-12-31,Index + margin,85,Alberta
+Northstar Petroleum Corp.,Regular E10 Ethanol Blend,23015000,SCT-0310,CUS-062,litres,Annual,2026-04-01,2028-06-30,Rack-linked,0,Alberta
+Northstar Petroleum Corp.,Regular Unleaded 87,60743000,SCT-0311,CUS-062,litres,Annual,2025-07-01,2028-06-30,Rack-linked,70,Alberta
+Northstar Petroleum Corp.,Ultra-Low Sulphur Diesel No. 2,54460000,SCT-0312,CUS-062,litres,Annual,2026-01-01,2027-12-31,Rack-linked,70,Alberta
+Northstar Petroleum Corp.,Winter Diesel No. 1,45828000,SCT-0313,CUS-062,litres,Annual,2026-04-01,2029-03-31,Fixed price,70,Alberta
+Foothills Oil & Filter Co-operative Ltd.,Automatic Transmission Fluid,87000,SCT-0314,CUS-063,litres,Annual,2025-01-01,2026-12-31,Index + margin,0,Ontario
+Foothills Oil & Filter Co-operative Ltd.,Conventional Engine Oil 10W-30,342000,SCT-0315,CUS-063,litres,Annual,2025-01-01,2027-12-31,Rack-linked,0,Ontario
+Foothills Oil & Filter Co-operative Ltd.,Engine Coolant 50/50,233000,SCT-0316,CUS-063,litres,Annual,2025-01-01,2026-12-31,Fixed price,0,Ontario
+Foothills Oil & Filter Co-operative Ltd.,Full Synthetic Heavy-Duty 10W-30,78000,SCT-0317,CUS-063,litres,Annual,2026-01-01,2027-12-31,Cost-plus,90,Ontario
+Foothills Oil & Filter Co-operative Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,66000,SCT-0318,CUS-063,litres,Annual,2026-07-01,2028-06-30,Index + margin,85,Ontario
+Foothills Oil & Filter Co-operative Ltd.,Metalworking Fluid,91000,SCT-0319,CUS-063,litres,Annual,2025-10-01,2027-09-30,Cost-plus,0,Ontario
+Pioneer Fuel Stops Limited Partnership,Mid-Grade Unleaded 89,25197000,SCT-0320,CUS-064,litres,Annual,2026-07-01,2028-06-30,Cost-plus,85,Saskatchewan
+Pioneer Fuel Stops Limited Partnership,Premium Unleaded 94,79686000,SCT-0321,CUS-064,litres,Annual,2026-01-01,2028-12-31,Cost-plus,85,Saskatchewan
+Pioneer Fuel Stops Limited Partnership,Winter-Blend Premium 91,135230000,SCT-0322,CUS-064,litres,Annual,2025-07-01,2027-06-30,Index + margin,85,Saskatchewan
+Great Lakes Haulage Corp.,Biodiesel B20 Blend,3968000,SCT-0323,CUS-065,litres,Annual,2026-04-01,2028-03-31,Rack-linked,90,Quebec
+Great Lakes Haulage Corp.,Heavy-Duty Diesel Engine Oil 15W-40,1444000,SCT-0324,CUS-065,litres,Annual,2026-02-01,2029-03-31,Rack-linked,90,Quebec
+Great Lakes Haulage Corp.,Premium Diesel with Additive,2228000,SCT-0325,CUS-065,litres,Annual,2026-10-01,2029-09-30,Rack-linked,90,Quebec
+Great Lakes Haulage Corp.,Winter Diesel No. 1,4269000,SCT-0326,CUS-065,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Quebec
+Athabasca Home Energy Limited Partnership,Autogas Propane,10431000,SCT-0327,CUS-066,litres,Annual,2026-01-01,2027-12-31,Index + margin,0,Alberta
+Athabasca Home Energy Limited Partnership,Bulk Propane Residential,32814000,SCT-0328,CUS-066,litres,Annual,2026-07-01,2029-06-30,Index + margin,80,Alberta
+Athabasca Home Energy Limited Partnership,Butane,5852000,SCT-0329,CUS-066,litres,Annual,2025-04-01,2027-03-31,Index + margin,90,Alberta
+Athabasca Home Energy Limited Partnership,Propane-Butane Mix,19379000,SCT-0330,CUS-066,litres,Annual,2026-10-01,2028-09-30,Rack-linked,80,Alberta
+Ironwood Petro Stations Inc.,Premium Diesel with Additive,134963000,SCT-0331,CUS-067,litres,Annual,2025-01-01,2026-12-31,Index + margin,0,British Columbia
+Ironwood Petro Stations Inc.,Premium Unleaded 91,82181000,SCT-0332,CUS-067,litres,Annual,2025-01-01,2026-12-31,Rack-linked,80,British Columbia
+Ironwood Petro Stations Inc.,Premium Unleaded 94,27628000,SCT-0333,CUS-067,litres,Annual,2026-07-01,2028-06-30,Fixed price,85,British Columbia
+Ironwood Petro Stations Inc.,Regular E10 Ethanol Blend,37383000,SCT-0334,CUS-067,litres,Annual,2025-07-01,2027-06-30,Cost-plus,80,British Columbia
+Bluewater Minerals Limited Partnership,Arctic Grade Diesel,20835000,SCT-0335,CUS-068,litres,Annual,2025-01-01,2026-12-31,Rack-linked,85,Alberta
+Bluewater Minerals Limited Partnership,Heavy-Duty Diesel Engine Oil 15W-40,9915000,SCT-0336,CUS-068,litres,Annual,2026-01-01,2027-12-31,Cost-plus,90,Alberta
+Bluewater Minerals Limited Partnership,Hydraulic Oil AW 68,4868000,SCT-0337,CUS-068,litres,Annual,2026-01-01,2027-12-31,Cost-plus,90,Alberta
+Bluewater Minerals Limited Partnership,Industrial Gear Oil ISO 220,17739000,SCT-0338,CUS-068,litres,Annual,2026-01-01,2027-12-31,Fixed price,0,Alberta
+Bluewater Minerals Limited Partnership,Mining-Grade Bulk Diesel,30258000,SCT-0339,CUS-068,litres,Annual,2026-03-01,2029-09-30,Index + margin,90,Alberta
+Bluewater Minerals Limited Partnership,Ultra-Low Sulphur Diesel No. 2,55958000,SCT-0340,CUS-068,litres,Annual,2025-01-01,2027-12-31,Cost-plus,90,Alberta
+Capital Petroleum Inc.,Dyed Off-Road Diesel,16295000,SCT-0341,CUS-069,litres,Annual,2026-01-01,2028-03-31,Cost-plus,0,Atlantic Canada
+Capital Petroleum Inc.,Premium Unleaded 91,44179000,SCT-0342,CUS-069,litres,Annual,2025-10-01,2027-09-30,Fixed price,85,Atlantic Canada
+Capital Petroleum Inc.,Ultra-Low Sulphur Diesel No. 2,53817000,SCT-0343,CUS-069,litres,Annual,2025-04-01,2027-03-31,Fixed price,85,Atlantic Canada
+Capital Petroleum Inc.,Winter-Blend Regular 87,8327000,SCT-0344,CUS-069,litres,Annual,2025-04-01,2027-03-31,Rack-linked,0,Atlantic Canada
+Harbour Aviation Services Corp.,Ground Support Equipment Diesel,106542000,SCT-0345,CUS-070,litres,Annual,2025-04-01,2027-03-31,Rack-linked,90,Alberta
+Harbour Aviation Services Corp.,Jet A,33607000,SCT-0346,CUS-070,litres,Annual,2025-01-01,2026-12-31,Rack-linked,0,Alberta
+Harbour Aviation Services Corp.,Jet A-1,74490000,SCT-0347,CUS-070,litres,Annual,2026-05-01,2028-09-30,Rack-linked,80,Alberta
+Cascade Energy Services Co-operative Ltd.,Commercial Furnace Oil,13068000,SCT-0348,CUS-071,litres,Annual,2025-10-01,2027-09-30,Rack-linked,90,Ontario
+Cascade Energy Services Co-operative Ltd.,Light Heating Oil No. 2,7350000,SCT-0349,CUS-071,litres,Annual,2026-10-01,2028-09-30,Fixed price,0,Ontario
+Cascade Energy Services Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,15517000,SCT-0350,CUS-071,litres,Annual,2026-04-01,2028-03-31,Fixed price,0,Ontario
+Granite Fuels Ltd.,Dyed Off-Road Diesel,16153000,SCT-0351,CUS-072,litres,Annual,2026-07-01,2028-06-30,Rack-linked,0,British Columbia
+Granite Fuels Ltd.,Premium Unleaded 91,21502000,SCT-0352,CUS-072,litres,Annual,2026-01-01,2028-06-30,Rack-linked,70,British Columbia
+Granite Fuels Ltd.,Regular E10 Ethanol Blend,31145000,SCT-0353,CUS-072,litres,Annual,2026-07-01,2029-06-30,Fixed price,0,British Columbia
+Granite Fuels Ltd.,Regular Unleaded 87,29045000,SCT-0354,CUS-072,litres,Annual,2025-10-01,2027-09-30,Cost-plus,85,British Columbia
+Granite Fuels Ltd.,Ultra-Low Sulphur Diesel No. 2,42883000,SCT-0355,CUS-072,litres,Annual,2025-01-01,2026-12-31,Fixed price,85,British Columbia
+Granite Fuels Ltd.,Winter-Blend Regular 87,43533000,SCT-0356,CUS-072,litres,Annual,2025-07-01,2027-06-30,Rack-linked,80,British Columbia
+Harbour Petro Stations Ltd.,Premium Diesel with Additive,136186000,SCT-0357,CUS-073,litres,Annual,2026-02-01,2028-03-31,Rack-linked,0,Ontario
+Harbour Petro Stations Ltd.,Premium Unleaded 91,32257000,SCT-0358,CUS-073,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Ontario
+Harbour Petro Stations Ltd.,Winter-Blend Regular 87,38951000,SCT-0359,CUS-073,litres,Annual,2026-01-01,2029-03-31,Rack-linked,90,Ontario
+Red River Chemicals Inc.,Condensate and Diluent,200000,SCT-0360,CUS-074,tonnes,Annual,2025-04-01,2027-03-31,Cost-plus,70,Quebec
+Red River Chemicals Inc.,Granular Sulphur,417000,SCT-0361,CUS-074,tonnes,Annual,2026-01-01,2028-12-31,Cost-plus,85,Quebec
+Red River Chemicals Inc.,Mixed Xylenes,139000,SCT-0362,CUS-074,tonnes,Annual,2026-07-01,2028-06-30,Cost-plus,70,Quebec
+Red River Chemicals Inc.,Naphtha,98000,SCT-0363,CUS-074,tonnes,Annual,2026-01-01,2028-12-31,Rack-linked,90,Quebec
+Red River Chemicals Inc.,Polymer-Grade Propylene,132000,SCT-0364,CUS-074,tonnes,Annual,2026-04-01,2029-03-31,Cost-plus,0,Quebec
+Redcliff Propane Ltd.,Autogas Propane,9417000,SCT-0365,CUS-075,litres,Annual,2026-01-01,2027-12-31,Index + margin,0,Ontario
+Redcliff Propane Ltd.,Bulk Propane Commercial,3062000,SCT-0366,CUS-075,litres,Annual,2026-04-01,2029-03-31,Cost-plus,80,Ontario
+Redcliff Propane Ltd.,Bulk Propane Residential,4078000,SCT-0367,CUS-075,litres,Annual,2025-01-01,2026-12-31,Rack-linked,90,Ontario
+Redcliff Propane Ltd.,Butane,13748000,SCT-0368,CUS-075,litres,Annual,2026-07-01,2028-06-30,Rack-linked,0,Ontario
+Redcliff Propane Ltd.,Propane-Butane Mix,5759000,SCT-0369,CUS-075,litres,Annual,2026-04-01,2028-03-31,Cost-plus,85,Ontario
+Ironwood Energy Distribution Co-operative Ltd.,Mid-Grade Unleaded 89,73202000,SCT-0370,CUS-076,litres,Annual,2026-04-01,2028-09-30,Fixed price,70,Atlantic Canada
+Ironwood Energy Distribution Co-operative Ltd.,Premium Unleaded 91,41294000,SCT-0371,CUS-076,litres,Annual,2026-04-01,2029-09-30,Rack-linked,70,Atlantic Canada
+Ironwood Energy Distribution Co-operative Ltd.,Regular Unleaded 87,9731000,SCT-0372,CUS-076,litres,Annual,2025-10-01,2027-09-30,Cost-plus,0,Atlantic Canada
+Ironwood Energy Distribution Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,26091000,SCT-0373,CUS-076,litres,Annual,2026-01-01,2028-12-31,Fixed price,85,Atlantic Canada
+Ironwood Energy Distribution Co-operative Ltd.,Winter-Blend Regular 87,42546000,SCT-0374,CUS-076,litres,Annual,2026-01-01,2028-12-31,Cost-plus,0,Atlantic Canada
+Tidewater Agri Services Ltd.,Bulk Propane Commercial,6088000,SCT-0375,CUS-077,litres,Annual,2026-05-01,2028-06-30,Index + margin,90,Quebec
+Tidewater Agri Services Ltd.,Dyed Off-Road Diesel,2052000,SCT-0376,CUS-077,litres,Annual,2026-10-01,2028-09-30,Rack-linked,70,Quebec
+Tidewater Agri Services Ltd.,Farm Diesel Bulk Delivery,3069000,SCT-0377,CUS-077,litres,Annual,2025-04-01,2028-03-31,Rack-linked,70,Quebec
+Tidewater Agri Services Ltd.,Hydraulic Oil AW 46,446000,SCT-0378,CUS-077,litres,Annual,2025-04-01,2027-03-31,Fixed price,0,Quebec
+Tidewater Agri Services Ltd.,Regular Unleaded 87,4765000,SCT-0379,CUS-077,litres,Annual,2026-04-01,2028-03-31,Rack-linked,0,Quebec
+Atlantic Gas Services Limited Partnership,Autogas Propane,30839000,SCT-0380,CUS-078,litres,Annual,2025-04-01,2028-03-31,Cost-plus,0,Alberta
+Atlantic Gas Services Limited Partnership,Bulk Propane Commercial,8964000,SCT-0381,CUS-078,litres,Annual,2026-01-01,2028-12-31,Fixed price,90,Alberta
+Atlantic Gas Services Limited Partnership,Bulk Propane Residential,20707000,SCT-0382,CUS-078,litres,Annual,2026-04-01,2028-03-31,Index + margin,0,Alberta
+Atlantic Gas Services Limited Partnership,Butane,37419000,SCT-0383,CUS-078,litres,Annual,2026-02-01,2028-09-30,Fixed price,70,Alberta
+Atlantic Gas Services Limited Partnership,Propane-Butane Mix,5396000,SCT-0384,CUS-078,litres,Annual,2026-07-01,2028-06-30,Rack-linked,0,Alberta
+Redcliff Ports & Bunkering Ltd.,Marine Cylinder Oil,9601000,SCT-0385,CUS-079,litres,Annual,2026-07-01,2028-06-30,Rack-linked,90,Quebec
+Redcliff Ports & Bunkering Ltd.,Marine Diesel Oil,15402000,SCT-0386,CUS-079,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Quebec
+Redcliff Ports & Bunkering Ltd.,Very Low Sulphur Fuel Oil (VLSFO),66411000,SCT-0387,CUS-079,litres,Annual,2025-10-01,2028-09-30,Fixed price,90,Quebec
+Bow Valley Chemicals Corp.,Condensate and Diluent,196000,SCT-0388,CUS-080,tonnes,Annual,2026-07-01,2028-06-30,Rack-linked,80,Quebec
+Bow Valley Chemicals Corp.,Granular Sulphur,110000,SCT-0389,CUS-080,tonnes,Annual,2025-01-01,2026-12-31,Cost-plus,85,Quebec
+Bow Valley Chemicals Corp.,Mixed Xylenes,548000,SCT-0390,CUS-080,tonnes,Annual,2026-04-01,2029-03-31,Cost-plus,70,Quebec
+Bow Valley Chemicals Corp.,Petroleum Coke,86000,SCT-0391,CUS-080,tonnes,Annual,2026-01-01,2027-12-31,Fixed price,70,Quebec
+Bow Valley Chemicals Corp.,Polymer-Grade Propylene,465000,SCT-0392,CUS-080,tonnes,Annual,2026-06-01,2028-06-30,Cost-plus,0,Quebec
+Maple Propane Co-operative Ltd.,Autogas Propane,32195000,SCT-0393,CUS-081,litres,Annual,2025-04-01,2027-03-31,Rack-linked,0,Ontario
+Maple Propane Co-operative Ltd.,Bulk Propane Residential,12270000,SCT-0394,CUS-081,litres,Annual,2025-07-01,2028-06-30,Cost-plus,70,Ontario
+Maple Propane Co-operative Ltd.,Butane,6300000,SCT-0395,CUS-081,litres,Annual,2025-07-01,2027-06-30,Cost-plus,80,Ontario
+Cascade Energy Services Ltd.,Commercial Furnace Oil,4633000,SCT-0396,CUS-082,litres,Annual,2026-03-01,2028-03-31,Rack-linked,90,Manitoba
+Cascade Energy Services Ltd.,Kerosene K-1,17625000,SCT-0397,CUS-082,litres,Annual,2026-06-01,2028-09-30,Cost-plus,80,Manitoba
+Cascade Energy Services Ltd.,Ultra-Low Sulphur Diesel No. 2,15758000,SCT-0398,CUS-082,litres,Annual,2026-01-01,2028-03-31,Rack-linked,0,Manitoba
+Rocky Energy Distribution Inc.,Premium Unleaded 91,11558000,SCT-0399,CUS-083,litres,Annual,2026-10-01,2028-09-30,Rack-linked,80,Quebec
+Rocky Energy Distribution Inc.,Rack Gasoline 87 (Wholesale),43648000,SCT-0400,CUS-083,litres,Annual,2026-07-01,2028-06-30,Rack-linked,80,Quebec
+Rocky Energy Distribution Inc.,Winter Diesel No. 1,32276000,SCT-0401,CUS-083,litres,Annual,2025-01-01,2027-12-31,Cost-plus,80,Quebec
+Summit Petroleum Ltd.,Dyed Off-Road Diesel,20668000,SCT-0402,CUS-084,litres,Annual,2026-04-01,2028-06-30,Index + margin,0,Alberta
+Summit Petroleum Ltd.,Mid-Grade Unleaded 89,64374000,SCT-0403,CUS-084,litres,Annual,2025-07-01,2027-06-30,Rack-linked,90,Alberta
+Summit Petroleum Ltd.,Premium Unleaded 91,26283000,SCT-0404,CUS-084,litres,Annual,2026-01-01,2027-12-31,Cost-plus,70,Alberta
+Summit Petroleum Ltd.,Regular E10 Ethanol Blend,22319000,SCT-0405,CUS-084,litres,Annual,2025-01-01,2027-12-31,Rack-linked,70,Alberta
+Summit Petroleum Ltd.,Regular Unleaded 87,10982000,SCT-0406,CUS-084,litres,Annual,2026-01-01,2028-12-31,Fixed price,85,Alberta
+Summit Petroleum Ltd.,Ultra-Low Sulphur Diesel No. 2,11578000,SCT-0407,CUS-084,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Alberta
+Summit Petroleum Ltd.,Winter-Blend Regular 87,26727000,SCT-0408,CUS-084,litres,Annual,2025-10-01,2028-09-30,Rack-linked,70,Alberta
+Great Lakes Fuels Co-operative Ltd.,Mid-Grade Unleaded 89,9009000,SCT-0409,CUS-085,litres,Annual,2026-01-01,2027-12-31,Rack-linked,80,Atlantic Canada
+Great Lakes Fuels Co-operative Ltd.,Rack Gasoline 87 (Wholesale),31720000,SCT-0410,CUS-085,litres,Annual,2026-01-01,2028-03-31,Fixed price,80,Atlantic Canada
+Great Lakes Fuels Co-operative Ltd.,Regular E10 Ethanol Blend,16806000,SCT-0411,CUS-085,litres,Annual,2025-01-01,2026-12-31,Rack-linked,85,Atlantic Canada
+Great Lakes Fuels Co-operative Ltd.,Regular Unleaded 87,32590000,SCT-0412,CUS-085,litres,Annual,2025-07-01,2027-06-30,Fixed price,70,Atlantic Canada
+Great Lakes Fuels Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,12949000,SCT-0413,CUS-085,litres,Annual,2026-01-01,2028-12-31,Rack-linked,70,Atlantic Canada
+Great Lakes Fuels Co-operative Ltd.,Winter Diesel No. 1,8163000,SCT-0414,CUS-085,litres,Annual,2026-01-01,2028-12-31,Cost-plus,0,Atlantic Canada
+Great Lakes Fuels Co-operative Ltd.,Winter-Blend Regular 87,26884000,SCT-0415,CUS-085,litres,Annual,2026-01-01,2027-12-31,Rack-linked,85,Atlantic Canada
+Coastal Energy Distribution Inc.,Dyed Off-Road Diesel,65777000,SCT-0416,CUS-086,litres,Annual,2026-04-01,2028-06-30,Rack-linked,0,Quebec
+Coastal Energy Distribution Inc.,Premium Unleaded 91,45198000,SCT-0417,CUS-086,litres,Annual,2026-01-01,2027-12-31,Fixed price,0,Quebec
+Coastal Energy Distribution Inc.,Rack Gasoline 87 (Wholesale),38805000,SCT-0418,CUS-086,litres,Annual,2025-01-01,2027-12-31,Cost-plus,90,Quebec
+Coastal Energy Distribution Inc.,Ultra-Low Sulphur Diesel No. 2,41830000,SCT-0419,CUS-086,litres,Annual,2025-01-01,2026-12-31,Rack-linked,80,Quebec
+Coastal Energy Distribution Inc.,Winter Diesel No. 1,59480000,SCT-0420,CUS-086,litres,Annual,2026-04-01,2028-06-30,Cost-plus,85,Quebec
+Coastal Energy Distribution Inc.,Winter-Blend Regular 87,51685000,SCT-0421,CUS-086,litres,Annual,2025-10-01,2027-09-30,Index + margin,70,Quebec
+Rocky Energy Services Ltd.,Commercial Furnace Oil,2912000,SCT-0422,CUS-087,litres,Annual,2026-01-01,2028-12-31,Rack-linked,70,Alberta
+Rocky Energy Services Ltd.,Kerosene K-1,8442000,SCT-0423,CUS-087,litres,Annual,2025-01-01,2026-12-31,Rack-linked,90,Alberta
+Rocky Energy Services Ltd.,Light Heating Oil No. 2,2873000,SCT-0424,CUS-087,litres,Annual,2026-04-01,2028-03-31,Index + margin,70,Alberta
+Rocky Energy Services Ltd.,Ultra-Low Sulphur Diesel No. 2,6630000,SCT-0425,CUS-087,litres,Annual,2026-07-01,2028-06-30,Rack-linked,85,Alberta
+Highland Ag Co-op Ltd.,Bulk Propane Commercial,1016000,SCT-0426,CUS-088,litres,Annual,2025-01-01,2026-12-31,Cost-plus,0,Saskatchewan
+Highland Ag Co-op Ltd.,Dyed Off-Road Diesel,1055000,SCT-0427,CUS-088,litres,Annual,2026-04-01,2028-03-31,Fixed price,0,Saskatchewan
+Highland Ag Co-op Ltd.,Farm Diesel Bulk Delivery,3938000,SCT-0428,CUS-088,litres,Annual,2026-03-01,2029-06-30,Rack-linked,0,Saskatchewan
+Capital Freightways Corp.,Biodiesel B20 Blend,5639000,SCT-0429,CUS-089,litres,Annual,2026-01-01,2027-12-31,Rack-linked,70,Ontario
+Capital Freightways Corp.,Biodiesel B5 Blend,7642000,SCT-0430,CUS-089,litres,Annual,2026-08-01,2028-09-30,Rack-linked,90,Ontario
+Capital Freightways Corp.,Heavy-Duty Diesel Engine Oil 15W-40,302000,SCT-0431,CUS-089,litres,Annual,2026-09-01,2029-09-30,Index + margin,85,Ontario
+Capital Freightways Corp.,Premium Diesel with Additive,7628000,SCT-0432,CUS-089,litres,Annual,2026-10-01,2028-09-30,Fixed price,0,Ontario
+Capital Freightways Corp.,Ultra-Low Sulphur Diesel No. 2,2965000,SCT-0433,CUS-089,litres,Annual,2026-04-01,2028-03-31,Cost-plus,80,Ontario
+Capital Freightways Corp.,Winter Diesel No. 1,4600000,SCT-0434,CUS-089,litres,Annual,2026-01-01,2027-12-31,Fixed price,85,Ontario
+Keystone Resources Limited Partnership,Arctic Grade Diesel,81113000,SCT-0435,CUS-090,litres,Annual,2026-07-01,2028-06-30,Rack-linked,0,Alberta
+Keystone Resources Limited Partnership,Heavy-Duty Diesel Engine Oil 15W-40,4927000,SCT-0436,CUS-090,litres,Annual,2026-10-01,2028-09-30,Index + margin,80,Alberta
+Keystone Resources Limited Partnership,Industrial Gear Oil ISO 220,8131000,SCT-0437,CUS-090,litres,Annual,2026-06-01,2028-09-30,Cost-plus,70,Alberta
+Keystone Resources Limited Partnership,Mining-Grade Bulk Diesel,17161000,SCT-0438,CUS-090,litres,Annual,2026-10-01,2028-09-30,Index + margin,0,Alberta
+Keystone Resources Limited Partnership,Ultra-Low Sulphur Diesel No. 2,28280000,SCT-0439,CUS-090,litres,Annual,2026-09-01,2029-09-30,Index + margin,0,Alberta
+Keystone Fuels Limited Partnership,Dyed Off-Road Diesel,32144000,SCT-0440,CUS-091,litres,Annual,2026-10-01,2029-09-30,Rack-linked,70,Ontario
+Keystone Fuels Limited Partnership,Mid-Grade Unleaded 89,18100000,SCT-0441,CUS-091,litres,Annual,2026-07-01,2028-06-30,Fixed price,80,Ontario
+Keystone Fuels Limited Partnership,Regular Unleaded 87,14486000,SCT-0442,CUS-091,litres,Annual,2026-04-01,2028-03-31,Rack-linked,80,Ontario
+Keystone Fuels Limited Partnership,Winter Diesel No. 1,57832000,SCT-0443,CUS-091,litres,Annual,2025-10-01,2027-09-30,Fixed price,85,Ontario
+Keystone Fuels Limited Partnership,Winter-Blend Regular 87,63980000,SCT-0444,CUS-091,litres,Annual,2025-10-01,2027-09-30,Cost-plus,70,Ontario
+Evergreen Petroleum Limited Partnership,Mid-Grade Unleaded 89,58053000,SCT-0445,CUS-092,litres,Annual,2026-05-01,2029-09-30,Rack-linked,0,Ontario
+Evergreen Petroleum Limited Partnership,Premium Unleaded 91,8320000,SCT-0446,CUS-092,litres,Annual,2026-07-01,2029-06-30,Cost-plus,70,Ontario
+Evergreen Petroleum Limited Partnership,Rack Gasoline 87 (Wholesale),9115000,SCT-0447,CUS-092,litres,Annual,2026-01-01,2028-12-31,Cost-plus,0,Ontario
+Evergreen Petroleum Limited Partnership,Winter Diesel No. 1,37651000,SCT-0448,CUS-092,litres,Annual,2026-07-01,2028-06-30,Index + margin,90,Ontario
+Evergreen Petroleum Limited Partnership,Winter-Blend Regular 87,59339000,SCT-0449,CUS-092,litres,Annual,2026-01-01,2027-12-31,Cost-plus,90,Ontario
+Evergreen Drilling Corp.,Compressor Oil ISO 100,1236000,SCT-0450,CUS-093,litres,Annual,2026-04-01,2029-03-31,Cost-plus,0,Quebec
+Evergreen Drilling Corp.,Condensate and Diluent,6822000,SCT-0451,CUS-093,tonnes,Annual,2025-04-01,2028-03-31,Rack-linked,90,Quebec
+Evergreen Drilling Corp.,Drilling Fluid Base Oil,361000,SCT-0452,CUS-093,litres,Annual,2026-04-01,2028-03-31,Fixed price,80,Quebec
+Evergreen Drilling Corp.,Dyed Off-Road Diesel,1310000,SCT-0453,CUS-093,litres,Annual,2026-10-01,2028-09-30,Rack-linked,0,Quebec
+Evergreen Drilling Corp.,Heavy-Duty Diesel Engine Oil 15W-40,638000,SCT-0454,CUS-093,litres,Annual,2026-01-01,2027-12-31,Fixed price,90,Quebec
+Evergreen Drilling Corp.,Natural Gas Engine Oil,1625000,SCT-0455,CUS-093,litres,Annual,2026-07-01,2028-06-30,Fixed price,80,Quebec
+Peace Freightways Ltd.,Arctic Grade Diesel,3535000,SCT-0456,CUS-094,litres,Annual,2026-01-01,2027-12-31,Fixed price,80,Alberta
+Peace Freightways Ltd.,Biodiesel B20 Blend,5253000,SCT-0457,CUS-094,litres,Annual,2025-07-01,2028-06-30,Index + margin,80,Alberta
+Peace Freightways Ltd.,Premium Diesel with Additive,3283000,SCT-0458,CUS-094,litres,Annual,2026-10-01,2029-09-30,Rack-linked,0,Alberta
+Peace Freightways Ltd.,Ultra-Low Sulphur Diesel No. 2,2929000,SCT-0459,CUS-094,litres,Annual,2026-04-01,2029-03-31,Index + margin,90,Alberta
+Peace Freightways Ltd.,Winter Diesel No. 1,5000000,SCT-0460,CUS-094,litres,Annual,2026-01-01,2028-12-31,Index + margin,0,Alberta
+Bow Valley Fuels Co-operative Ltd.,Mid-Grade Unleaded 89,21625000,SCT-0461,CUS-095,litres,Annual,2026-01-01,2027-12-31,Index + margin,0,Ontario
+Bow Valley Fuels Co-operative Ltd.,Premium Unleaded 91,67645000,SCT-0462,CUS-095,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Ontario
+Bow Valley Fuels Co-operative Ltd.,Rack Gasoline 87 (Wholesale),13684000,SCT-0463,CUS-095,litres,Annual,2026-01-01,2027-12-31,Fixed price,90,Ontario
+Bow Valley Fuels Co-operative Ltd.,Regular E10 Ethanol Blend,22473000,SCT-0464,CUS-095,litres,Annual,2026-07-01,2028-06-30,Fixed price,70,Ontario
+Bow Valley Fuels Co-operative Ltd.,Regular Unleaded 87,47908000,SCT-0465,CUS-095,litres,Annual,2026-01-01,2027-12-31,Fixed price,0,Ontario
+Bow Valley Fuels Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,73514000,SCT-0466,CUS-095,litres,Annual,2025-07-01,2028-06-30,Index + margin,70,Ontario
+Bow Valley Fuels Co-operative Ltd.,Winter Diesel No. 1,14991000,SCT-0467,CUS-095,litres,Annual,2025-01-01,2027-12-31,Index + margin,80,Ontario
+Lakeshore Freightways Limited Partnership,Arctic Grade Diesel,4900000,SCT-0468,CUS-096,litres,Annual,2025-01-01,2026-12-31,Cost-plus,85,Manitoba
+Lakeshore Freightways Limited Partnership,Biodiesel B20 Blend,5202000,SCT-0469,CUS-096,litres,Annual,2026-01-01,2029-03-31,Rack-linked,0,Manitoba
+Lakeshore Freightways Limited Partnership,Heavy-Duty Diesel Engine Oil 15W-40,561000,SCT-0470,CUS-096,litres,Annual,2026-07-01,2028-06-30,Fixed price,85,Manitoba
+Lakeshore Freightways Limited Partnership,Premium Diesel with Additive,23487000,SCT-0471,CUS-096,litres,Annual,2026-03-01,2028-06-30,Rack-linked,80,Manitoba
+Lakeshore Freightways Limited Partnership,Ultra-Low Sulphur Diesel No. 2,17409000,SCT-0472,CUS-096,litres,Annual,2026-01-01,2027-12-31,Fixed price,0,Manitoba
+Bluewater Industrial Supply Ltd.,Automatic Transmission Fluid,45000,SCT-0473,CUS-097,litres,Annual,2026-01-01,2028-12-31,Rack-linked,80,Alberta
+Bluewater Industrial Supply Ltd.,Conventional Engine Oil 10W-30,184000,SCT-0474,CUS-097,litres,Annual,2026-07-01,2028-06-30,Index + margin,85,Alberta
+Bluewater Industrial Supply Ltd.,Diesel Exhaust Fluid (DEF),80000,SCT-0475,CUS-097,litres,Annual,2026-01-01,2027-12-31,Rack-linked,70,Alberta
+Bluewater Industrial Supply Ltd.,Engine Coolant 50/50,37000,SCT-0476,CUS-097,litres,Annual,2026-01-01,2027-12-31,Fixed price,0,Alberta
+Bluewater Industrial Supply Ltd.,Full Synthetic Heavy-Duty 10W-30,63000,SCT-0477,CUS-097,litres,Annual,2025-07-01,2027-06-30,Index + margin,80,Alberta
+Bluewater Industrial Supply Ltd.,Gear Oil 80W-90,265000,SCT-0478,CUS-097,litres,Annual,2026-04-01,2028-03-31,Rack-linked,90,Alberta
+Bluewater Industrial Supply Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,346000,SCT-0479,CUS-097,litres,Annual,2026-04-01,2028-03-31,Rack-linked,0,Alberta
+Bluewater Industrial Supply Ltd.,Hydraulic Oil AW 32,33000,SCT-0480,CUS-097,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Alberta
+Bluewater Industrial Supply Ltd.,Metalworking Fluid,128000,SCT-0481,CUS-097,litres,Annual,2025-01-01,2026-12-31,Fixed price,85,Alberta
+Canyon Polymers Ltd.,Condensate and Diluent,108000,SCT-0482,CUS-098,tonnes,Annual,2026-01-01,2028-12-31,Rack-linked,85,Quebec
+Canyon Polymers Ltd.,Granular Sulphur,66000,SCT-0483,CUS-098,tonnes,Annual,2025-01-01,2027-12-31,Fixed price,0,Quebec
+Canyon Polymers Ltd.,Mixed Xylenes,67000,SCT-0484,CUS-098,tonnes,Annual,2025-10-01,2028-09-30,Rack-linked,0,Quebec
+Canyon Polymers Ltd.,Naphtha,290000,SCT-0485,CUS-098,tonnes,Annual,2025-10-01,2028-09-30,Cost-plus,85,Quebec
+Canyon Polymers Ltd.,Petroleum Coke,311000,SCT-0486,CUS-098,tonnes,Annual,2026-01-01,2028-12-31,Cost-plus,70,Quebec
+Canyon Polymers Ltd.,Polymer-Grade Propylene,63000,SCT-0487,CUS-098,tonnes,Annual,2026-04-01,2028-03-31,Fixed price,85,Quebec
+Capital Oil & Filter Corp.,Automatic Transmission Fluid,204000,SCT-0488,CUS-099,litres,Annual,2025-01-01,2026-12-31,Cost-plus,85,Ontario
+Capital Oil & Filter Corp.,Diesel Exhaust Fluid (DEF),181000,SCT-0489,CUS-099,litres,Annual,2025-10-01,2028-09-30,Index + margin,90,Ontario
+Capital Oil & Filter Corp.,Engine Coolant 50/50,182000,SCT-0490,CUS-099,litres,Annual,2026-01-01,2027-12-31,Rack-linked,0,Ontario
+Capital Oil & Filter Corp.,Full Synthetic Heavy-Duty 10W-30,233000,SCT-0491,CUS-099,litres,Annual,2025-01-01,2026-12-31,Rack-linked,80,Ontario
+Capital Oil & Filter Corp.,Heavy-Duty Diesel Engine Oil 15W-40,200000,SCT-0492,CUS-099,litres,Annual,2026-07-01,2028-06-30,Index + margin,80,Ontario
+Capital Oil & Filter Corp.,Hydraulic Oil AW 46,156000,SCT-0493,CUS-099,litres,Annual,2025-01-01,2027-12-31,Rack-linked,0,Ontario
+Maple Energy Distribution Co-operative Ltd.,Dyed Off-Road Diesel,42627000,SCT-0494,CUS-100,litres,Annual,2025-04-01,2027-03-31,Rack-linked,0,Alberta
+Maple Energy Distribution Co-operative Ltd.,Mid-Grade Unleaded 89,52895000,SCT-0495,CUS-100,litres,Annual,2026-08-01,2029-09-30,Rack-linked,80,Alberta
+Maple Energy Distribution Co-operative Ltd.,Rack Gasoline 87 (Wholesale),8494000,SCT-0496,CUS-100,litres,Annual,2025-10-01,2028-09-30,Rack-linked,0,Alberta
+Maple Energy Distribution Co-operative Ltd.,Regular E10 Ethanol Blend,14389000,SCT-0497,CUS-100,litres,Annual,2026-01-01,2028-12-31,Cost-plus,0,Alberta
+Maple Energy Distribution Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,79210000,SCT-0498,CUS-100,litres,Annual,2026-01-01,2028-12-31,Rack-linked,90,Alberta
+Maple Energy Distribution Co-operative Ltd.,Winter Diesel No. 1,48711000,SCT-0499,CUS-100,litres,Annual,2026-08-01,2028-09-30,Rack-linked,0,Alberta
+Maple Energy Distribution Co-operative Ltd.,Winter-Blend Regular 87,15298000,SCT-0500,CUS-100,litres,Annual,2025-04-01,2027-03-31,Rack-linked,70,Alberta

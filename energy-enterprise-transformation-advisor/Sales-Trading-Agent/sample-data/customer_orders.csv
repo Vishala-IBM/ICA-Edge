@@ -1,0 +1,501 @@
+Order_ID,Customer,Product,Order_Date,Quantity,Unit,Unit_Price_CAD,Order_Value_CAD,Discount_Pct,Requested_Delivery_Date,Supply_Point,Region,Status,Contract_ID,Customer_ID,Product_ID
+ORD-000001,Westcoast Fuels Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-01-01,619700,litres,0.2256,139804.32,1.92,2026-01-05,R100,British Columbia,Delivered,SCT-0185,CUS-036,PRD-011
+ORD-000002,Canyon Minerals Ltd.,Arctic Grade Diesel,2026-01-02,2374100,litres,1.7583,4174380.03,1.77,2026-01-10,R100,Saskatchewan,Delivered,SCT-0150,CUS-031,PRD-013
+ORD-000003,Foothills Petroleum Inc.,Winter Diesel No. 1,2026-01-02,1586500,litres,1.8056,2864584.40,4.97,2026-01-06,R300,Quebec,Delivered,SCT-0277,CUS-055,PRD-012
+ORD-000004,Harbour Air Corp.,Sustainable Aviation Fuel Blend 10%,2026-01-02,11934400,litres,1.4730,17579371.20,1.14,2026-01-15,R100,Northern Canada,Delivered,SCT-0118,CUS-024,PRD-025
+ORD-000005,Arctic Air Limited Partnership,Avgas 100LL,2026-01-03,15681900,litres,2.9536,46318059.84,3.79,2026-01-20,R100,Alberta,Delivered,SCT-0067,CUS-015,PRD-027
+ORD-000006,Coastal Petro Stations Limited Partnership,Ultra-Low Sulphur Diesel No. 2,2026-01-03,2619500,litres,0.2455,643087.25,1.79,2026-01-20,R300,Quebec,Delivered,SCT-0280,CUS-056,PRD-011
+ORD-000007,Bow Valley Petroleum Corp.,Dyed Off-Road Diesel,2026-01-04,46500,litres,1.5883,73855.95,0.73,2026-01-06,R300,Quebec,Delivered,,CUS-045,PRD-017
+ORD-000008,Heritage Resources Ltd.,Hydraulic Oil AW 68,2026-01-04,287500,litres,7.5095,2158981.25,7.29,2026-01-17,R100,Saskatchewan,Delivered,SCT-0134,CUS-028,PRD-051
+ORD-000009,Heritage Resources Ltd.,Arctic Grade Diesel,2026-01-05,1117700,litres,1.6905,1889471.85,5.56,2026-01-10,R100,Saskatchewan,Delivered,SCT-0132,CUS-028,PRD-013
+ORD-000010,Lakeshore Freightways Limited Partnership,Biodiesel B20 Blend,2026-01-05,93100,litres,1.9008,176964.48,2.02,2026-01-26,R200,Manitoba,Delivered,SCT-0469,CUS-096,PRD-015
+ORD-000011,Capital Oil & Filter Corp.,Hydraulic Oil AW 68,2026-01-06,34500,litres,8.6191,297358.95,3.59,2026-01-16,R200,Ontario,Delivered,,CUS-099,PRD-051
+ORD-000012,Capital Petroleum Inc.,Ultra-Low Sulphur Diesel No. 2,2026-01-06,4531000,litres,0.2547,1154045.70,2.03,2026-01-18,R300,Atlantic Canada,Delivered,SCT-0343,CUS-069,PRD-011
+ORD-000013,Cascade Energy Services Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-01-06,311400,litres,0.2222,69193.08,3.39,2026-01-27,R200,Manitoba,Delivered,SCT-0398,CUS-082,PRD-011
+ORD-000014,Harbour Petro Stations Ltd.,Winter-Blend Regular 87,2026-01-06,904000,litres,1.8374,1661009.60,0.14,2026-01-14,R200,Ontario,Delivered,SCT-0359,CUS-073,PRD-006
+ORD-000015,Coastal Energy Distribution Inc.,Winter-Blend Regular 87,2026-01-07,946600,litres,1.8387,1740513.42,0.07,2026-01-21,R300,Quebec,Delivered,SCT-0421,CUS-086,PRD-006
+ORD-000016,Coastal Energy Distribution Inc.,Rack Gasoline 87 (Wholesale),2026-01-07,722400,litres,1.2454,899676.96,0.37,2026-01-18,R300,Quebec,Delivered,SCT-0418,CUS-086,PRD-008
+ORD-000017,Capital Petroleum Inc.,Dyed Off-Road Diesel,2026-01-08,589200,litres,1.6200,954504.00,1.22,2026-01-23,R300,Atlantic Canada,Delivered,SCT-0341,CUS-069,PRD-017
+ORD-000018,Coastal Energy Distribution Inc.,Rack Gasoline 87 (Wholesale),2026-01-09,1201000,litres,1.2475,1498247.50,0.2,2026-01-21,R300,Quebec,Delivered,SCT-0418,CUS-086,PRD-008
+ORD-000019,Prairie Petro Stations Inc.,Ultra-Low Sulphur Diesel No. 2,2026-01-09,663800,litres,0.2445,162299.10,2.22,2026-01-28,R300,Quebec,Delivered,SCT-0230,CUS-046,PRD-011
+ORD-000020,Harbour Petro Stations Ltd.,Premium Unleaded 91,2026-01-10,54600,litres,1.7544,95790.24,0.32,2026-01-17,R200,Ontario,Delivered,,CUS-073,PRD-003
+ORD-000021,Granite Fuels Ltd.,Regular Unleaded 87,2026-01-11,484200,litres,1.6956,821009.52,0.26,2026-01-14,R100,British Columbia,Delivered,SCT-0354,CUS-072,PRD-001
+ORD-000022,Granite Freightways Corp.,Winter Diesel No. 1,2026-01-12,20800,litres,1.8626,38742.08,1.97,2026-01-27,R300,Quebec,Delivered,,CUS-048,PRD-012
+ORD-000023,Great Lakes Mining Co-operative Ltd.,Industrial Gear Oil ISO 220,2026-01-12,833100,litres,9.0739,7559466.09,11.56,2026-01-14,R100,Northern Canada,Delivered,SCT-0266,CUS-053,PRD-053
+ORD-000024,Cedar Propane Inc.,Butane,2026-01-13,76300,litres,0.8690,66304.70,0.12,2026-01-29,R200,Ontario,Delivered,,CUS-026,PRD-036
+ORD-000025,Highland Fuel Stops Co-operative Ltd.,Winter-Blend Premium 91,2026-01-13,3150100,litres,1.8696,5889426.96,1.08,2026-01-28,R200,Ontario,Delivered,SCT-0148,CUS-030,PRD-007
+ORD-000026,Lakeshore Energy Distribution Inc.,Ultra-Low Sulphur Diesel No. 2,2026-01-13,1239300,litres,0.2458,304619.94,1.69,2026-01-25,R200,Ontario,Delivered,SCT-0292,CUS-058,PRD-011
+ORD-000027,Frontier Farm Supply Co-operative Ltd.,Dyed Off-Road Diesel,2026-01-14,107200,litres,1.5933,170801.76,0.42,2026-01-16,R300,Quebec,Delivered,,CUS-019,PRD-017
+ORD-000028,Heritage Resources Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,2026-01-15,51700,litres,9.0317,466938.89,3.61,2026-02-04,R100,Saskatchewan,Delivered,SCT-0133,CUS-028,PRD-047
+ORD-000029,Atlantic Gas Services Limited Partnership,Bulk Propane Commercial,2026-01-17,407700,litres,0.8531,347808.87,4.15,2026-01-23,R100,Alberta,Delivered,SCT-0381,CUS-078,PRD-032
+ORD-000030,Northstar Energy Distribution Limited Partnership,Mid-Grade Unleaded 89,2026-01-17,1034900,litres,1.7800,1842122.00,0.0,2026-02-02,R200,Ontario,Delivered,SCT-0207,CUS-042,PRD-002
+ORD-000031,Ironwood Petro Stations Inc.,Regular E10 Ethanol Blend,2026-01-18,874600,litres,1.4725,1287848.50,0.51,2026-02-02,R100,British Columbia,Delivered,SCT-0334,CUS-067,PRD-005
+ORD-000032,Bluewater Minerals Limited Partnership,Heavy-Duty Diesel Engine Oil 15W-40,2026-01-19,167400,litres,8.8725,1485256.50,5.31,2026-01-22,R100,Alberta,Delivered,SCT-0336,CUS-068,PRD-047
+ORD-000033,Great Lakes Fuels Co-operative Ltd.,Rack Gasoline 87 (Wholesale),2026-01-20,803400,litres,1.2599,1012203.66,1.57,2026-01-24,R300,Atlantic Canada,Delivered,SCT-0410,CUS-085,PRD-008
+ORD-000034,Keystone Fuels Limited Partnership,Winter-Blend Regular 87,2026-01-20,1081500,litres,1.8387,1988554.05,0.07,2026-02-10,R200,Ontario,Delivered,SCT-0444,CUS-091,PRD-006
+ORD-000035,Pioneer Ag Co-op Ltd.,Farm Diesel Bulk Delivery,2026-01-20,49200,litres,1.3574,66784.08,4.41,2026-01-26,R100,Alberta,Delivered,SCT-0166,CUS-033,PRD-022
+ORD-000036,Pioneer Fuel Stops Limited Partnership,Winter-Blend Premium 91,2026-01-20,4189500,litres,1.7757,7439295.15,0.8,2026-01-30,R100,Saskatchewan,Delivered,SCT-0322,CUS-064,PRD-007
+ORD-000037,Silverline Ag Co-op Co-operative Ltd.,Bulk Propane Commercial,2026-01-20,14600,litres,0.8749,12773.54,1.7,2026-01-26,R100,Alberta,Delivered,,CUS-008,PRD-032
+ORD-000038,Foothills Petroleum Inc.,Winter Diesel No. 1,2026-01-21,1734800,litres,1.7689,3068687.72,6.9,2026-02-08,R300,Quebec,Cancelled,SCT-0277,CUS-055,PRD-012
+ORD-000039,Frontier Shipping Corp.,Marine Gas Oil,2026-01-21,5368900,litres,1.5007,8057108.23,3.18,2026-01-27,R300,Quebec,Cancelled,SCT-0198,CUS-039,PRD-019
+ORD-000040,Northstar Energy Distribution Corp.,Mid-Grade Unleaded 89,2026-01-22,1493400,litres,1.7800,2658252.00,0.0,2026-01-30,R300,Quebec,Delivered,SCT-0077,CUS-017,PRD-002
+ORD-000041,Redcliff Ports & Bunkering Ltd.,Marine Diesel Oil,2026-01-22,635500,litres,0.9708,616943.40,0.94,2026-02-04,R300,Quebec,Delivered,SCT-0386,CUS-079,PRD-029
+ORD-000042,Granite Fuels Ltd.,Premium Unleaded 91,2026-01-24,1064600,litres,1.6902,1799386.92,1.73,2026-02-02,R100,British Columbia,Delivered,SCT-0352,CUS-072,PRD-003
+ORD-000043,Evergreen Gas & Go Corp.,Winter-Blend Regular 87,2026-01-25,1032600,litres,1.8385,1898435.10,0.08,2026-02-12,R200,Ontario,Delivered,SCT-0163,CUS-032,PRD-006
+ORD-000044,Great Lakes Fuels Co-operative Ltd.,Dyed Off-Road Diesel,2026-01-25,111000,litres,1.6348,181462.80,0.32,2026-01-31,R300,Atlantic Canada,Delivered,,CUS-085,PRD-017
+ORD-000045,Lakeshore Home Energy Ltd.,Bulk Propane Residential,2026-01-25,289100,litres,0.7952,229892.32,6.45,2026-01-31,R100,Saskatchewan,Delivered,SCT-0247,CUS-049,PRD-031
+ORD-000046,Northstar Energy Distribution Limited Partnership,Regular E10 Ethanol Blend,2026-01-25,179600,litres,1.5471,277859.16,0.19,2026-01-30,R200,Ontario,Delivered,SCT-0208,CUS-042,PRD-005
+ORD-000047,Westcoast Fuels Co-operative Ltd.,Dyed Off-Road Diesel,2026-01-25,2488800,litres,1.3818,3439023.84,3.37,2026-01-30,R100,British Columbia,Cancelled,SCT-0181,CUS-036,PRD-017
+ORD-000048,Keystone Freightways Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,2026-01-27,20800,litres,8.8818,184741.44,5.21,2026-01-30,R100,Northern Canada,Delivered,SCT-0015,CUS-004,PRD-047
+ORD-000049,Northstar Energy Distribution Limited Partnership,Regular Unleaded 87,2026-01-27,1897400,litres,1.7216,3266563.84,1.62,2026-02-09,R200,Ontario,Delivered,SCT-0209,CUS-042,PRD-001
+ORD-000050,Redcliff Ports & Bunkering Ltd.,Marine Diesel Oil,2026-01-28,295200,litres,0.9706,286521.12,0.96,2026-02-05,R300,Quebec,Delivered,SCT-0386,CUS-079,PRD-029
+ORD-000051,Granite Propane Inc.,Bulk Propane Commercial,2026-01-29,1525100,litres,0.8947,1364506.97,5.82,2026-02-05,R200,Ontario,Delivered,SCT-0300,CUS-060,PRD-032
+ORD-000052,Northstar Energy Distribution Corp.,Regular E10 Ethanol Blend,2026-01-29,3478100,litres,1.5478,5383403.18,0.14,2026-02-09,R300,Quebec,Delivered,SCT-0079,CUS-017,PRD-005
+ORD-000053,Pioneer Petro Stations Limited Partnership,Premium Unleaded 91,2026-01-30,1365600,litres,1.7099,2335039.44,0.59,2026-02-04,R100,Alberta,Delivered,SCT-0297,CUS-059,PRD-003
+ORD-000054,Silverline Ag Co-op Co-operative Ltd.,Bulk Propane Commercial,2026-01-30,58900,litres,0.8883,52320.87,0.19,2026-02-18,R100,Alberta,Delivered,,CUS-008,PRD-032
+ORD-000055,Laurentian Airport Fuelling Limited Partnership,Jet A,2026-01-31,103300,litres,1.4483,149609.39,0.12,2026-02-02,R100,Alberta,Delivered,,CUS-029,PRD-023
+ORD-000056,Capital Petroleum Inc.,Premium Unleaded 91,2026-02-01,741000,litres,1.9029,1410048.90,0.37,2026-02-17,R300,Atlantic Canada,Delivered,SCT-0342,CUS-069,PRD-003
+ORD-000057,Great Lakes Fuels Co-operative Ltd.,Regular E10 Ethanol Blend,2026-02-01,632400,litres,1.6139,1020630.36,0.99,2026-02-09,R300,Atlantic Canada,Delivered,SCT-0411,CUS-085,PRD-005
+ORD-000058,Highland Drilling Co-operative Ltd.,Natural Gas Engine Oil,2026-02-01,103900,litres,10.9738,1140177.82,0.6,2026-02-07,R300,Quebec,Delivered,,CUS-005,PRD-062
+ORD-000059,Ironwood Petro Stations Inc.,Regular E10 Ethanol Blend,2026-02-01,677200,litres,1.4744,998463.68,0.38,2026-02-20,R100,British Columbia,Delivered,SCT-0334,CUS-067,PRD-005
+ORD-000060,Westcoast Fuels Co-operative Ltd.,Mid-Grade Unleaded 89,2026-02-01,1397000,litres,1.5971,2231148.70,0.8,2026-02-19,R100,British Columbia,Delivered,SCT-0182,CUS-036,PRD-002
+ORD-000061,Coastal Minerals Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-02-02,1757700,litres,0.2227,391439.79,3.17,2026-02-04,R100,British Columbia,Delivered,SCT-0195,CUS-038,PRD-011
+ORD-000062,Evergreen Transport Inc.,Biodiesel B5 Blend,2026-02-02,34200,litres,1.8772,64200.24,0.15,2026-02-07,R100,Alberta,Delivered,,CUS-010,PRD-014
+ORD-000063,Westcoast Fuels Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-02-02,491400,litres,0.2172,106732.08,5.57,2026-02-09,R100,British Columbia,Delivered,SCT-0185,CUS-036,PRD-011
+ORD-000064,Pioneer Petro Stations Limited Partnership,Winter-Blend Premium 91,2026-02-03,6316900,litres,1.7857,11280088.33,0.24,2026-02-23,R100,Alberta,Delivered,SCT-0298,CUS-059,PRD-007
+ORD-000065,Pioneer Petro Stations Limited Partnership,Winter-Blend Premium 91,2026-02-03,2862200,litres,1.7814,5098723.08,0.48,2026-02-11,R100,Alberta,Delivered,SCT-0298,CUS-059,PRD-007
+ORD-000066,Canyon Rail Ltd.,Locomotive Diesel,2026-02-04,3470200,litres,1.8042,6260934.84,0.87,2026-02-10,R300,Quebec,Delivered,SCT-0065,CUS-014,PRD-020
+ORD-000067,Great Lakes Haulage Corp.,Heavy-Duty Diesel Engine Oil 15W-40,2026-02-04,37300,litres,8.4314,314491.22,16.85,2026-02-13,R300,Quebec,Delivered,SCT-0324,CUS-065,PRD-047
+ORD-000068,Summit Petroleum Ltd.,Regular E10 Ethanol Blend,2026-02-04,2752700,litres,1.4655,4034081.85,0.98,2026-02-07,R100,Alberta,Delivered,SCT-0405,CUS-084,PRD-005
+ORD-000069,Bow Valley Transport Inc.,Biodiesel B5 Blend,2026-02-05,116300,litres,1.9884,231250.92,0.58,2026-02-24,R200,Ontario,Delivered,,CUS-054,PRD-014
+ORD-000070,Evergreen Transport Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,2026-02-05,69400,litres,9.1995,638445.30,1.82,2026-02-17,R100,Alberta,Delivered,,CUS-052,PRD-047
+ORD-000071,Harbour Aviation Services Corp.,Jet A,2026-02-05,1413000,litres,1.4255,2014231.50,1.69,2026-02-10,R100,Alberta,Delivered,SCT-0346,CUS-070,PRD-023
+ORD-000072,Harbour Petro Stations Ltd.,Premium Diesel with Additive,2026-02-05,3454900,litres,1.8892,6526997.08,1.09,2026-02-13,R200,Ontario,Delivered,SCT-0357,CUS-073,PRD-018
+ORD-000073,Highland Fuel Stops Co-operative Ltd.,Premium Diesel with Additive,2026-02-05,15200,litres,1.8943,28793.36,0.82,2026-02-22,R200,Ontario,Delivered,,CUS-030,PRD-018
+ORD-000074,Cascade Petroleum Co-operative Ltd.,Regular Unleaded 87,2026-02-06,328000,litres,1.6941,555664.80,0.35,2026-02-09,R100,Alberta,Delivered,SCT-0103,CUS-021,PRD-001
+ORD-000075,Frontier Shipping Corp.,Marine Diesel Oil,2026-02-06,516900,litres,0.9538,493019.22,2.67,2026-02-26,R300,Quebec,Delivered,SCT-0197,CUS-039,PRD-029
+ORD-000076,Northern Petro Stations Corp.,Regular Unleaded 87,2026-02-06,15700,litres,1.6978,26655.46,0.13,2026-02-14,R100,Alberta,Delivered,,CUS-027,PRD-001
+ORD-000077,Arctic Air Limited Partnership,Jet A-1,2026-02-07,6725600,litres,1.3397,9010286.32,0.76,2026-02-18,R100,Alberta,Delivered,SCT-0070,CUS-015,PRD-024
+ORD-000078,Bow Valley Fuels Co-operative Ltd.,Regular Unleaded 87,2026-02-07,24800,litres,1.7470,43325.60,0.17,2026-02-21,R200,Ontario,Delivered,,CUS-095,PRD-001
+ORD-000079,Harbour Air Corp.,Jet A-1,2026-02-07,8298000,litres,1.3408,11125958.40,0.68,2026-02-09,R100,Northern Canada,Delivered,SCT-0117,CUS-024,PRD-024
+ORD-000080,Capital Rail Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-02-08,2877000,litres,0.2437,701124.90,2.53,2026-02-13,R300,Quebec,Delivered,SCT-0009,CUS-002,PRD-011
+ORD-000081,Evergreen Gas & Go Corp.,Mid-Grade Unleaded 89,2026-02-09,1575000,litres,1.7800,2803500.00,0.0,2026-02-28,R200,Ontario,Delivered,SCT-0156,CUS-032,PRD-002
+ORD-000082,Lakeshore Energy Distribution Inc.,Ultra-Low Sulphur Diesel No. 2,2026-02-10,1769300,litres,0.2447,432947.71,2.14,2026-02-15,R200,Ontario,Delivered,SCT-0292,CUS-058,PRD-011
+ORD-000083,Frontier Shipping Corp.,Marine Gas Oil,2026-02-11,32800,litres,1.5144,49672.32,2.3,2026-02-28,R300,Quebec,Delivered,,CUS-039,PRD-019
+ORD-000084,Granite Energy Distribution Co-operative Ltd.,Regular Unleaded 87,2026-02-11,3648900,litres,1.6954,6186345.06,0.27,2026-03-02,R100,Alberta,Delivered,SCT-0053,CUS-011,PRD-001
+ORD-000085,Granite Petroleum Inc.,Regular E10 Ethanol Blend,2026-02-11,1228300,litres,1.4605,1793932.15,1.32,2026-02-14,R100,Alberta,Delivered,SCT-0097,CUS-020,PRD-005
+ORD-000086,Pioneer Fuel Stops Limited Partnership,Winter-Blend Premium 91,2026-02-11,2451000,litres,1.7800,4362780.00,0.56,2026-02-28,R100,Saskatchewan,Delivered,SCT-0322,CUS-064,PRD-007
+ORD-000087,Atlantic Gas Services Limited Partnership,Butane,2026-02-12,3915200,litres,0.7407,2899988.64,6.24,2026-03-02,R100,Alberta,Delivered,SCT-0383,CUS-078,PRD-036
+ORD-000088,Canyon Minerals Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-02-12,1816400,litres,0.2202,399971.28,4.27,2026-02-21,R100,Saskatchewan,Delivered,SCT-0155,CUS-031,PRD-011
+ORD-000089,Northstar Energy Distribution Limited Partnership,Dyed Off-Road Diesel,2026-02-12,114500,litres,1.5917,182249.65,0.52,2026-02-21,R200,Ontario,Delivered,,CUS-042,PRD-017
+ORD-000090,Bow Valley Transport Inc.,Biodiesel B5 Blend,2026-02-13,109000,litres,1.9722,214969.80,1.39,2026-02-19,R200,Ontario,Delivered,,CUS-054,PRD-014
+ORD-000091,Granite Energy Distribution Co-operative Ltd.,Winter-Blend Regular 87,2026-02-13,47400,litres,1.7981,85229.94,0.66,2026-03-03,R100,Alberta,Delivered,,CUS-011,PRD-006
+ORD-000092,Granite Petroleum Inc.,Winter-Blend Regular 87,2026-02-13,676900,litres,1.7827,1206709.63,1.51,2026-02-24,R100,Alberta,Delivered,SCT-0100,CUS-020,PRD-006
+ORD-000093,Harbour Aviation Services Corp.,Jet A-1,2026-02-13,60000,litres,1.3470,80820.00,0.22,2026-02-27,R100,Alberta,Cancelled,,CUS-070,PRD-024
+ORD-000094,Bow Valley Fuels Co-operative Ltd.,Premium Unleaded 91,2026-02-14,1275700,litres,1.7500,2232475.00,0.57,2026-02-23,R200,Ontario,Delivered,SCT-0462,CUS-095,PRD-003
+ORD-000095,Evergreen Gas & Go Corp.,Regular Unleaded 87,2026-02-16,4474800,litres,1.7367,7771385.16,0.76,2026-02-24,R200,Ontario,Delivered,SCT-0160,CUS-032,PRD-001
+ORD-000096,Northstar Energy Distribution Limited Partnership,Winter Diesel No. 1,2026-02-16,51600,litres,1.8844,97235.04,0.82,2026-03-06,R200,Ontario,Delivered,,CUS-042,PRD-012
+ORD-000097,Redcliff Ports & Bunkering Ltd.,Marine Diesel Oil,2026-02-16,1649600,litres,0.9589,1581801.44,2.15,2026-02-23,R300,Quebec,Delivered,SCT-0386,CUS-079,PRD-029
+ORD-000098,Heritage Resources Ltd.,Arctic Grade Diesel,2026-02-19,794100,litres,1.7078,1356163.98,4.59,2026-02-26,R100,Saskatchewan,Delivered,SCT-0132,CUS-028,PRD-013
+ORD-000099,Pioneer Petro Stations Limited Partnership,Winter-Blend Premium 91,2026-02-19,2407400,litres,1.7862,4300097.88,0.21,2026-03-01,R100,Alberta,Delivered,SCT-0298,CUS-059,PRD-007
+ORD-000100,Bluewater Airport Fuelling Corp.,Jet A,2026-02-20,2427400,litres,1.5508,3764411.92,1.22,2026-02-23,R200,Ontario,Delivered,SCT-0043,CUS-009,PRD-023
+ORD-000101,Evergreen Transport Inc.,Heavy-Duty Diesel Engine Oil 15W-40,2026-02-20,258700,litres,9.0064,2329955.68,3.88,2026-02-27,R100,Alberta,Delivered,SCT-0047,CUS-010,PRD-047
+ORD-000102,Harbour Air Corp.,Avgas 100LL,2026-02-20,4327500,litres,2.9567,12795119.25,3.69,2026-03-01,R100,Northern Canada,Delivered,SCT-0114,CUS-024,PRD-027
+ORD-000103,Redcliff Energy Distribution Co-operative Ltd.,Premium Unleaded 91,2026-02-20,7600,litres,1.7554,13341.04,0.26,2026-03-06,R200,Ontario,Delivered,,CUS-043,PRD-003
+ORD-000104,Summit Petroleum Ltd.,Winter-Blend Regular 87,2026-02-20,500000,litres,1.7800,890000.00,1.66,2026-02-24,R100,Alberta,Delivered,SCT-0408,CUS-084,PRD-006
+ORD-000105,Granite Fuels Ltd.,Winter-Blend Regular 87,2026-02-21,1094500,litres,1.7919,1961234.55,1.0,2026-03-07,R100,British Columbia,Delivered,SCT-0356,CUS-072,PRD-006
+ORD-000106,Canyon Freightways Inc.,Winter Diesel No. 1,2026-02-22,51200,litres,1.7807,91171.84,1.62,2026-03-10,R100,British Columbia,Delivered,,CUS-034,PRD-012
+ORD-000107,Frontier Industrial Supply Co-operative Ltd.,Hydraulic Oil AW 68,2026-02-22,20200,litres,8.6530,174790.60,3.21,2026-02-24,R200,Ontario,Delivered,,CUS-057,PRD-051
+ORD-000108,Granite Energy Distribution Co-operative Ltd.,Winter-Blend Regular 87,2026-02-22,1447900,litres,1.7999,2606075.21,0.56,2026-03-01,R100,Alberta,Delivered,SCT-0055,CUS-011,PRD-006
+ORD-000109,Ironwood Chemicals Inc.,Granular Sulphur,2026-02-22,210,tonnes,114.28,23998.80,0.63,2026-03-08,R200,Ontario,Delivered,,CUS-044,PRD-079
+ORD-000110,Laurentian Airport Fuelling Limited Partnership,Jet A-1,2026-02-22,3175800,litres,1.3442,4268910.36,0.43,2026-03-09,R100,Alberta,Delivered,SCT-0141,CUS-029,PRD-024
+ORD-000111,Canyon Freightways Inc.,Ultra-Low Sulphur Diesel No. 2,2026-02-23,610000,litres,0.2186,133346.00,4.94,2026-02-27,R100,British Columbia,Delivered,SCT-0173,CUS-034,PRD-011
+ORD-000112,Evergreen Gas & Go Corp.,Regular Unleaded 87,2026-02-23,4005800,litres,1.7292,6926829.36,1.19,2026-03-15,R200,Ontario,Delivered,SCT-0160,CUS-032,PRD-001
+ORD-000113,Rocky Chemicals Inc.,Mixed Xylenes,2026-02-23,2450,tonnes,1140.57,2794396.50,1.42,2026-03-16,R300,Quebec,Delivered,,CUS-016,PRD-081
+ORD-000114,Atlantic Gas Services Limited Partnership,Autogas Propane,2026-02-25,599200,litres,0.8841,529752.72,8.86,2026-03-16,R100,Alberta,Delivered,SCT-0380,CUS-078,PRD-033
+ORD-000115,Arctic Air Limited Partnership,Jet A-1,2026-02-26,7100,litres,1.3485,9574.35,0.11,2026-03-02,R100,Alberta,Delivered,,CUS-015,PRD-024
+ORD-000116,Harbour Petro Stations Ltd.,Regular Unleaded 87,2026-02-26,9100,litres,1.7477,15904.07,0.13,2026-03-02,R200,Ontario,Delivered,,CUS-073,PRD-001
+ORD-000117,Highland Fuel Stops Co-operative Ltd.,Premium Diesel with Additive,2026-02-26,751200,litres,1.8871,1417589.52,1.2,2026-03-04,R200,Ontario,Delivered,SCT-0144,CUS-030,PRD-018
+ORD-000118,Ironwood Petro Stations Inc.,Regular E10 Ethanol Blend,2026-02-27,646600,litres,1.4649,947204.34,1.02,2026-03-16,R100,British Columbia,Delivered,SCT-0334,CUS-067,PRD-005
+ORD-000119,Pioneer Petro Stations Limited Partnership,Winter-Blend Premium 91,2026-03-01,1787600,litres,1.7771,3176743.96,0.72,2026-03-15,R100,Alberta,Delivered,SCT-0298,CUS-059,PRD-007
+ORD-000120,Rocky Energy Services Ltd.,Commercial Furnace Oil,2026-03-01,25900,litres,1.6598,42988.82,0.61,2026-03-08,R100,Alberta,Delivered,,CUS-087,PRD-042
+ORD-000121,Rocky Energy Services Ltd.,Kerosene K-1,2026-03-01,157300,litres,1.4671,230774.83,3.48,2026-03-07,R100,Alberta,Delivered,SCT-0423,CUS-087,PRD-043
+ORD-000122,Highland Ag Co-op Ltd.,Bulk Propane Commercial,2026-03-02,115500,litres,0.8767,101258.85,1.5,2026-03-05,R100,Saskatchewan,Delivered,,CUS-088,PRD-032
+ORD-000123,Laurentian Minerals Corp.,Arctic Grade Diesel,2026-03-02,449700,litres,1.7159,771640.23,4.14,2026-03-14,R100,Alberta,Delivered,SCT-0030,CUS-007,PRD-013
+ORD-000124,Bluewater Airport Fuelling Corp.,Sustainable Aviation Fuel Blend 10%,2026-03-05,1146200,litres,1.6692,1913237.04,0.64,2026-03-15,R200,Ontario,Delivered,SCT-0044,CUS-009,PRD-025
+ORD-000125,Laurentian Minerals Corp.,Hydraulic Oil AW 68,2026-03-06,1139100,litres,7.7728,8853996.48,4.04,2026-03-24,R100,Alberta,Delivered,SCT-0032,CUS-007,PRD-051
+ORD-000126,Redcliff Energy Distribution Co-operative Ltd.,Mid-Grade Unleaded 89,2026-03-06,1166300,litres,1.7800,2076014.00,0.0,2026-03-10,R200,Ontario,Delivered,SCT-0213,CUS-043,PRD-002
+ORD-000127,Harbour Air Corp.,Sustainable Aviation Fuel Blend 10%,2026-03-07,15309200,litres,1.4542,22262638.64,2.4,2026-03-11,R100,Northern Canada,Delivered,SCT-0118,CUS-024,PRD-025
+ORD-000128,Granite Petroleum Inc.,Premium Unleaded 91,2026-03-08,3487800,litres,1.6837,5872408.86,2.11,2026-03-16,R100,Alberta,Delivered,SCT-0096,CUS-020,PRD-003
+ORD-000129,Lakeshore Home Energy Ltd.,Bulk Propane Commercial,2026-03-08,391700,litres,0.8626,337880.42,3.08,2026-03-23,R100,Saskatchewan,Delivered,SCT-0246,CUS-049,PRD-032
+ORD-000130,Frontier Shipping Corp.,Marine Gas Oil,2026-03-09,2364800,litres,1.4279,3376697.92,7.88,2026-03-20,R300,Quebec,Delivered,SCT-0198,CUS-039,PRD-019
+ORD-000131,Evergreen Transport Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-03-12,325500,litres,0.2239,72879.45,2.64,2026-03-29,R100,Alberta,Delivered,SCT-0262,CUS-052,PRD-011
+ORD-000132,Heritage Road Materials Ltd.,Asphalt Cement PG 58-28,2026-03-12,1310,tonnes,865.68,1134040.80,1.85,2026-03-18,R200,Manitoba,Delivered,,CUS-003,PRD-072
+ORD-000133,Highland Ag Co-op Ltd.,Farm Diesel Bulk Delivery,2026-03-12,68400,litres,1.3916,95185.44,2.0,2026-03-16,R100,Saskatchewan,Delivered,SCT-0428,CUS-088,PRD-022
+ORD-000134,Granite Fuels Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-03-13,13300,litres,0.2263,3009.79,1.59,2026-03-25,R100,British Columbia,Delivered,,CUS-072,PRD-011
+ORD-000135,Highland Fuel Stops Co-operative Ltd.,Regular Unleaded 87,2026-03-13,8017800,litres,1.7295,13866785.10,1.17,2026-03-23,R200,Ontario,Delivered,SCT-0147,CUS-030,PRD-001
+ORD-000136,Prairie Petro Stations Inc.,Premium Unleaded 91,2026-03-14,111800,litres,1.7579,196533.22,0.12,2026-04-02,R300,Quebec,Delivered,,CUS-046,PRD-003
+ORD-000137,Red River Resources Inc.,Industrial Gear Oil ISO 220,2026-03-14,429300,litres,9.3571,4017003.03,8.8,2026-04-04,R100,Alberta,Delivered,SCT-0057,CUS-012,PRD-053
+ORD-000138,Highland Fuel Stops Corp.,Premium Unleaded 91,2026-03-15,5385800,litres,1.7535,9444000.30,0.37,2026-03-30,R200,Ontario,Delivered,SCT-0119,CUS-025,PRD-003
+ORD-000139,Highland Fuel Stops Corp.,Regular Unleaded 87,2026-03-15,3693100,litres,1.7159,6336990.29,1.95,2026-04-05,R200,Ontario,Cancelled,SCT-0121,CUS-025,PRD-001
+ORD-000140,Great Lakes Fuels Co-operative Ltd.,Winter-Blend Regular 87,2026-03-17,64500,litres,2.0298,130922.10,0.01,2026-04-04,R300,Atlantic Canada,Delivered,,CUS-085,PRD-006
+ORD-000141,Redcliff Energy Distribution Co-operative Ltd.,Winter Diesel No. 1,2026-03-17,45500,litres,1.8749,85307.95,1.32,2026-03-27,R200,Ontario,Delivered,,CUS-043,PRD-012
+ORD-000142,Rocky Energy Distribution Inc.,Winter Diesel No. 1,2026-03-17,1388100,litres,1.8042,2504410.02,5.04,2026-03-30,R300,Quebec,Delivered,SCT-0401,CUS-083,PRD-012
+ORD-000143,Maple Energy Distribution Co-operative Ltd.,Dyed Off-Road Diesel,2026-03-18,70900,litres,1.4240,100961.60,0.42,2026-04-01,R100,Alberta,Delivered,,CUS-100,PRD-017
+ORD-000144,Red River Petroleum Limited Partnership,Ultra-Low Sulphur Diesel No. 2,2026-03-18,965300,litres,0.2198,212172.94,4.42,2026-03-24,R100,Alberta,Delivered,SCT-0235,CUS-047,PRD-011
+ORD-000145,Arctic Air Limited Partnership,Sustainable Aviation Fuel Blend 10%,2026-03-19,5788100,litres,1.4489,8386378.09,2.76,2026-03-22,R100,Alberta,Delivered,SCT-0071,CUS-015,PRD-025
+ORD-000146,Boreal Oilfield Services Limited Partnership,Dyed Off-Road Diesel,2026-03-20,149500,litres,1.3799,206295.05,3.5,2026-04-01,R200,Manitoba,Delivered,SCT-0256,CUS-051,PRD-017
+ORD-000147,Bow Valley Petroleum Corp.,Ultra-Low Sulphur Diesel No. 2,2026-03-20,92900,litres,0.2493,23159.97,0.29,2026-04-08,R300,Quebec,Delivered,,CUS-045,PRD-011
+ORD-000148,Evergreen Transport Ltd.,Biodiesel B5 Blend,2026-03-20,463700,litres,1.8597,862342.89,1.08,2026-03-22,R100,Alberta,Delivered,SCT-0260,CUS-052,PRD-014
+ORD-000149,Great Lakes Fuels Co-operative Ltd.,Rack Gasoline 87 (Wholesale),2026-03-21,765200,litres,1.2632,966600.64,1.31,2026-04-05,R300,Atlantic Canada,Delivered,SCT-0410,CUS-085,PRD-008
+ORD-000150,Pioneer Fuel Stops Limited Partnership,Premium Unleaded 94,2026-03-21,3597500,litres,2.0642,7425959.50,0.28,2026-03-27,R100,Saskatchewan,Delivered,SCT-0321,CUS-064,PRD-004
+ORD-000151,Granite Propane Inc.,Bulk Propane Residential,2026-03-22,1326500,litres,0.8776,1164136.40,1.39,2026-03-27,R200,Ontario,Delivered,SCT-0301,CUS-060,PRD-031
+ORD-000152,Harbour Petro Stations Ltd.,Winter-Blend Regular 87,2026-03-22,33200,litres,1.8396,61074.72,0.02,2026-03-29,R200,Ontario,Delivered,,CUS-073,PRD-006
+ORD-000153,Cascade Energy Services Ltd.,Commercial Furnace Oil,2026-03-23,306700,litres,1.6444,504337.48,1.53,2026-03-25,R200,Manitoba,Delivered,SCT-0396,CUS-082,PRD-042
+ORD-000154,Great Lakes Mining Co-operative Ltd.,Arctic Grade Diesel,2026-03-23,905100,litres,1.7329,1568447.79,3.19,2026-04-02,R100,Northern Canada,Delivered,SCT-0264,CUS-053,PRD-013
+ORD-000155,Lakeshore Freightways Limited Partnership,Premium Diesel with Additive,2026-03-23,988200,litres,1.7860,1764925.20,0.78,2026-04-10,R200,Manitoba,Delivered,SCT-0471,CUS-096,PRD-018
+ORD-000156,Northstar Energy Distribution Corp.,Mid-Grade Unleaded 89,2026-03-23,7148400,litres,1.7800,12724152.00,0.0,2026-03-26,R300,Quebec,Delivered,SCT-0077,CUS-017,PRD-002
+ORD-000157,Highland Fuel Stops Co-operative Ltd.,Premium Diesel with Additive,2026-03-24,989400,litres,1.8695,1849683.30,2.12,2026-03-31,R200,Ontario,Delivered,SCT-0144,CUS-030,PRD-018
+ORD-000158,Highland Fuel Stops Co-operative Ltd.,Regular Unleaded 87,2026-03-25,5047600,litres,1.7367,8766166.92,0.76,2026-04-10,R200,Ontario,Delivered,SCT-0147,CUS-030,PRD-001
+ORD-000159,Northstar Energy Distribution Limited Partnership,Regular E10 Ethanol Blend,2026-03-25,93700,litres,1.5489,145131.93,0.07,2026-04-04,R200,Ontario,Delivered,,CUS-042,PRD-005
+ORD-000160,Coastal Polymers Inc.,Condensate and Diluent,2026-03-26,2000,tonnes,654.28,1308560.00,0.11,2026-03-29,R200,Ontario,Delivered,,CUS-001,PRD-039
+ORD-000161,Granite Petroleum Inc.,Ultra-Low Sulphur Diesel No. 2,2026-03-26,90200,litres,0.2275,20520.50,1.08,2026-04-06,R100,Alberta,Delivered,,CUS-020,PRD-011
+ORD-000162,Silverline Ag Co-op Co-operative Ltd.,Regular Unleaded 87,2026-03-26,65900,litres,1.6912,111450.08,0.52,2026-04-01,R100,Alberta,Cancelled,SCT-0040,CUS-008,PRD-001
+ORD-000163,Bluewater Minerals Limited Partnership,Mining-Grade Bulk Diesel,2026-03-27,2592000,litres,1.7210,4460832.00,1.66,2026-04-10,R100,Alberta,Delivered,SCT-0339,CUS-068,PRD-021
+ORD-000164,Foothills Fuels Corp.,Winter-Blend Regular 87,2026-03-28,6222500,litres,1.7937,11161298.25,0.9,2026-04-12,R100,Saskatchewan,Delivered,SCT-0108,CUS-022,PRD-006
+ORD-000165,Redcliff Energy Distribution Co-operative Ltd.,Premium Unleaded 91,2026-03-28,98400,litres,1.7563,172819.92,0.21,2026-04-14,R200,Ontario,Delivered,,CUS-043,PRD-003
+ORD-000166,Northstar Energy Distribution Corp.,Rack Gasoline 87 (Wholesale),2026-03-29,851000,litres,1.2471,1061282.10,0.23,2026-04-10,R300,Quebec,Delivered,SCT-0078,CUS-017,PRD-008
+ORD-000167,Redcliff Ports & Bunkering Ltd.,Very Low Sulphur Fuel Oil (VLSFO),2026-03-29,1627300,litres,0.1288,209596.24,0.91,2026-04-02,R300,Quebec,Delivered,SCT-0387,CUS-079,PRD-028
+ORD-000168,Cascade Petroleum Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-03-30,961700,litres,0.2161,207823.37,6.04,2026-04-14,R100,Alberta,Cancelled,SCT-0104,CUS-021,PRD-011
+ORD-000169,Westcoast Fuels Co-operative Ltd.,Dyed Off-Road Diesel,2026-03-30,878100,litres,1.3738,1206333.78,3.93,2026-04-20,R100,British Columbia,Delivered,SCT-0181,CUS-036,PRD-017
+ORD-000170,Prairie Petro Stations Inc.,Mid-Grade Unleaded 89,2026-03-31,1669200,litres,1.7800,2971176.00,0.0,2026-04-15,R300,Quebec,Delivered,SCT-0225,CUS-046,PRD-002
+ORD-000171,Rocky Energy Services Ltd.,Commercial Furnace Oil,2026-03-31,5600,litres,1.6590,9290.40,0.66,2026-04-10,R100,Alberta,Delivered,,CUS-087,PRD-042
+ORD-000172,Foothills Petroleum Inc.,Mid-Grade Unleaded 89,2026-04-01,525300,litres,1.7800,935034.00,0.0,2026-04-11,R300,Quebec,Delivered,SCT-0274,CUS-055,PRD-002
+ORD-000173,Heritage Resources Ltd.,Arctic Grade Diesel,2026-04-02,336000,litres,1.6817,565051.20,6.05,2026-04-23,R100,Saskatchewan,Delivered,SCT-0132,CUS-028,PRD-013
+ORD-000174,Pioneer Petro Stations Limited Partnership,Premium Diesel with Additive,2026-04-02,2387900,litres,1.7701,4226821.79,1.66,2026-04-21,R100,Alberta,Delivered,SCT-0296,CUS-059,PRD-018
+ORD-000175,Coastal Energy Distribution Inc.,Winter Diesel No. 1,2026-04-03,1101900,litres,1.8569,2046118.11,2.27,2026-04-06,R300,Quebec,Delivered,SCT-0420,CUS-086,PRD-012
+ORD-000176,Ironwood Energy Distribution Co-operative Ltd.,Winter-Blend Regular 87,2026-04-03,1730800,litres,2.0249,3504696.92,0.25,2026-04-07,R300,Atlantic Canada,Delivered,SCT-0374,CUS-076,PRD-006
+ORD-000177,Ironwood Energy Distribution Co-operative Ltd.,Mid-Grade Unleaded 89,2026-04-05,2704800,litres,1.7868,4832936.64,1.28,2026-04-11,R300,Atlantic Canada,Delivered,SCT-0370,CUS-076,PRD-002
+ORD-000178,Northern Petro Stations Corp.,Premium Diesel with Additive,2026-04-05,6103600,litres,1.7392,10615381.12,3.38,2026-04-07,R100,Alberta,Delivered,SCT-0128,CUS-027,PRD-018
+ORD-000179,Red River Petroleum Limited Partnership,Ultra-Low Sulphur Diesel No. 2,2026-04-05,2103900,litres,0.2132,448551.48,7.3,2026-04-25,R100,Alberta,Delivered,SCT-0235,CUS-047,PRD-011
+ORD-000180,Cascade Petroleum Co-operative Ltd.,Regular E10 Ethanol Blend,2026-04-06,75000,litres,1.4791,110932.50,0.06,2026-04-24,R100,Alberta,Delivered,,CUS-021,PRD-005
+ORD-000181,Ironwood Energy Distribution Co-operative Ltd.,Regular Unleaded 87,2026-04-06,330700,litres,1.8506,611993.42,1.04,2026-04-23,R300,Atlantic Canada,Delivered,SCT-0372,CUS-076,PRD-001
+ORD-000182,Lakeshore Freightways Limited Partnership,Ultra-Low Sulphur Diesel No. 2,2026-04-06,546800,litres,0.2263,123740.84,1.61,2026-04-17,R200,Manitoba,Delivered,SCT-0472,CUS-096,PRD-011
+ORD-000183,Bluewater Industrial Supply Ltd.,Hydraulic Oil AW 68,2026-04-07,24400,litres,8.0077,195387.88,1.14,2026-04-09,R100,Alberta,Delivered,,CUS-097,PRD-051
+ORD-000184,Evergreen Gas & Go Corp.,Winter-Blend Regular 87,2026-04-07,1430300,litres,1.8387,2629892.61,0.07,2026-04-15,R200,Ontario,Delivered,SCT-0163,CUS-032,PRD-006
+ORD-000185,Northstar Well Services Co-operative Ltd.,Natural Gas Engine Oil,2026-04-07,107200,litres,9.7024,1040097.28,2.39,2026-04-21,R100,Alberta,Delivered,,CUS-023,PRD-062
+ORD-000186,Heritage Resources Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,2026-04-08,162700,litres,9.0880,1478617.60,3.01,2026-04-17,R100,Saskatchewan,Delivered,SCT-0133,CUS-028,PRD-047
+ORD-000187,Northern Petro Stations Corp.,Premium Unleaded 91,2026-04-08,3739100,litres,1.7023,6365069.93,1.03,2026-04-26,R100,Alberta,Delivered,SCT-0129,CUS-027,PRD-003
+ORD-000188,Heritage Resources Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-04-09,3980500,litres,0.2232,888447.60,2.96,2026-04-20,R100,Saskatchewan,Delivered,SCT-0137,CUS-028,PRD-011
+ORD-000189,Highland Fuel Stops Corp.,Premium Unleaded 91,2026-04-09,5903000,litres,1.7551,10360355.30,0.28,2026-04-27,R200,Ontario,Delivered,SCT-0119,CUS-025,PRD-003
+ORD-000190,Evergreen Transport Ltd.,Biodiesel B5 Blend,2026-04-10,290500,litres,1.8621,540940.05,0.95,2026-04-18,R100,Alberta,Delivered,SCT-0260,CUS-052,PRD-014
+ORD-000191,Northstar Petroleum Corp.,Regular E10 Ethanol Blend,2026-04-11,398900,litres,1.4686,585824.54,0.77,2026-04-30,R100,Alberta,Delivered,SCT-0310,CUS-062,PRD-005
+ORD-000192,Cascade Petroleum Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-04-12,1061100,litres,0.2141,227181.51,6.93,2026-04-21,R100,Alberta,Delivered,SCT-0104,CUS-021,PRD-011
+ORD-000193,Frontier Farm Supply Co-operative Ltd.,Farm Diesel Bulk Delivery,2026-04-12,52800,litres,1.5286,80710.08,0.09,2026-04-28,R300,Quebec,Delivered,,CUS-019,PRD-022
+ORD-000194,Ironwood Energy Distribution Co-operative Ltd.,Premium Unleaded 91,2026-04-13,753400,litres,1.8913,1424905.42,0.98,2026-05-03,R300,Atlantic Canada,Delivered,SCT-0371,CUS-076,PRD-003
+ORD-000195,Cedar Propane Inc.,Bulk Propane Residential,2026-04-14,1249900,litres,0.8624,1077913.76,3.1,2026-05-04,R200,Ontario,Delivered,SCT-0124,CUS-026,PRD-031
+ORD-000196,Granite Petroleum Inc.,Winter-Blend Regular 87,2026-04-14,483500,litres,1.7747,858067.45,1.95,2026-04-18,R100,Alberta,Delivered,SCT-0100,CUS-020,PRD-006
+ORD-000197,Ironwood Propane Ltd.,Autogas Propane,2026-04-14,199200,litres,0.9439,188024.88,2.69,2026-04-22,R200,Manitoba,Delivered,SCT-0187,CUS-037,PRD-033
+ORD-000198,Pioneer Petro Stations Limited Partnership,Premium Unleaded 91,2026-04-14,1044500,litres,1.6818,1756640.10,2.22,2026-05-03,R100,Alberta,Delivered,SCT-0297,CUS-059,PRD-003
+ORD-000199,Bow Valley Fuels Co-operative Ltd.,Premium Unleaded 91,2026-04-15,2435900,litres,1.7461,4253324.99,0.79,2026-04-21,R200,Ontario,Delivered,SCT-0462,CUS-095,PRD-003
+ORD-000200,Harbour Air Corp.,Avgas 100LL,2026-04-15,15996500,litres,2.9807,47680767.55,2.91,2026-04-20,R100,Northern Canada,Delivered,SCT-0114,CUS-024,PRD-027
+ORD-000201,Heritage Resources Ltd.,Mining-Grade Bulk Diesel,2026-04-15,6454700,litres,1.7117,11048509.99,2.19,2026-05-04,R100,Saskatchewan,Delivered,SCT-0136,CUS-028,PRD-021
+ORD-000202,Coastal Energy Distribution Inc.,Dyed Off-Road Diesel,2026-04-16,2336500,litres,1.5805,3692838.25,1.22,2026-05-07,R300,Quebec,Delivered,SCT-0416,CUS-086,PRD-017
+ORD-000203,Coastal Minerals Ltd.,Mining-Grade Bulk Diesel,2026-04-16,4887600,litres,1.7260,8435997.60,1.37,2026-05-05,R100,British Columbia,Delivered,SCT-0194,CUS-038,PRD-021
+ORD-000204,Pioneer Fuel Stops Limited Partnership,Winter-Blend Premium 91,2026-04-16,2307800,litres,1.7796,4106960.88,0.58,2026-04-30,R100,Saskatchewan,Delivered,SCT-0322,CUS-064,PRD-007
+ORD-000205,Frontier Industrial Supply Co-operative Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,2026-04-18,83500,litres,9.5965,801307.75,5.36,2026-05-09,R200,Ontario,Delivered,,CUS-057,PRD-047
+ORD-000206,Red River Petroleum Limited Partnership,Rack Gasoline 87 (Wholesale),2026-04-19,29200,litres,1.1076,32341.92,0.22,2026-04-21,R100,Alberta,Delivered,,CUS-047,PRD-008
+ORD-000207,Bow Valley Transport Inc.,Premium Diesel with Additive,2026-04-20,51500,litres,1.9041,98061.15,0.31,2026-04-28,R200,Ontario,Delivered,,CUS-054,PRD-018
+ORD-000208,Capital Freightways Corp.,Winter Diesel No. 1,2026-04-21,51900,litres,1.8592,96492.48,2.15,2026-05-06,R200,Ontario,Delivered,,CUS-089,PRD-012
+ORD-000209,Harbour Aviation Services Corp.,Ground Support Equipment Diesel,2026-04-21,75400,litres,1.3388,100945.52,0.83,2026-05-04,R100,Alberta,Delivered,,CUS-070,PRD-030
+ORD-000210,Pioneer Petro Stations Limited Partnership,Winter-Blend Premium 91,2026-04-21,7172800,litres,1.7811,12775474.08,0.5,2026-05-05,R100,Alberta,Delivered,SCT-0298,CUS-059,PRD-007
+ORD-000211,Rocky Energy Services Ltd.,Kerosene K-1,2026-04-21,213900,litres,1.4811,316807.29,2.56,2026-05-11,R100,Alberta,Delivered,SCT-0423,CUS-087,PRD-043
+ORD-000212,Bow Valley Transport Inc.,Winter Diesel No. 1,2026-04-22,70000,litres,1.8656,130592.00,1.81,2026-04-26,R200,Ontario,Delivered,,CUS-054,PRD-012
+ORD-000213,Harbour Air Corp.,Jet A,2026-04-23,3993600,litres,1.4320,5718835.20,1.24,2026-05-04,R100,Northern Canada,Delivered,SCT-0116,CUS-024,PRD-023
+ORD-000214,Frontier Shipping Corp.,Marine Gas Oil,2026-04-24,1169200,litres,1.4754,1725037.68,4.81,2026-05-05,R300,Quebec,Delivered,SCT-0198,CUS-039,PRD-019
+ORD-000215,Maple Energy Distribution Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-04-24,117600,litres,0.2267,26659.92,1.43,2026-04-28,R100,Alberta,Delivered,,CUS-100,PRD-011
+ORD-000216,Arctic Air Limited Partnership,Ground Support Equipment Diesel,2026-04-25,5541700,litres,1.2995,7201439.15,3.74,2026-05-13,R100,Alberta,Delivered,SCT-0068,CUS-015,PRD-030
+ORD-000217,Arctic Air Limited Partnership,Ground Support Equipment Diesel,2026-04-25,9041300,litres,1.3054,11802513.02,3.3,2026-05-13,R100,Alberta,Delivered,SCT-0068,CUS-015,PRD-030
+ORD-000218,Canyon Rail Ltd.,Locomotive Diesel,2026-04-25,1954400,litres,1.7994,3516747.36,1.13,2026-05-08,R300,Quebec,Delivered,SCT-0065,CUS-014,PRD-020
+ORD-000219,Lakeshore Energy Distribution Inc.,Regular Unleaded 87,2026-04-26,2392700,litres,1.7337,4148223.99,0.93,2026-05-15,R200,Ontario,Delivered,SCT-0291,CUS-058,PRD-001
+ORD-000220,Athabasca Home Energy Limited Partnership,Bulk Propane Commercial,2026-04-27,16000,litres,0.8880,14208.00,0.23,2026-05-09,R100,Alberta,Delivered,,CUS-066,PRD-032
+ORD-000221,Northstar Petroleum Corp.,Winter Diesel No. 1,2026-04-27,112100,litres,1.7933,201028.93,0.92,2026-05-18,R100,Alberta,Delivered,,CUS-062,PRD-012
+ORD-000222,Frontier Drilling Limited Partnership,Dyed Off-Road Diesel,2026-04-28,65900,litres,1.4240,93841.60,0.42,2026-05-13,R100,Alberta,Delivered,,CUS-006,PRD-017
+ORD-000223,Bow Valley Fuels Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-04-29,3725600,litres,0.2457,915379.92,1.72,2026-05-09,R200,Ontario,Delivered,SCT-0466,CUS-095,PRD-011
+ORD-000224,Capital Petroleum Inc.,Dyed Off-Road Diesel,2026-04-30,430200,litres,1.6264,699677.28,0.83,2026-05-19,R300,Atlantic Canada,Delivered,SCT-0341,CUS-069,PRD-017
+ORD-000225,Foothills Fuels Corp.,Ultra-Low Sulphur Diesel No. 2,2026-04-30,520500,litres,0.2211,115082.55,3.86,2026-05-03,R100,Saskatchewan,Delivered,SCT-0107,CUS-022,PRD-011
+ORD-000226,Lakeshore Freightways Limited Partnership,Biodiesel B5 Blend,2026-04-30,6500,litres,1.8766,12197.90,0.18,2026-05-06,R200,Manitoba,Delivered,,CUS-096,PRD-014
+ORD-000227,Maple Energy Distribution Co-operative Ltd.,Premium Unleaded 91,2026-04-30,84200,litres,1.7159,144478.78,0.24,2026-05-13,R100,Alberta,Delivered,,CUS-100,PRD-003
+ORD-000228,Summit Petroleum Ltd.,Dyed Off-Road Diesel,2026-04-30,401300,litres,1.4128,566956.64,1.2,2026-05-06,R100,Alberta,Delivered,SCT-0402,CUS-084,PRD-017
+ORD-000229,Bow Valley Farm Supply Ltd.,Farm Diesel Bulk Delivery,2026-05-01,63700,litres,1.4129,90001.73,0.5,2026-05-16,R100,Alberta,Delivered,,CUS-040,PRD-022
+ORD-000230,Highland Fuel Stops Co-operative Ltd.,Regular Unleaded 87,2026-05-01,3512400,litres,1.7404,6112980.96,0.55,2026-05-12,R200,Ontario,Delivered,SCT-0147,CUS-030,PRD-001
+ORD-000231,Harbour Air Corp.,Ground Support Equipment Diesel,2026-05-02,1760200,litres,1.2894,2269601.88,4.49,2026-05-09,R100,Northern Canada,Delivered,SCT-0115,CUS-024,PRD-030
+ORD-000232,Atlantic Gas Services Limited Partnership,Bulk Propane Residential,2026-05-03,69400,litres,0.8358,58004.52,1.67,2026-05-24,R100,Alberta,Delivered,,CUS-078,PRD-031
+ORD-000233,Northstar Petroleum Corp.,Mid-Grade Unleaded 89,2026-05-04,439800,litres,1.6005,703899.90,0.59,2026-05-19,R100,Alberta,Delivered,SCT-0307,CUS-062,PRD-002
+ORD-000234,Lakeshore Home Energy Ltd.,Bulk Propane Residential,2026-05-05,400000,litres,0.8048,321920.00,5.32,2026-05-16,R100,Saskatchewan,Delivered,SCT-0247,CUS-049,PRD-031
+ORD-000235,Redcliff Propane Ltd.,Propane-Butane Mix,2026-05-05,308800,litres,0.9704,299659.52,1.98,2026-05-07,R200,Ontario,Delivered,SCT-0369,CUS-075,PRD-037
+ORD-000236,Harbour Aviation Services Corp.,Jet A-1,2026-05-06,2467600,litres,1.3362,3297207.12,1.02,2026-05-12,R100,Alberta,Delivered,SCT-0347,CUS-070,PRD-024
+ORD-000237,Bow Valley Chemicals Corp.,Mixed Xylenes,2026-05-07,910,tonnes,1144.74,1041713.40,1.06,2026-05-28,R300,Quebec,Delivered,,CUS-080,PRD-081
+ORD-000238,Coastal Petro Stations Limited Partnership,Premium Unleaded 91,2026-05-07,6500,litres,1.7565,11417.25,0.2,2026-05-28,R300,Quebec,Delivered,,CUS-056,PRD-003
+ORD-000239,Summit Petroleum Ltd.,Regular E10 Ethanol Blend,2026-05-09,2285500,litres,1.4707,3361284.85,0.63,2026-05-12,R100,Alberta,Delivered,SCT-0405,CUS-084,PRD-005
+ORD-000240,Harbour Air Corp.,Avgas 100LL,2026-05-10,13366500,litres,2.9767,39788060.55,3.04,2026-05-17,R100,Northern Canada,Delivered,SCT-0114,CUS-024,PRD-027
+ORD-000241,Redcliff Energy Distribution Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-05-10,95300,litres,0.2497,23796.41,0.13,2026-05-31,R200,Ontario,Delivered,,CUS-043,PRD-011
+ORD-000242,Pioneer Fuel Stops Limited Partnership,Winter-Blend Premium 91,2026-05-11,3194200,litres,1.7832,5695897.44,0.38,2026-05-14,R100,Saskatchewan,Cancelled,SCT-0322,CUS-064,PRD-007
+ORD-000243,Granite Energy Distribution Co-operative Ltd.,Regular Unleaded 87,2026-05-12,5320000,litres,1.6920,9001440.00,0.47,2026-05-25,R100,Alberta,Delivered,SCT-0053,CUS-011,PRD-001
+ORD-000244,Highland Fuel Stops Co-operative Ltd.,Winter-Blend Premium 91,2026-05-12,3107200,litres,1.8717,5815746.24,0.97,2026-05-23,R200,Ontario,Delivered,SCT-0148,CUS-030,PRD-007
+ORD-000245,Tidewater Agri Services Ltd.,Bulk Propane Commercial,2026-05-12,233900,litres,0.8871,207492.69,6.62,2026-05-24,R300,Quebec,Delivered,SCT-0375,CUS-077,PRD-032
+ORD-000246,Granite Propane Inc.,Bulk Propane Residential,2026-05-13,408800,litres,0.8595,351363.60,3.43,2026-06-03,R200,Ontario,Delivered,SCT-0301,CUS-060,PRD-031
+ORD-000247,Harbour Petro Stations Ltd.,Premium Unleaded 91,2026-05-13,591600,litres,1.7433,1031336.28,0.95,2026-05-30,R200,Ontario,Delivered,SCT-0358,CUS-073,PRD-003
+ORD-000248,Ironwood Energy Distribution Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-05-13,2076400,litres,0.2489,516815.96,4.27,2026-05-17,R300,Atlantic Canada,Delivered,SCT-0373,CUS-076,PRD-011
+ORD-000249,Coastal Energy Distribution Inc.,Ultra-Low Sulphur Diesel No. 2,2026-05-14,919100,litres,0.2458,225914.78,1.68,2026-05-24,R300,Quebec,Delivered,SCT-0419,CUS-086,PRD-011
+ORD-000250,Evergreen Petroleum Limited Partnership,Mid-Grade Unleaded 89,2026-05-14,1658300,litres,1.7800,2951774.00,0.0,2026-06-02,R200,Ontario,Delivered,SCT-0445,CUS-092,PRD-002
+ORD-000251,Harbour Air Corp.,Jet A,2026-05-14,8722400,litres,1.4245,12425058.80,1.76,2026-05-17,R100,Northern Canada,Delivered,SCT-0116,CUS-024,PRD-023
+ORD-000252,Bow Valley Chemicals Corp.,Mixed Xylenes,2026-05-16,1110,tonnes,1141.38,1266931.80,1.35,2026-05-30,R300,Quebec,Delivered,,CUS-080,PRD-081
+ORD-000253,Keystone Fuels Limited Partnership,Winter-Blend Regular 87,2026-05-16,2009700,litres,1.8378,3693426.66,0.12,2026-05-31,R200,Ontario,Delivered,SCT-0444,CUS-091,PRD-006
+ORD-000254,Northstar Energy Distribution Corp.,Regular E10 Ethanol Blend,2026-05-17,1248300,litres,1.5474,1931619.42,0.17,2026-05-24,R300,Quebec,Cancelled,SCT-0079,CUS-017,PRD-005
+ORD-000255,Canyon Minerals Ltd.,Hydraulic Oil AW 68,2026-05-18,41100,litres,7.9226,325618.86,2.19,2026-06-05,R100,Saskatchewan,Delivered,SCT-0152,CUS-031,PRD-051
+ORD-000256,Highland Fuel Stops Co-operative Ltd.,Mid-Grade Unleaded 89,2026-05-20,2275200,litres,1.7800,4049856.00,0.0,2026-06-03,R200,Ontario,Delivered,SCT-0143,CUS-030,PRD-002
+ORD-000257,Frontier Drilling Limited Partnership,Compressor Oil ISO 100,2026-05-21,20800,litres,10.0409,208850.72,0.88,2026-05-25,R100,Alberta,Delivered,,CUS-006,PRD-057
+ORD-000258,Frontier Shipping Corp.,Very Low Sulphur Fuel Oil (VLSFO),2026-05-23,890400,litres,0.1291,114950.64,0.66,2026-05-26,R300,Quebec,Delivered,SCT-0199,CUS-039,PRD-028
+ORD-000259,Summit Petrochem Ltd.,Polymer-Grade Propylene,2026-05-23,30410,tonnes,956.76,29095071.60,1.77,2026-06-02,R300,Quebec,Delivered,SCT-0180,CUS-035,PRD-082
+ORD-000260,Highland Drilling Co-operative Ltd.,Condensate and Diluent,2026-05-24,262910,tonnes,643.73,169243054.30,1.72,2026-06-01,R300,Quebec,Delivered,SCT-0019,CUS-005,PRD-039
+ORD-000261,Canyon Minerals Ltd.,Arctic Grade Diesel,2026-05-25,2385200,litres,1.6973,4048399.96,5.18,2026-06-13,R100,Saskatchewan,Delivered,SCT-0150,CUS-031,PRD-013
+ORD-000262,Tidewater Agri Services Ltd.,Hydraulic Oil AW 46,2026-05-25,104600,litres,11.6848,1222230.08,0.47,2026-05-31,R300,Quebec,Delivered,,CUS-077,PRD-050
+ORD-000263,Coastal Energy Distribution Inc.,Dyed Off-Road Diesel,2026-05-27,1400700,litres,1.5730,2203301.10,1.69,2026-06-09,R300,Quebec,Delivered,SCT-0416,CUS-086,PRD-017
+ORD-000264,Maple Propane Co-operative Ltd.,Propane-Butane Mix,2026-05-27,17300,litres,0.9858,17054.34,0.42,2026-06-10,R200,Ontario,Delivered,,CUS-081,PRD-037
+ORD-000265,Northern Petro Stations Corp.,Winter-Blend Premium 91,2026-05-27,3882700,litres,1.7791,6907711.57,0.61,2026-05-29,R100,Alberta,Delivered,SCT-0130,CUS-027,PRD-007
+ORD-000266,Pioneer Ag Co-op Ltd.,Dyed Off-Road Diesel,2026-05-28,173500,litres,1.3788,239221.80,3.58,2026-06-12,R100,Alberta,Delivered,SCT-0165,CUS-033,PRD-017
+ORD-000267,Keystone Fuels Limited Partnership,Winter-Blend Regular 87,2026-05-30,5550300,litres,1.8369,10195346.07,0.17,2026-06-15,R200,Ontario,Delivered,SCT-0444,CUS-091,PRD-006
+ORD-000268,Arctic Home Heating Limited Partnership,Kerosene K-1,2026-05-31,52300,litres,1.5165,79312.95,0.23,2026-06-15,R200,Manitoba,Delivered,,CUS-050,PRD-043
+ORD-000269,Red River Resources Inc.,Industrial Gear Oil ISO 220,2026-06-01,38000,litres,9.9727,378962.60,2.8,2026-06-22,R100,Alberta,Delivered,,CUS-012,PRD-053
+ORD-000270,Evergreen Gas & Go Corp.,Premium Unleaded 91,2026-06-02,1965200,litres,1.7547,3448336.44,0.3,2026-06-20,R200,Ontario,Delivered,SCT-0158,CUS-032,PRD-003
+ORD-000271,Bluewater Minerals Limited Partnership,Arctic Grade Diesel,2026-06-03,699000,litres,1.7107,1195779.30,4.43,2026-06-11,R100,Alberta,Delivered,SCT-0335,CUS-068,PRD-013
+ORD-000272,Capital Freightways Corp.,Biodiesel B20 Blend,2026-06-04,53100,litres,1.9700,104607.00,1.5,2026-06-07,R200,Ontario,Delivered,,CUS-089,PRD-015
+ORD-000273,Keystone Resources Limited Partnership,Industrial Gear Oil ISO 220,2026-06-05,139900,litres,8.7631,1225957.69,14.59,2026-06-15,R100,Alberta,Delivered,SCT-0437,CUS-090,PRD-053
+ORD-000274,Harbour Air Corp.,Avgas 100LL,2026-06-06,15731500,litres,3.0396,47817467.40,0.99,2026-06-12,R100,Northern Canada,Delivered,SCT-0114,CUS-024,PRD-027
+ORD-000275,Cascade Energy Services Ltd.,Kerosene K-1,2026-06-07,334700,litres,1.5057,503957.79,0.94,2026-06-11,R200,Manitoba,Delivered,SCT-0397,CUS-082,PRD-043
+ORD-000276,Harbour Air Corp.,Jet A-1,2026-06-07,4106800,litres,1.3453,5524878.04,0.35,2026-06-28,R100,Northern Canada,Delivered,SCT-0117,CUS-024,PRD-024
+ORD-000277,Granite Energy Distribution Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-06-09,3974700,litres,0.2180,866484.60,5.21,2026-06-22,R100,Alberta,Delivered,SCT-0054,CUS-011,PRD-011
+ORD-000278,Harbour Aviation Services Corp.,Jet A,2026-06-09,1584100,litres,1.4246,2256708.86,1.75,2026-06-14,R100,Alberta,Delivered,SCT-0346,CUS-070,PRD-023
+ORD-000279,Ironwood Chemicals Inc.,Condensate and Diluent,2026-06-09,2220,tonnes,653.10,1449882.00,0.29,2026-06-14,R200,Ontario,Delivered,,CUS-044,PRD-039
+ORD-000280,Bluewater Airport Fuelling Corp.,Avgas 100LL,2026-06-12,2931300,litres,3.2599,9555744.87,2.69,2026-06-19,R200,Ontario,Delivered,SCT-0041,CUS-009,PRD-027
+ORD-000281,Bluewater Minerals Limited Partnership,Arctic Grade Diesel,2026-06-12,622900,litres,1.6883,1051642.07,5.68,2026-07-03,R100,Alberta,Delivered,SCT-0335,CUS-068,PRD-013
+ORD-000282,Evergreen Gas & Go Corp.,Ultra-Low Sulphur Diesel No. 2,2026-06-12,8475200,litres,0.2472,2095069.44,1.14,2026-06-15,R200,Ontario,Delivered,SCT-0161,CUS-032,PRD-011
+ORD-000283,Granite Freightways Corp.,Ultra-Low Sulphur Diesel No. 2,2026-06-12,412100,litres,0.2465,101582.65,1.38,2026-06-27,R300,Quebec,Delivered,SCT-0243,CUS-048,PRD-011
+ORD-000284,Heritage Resources Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-06-12,6582300,litres,0.2246,1478384.58,2.33,2026-06-22,R100,Saskatchewan,Delivered,SCT-0137,CUS-028,PRD-011
+ORD-000285,Lakeshore Home Energy Ltd.,Bulk Propane Residential,2026-06-13,523100,litres,0.8122,424861.82,4.45,2026-06-16,R100,Saskatchewan,Delivered,SCT-0247,CUS-049,PRD-031
+ORD-000286,Bow Valley Chemicals Corp.,Polymer-Grade Propylene,2026-06-14,9380,tonnes,965.62,9057515.60,0.86,2026-06-16,R300,Quebec,Delivered,SCT-0392,CUS-080,PRD-082
+ORD-000287,Northstar Petroleum Corp.,Winter-Blend Regular 87,2026-06-17,53600,litres,1.8008,96522.88,0.51,2026-06-25,R100,Alberta,Cancelled,,CUS-062,PRD-006
+ORD-000288,Coastal Minerals Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-06-18,6323700,litres,0.2191,1385522.67,4.74,2026-06-21,R100,British Columbia,Delivered,SCT-0195,CUS-038,PRD-011
+ORD-000289,Harbour Air Corp.,Sustainable Aviation Fuel Blend 10%,2026-06-18,7607300,litres,1.4624,11124915.52,1.85,2026-06-24,R100,Northern Canada,Cancelled,SCT-0118,CUS-024,PRD-025
+ORD-000290,Harbour Aviation Services Corp.,Ground Support Equipment Diesel,2026-06-18,1839700,litres,1.3345,2455079.65,1.15,2026-06-23,R100,Alberta,Delivered,SCT-0345,CUS-070,PRD-030
+ORD-000291,Pioneer Fuel Stops Limited Partnership,Premium Unleaded 94,2026-06-18,1398000,litres,2.0613,2881697.40,0.42,2026-07-03,R100,Saskatchewan,Delivered,SCT-0321,CUS-064,PRD-004
+ORD-000292,Evergreen Transport Inc.,Winter Diesel No. 1,2026-06-19,88000,litres,1.7999,158391.20,0.56,2026-07-10,R100,Alberta,Delivered,,CUS-010,PRD-012
+ORD-000293,Arctic Air Limited Partnership,Sustainable Aviation Fuel Blend 10%,2026-06-20,6036500,litres,1.4407,8696785.55,3.31,2026-07-08,R100,Alberta,Delivered,SCT-0071,CUS-015,PRD-025
+ORD-000294,Capital Freightways Corp.,Biodiesel B20 Blend,2026-06-20,166700,litres,1.9070,317896.90,4.65,2026-07-03,R200,Ontario,Delivered,SCT-0429,CUS-089,PRD-015
+ORD-000295,Highland Fuel Stops Co-operative Ltd.,Regular Unleaded 87,2026-06-20,4356400,litres,1.7427,7591898.28,0.42,2026-06-28,R200,Ontario,Delivered,SCT-0147,CUS-030,PRD-001
+ORD-000296,Atlantic Gas Services Limited Partnership,Propane-Butane Mix,2026-06-21,49100,litres,0.9453,46414.23,0.49,2026-07-01,R100,Alberta,Cancelled,,CUS-078,PRD-037
+ORD-000297,Evergreen Gas & Go Corp.,Regular Unleaded 87,2026-06-22,7160800,litres,1.7388,12451199.04,0.64,2026-07-07,R200,Ontario,Delivered,SCT-0160,CUS-032,PRD-001
+ORD-000298,Northstar Petroleum Corp.,Ultra-Low Sulphur Diesel No. 2,2026-06-22,1066000,litres,0.2244,239210.40,2.43,2026-06-25,R100,Alberta,Delivered,SCT-0312,CUS-062,PRD-011
+ORD-000299,Redcliff Propane Ltd.,Autogas Propane,2026-06-22,272700,litres,1.0140,276517.80,1.55,2026-07-11,R200,Ontario,Delivered,SCT-0365,CUS-075,PRD-033
+ORD-000300,Bow Valley Petroleum Corp.,Rack Gasoline 87 (Wholesale),2026-06-23,2131400,litres,1.2441,2651674.74,0.47,2026-07-06,R300,Quebec,Delivered,SCT-0222,CUS-045,PRD-008
+ORD-000301,Harbour Air Corp.,Jet A,2026-06-24,36100,litres,1.4497,52334.17,0.02,2026-07-15,R100,Northern Canada,Delivered,,CUS-024,PRD-023
+ORD-000302,Redcliff Ports & Bunkering Ltd.,Very Low Sulphur Fuel Oil (VLSFO),2026-06-24,7107600,litres,0.1282,911194.32,1.38,2026-07-02,R300,Quebec,Delivered,SCT-0387,CUS-079,PRD-028
+ORD-000303,Atlantic Gas Services Limited Partnership,Bulk Propane Residential,2026-06-26,23900,litres,0.8298,19832.22,2.38,2026-07-16,R100,Alberta,Delivered,,CUS-078,PRD-031
+ORD-000304,Peace Freightways Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-06-26,141000,litres,0.2140,30174.00,6.95,2026-07-11,R100,Alberta,Delivered,SCT-0459,CUS-094,PRD-011
+ORD-000305,Red River Resources Inc.,Industrial Gear Oil ISO 220,2026-06-26,134000,litres,9.0842,1217282.80,11.46,2026-07-14,R100,Alberta,Delivered,SCT-0057,CUS-012,PRD-053
+ORD-000306,Arctic Air Limited Partnership,Ground Support Equipment Diesel,2026-06-27,4537900,litres,1.3038,5916514.02,3.42,2026-07-18,R100,Alberta,Delivered,SCT-0068,CUS-015,PRD-030
+ORD-000307,Great Lakes Fuels Co-operative Ltd.,Winter Diesel No. 1,2026-06-27,186000,litres,2.0074,373376.40,1.6,2026-06-29,R300,Atlantic Canada,Delivered,SCT-0414,CUS-085,PRD-012
+ORD-000308,Tidewater Agri Services Ltd.,Regular Unleaded 87,2026-06-27,84800,litres,1.7369,147289.12,0.75,2026-07-09,R300,Quebec,Delivered,SCT-0379,CUS-077,PRD-001
+ORD-000309,Capital Petroleum Inc.,Ultra-Low Sulphur Diesel No. 2,2026-06-28,1358700,litres,0.2470,335598.90,4.99,2026-07-07,R300,Atlantic Canada,Delivered,SCT-0343,CUS-069,PRD-011
+ORD-000310,Ironwood Propane Ltd.,Bulk Propane Commercial,2026-06-28,741400,litres,0.8346,618772.44,6.23,2026-07-13,R200,Manitoba,Delivered,SCT-0188,CUS-037,PRD-032
+ORD-000311,Pioneer Fuel Stops Limited Partnership,Winter-Blend Premium 91,2026-06-29,4029500,litres,1.7794,7170092.30,0.59,2026-07-10,R100,Saskatchewan,Delivered,SCT-0322,CUS-064,PRD-007
+ORD-000312,Evergreen Transport Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-06-30,565600,litres,0.2138,120925.28,7.04,2026-07-18,R100,Alberta,Delivered,SCT-0262,CUS-052,PRD-011
+ORD-000313,Rocky Energy Services Ltd.,Commercial Furnace Oil,2026-07-01,103600,litres,1.6603,172007.08,0.58,2026-07-11,R100,Alberta,Delivered,,CUS-087,PRD-042
+ORD-000314,Westcoast Fuels Co-operative Ltd.,Dyed Off-Road Diesel,2026-07-01,2603800,litres,1.4017,3649746.46,1.98,2026-07-10,R100,British Columbia,Delivered,SCT-0181,CUS-036,PRD-017
+ORD-000315,Evergreen Gas & Go Corp.,Premium Unleaded 94,2026-07-02,840500,litres,2.1253,1786314.65,0.22,2026-07-07,R200,Ontario,Delivered,SCT-0159,CUS-032,PRD-004
+ORD-000316,Granite Propane Inc.,Butane,2026-07-02,229400,litres,0.8526,195586.44,2.0,2026-07-17,R200,Ontario,Delivered,SCT-0302,CUS-060,PRD-036
+ORD-000317,Ironwood Energy Distribution Co-operative Ltd.,Premium Unleaded 91,2026-07-02,117400,litres,1.9092,224140.08,0.04,2026-07-12,R300,Atlantic Canada,Delivered,,CUS-076,PRD-003
+ORD-000318,Bluewater Airport Fuelling Corp.,Avgas 100LL,2026-07-03,43900,litres,3.3369,146489.91,0.39,2026-07-12,R200,Ontario,Delivered,,CUS-009,PRD-027
+ORD-000319,Ironwood Propane Ltd.,Bulk Propane Residential,2026-07-03,821400,litres,0.7891,648166.74,7.16,2026-07-09,R200,Manitoba,Delivered,SCT-0189,CUS-037,PRD-031
+ORD-000320,Lakeshore Freightways Limited Partnership,Premium Diesel with Additive,2026-07-03,706500,litres,1.7395,1228956.75,3.36,2026-07-08,R200,Manitoba,Delivered,SCT-0471,CUS-096,PRD-018
+ORD-000321,Granite Energy Distribution Co-operative Ltd.,Rack Gasoline 87 (Wholesale),2026-07-04,830700,litres,1.1030,916262.10,0.63,2026-07-15,R100,Alberta,Delivered,SCT-0051,CUS-011,PRD-008
+ORD-000322,Evergreen Transport Ltd.,Winter Diesel No. 1,2026-07-05,1252500,litres,1.7432,2183358.00,3.69,2026-07-18,R100,Alberta,Delivered,SCT-0263,CUS-052,PRD-012
+ORD-000323,Canyon Minerals Ltd.,Mining-Grade Bulk Diesel,2026-07-06,500100,litres,1.7386,869473.86,0.65,2026-07-25,R100,Saskatchewan,Delivered,SCT-0154,CUS-031,PRD-021
+ORD-000324,Foothills Oil & Filter Co-operative Ltd.,Full Synthetic Heavy-Duty 10W-30,2026-07-07,8400,litres,9.3047,78159.48,14.87,2026-07-25,R200,Ontario,Delivered,SCT-0317,CUS-063,PRD-048
+ORD-000325,Prairie Petro Stations Inc.,Ultra-Low Sulphur Diesel No. 2,2026-07-07,840200,litres,0.2470,207529.40,1.22,2026-07-16,R300,Quebec,Delivered,SCT-0230,CUS-046,PRD-011
+ORD-000326,Cascade Energy Services Ltd.,Light Heating Oil No. 2,2026-07-09,53300,litres,1.7297,92193.01,0.02,2026-07-21,R200,Manitoba,Delivered,,CUS-082,PRD-040
+ORD-000327,Redcliff Propane Ltd.,Bulk Propane Residential,2026-07-09,17300,litres,0.8801,15225.73,1.11,2026-07-18,R200,Ontario,Delivered,,CUS-075,PRD-031
+ORD-000328,Atlantic Gas Services Limited Partnership,Bulk Propane Commercial,2026-07-10,178900,litres,0.8684,155356.76,2.43,2026-07-13,R100,Alberta,Delivered,SCT-0381,CUS-078,PRD-032
+ORD-000329,Northstar Petroleum Corp.,Rack Gasoline 87 (Wholesale),2026-07-10,54900,litres,1.1051,60669.99,0.44,2026-07-16,R100,Alberta,Delivered,,CUS-062,PRD-008
+ORD-000330,Cascade Petroleum Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-07-12,3009300,litres,0.2228,670472.04,3.15,2026-07-25,R100,Alberta,Delivered,SCT-0104,CUS-021,PRD-011
+ORD-000331,Great Lakes Fuels Co-operative Ltd.,Winter Diesel No. 1,2026-07-12,41100,litres,2.0284,83367.24,0.57,2026-07-29,R300,Atlantic Canada,Delivered,,CUS-085,PRD-012
+ORD-000332,Northstar Well Services Co-operative Ltd.,Compressor Oil ISO 100,2026-07-13,37600,litres,9.5394,358681.44,5.83,2026-07-24,R100,Alberta,Delivered,SCT-0109,CUS-023,PRD-057
+ORD-000333,Bow Valley Transport Inc.,Biodiesel B5 Blend,2026-07-15,112500,litres,1.9696,221580.00,1.52,2026-07-24,R200,Ontario,Delivered,,CUS-054,PRD-014
+ORD-000334,Summit Petroleum Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-07-15,118000,litres,0.2300,27140.00,0.01,2026-07-26,R100,Alberta,Delivered,,CUS-084,PRD-011
+ORD-000335,Peace Freightways Ltd.,Premium Diesel with Additive,2026-07-16,117300,litres,1.7959,210659.07,0.23,2026-08-03,R100,Alberta,Delivered,,CUS-094,PRD-018
+ORD-000336,Red River Petroleum Limited Partnership,Dyed Off-Road Diesel,2026-07-16,77700,litres,1.4156,109992.12,1.01,2026-08-05,R100,Alberta,Delivered,,CUS-047,PRD-017
+ORD-000337,Bluewater Airport Fuelling Corp.,Sustainable Aviation Fuel Blend 10%,2026-07-17,1118000,litres,1.6677,1864488.60,0.73,2026-07-24,R200,Ontario,Cancelled,SCT-0044,CUS-009,PRD-025
+ORD-000338,Cedar Propane Inc.,Autogas Propane,2026-07-17,228600,litres,1.0082,230474.52,2.12,2026-08-02,R200,Ontario,Delivered,SCT-0122,CUS-026,PRD-033
+ORD-000339,Harbour Aviation Services Corp.,Ground Support Equipment Diesel,2026-07-17,2526200,litres,1.3212,3337615.44,2.13,2026-07-31,R100,Alberta,Delivered,SCT-0345,CUS-070,PRD-030
+ORD-000340,Granite Fuels Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-07-18,1154500,litres,0.2119,244638.55,7.88,2026-07-30,R100,British Columbia,Delivered,SCT-0355,CUS-072,PRD-011
+ORD-000341,Atlantic Lubricants Co-operative Ltd.,Engine Coolant 50/50,2026-07-19,13400,litres,2.4742,33154.28,2.59,2026-07-31,R100,British Columbia,Delivered,,CUS-061,PRD-065
+ORD-000342,Northstar Energy Distribution Limited Partnership,Winter-Blend Regular 87,2026-07-19,2232200,litres,1.8391,4105239.02,0.05,2026-07-23,R200,Ontario,Delivered,SCT-0211,CUS-042,PRD-006
+ORD-000343,Northstar Petroleum Corp.,Rack Gasoline 87 (Wholesale),2026-07-19,737300,litres,1.0989,810218.97,1.0,2026-07-31,R100,Alberta,Delivered,SCT-0309,CUS-062,PRD-008
+ORD-000344,Northstar Petroleum Corp.,Regular E10 Ethanol Blend,2026-07-19,8600,litres,1.4753,12687.58,0.32,2026-07-28,R100,Alberta,Delivered,,CUS-062,PRD-005
+ORD-000345,Keystone Freightways Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,2026-07-20,118000,litres,9.1592,1080785.60,2.25,2026-08-10,R100,Northern Canada,Delivered,,CUS-004,PRD-047
+ORD-000346,Arctic Air Limited Partnership,Avgas 100LL,2026-07-23,3000800,litres,2.9739,8924079.12,3.13,2026-08-10,R100,Alberta,Delivered,SCT-0067,CUS-015,PRD-027
+ORD-000347,Northstar Energy Distribution Limited Partnership,Winter-Blend Regular 87,2026-07-23,867200,litres,1.8365,1592612.80,0.19,2026-07-26,R200,Ontario,Delivered,SCT-0211,CUS-042,PRD-006
+ORD-000348,Pioneer Fuel Stops Limited Partnership,Winter-Blend Premium 91,2026-07-24,7124700,litres,1.7850,12717589.50,0.28,2026-08-11,R100,Saskatchewan,Delivered,SCT-0322,CUS-064,PRD-007
+ORD-000349,Ironwood Chemicals Inc.,Naphtha,2026-07-25,5680,tonnes,842.54,4785627.20,1.11,2026-07-27,R200,Ontario,Delivered,SCT-0218,CUS-044,PRD-078
+ORD-000350,Arctic Air Limited Partnership,Sustainable Aviation Fuel Blend 10%,2026-07-26,7846000,litres,1.4353,11261363.80,3.67,2026-07-31,R100,Alberta,Delivered,SCT-0071,CUS-015,PRD-025
+ORD-000351,Highland Fuel Stops Corp.,Premium Unleaded 91,2026-07-27,2617100,litres,1.7394,4552183.74,1.17,2026-08-14,R200,Ontario,Delivered,SCT-0119,CUS-025,PRD-003
+ORD-000352,Canyon Rail Ltd.,Locomotive Diesel,2026-07-28,88900,litres,1.8196,161762.44,0.02,2026-08-07,R300,Quebec,Delivered,,CUS-014,PRD-020
+ORD-000353,Northstar Energy Distribution Corp.,Regular Unleaded 87,2026-07-28,7200,litres,1.7483,12587.76,0.1,2026-08-11,R300,Quebec,Delivered,,CUS-017,PRD-001
+ORD-000354,Redcliff Propane Ltd.,Butane,2026-07-28,279500,litres,0.8499,237547.05,2.31,2026-08-11,R200,Ontario,Delivered,SCT-0368,CUS-075,PRD-036
+ORD-000355,Keystone Freightways Ltd.,Arctic Grade Diesel,2026-07-29,93600,litres,1.7651,165213.36,1.39,2026-08-07,R100,Northern Canada,Delivered,,CUS-004,PRD-013
+ORD-000356,Redcliff Propane Ltd.,Autogas Propane,2026-07-29,232500,litres,1.0240,238080.00,0.58,2026-08-18,R200,Ontario,Delivered,SCT-0365,CUS-075,PRD-033
+ORD-000357,Foothills Oil & Filter Co-operative Ltd.,Automatic Transmission Fluid,2026-07-30,96500,litres,5.9724,576336.60,0.79,2026-08-08,R200,Ontario,Delivered,,CUS-063,PRD-054
+ORD-000358,Frontier Shipping Corp.,Marine Cylinder Oil,2026-07-30,87100,litres,9.0192,785572.32,0.56,2026-08-16,R300,Quebec,Delivered,,CUS-039,PRD-063
+ORD-000359,Evergreen Transport Inc.,Winter Diesel No. 1,2026-07-31,456500,litres,1.7501,798920.65,3.31,2026-08-11,R100,Alberta,Delivered,SCT-0049,CUS-010,PRD-012
+ORD-000360,Granite Energy Distribution Co-operative Ltd.,Dyed Off-Road Diesel,2026-07-31,55100,litres,1.4231,78412.81,0.48,2026-08-18,R100,Alberta,Delivered,,CUS-011,PRD-017
+ORD-000361,Lakeshore Freightways Limited Partnership,Biodiesel B5 Blend,2026-07-31,72100,litres,1.8776,135374.96,0.13,2026-08-02,R200,Manitoba,Delivered,,CUS-096,PRD-014
+ORD-000362,Prairie Petro Stations Inc.,Premium Diesel with Additive,2026-07-31,5771400,litres,1.8802,10851386.28,1.56,2026-08-03,R300,Quebec,Delivered,SCT-0226,CUS-046,PRD-018
+ORD-000363,Harbour Air Corp.,Jet A,2026-08-01,57500,litres,1.4435,83001.25,0.45,2026-08-12,R100,Northern Canada,Delivered,,CUS-024,PRD-023
+ORD-000364,Pacific Mining Inc.,Ultra-Low Sulphur Diesel No. 2,2026-08-01,31700,litres,0.2253,7142.01,2.04,2026-08-16,R100,Saskatchewan,Delivered,,CUS-013,PRD-011
+ORD-000365,Capital Freightways Corp.,Heavy-Duty Diesel Engine Oil 15W-40,2026-08-02,32100,litres,10.1015,324258.15,0.38,2026-08-14,R200,Ontario,Delivered,,CUS-089,PRD-047
+ORD-000366,Evergreen Petroleum Limited Partnership,Rack Gasoline 87 (Wholesale),2026-08-02,70900,litres,1.2499,88617.91,0.01,2026-08-04,R200,Ontario,Delivered,,CUS-092,PRD-008
+ORD-000367,Coastal Energy Distribution Inc.,Winter Diesel No. 1,2026-08-03,42000,litres,1.8679,78451.80,1.69,2026-08-17,R300,Quebec,Delivered,,CUS-086,PRD-012
+ORD-000368,Maple Propane Co-operative Ltd.,Autogas Propane,2026-08-03,1363800,litres,1.0189,1389575.82,1.08,2026-08-11,R200,Ontario,Delivered,SCT-0393,CUS-081,PRD-033
+ORD-000369,Laurentian Airport Fuelling Limited Partnership,Sustainable Aviation Fuel Blend 10%,2026-08-06,788300,litres,1.4282,1125850.06,4.15,2026-08-09,R100,Alberta,Delivered,SCT-0142,CUS-029,PRD-025
+ORD-000370,Arctic Air Limited Partnership,Ground Support Equipment Diesel,2026-08-07,11128200,litres,1.3333,14837229.06,1.24,2026-08-18,R100,Alberta,Delivered,SCT-0068,CUS-015,PRD-030
+ORD-000371,Capital Rail Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-08-07,1122000,litres,0.2485,278817.00,0.61,2026-08-17,R300,Quebec,Delivered,SCT-0009,CUS-002,PRD-011
+ORD-000372,Northstar Petroleum Corp.,Ultra-Low Sulphur Diesel No. 2,2026-08-07,1932500,litres,0.2196,424377.00,4.54,2026-08-11,R100,Alberta,Delivered,SCT-0312,CUS-062,PRD-011
+ORD-000373,Bow Valley Petroleum Corp.,Mid-Grade Unleaded 89,2026-08-08,511300,litres,1.7800,910114.00,0.0,2026-08-28,R300,Quebec,Delivered,SCT-0221,CUS-045,PRD-002
+ORD-000374,Highland Fuel Stops Co-operative Ltd.,Winter-Blend Regular 87,2026-08-08,9886900,litres,1.8374,18166190.06,0.14,2026-08-10,R200,Ontario,Delivered,SCT-0149,CUS-030,PRD-006
+ORD-000375,Prairie Petro Stations Inc.,Mid-Grade Unleaded 89,2026-08-08,5324400,litres,1.7800,9477432.00,0.0,2026-08-23,R300,Quebec,Delivered,SCT-0225,CUS-046,PRD-002
+ORD-000376,Harbour Aviation Services Corp.,Avgas 100LL,2026-08-09,41200,litres,3.0651,126282.12,0.16,2026-08-24,R100,Alberta,Delivered,,CUS-070,PRD-027
+ORD-000377,Ironwood Energy Distribution Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-08-09,636900,litres,0.2512,159989.28,3.4,2026-08-30,R300,Atlantic Canada,Delivered,SCT-0373,CUS-076,PRD-011
+ORD-000378,Bluewater Airport Fuelling Corp.,Ground Support Equipment Diesel,2026-08-10,1613500,litres,1.4630,2360550.50,1.81,2026-08-23,R200,Ontario,Delivered,SCT-0042,CUS-009,PRD-030
+ORD-000379,Capital Freightways Corp.,Heavy-Duty Diesel Engine Oil 15W-40,2026-08-10,55700,litres,10.0548,560052.36,0.84,2026-08-12,R200,Ontario,Delivered,,CUS-089,PRD-047
+ORD-000380,Evergreen Petroleum Limited Partnership,Rack Gasoline 87 (Wholesale),2026-08-10,41000,litres,1.2496,51233.60,0.03,2026-08-19,R200,Ontario,Delivered,,CUS-092,PRD-008
+ORD-000381,Atlantic Gas Services Limited Partnership,Propane-Butane Mix,2026-08-11,121500,litres,0.8786,106749.90,7.52,2026-08-28,R100,Alberta,Delivered,SCT-0384,CUS-078,PRD-037
+ORD-000382,Bluewater Airport Fuelling Corp.,Jet A-1,2026-08-11,62900,litres,1.4901,93727.29,0.66,2026-08-19,R200,Ontario,Delivered,,CUS-009,PRD-024
+ORD-000383,Capital Freightways Corp.,Winter Diesel No. 1,2026-08-11,49400,litres,1.8601,91888.94,2.1,2026-09-01,R200,Ontario,Delivered,,CUS-089,PRD-012
+ORD-000384,Evergreen Gas & Go Corp.,Premium Unleaded 91,2026-08-11,1513900,litres,1.7538,2655077.82,0.35,2026-08-19,R200,Ontario,Delivered,SCT-0158,CUS-032,PRD-003
+ORD-000385,Harbour Air Corp.,Sustainable Aviation Fuel Blend 10%,2026-08-11,11125700,litres,1.4490,16121139.30,2.75,2026-08-31,R100,Northern Canada,Delivered,SCT-0118,CUS-024,PRD-025
+ORD-000386,Prairie Petro Stations Inc.,Premium Diesel with Additive,2026-08-12,4476000,litres,1.8739,8387576.40,1.89,2026-08-14,R300,Quebec,Delivered,SCT-0226,CUS-046,PRD-018
+ORD-000387,Harbour Air Corp.,Jet A,2026-08-13,3126300,litres,1.4413,4505936.19,0.6,2026-08-15,R100,Northern Canada,Delivered,SCT-0116,CUS-024,PRD-023
+ORD-000388,Frontier Shipping Corp.,Marine Cylinder Oil,2026-08-14,238800,litres,8.3625,1996965.00,7.8,2026-08-24,R300,Quebec,Delivered,SCT-0196,CUS-039,PRD-063
+ORD-000389,Harbour Aviation Services Corp.,Jet A-1,2026-08-14,2074500,litres,1.3349,2769250.05,1.12,2026-09-04,R100,Alberta,Delivered,SCT-0347,CUS-070,PRD-024
+ORD-000390,Red River Petroleum Limited Partnership,Premium Unleaded 91,2026-08-14,796600,litres,1.7000,1354220.00,1.16,2026-08-23,R100,Alberta,Delivered,SCT-0233,CUS-047,PRD-003
+ORD-000391,Rocky Chemicals Inc.,Mixed Xylenes,2026-08-14,390,tonnes,1143.93,446132.70,1.13,2026-08-17,R300,Quebec,Delivered,,CUS-016,PRD-081
+ORD-000392,Great Lakes Fuels Co-operative Ltd.,Rack Gasoline 87 (Wholesale),2026-08-15,755400,litres,1.2750,963135.00,0.39,2026-08-18,R300,Atlantic Canada,Delivered,SCT-0410,CUS-085,PRD-008
+ORD-000393,Highland Fuel Stops Co-operative Ltd.,Regular Unleaded 87,2026-08-15,8621500,litres,1.7383,14986753.45,0.67,2026-08-26,R200,Ontario,Delivered,SCT-0147,CUS-030,PRD-001
+ORD-000394,Laurentian Airport Fuelling Limited Partnership,Jet A-1,2026-08-15,3430000,litres,1.3461,4617123.00,0.29,2026-08-29,R100,Alberta,Delivered,SCT-0141,CUS-029,PRD-024
+ORD-000395,Arctic Air Limited Partnership,Sustainable Aviation Fuel Blend 10%,2026-08-16,22230700,litres,1.4431,32081123.17,3.15,2026-08-20,R100,Alberta,Delivered,SCT-0071,CUS-015,PRD-025
+ORD-000396,Canyon Freightways Inc.,Winter Diesel No. 1,2026-08-16,204700,litres,1.7497,358163.59,3.33,2026-09-03,R100,British Columbia,Delivered,SCT-0174,CUS-034,PRD-012
+ORD-000397,Ironwood Energy Distribution Co-operative Ltd.,Premium Unleaded 91,2026-08-16,3867300,litres,1.8982,7340908.86,0.62,2026-08-31,R300,Atlantic Canada,Delivered,SCT-0371,CUS-076,PRD-003
+ORD-000398,Frontier Shipping Corp.,Very Low Sulphur Fuel Oil (VLSFO),2026-08-17,537800,litres,0.1272,68408.16,2.19,2026-08-19,R300,Quebec,Delivered,SCT-0199,CUS-039,PRD-028
+ORD-000399,Ironwood Petro Stations Inc.,Premium Unleaded 94,2026-08-17,1991200,litres,2.0632,4108243.84,0.33,2026-09-05,R100,British Columbia,Delivered,SCT-0333,CUS-067,PRD-004
+ORD-000400,Maple Energy Distribution Co-operative Ltd.,Mid-Grade Unleaded 89,2026-08-20,4548200,litres,1.5992,7273481.44,0.67,2026-08-25,R100,Alberta,Delivered,SCT-0495,CUS-100,PRD-002
+ORD-000401,Maple Energy Distribution Co-operative Ltd.,Rack Gasoline 87 (Wholesale),2026-08-20,820700,litres,1.1026,904903.82,0.67,2026-08-23,R100,Alberta,Delivered,SCT-0496,CUS-100,PRD-008
+ORD-000402,Northstar Petroleum Corp.,Premium Unleaded 91,2026-08-22,3985600,litres,1.6858,6718924.48,1.99,2026-09-02,R100,Alberta,Delivered,SCT-0308,CUS-062,PRD-003
+ORD-000403,Prairie Petro Stations Inc.,Regular E10 Ethanol Blend,2026-08-22,71000,litres,1.5486,109950.60,0.09,2026-09-04,R300,Quebec,Delivered,,CUS-046,PRD-005
+ORD-000404,Bow Valley Farm Supply Ltd.,Farm Diesel Bulk Delivery,2026-08-23,39600,litres,1.4075,55737.00,0.88,2026-08-31,R100,Alberta,Delivered,,CUS-040,PRD-022
+ORD-000405,Evergreen Transport Ltd.,Biodiesel B20 Blend,2026-08-23,24700,litres,1.9088,47147.36,1.61,2026-09-04,R100,Alberta,Delivered,,CUS-052,PRD-015
+ORD-000406,Granite Fuels Ltd.,Premium Unleaded 91,2026-08-23,436900,litres,1.6865,736831.85,1.95,2026-09-10,R100,British Columbia,Delivered,SCT-0352,CUS-072,PRD-003
+ORD-000407,Great Lakes Fuels Co-operative Ltd.,Premium Unleaded 91,2026-08-23,94700,litres,1.9050,180403.50,0.26,2026-08-29,R300,Atlantic Canada,Delivered,,CUS-085,PRD-003
+ORD-000408,Ironwood Propane Ltd.,Bulk Propane Commercial,2026-08-23,119900,litres,0.8856,106183.44,0.5,2026-09-02,R200,Manitoba,Delivered,,CUS-037,PRD-032
+ORD-000409,Lakeshore Home Energy Ltd.,Bulk Propane Residential,2026-08-23,546600,litres,0.7894,431486.04,7.13,2026-08-30,R100,Saskatchewan,Delivered,SCT-0247,CUS-049,PRD-031
+ORD-000410,Laurentian Airport Fuelling Limited Partnership,Avgas 100LL,2026-08-23,3291700,litres,3.0239,9953771.63,1.5,2026-09-12,R100,Alberta,Delivered,SCT-0138,CUS-029,PRD-027
+ORD-000411,Cedar Propane Inc.,Autogas Propane,2026-08-24,232200,litres,1.0115,234870.30,1.8,2026-09-14,R200,Ontario,Delivered,SCT-0122,CUS-026,PRD-033
+ORD-000412,Frontier Shipping Corp.,Marine Diesel Oil,2026-08-24,535400,litres,0.9509,509111.86,2.97,2026-08-26,R300,Quebec,Delivered,SCT-0197,CUS-039,PRD-029
+ORD-000413,Boreal Oilfield Services Limited Partnership,Dyed Off-Road Diesel,2026-08-25,438100,litres,1.3878,607995.18,2.95,2026-08-27,R200,Manitoba,Delivered,SCT-0256,CUS-051,PRD-017
+ORD-000414,Capital Freightways Corp.,Biodiesel B5 Blend,2026-08-25,892800,litres,1.9722,1760780.16,1.39,2026-09-10,R200,Ontario,Delivered,SCT-0430,CUS-089,PRD-014
+ORD-000415,Frontier Farm Supply Co-operative Ltd.,Farm Diesel Bulk Delivery,2026-08-25,48200,litres,1.4885,71745.70,2.71,2026-09-09,R300,Quebec,Delivered,SCT-0092,CUS-019,PRD-022
+ORD-000416,Silverline Ag Co-op Co-operative Ltd.,Regular Unleaded 87,2026-08-25,82500,litres,1.6981,140093.25,0.11,2026-09-01,R100,Alberta,Delivered,,CUS-008,PRD-001
+ORD-000417,Silverline Ag Co-op Co-operative Ltd.,Regular Unleaded 87,2026-08-25,97500,litres,1.6913,164901.75,0.51,2026-09-13,R100,Alberta,Delivered,SCT-0040,CUS-008,PRD-001
+ORD-000418,Highland Drilling Co-operative Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,2026-08-26,7900,litres,9.6675,76373.25,4.66,2026-09-02,R300,Quebec,Delivered,,CUS-005,PRD-047
+ORD-000419,Arctic Air Limited Partnership,Ground Support Equipment Diesel,2026-08-27,6797700,litres,1.2901,8769712.77,4.44,2026-09-14,R100,Alberta,Delivered,SCT-0068,CUS-015,PRD-030
+ORD-000420,Canyon Rail Ltd.,Locomotive Diesel,2026-08-27,4289400,litres,1.8151,7785689.94,0.27,2026-08-29,R300,Quebec,Delivered,SCT-0065,CUS-014,PRD-020
+ORD-000421,Cascade Petroleum Co-operative Ltd.,Rack Gasoline 87 (Wholesale),2026-08-27,572700,litres,1.1059,633348.93,0.37,2026-09-06,R100,Alberta,Delivered,SCT-0102,CUS-021,PRD-008
+ORD-000422,Frontier Farm Supply Co-operative Ltd.,Dyed Off-Road Diesel,2026-08-27,78700,litres,1.5690,123480.30,1.94,2026-09-02,R300,Quebec,Delivered,SCT-0091,CUS-019,PRD-017
+ORD-000423,Harbour Petro Stations Ltd.,Premium Unleaded 91,2026-08-27,576300,litres,1.7454,1005874.02,0.83,2026-09-13,R200,Ontario,Delivered,SCT-0358,CUS-073,PRD-003
+ORD-000424,Ironwood Propane Ltd.,Autogas Propane,2026-08-27,218000,litres,0.8827,192428.60,9.0,2026-09-01,R200,Manitoba,Delivered,SCT-0187,CUS-037,PRD-033
+ORD-000425,Redcliff Ports & Bunkering Ltd.,Marine Diesel Oil,2026-08-27,667600,litres,0.9536,636623.36,2.69,2026-09-03,R300,Quebec,Delivered,SCT-0386,CUS-079,PRD-029
+ORD-000426,Atlantic Home Energy Inc.,Bulk Propane Commercial,2026-08-28,2419400,litres,0.8584,2076812.96,3.55,2026-09-05,R100,British Columbia,Delivered,SCT-0204,CUS-041,PRD-032
+ORD-000427,Maple Energy Distribution Co-operative Ltd.,Winter Diesel No. 1,2026-08-29,4593300,litres,1.7309,7950542.97,4.37,2026-09-01,R100,Alberta,Delivered,SCT-0499,CUS-100,PRD-012
+ORD-000428,Coastal Minerals Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-08-30,3204800,litres,0.2213,709222.24,3.79,2026-09-08,R100,British Columbia,Delivered,SCT-0195,CUS-038,PRD-011
+ORD-000429,Atlantic Home Energy Inc.,Bulk Propane Commercial,2026-08-31,694300,litres,0.8719,605360.17,2.03,2026-09-19,R100,British Columbia,Delivered,SCT-0204,CUS-041,PRD-032
+ORD-000430,Coastal Energy Distribution Inc.,Ultra-Low Sulphur Diesel No. 2,2026-08-31,1304100,litres,0.2433,317287.53,2.67,2026-09-16,R300,Quebec,Delivered,SCT-0419,CUS-086,PRD-011
+ORD-000431,Lakeshore Home Energy Ltd.,Propane-Butane Mix,2026-08-31,16600,litres,0.9354,15527.64,1.54,2026-09-05,R100,Saskatchewan,Delivered,,CUS-049,PRD-037
+ORD-000432,Cascade Energy Services Ltd.,Kerosene K-1,2026-09-01,346800,litres,1.4607,506570.76,3.9,2026-09-08,R200,Manitoba,Delivered,SCT-0397,CUS-082,PRD-043
+ORD-000433,Evergreen Petroleum Limited Partnership,Winter-Blend Regular 87,2026-09-01,1019100,litres,1.8387,1873819.17,0.07,2026-09-13,R200,Ontario,Delivered,SCT-0449,CUS-092,PRD-006
+ORD-000434,Harbour Aviation Services Corp.,Ground Support Equipment Diesel,2026-09-01,5210800,litres,1.2984,6765702.72,3.82,2026-09-07,R100,Alberta,Delivered,SCT-0345,CUS-070,PRD-030
+ORD-000435,Northstar Energy Distribution Limited Partnership,Winter-Blend Regular 87,2026-09-02,2010400,litres,1.8391,3697326.64,0.05,2026-09-09,R200,Ontario,Delivered,SCT-0211,CUS-042,PRD-006
+ORD-000436,Harbour Air Corp.,Jet A,2026-09-03,6209500,litres,1.4384,8931744.80,0.8,2026-09-11,R100,Northern Canada,Delivered,SCT-0116,CUS-024,PRD-023
+ORD-000437,Rocky Energy Distribution Inc.,Rack Gasoline 87 (Wholesale),2026-09-03,803500,litres,1.2459,1001080.65,0.33,2026-09-11,R300,Quebec,Delivered,SCT-0400,CUS-083,PRD-008
+ORD-000438,Evergreen Gas & Go Corp.,Winter-Blend Premium 91,2026-09-04,1312100,litres,1.8770,2462811.70,0.69,2026-09-22,R200,Ontario,Delivered,SCT-0162,CUS-032,PRD-007
+ORD-000439,Pioneer Petro Stations Limited Partnership,Premium Unleaded 91,2026-09-04,742200,litres,1.7081,1267751.82,0.69,2026-09-19,R100,Alberta,Delivered,SCT-0297,CUS-059,PRD-003
+ORD-000440,Prairie Petro Stations Inc.,Mid-Grade Unleaded 89,2026-09-04,3756500,litres,1.7800,6686570.00,0.0,2026-09-11,R300,Quebec,Delivered,SCT-0225,CUS-046,PRD-002
+ORD-000441,Redcliff Energy Distribution Co-operative Ltd.,Premium Unleaded 91,2026-09-04,944800,litres,1.7484,1651888.32,0.66,2026-09-16,R200,Ontario,Delivered,SCT-0214,CUS-043,PRD-003
+ORD-000442,Bow Valley Fuels Co-operative Ltd.,Rack Gasoline 87 (Wholesale),2026-09-05,35100,litres,1.2499,43871.49,0.01,2026-09-08,R200,Ontario,Delivered,,CUS-095,PRD-008
+ORD-000443,Frontier Farm Supply Co-operative Ltd.,Hydraulic Oil AW 46,2026-09-05,75500,litres,11.5287,870416.85,1.8,2026-09-08,R300,Quebec,Delivered,,CUS-019,PRD-050
+ORD-000444,Westcoast Fuels Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-09-07,605300,litres,0.2139,129473.67,6.99,2026-09-10,R100,British Columbia,Delivered,SCT-0185,CUS-036,PRD-011
+ORD-000445,Ironwood Petro Stations Inc.,Premium Diesel with Additive,2026-09-08,2741700,litres,1.7656,4840745.52,1.91,2026-09-18,R100,British Columbia,Delivered,SCT-0331,CUS-067,PRD-018
+ORD-000446,Highland Ag Co-op Ltd.,Hydraulic Oil AW 46,2026-09-09,82400,litres,11.0453,910132.72,0.85,2026-09-20,R100,Saskatchewan,Delivered,,CUS-088,PRD-050
+ORD-000447,Great Lakes Fuels Co-operative Ltd.,Regular E10 Ethanol Blend,2026-09-10,327700,litres,1.6117,528154.09,1.12,2026-09-21,R300,Atlantic Canada,Delivered,SCT-0411,CUS-085,PRD-005
+ORD-000448,Coastal Polymers Inc.,Condensate and Diluent,2026-09-11,2820,tonnes,651.79,1838047.80,0.49,2026-09-15,R200,Ontario,Delivered,,CUS-001,PRD-039
+ORD-000449,Northstar Energy Distribution Corp.,Mid-Grade Unleaded 89,2026-09-11,3822800,litres,1.7800,6804584.00,0.0,2026-09-29,R300,Quebec,Delivered,SCT-0077,CUS-017,PRD-002
+ORD-000450,Bluewater Industrial Supply Ltd.,Gear Oil 80W-90,2026-09-12,5900,litres,6.2584,36924.56,8.77,2026-09-18,R100,Alberta,Delivered,SCT-0478,CUS-097,PRD-052
+ORD-000451,Laurentian Airport Fuelling Limited Partnership,Jet A-1,2026-09-12,5500700,litres,1.3422,7383039.54,0.58,2026-09-25,R100,Alberta,Delivered,SCT-0141,CUS-029,PRD-024
+ORD-000452,Bow Valley Fuels Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-09-13,2457400,litres,0.2486,610909.64,0.57,2026-09-24,R200,Ontario,Delivered,SCT-0466,CUS-095,PRD-011
+ORD-000453,Laurentian Minerals Corp.,Ultra-Low Sulphur Diesel No. 2,2026-09-13,1379600,litres,0.2258,311513.68,1.84,2026-09-22,R100,Alberta,Delivered,SCT-0035,CUS-007,PRD-011
+ORD-000454,Prairie Petro Stations Inc.,Premium Diesel with Additive,2026-09-13,3655000,litres,1.8959,6929514.50,0.74,2026-09-24,R300,Quebec,Delivered,SCT-0226,CUS-046,PRD-018
+ORD-000455,Harbour Air Corp.,Ground Support Equipment Diesel,2026-09-14,1365900,litres,1.3102,1789602.18,2.95,2026-09-27,R100,Northern Canada,Delivered,SCT-0115,CUS-024,PRD-030
+ORD-000456,Ironwood Propane Ltd.,Bulk Propane Commercial,2026-09-14,1335400,litres,0.8560,1143102.40,3.82,2026-09-25,R200,Manitoba,Delivered,SCT-0188,CUS-037,PRD-032
+ORD-000457,Northstar Energy Distribution Limited Partnership,Regular E10 Ethanol Blend,2026-09-14,26600,litres,1.5483,41184.78,0.11,2026-10-04,R200,Ontario,In Transit,,CUS-042,PRD-005
+ORD-000458,Harbour Air Corp.,Jet A,2026-09-15,9340900,litres,1.4397,13448093.73,0.71,2026-09-20,R100,Northern Canada,Delivered,SCT-0116,CUS-024,PRD-023
+ORD-000459,Capital Freightways Corp.,Heavy-Duty Diesel Engine Oil 15W-40,2026-09-16,10000,litres,8.8553,88553.00,12.67,2026-09-26,R200,Ontario,Delivered,SCT-0431,CUS-089,PRD-047
+ORD-000460,Pioneer Petro Stations Limited Partnership,Premium Unleaded 94,2026-09-17,74900,litres,2.0690,154968.10,0.05,2026-10-02,R100,Alberta,Delivered,,CUS-059,PRD-004
+ORD-000461,Capital Freightways Corp.,Ultra-Low Sulphur Diesel No. 2,2026-09-18,128800,litres,0.2468,31787.84,1.29,2026-10-02,R200,Ontario,Delivered,SCT-0433,CUS-089,PRD-011
+ORD-000462,Heritage Resources Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-09-18,5613300,litres,0.2231,1252327.23,2.98,2026-09-21,R100,Saskatchewan,Delivered,SCT-0137,CUS-028,PRD-011
+ORD-000463,Keystone Resources Limited Partnership,Ultra-Low Sulphur Diesel No. 2,2026-09-18,571900,litres,0.2191,125303.29,4.76,2026-10-03,R100,Alberta,Delivered,SCT-0439,CUS-090,PRD-011
+ORD-000464,Capital Freightways Corp.,Ultra-Low Sulphur Diesel No. 2,2026-09-19,89800,litres,0.2490,22360.20,0.4,2026-09-21,R200,Ontario,Delivered,,CUS-089,PRD-011
+ORD-000465,Lakeshore Freightways Limited Partnership,Arctic Grade Diesel,2026-09-19,181200,litres,1.7001,308058.12,5.02,2026-09-23,R200,Manitoba,Delivered,SCT-0468,CUS-096,PRD-013
+ORD-000466,Rocky Energy Distribution Inc.,Winter Diesel No. 1,2026-09-20,1151000,litres,1.8498,2129119.80,2.64,2026-09-26,R300,Quebec,Delivered,SCT-0401,CUS-083,PRD-012
+ORD-000467,Tidewater Agri Services Ltd.,Dyed Off-Road Diesel,2026-09-21,5300,litres,1.5998,8478.94,0.01,2026-09-26,R300,Quebec,Delivered,,CUS-077,PRD-017
+ORD-000468,Laurentian Airport Fuelling Limited Partnership,Ground Support Equipment Diesel,2026-09-22,1009300,litres,1.3076,1319760.68,3.14,2026-09-30,R100,Alberta,Delivered,SCT-0139,CUS-029,PRD-030
+ORD-000469,Northern Petro Stations Corp.,Premium Diesel with Additive,2026-09-22,7610700,litres,1.7503,13321008.21,2.76,2026-09-29,R100,Alberta,Delivered,SCT-0128,CUS-027,PRD-018
+ORD-000470,Arctic Air Limited Partnership,Ground Support Equipment Diesel,2026-09-23,87600,litres,1.3404,117419.04,0.71,2026-10-12,R100,Alberta,In Transit,,CUS-015,PRD-030
+ORD-000471,Rocky Energy Distribution Inc.,Dyed Off-Road Diesel,2026-09-23,31500,litres,1.5878,50015.70,0.76,2026-10-10,R300,Quebec,Confirmed,,CUS-083,PRD-017
+ORD-000472,Canyon Rail Ltd.,Locomotive Diesel,2026-09-24,2879800,litres,1.8023,5190263.54,0.97,2026-09-29,R300,Quebec,Delivered,SCT-0065,CUS-014,PRD-020
+ORD-000473,Evergreen Gas & Go Corp.,Ultra-Low Sulphur Diesel No. 2,2026-09-24,5915000,litres,0.2457,1453315.50,1.72,2026-10-03,R200,Ontario,Delivered,SCT-0161,CUS-032,PRD-011
+ORD-000474,Arctic Air Limited Partnership,Jet A-1,2026-09-25,13998600,litres,1.3458,18839315.88,0.31,2026-10-01,R100,Alberta,Delivered,SCT-0070,CUS-015,PRD-024
+ORD-000475,Evergreen Transport Ltd.,Biodiesel B20 Blend,2026-09-25,62400,litres,1.9167,119602.08,1.2,2026-09-29,R100,Alberta,Delivered,,CUS-052,PRD-015
+ORD-000476,Highland Fuel Stops Co-operative Ltd.,Premium Unleaded 91,2026-09-25,869200,litres,1.7479,1519274.68,0.69,2026-10-03,R200,Ontario,Delivered,SCT-0145,CUS-030,PRD-003
+ORD-000477,Maple Energy Distribution Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-09-25,1634900,litres,0.2162,353465.38,5.98,2026-10-16,R100,Alberta,Delivered,SCT-0498,CUS-100,PRD-011
+ORD-000478,Bluewater Minerals Limited Partnership,Arctic Grade Diesel,2026-09-26,710000,litres,1.7386,1234406.00,2.87,2026-10-12,R100,Alberta,Delivered,SCT-0335,CUS-068,PRD-013
+ORD-000479,Northstar Energy Distribution Limited Partnership,Premium Unleaded 91,2026-09-26,74000,litres,1.7554,129899.60,0.26,2026-10-02,R200,Ontario,Delivered,,CUS-042,PRD-003
+ORD-000480,Prairie Petro Stations Inc.,Premium Diesel with Additive,2026-09-26,4650000,litres,1.8920,8797800.00,0.94,2026-10-01,R300,Quebec,Delivered,SCT-0226,CUS-046,PRD-018
+ORD-000481,Northstar Energy Distribution Limited Partnership,Winter-Blend Regular 87,2026-09-27,2318600,litres,1.8391,4264137.26,0.05,2026-10-04,R200,Ontario,In Transit,SCT-0211,CUS-042,PRD-006
+ORD-000482,Northern Petro Stations Corp.,Winter-Blend Regular 87,2026-09-28,4997100,litres,1.7740,8864855.40,1.99,2026-10-16,R100,Alberta,Delivered,SCT-0131,CUS-027,PRD-006
+ORD-000483,Rocky Chemicals Inc.,Naphtha,2026-09-28,2900,tonnes,849.36,2463144.00,0.31,2026-10-02,R300,Quebec,Cancelled,,CUS-016,PRD-078
+ORD-000484,Ironwood Petro Stations Inc.,Regular E10 Ethanol Blend,2026-09-29,1215300,litres,1.4683,1784424.99,0.79,2026-10-15,R100,British Columbia,Confirmed,SCT-0334,CUS-067,PRD-005
+ORD-000485,Keystone Freightways Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-09-29,108600,litres,0.2161,23468.46,6.05,2026-10-03,R100,Northern Canada,Delivered,SCT-0016,CUS-004,PRD-011
+ORD-000486,Prairie Petro Stations Inc.,Mid-Grade Unleaded 89,2026-09-29,19000,litres,1.7800,33820.00,0.0,2026-10-15,R300,Quebec,Delivered,,CUS-046,PRD-002
+ORD-000487,Evergreen Petroleum Limited Partnership,Regular Unleaded 87,2026-10-01,81700,litres,1.7486,142860.62,0.08,2026-10-05,R200,Ontario,Confirmed,,CUS-092,PRD-001
+ORD-000488,Red River Petroleum Limited Partnership,Mid-Grade Unleaded 89,2026-10-01,2683500,litres,1.5950,4280182.50,0.93,2026-10-06,R100,Alberta,Confirmed,SCT-0232,CUS-047,PRD-002
+ORD-000489,Lakeshore Home Energy Ltd.,Butane,2026-10-02,57200,litres,0.7885,45102.20,0.19,2026-10-12,R100,Saskatchewan,In Transit,,CUS-049,PRD-036
+ORD-000490,Northern Petro Stations Corp.,Winter-Blend Regular 87,2026-10-02,5686600,litres,1.7865,10159110.90,1.3,2026-10-09,R100,Alberta,Delivered,SCT-0131,CUS-027,PRD-006
+ORD-000491,Evergreen Petroleum Limited Partnership,Mid-Grade Unleaded 89,2026-10-03,1036300,litres,1.7800,1844614.00,0.0,2026-10-16,R200,Ontario,Confirmed,SCT-0445,CUS-092,PRD-002
+ORD-000492,Keystone Fuels Limited Partnership,Winter Diesel No. 1,2026-10-04,5080300,litres,1.8255,9274087.65,3.92,2026-10-18,R200,Ontario,Delivered,SCT-0443,CUS-091,PRD-012
+ORD-000493,Red River Chemicals Inc.,Petroleum Coke,2026-10-04,1340,tonnes,142.66,191164.40,0.24,2026-10-11,R300,Quebec,In Transit,,CUS-074,PRD-083
+ORD-000494,Pioneer Petro Stations Limited Partnership,Winter-Blend Premium 91,2026-10-05,2962000,litres,1.7827,5280357.40,0.41,2026-10-23,R100,Alberta,Confirmed,SCT-0298,CUS-059,PRD-007
+ORD-000495,Redcliff Energy Distribution Co-operative Ltd.,Mid-Grade Unleaded 89,2026-10-05,1079200,litres,1.7800,1920976.00,0.0,2026-10-17,R200,Ontario,Confirmed,SCT-0213,CUS-043,PRD-002
+ORD-000496,Redcliff Ports & Bunkering Ltd.,Marine Diesel Oil,2026-10-05,74600,litres,0.9729,72578.34,0.72,2026-10-16,R300,Quebec,Confirmed,,CUS-079,PRD-029
+ORD-000497,Frontier Farm Supply Co-operative Ltd.,Bulk Propane Commercial,2026-10-06,70500,litres,0.9302,65579.10,2.08,2026-10-23,R300,Quebec,Confirmed,SCT-0090,CUS-019,PRD-032
+ORD-000498,Granite Propane Inc.,Butane,2026-10-06,316300,litres,0.8506,269044.78,2.23,2026-10-12,R200,Ontario,Confirmed,SCT-0302,CUS-060,PRD-036
+ORD-000499,Westcoast Fuels Co-operative Ltd.,Ultra-Low Sulphur Diesel No. 2,2026-10-06,612700,litres,0.2239,137183.53,2.65,2026-10-15,R100,British Columbia,Confirmed,SCT-0185,CUS-036,PRD-011
+ORD-000500,Arctic Air Limited Partnership,Jet A-1,2026-10-07,10793100,litres,1.3424,14488657.44,0.56,2026-10-11,R100,Alberta,Confirmed,SCT-0070,CUS-015,PRD-024
