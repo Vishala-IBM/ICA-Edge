@@ -1,0 +1,201 @@
+Segment_ID,Segment_Name,Region,Revenue
+SEG-001,Retail Consumers - Regular Gasoline,Alberta,247200000
+SEG-002,Retail Consumers - Regular Gasoline,British Columbia,184300000
+SEG-003,Retail Consumers - Regular Gasoline,Saskatchewan,147380000
+SEG-004,Retail Consumers - Regular Gasoline,Manitoba,79890000
+SEG-005,Retail Consumers - Regular Gasoline,Ontario,288900000
+SEG-006,Retail Consumers - Regular Gasoline,Quebec,204920000
+SEG-007,Retail Consumers - Regular Gasoline,Atlantic Canada,94380000
+SEG-008,Retail Consumers - Regular Gasoline,Northern Canada,36170000
+SEG-009,Retail Consumers - Premium Gasoline,Alberta,88360000
+SEG-010,Retail Consumers - Premium Gasoline,British Columbia,67030000
+SEG-011,Retail Consumers - Premium Gasoline,Saskatchewan,35180000
+SEG-012,Retail Consumers - Premium Gasoline,Manitoba,24880000
+SEG-013,Retail Consumers - Premium Gasoline,Ontario,80280000
+SEG-014,Retail Consumers - Premium Gasoline,Quebec,74170000
+SEG-015,Retail Consumers - Premium Gasoline,Atlantic Canada,38790000
+SEG-016,Retail Consumers - Premium Gasoline,Northern Canada,9800000
+SEG-017,Convenience Store Customers,Alberta,75150000
+SEG-018,Convenience Store Customers,British Columbia,53370000
+SEG-019,Convenience Store Customers,Saskatchewan,33440000
+SEG-020,Convenience Store Customers,Manitoba,21190000
+SEG-021,Convenience Store Customers,Ontario,62140000
+SEG-022,Convenience Store Customers,Quebec,39900000
+SEG-023,Convenience Store Customers,Atlantic Canada,27310000
+SEG-024,Convenience Store Customers,Northern Canada,7410000
+SEG-025,Loyalty Program Members,Alberta,36800000
+SEG-026,Loyalty Program Members,British Columbia,26900000
+SEG-027,Loyalty Program Members,Saskatchewan,17050000
+SEG-028,Loyalty Program Members,Manitoba,13310000
+SEG-029,Loyalty Program Members,Ontario,46860000
+SEG-030,Loyalty Program Members,Quebec,37520000
+SEG-031,Loyalty Program Members,Atlantic Canada,18140000
+SEG-032,Loyalty Program Members,Northern Canada,6340000
+SEG-033,EV Charging Customers,Alberta,8400000
+SEG-034,EV Charging Customers,British Columbia,15970000
+SEG-035,EV Charging Customers,Saskatchewan,4130000
+SEG-036,EV Charging Customers,Manitoba,2460000
+SEG-037,EV Charging Customers,Ontario,17270000
+SEG-038,EV Charging Customers,Quebec,17400000
+SEG-039,EV Charging Customers,Atlantic Canada,4090000
+SEG-040,EV Charging Customers,Northern Canada,390000
+SEG-041,Commercial Trucking Fleets,Alberta,370810000
+SEG-042,Commercial Trucking Fleets,British Columbia,196210000
+SEG-043,Commercial Trucking Fleets,Saskatchewan,141000000
+SEG-044,Commercial Trucking Fleets,Manitoba,81980000
+SEG-045,Commercial Trucking Fleets,Ontario,467390000
+SEG-046,Commercial Trucking Fleets,Quebec,232360000
+SEG-047,Commercial Trucking Fleets,Atlantic Canada,150300000
+SEG-048,Commercial Trucking Fleets,Northern Canada,42000000
+SEG-049,Municipal Transit Fleets,Alberta,57980000
+SEG-050,Municipal Transit Fleets,British Columbia,39860000
+SEG-051,Municipal Transit Fleets,Saskatchewan,19610000
+SEG-052,Municipal Transit Fleets,Manitoba,13920000
+SEG-053,Municipal Transit Fleets,Ontario,65190000
+SEG-054,Municipal Transit Fleets,Quebec,38040000
+SEG-055,Municipal Transit Fleets,Atlantic Canada,25040000
+SEG-056,Municipal Transit Fleets,Northern Canada,6710000
+SEG-057,Courier and Delivery Fleets,Alberta,32510000
+SEG-058,Courier and Delivery Fleets,British Columbia,29450000
+SEG-059,Courier and Delivery Fleets,Saskatchewan,21780000
+SEG-060,Courier and Delivery Fleets,Manitoba,11440000
+SEG-061,Courier and Delivery Fleets,Ontario,52360000
+SEG-062,Courier and Delivery Fleets,Quebec,34480000
+SEG-063,Courier and Delivery Fleets,Atlantic Canada,19920000
+SEG-064,Courier and Delivery Fleets,Northern Canada,6180000
+SEG-065,Agriculture Producers,Alberta,106750000
+SEG-066,Agriculture Producers,British Columbia,40430000
+SEG-067,Agriculture Producers,Saskatchewan,137660000
+SEG-068,Agriculture Producers,Manitoba,73410000
+SEG-069,Agriculture Producers,Ontario,128890000
+SEG-070,Agriculture Producers,Quebec,86240000
+SEG-071,Agriculture Producers,Atlantic Canada,55280000
+SEG-072,Agriculture Producers,Northern Canada,17620000
+SEG-073,Construction Contractors,Alberta,85870000
+SEG-074,Construction Contractors,British Columbia,76490000
+SEG-075,Construction Contractors,Saskatchewan,41770000
+SEG-076,Construction Contractors,Manitoba,33310000
+SEG-077,Construction Contractors,Ontario,94820000
+SEG-078,Construction Contractors,Quebec,74560000
+SEG-079,Construction Contractors,Atlantic Canada,37180000
+SEG-080,Construction Contractors,Northern Canada,12710000
+SEG-081,Mining Operators,Alberta,266200000
+SEG-082,Mining Operators,British Columbia,287070000
+SEG-083,Mining Operators,Saskatchewan,165160000
+SEG-084,Mining Operators,Manitoba,108010000
+SEG-085,Mining Operators,Ontario,294290000
+SEG-086,Mining Operators,Quebec,252840000
+SEG-087,Mining Operators,Atlantic Canada,87690000
+SEG-088,Mining Operators,Northern Canada,101450000
+SEG-089,Oilfield Services Contractors,Alberta,329330000
+SEG-090,Oilfield Services Contractors,British Columbia,167400000
+SEG-091,Oilfield Services Contractors,Saskatchewan,130140000
+SEG-092,Oilfield Services Contractors,Manitoba,17070000
+SEG-093,Oilfield Services Contractors,Ontario,49690000
+SEG-094,Oilfield Services Contractors,Quebec,14350000
+SEG-095,Oilfield Services Contractors,Atlantic Canada,30860000
+SEG-096,Oilfield Services Contractors,Northern Canada,9290000
+SEG-097,Railways,Alberta,140460000
+SEG-098,Railways,British Columbia,123970000
+SEG-099,Railways,Saskatchewan,90440000
+SEG-100,Railways,Manitoba,84280000
+SEG-101,Railways,Ontario,182150000
+SEG-102,Railways,Quebec,129530000
+SEG-103,Railways,Atlantic Canada,85220000
+SEG-104,Railways,Northern Canada,23840000
+SEG-105,Marine and Ports,Alberta,7930000
+SEG-106,Marine and Ports,British Columbia,138740000
+SEG-107,Marine and Ports,Saskatchewan,1680000
+SEG-108,Marine and Ports,Manitoba,6400000
+SEG-109,Marine and Ports,Ontario,102380000
+SEG-110,Marine and Ports,Quebec,95470000
+SEG-111,Marine and Ports,Atlantic Canada,59390000
+SEG-112,Marine and Ports,Northern Canada,4820000
+SEG-113,Airlines and Airports (Jet Fuel),Alberta,337500000
+SEG-114,Airlines and Airports (Jet Fuel),British Columbia,282280000
+SEG-115,Airlines and Airports (Jet Fuel),Saskatchewan,123010000
+SEG-116,Airlines and Airports (Jet Fuel),Manitoba,106200000
+SEG-117,Airlines and Airports (Jet Fuel),Ontario,442700000
+SEG-118,Airlines and Airports (Jet Fuel),Quebec,229110000
+SEG-119,Airlines and Airports (Jet Fuel),Atlantic Canada,116230000
+SEG-120,Airlines and Airports (Jet Fuel),Northern Canada,26930000
+SEG-121,General Aviation (Avgas),Alberta,13700000
+SEG-122,General Aviation (Avgas),British Columbia,14220000
+SEG-123,General Aviation (Avgas),Saskatchewan,7520000
+SEG-124,General Aviation (Avgas),Manitoba,5840000
+SEG-125,General Aviation (Avgas),Ontario,17330000
+SEG-126,General Aviation (Avgas),Quebec,14910000
+SEG-127,General Aviation (Avgas),Atlantic Canada,7480000
+SEG-128,General Aviation (Avgas),Northern Canada,2200000
+SEG-129,Industrial Heating (Propane),Alberta,63350000
+SEG-130,Industrial Heating (Propane),British Columbia,43530000
+SEG-131,Industrial Heating (Propane),Saskatchewan,32440000
+SEG-132,Industrial Heating (Propane),Manitoba,16040000
+SEG-133,Industrial Heating (Propane),Ontario,65520000
+SEG-134,Industrial Heating (Propane),Quebec,50200000
+SEG-135,Industrial Heating (Propane),Atlantic Canada,25100000
+SEG-136,Industrial Heating (Propane),Northern Canada,7300000
+SEG-137,Residential Propane and Heating Oil,Alberta,40840000
+SEG-138,Residential Propane and Heating Oil,British Columbia,22040000
+SEG-139,Residential Propane and Heating Oil,Saskatchewan,14120000
+SEG-140,Residential Propane and Heating Oil,Manitoba,10210000
+SEG-141,Residential Propane and Heating Oil,Ontario,39130000
+SEG-142,Residential Propane and Heating Oil,Quebec,27200000
+SEG-143,Residential Propane and Heating Oil,Atlantic Canada,28730000
+SEG-144,Residential Propane and Heating Oil,Northern Canada,9480000
+SEG-145,Lubricant Distributors,Alberta,69140000
+SEG-146,Lubricant Distributors,British Columbia,40930000
+SEG-147,Lubricant Distributors,Saskatchewan,31750000
+SEG-148,Lubricant Distributors,Manitoba,24980000
+SEG-149,Lubricant Distributors,Ontario,91560000
+SEG-150,Lubricant Distributors,Quebec,56110000
+SEG-151,Lubricant Distributors,Atlantic Canada,31000000
+SEG-152,Lubricant Distributors,Northern Canada,9920000
+SEG-153,Industrial Lubricant Customers,Alberta,51780000
+SEG-154,Industrial Lubricant Customers,British Columbia,29310000
+SEG-155,Industrial Lubricant Customers,Saskatchewan,20340000
+SEG-156,Industrial Lubricant Customers,Manitoba,18860000
+SEG-157,Industrial Lubricant Customers,Ontario,80900000
+SEG-158,Industrial Lubricant Customers,Quebec,46930000
+SEG-159,Industrial Lubricant Customers,Atlantic Canada,17460000
+SEG-160,Industrial Lubricant Customers,Northern Canada,7590000
+SEG-161,Asphalt and Paving Contractors,Alberta,90350000
+SEG-162,Asphalt and Paving Contractors,British Columbia,70990000
+SEG-163,Asphalt and Paving Contractors,Saskatchewan,42200000
+SEG-164,Asphalt and Paving Contractors,Manitoba,35090000
+SEG-165,Asphalt and Paving Contractors,Ontario,86330000
+SEG-166,Asphalt and Paving Contractors,Quebec,72820000
+SEG-167,Asphalt and Paving Contractors,Atlantic Canada,42700000
+SEG-168,Asphalt and Paving Contractors,Northern Canada,15080000
+SEG-169,Petrochemical Feedstock Buyers,Alberta,370930000
+SEG-170,Petrochemical Feedstock Buyers,British Columbia,23790000
+SEG-171,Petrochemical Feedstock Buyers,Saskatchewan,25810000
+SEG-172,Petrochemical Feedstock Buyers,Manitoba,5770000
+SEG-173,Petrochemical Feedstock Buyers,Ontario,264910000
+SEG-174,Petrochemical Feedstock Buyers,Quebec,64980000
+SEG-175,Petrochemical Feedstock Buyers,Atlantic Canada,15320000
+SEG-176,Petrochemical Feedstock Buyers,Northern Canada,510000
+SEG-177,Wholesale Fuel Distributors and Jobbers,Alberta,351940000
+SEG-178,Wholesale Fuel Distributors and Jobbers,British Columbia,290220000
+SEG-179,Wholesale Fuel Distributors and Jobbers,Saskatchewan,208460000
+SEG-180,Wholesale Fuel Distributors and Jobbers,Manitoba,120410000
+SEG-181,Wholesale Fuel Distributors and Jobbers,Ontario,436790000
+SEG-182,Wholesale Fuel Distributors and Jobbers,Quebec,272540000
+SEG-183,Wholesale Fuel Distributors and Jobbers,Atlantic Canada,161160000
+SEG-184,Wholesale Fuel Distributors and Jobbers,Northern Canada,54260000
+SEG-185,Utilities and Power Producers,Alberta,81540000
+SEG-186,Utilities and Power Producers,British Columbia,52790000
+SEG-187,Utilities and Power Producers,Saskatchewan,41910000
+SEG-188,Utilities and Power Producers,Manitoba,25920000
+SEG-189,Utilities and Power Producers,Ontario,104760000
+SEG-190,Utilities and Power Producers,Quebec,52550000
+SEG-191,Utilities and Power Producers,Atlantic Canada,32820000
+SEG-192,Utilities and Power Producers,Northern Canada,10320000
+SEG-193,Government and Defence,Alberta,57400000
+SEG-194,Government and Defence,British Columbia,47680000
+SEG-195,Government and Defence,Saskatchewan,24510000
+SEG-196,Government and Defence,Manitoba,20790000
+SEG-197,Government and Defence,Ontario,65470000
+SEG-198,Government and Defence,Quebec,48070000
+SEG-199,Government and Defence,Atlantic Canada,37510000
+SEG-200,Government and Defence,Northern Canada,14990000

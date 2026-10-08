@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Margin
+PRD-001,Regular Unleaded 87,Gasoline,6.5
+PRD-002,Mid-Grade Unleaded 89,Gasoline,8.6
+PRD-003,Premium Unleaded 91,Gasoline,4.1
+PRD-004,Premium Unleaded 94,Gasoline,7.4
+PRD-005,Regular E10 Ethanol Blend,Gasoline,4.8
+PRD-006,Winter-Blend Regular 87,Gasoline,7.3
+PRD-007,Winter-Blend Premium 91,Gasoline,8.5
+PRD-008,Rack Gasoline 87 (Wholesale),Gasoline,7.3
+PRD-009,Racing Fuel 100 Octane,Gasoline,6.2
+PRD-010,Non-Ethanol Recreational Gasoline 91,Gasoline,8.6
+PRD-011,Ultra-Low Sulphur Diesel No. 2,Diesel,5.5
+PRD-012,Winter Diesel No. 1,Diesel,5.3
+PRD-013,Arctic Grade Diesel,Diesel,6.0
+PRD-014,Biodiesel B5 Blend,Diesel,7.4
+PRD-015,Biodiesel B20 Blend,Diesel,7.8
+PRD-016,Renewable Diesel R99,Diesel,4.7
+PRD-017,Dyed Off-Road Diesel,Diesel,5.1
+PRD-018,Premium Diesel with Additive,Diesel,5.7
+PRD-019,Marine Gas Oil,Diesel,6.0
+PRD-020,Locomotive Diesel,Diesel,7.4
+PRD-021,Mining-Grade Bulk Diesel,Diesel,5.8
+PRD-022,Farm Diesel Bulk Delivery,Diesel,4.1
+PRD-023,Jet A,Jet and Marine,3.1
+PRD-024,Jet A-1,Jet and Marine,4.7
+PRD-025,Sustainable Aviation Fuel Blend 10%,Jet and Marine,5.4
+PRD-026,Sustainable Aviation Fuel Blend 30%,Jet and Marine,3.4
+PRD-027,Avgas 100LL,Jet and Marine,3.1
+PRD-028,Very Low Sulphur Fuel Oil (VLSFO),Jet and Marine,3.7
+PRD-029,Marine Diesel Oil,Jet and Marine,3.1
+PRD-030,Ground Support Equipment Diesel,Jet and Marine,4.3
+PRD-031,Bulk Propane Residential,LPG and NGL,14.6
+PRD-032,Bulk Propane Commercial,LPG and NGL,17.6
+PRD-033,Autogas Propane,LPG and NGL,10.0
+PRD-034,Cylinder Propane Exchange 20 lb,LPG and NGL,8.1
+PRD-035,Industrial Propane Cylinders,LPG and NGL,9.8
+PRD-036,Butane,LPG and NGL,11.5
+PRD-037,Propane-Butane Mix,LPG and NGL,13.2
+PRD-038,Ethane Feedstock Supply,LPG and NGL,11.9
+PRD-039,Condensate and Diluent,LPG and NGL,8.9
+PRD-040,Light Heating Oil No. 2,Heating Oil,10.3
+PRD-041,Bio-Heating Oil B10,Heating Oil,8.7
+PRD-042,Commercial Furnace Oil,Heating Oil,11.5
+PRD-043,Kerosene K-1,Heating Oil,9.4
+PRD-044,Synthetic Engine Oil 5W-30,Lubricants,35.9
+PRD-045,Synthetic Engine Oil 0W-20,Lubricants,29.3
+PRD-046,Conventional Engine Oil 10W-30,Lubricants,24.1
+PRD-047,Heavy-Duty Diesel Engine Oil 15W-40,Lubricants,36.4
+PRD-048,Full Synthetic Heavy-Duty 10W-30,Lubricants,34.4
+PRD-049,Hydraulic Oil AW 32,Lubricants,38.0
+PRD-050,Hydraulic Oil AW 46,Lubricants,39.5
+PRD-051,Hydraulic Oil AW 68,Lubricants,35.8
+PRD-052,Gear Oil 80W-90,Lubricants,38.2
+PRD-053,Industrial Gear Oil ISO 220,Lubricants,27.0
+PRD-054,Automatic Transmission Fluid,Lubricants,28.8
+PRD-055,Multipurpose Grease NLGI 2,Lubricants,35.4
+PRD-056,High-Temperature Grease,Lubricants,20.6
+PRD-057,Compressor Oil ISO 100,Lubricants,21.3
+PRD-058,Turbine Oil ISO 46,Lubricants,23.5
+PRD-059,Transformer Insulating Oil,Lubricants,35.8
+PRD-060,Metalworking Fluid,Lubricants,23.0
+PRD-061,Wind Turbine Gear Oil,Lubricants,34.5
+PRD-062,Natural Gas Engine Oil,Lubricants,33.8
+PRD-063,Marine Cylinder Oil,Lubricants,29.9
+PRD-064,Diesel Exhaust Fluid (DEF),Specialty Fluids,26.7
+PRD-065,Engine Coolant 50/50,Specialty Fluids,35.5
+PRD-066,Windshield Washer Fluid -40,Specialty Fluids,39.6
+PRD-067,Fuel System Cleaner,Specialty Fluids,35.5
+PRD-068,Diesel Anti-Gel Additive,Specialty Fluids,36.2
+PRD-069,Brake Fluid DOT 4,Specialty Fluids,32.6
+PRD-070,Industrial Solvent,Specialty Fluids,43.0
+PRD-071,Drilling Fluid Base Oil,Specialty Fluids,42.0
+PRD-072,Asphalt Cement PG 58-28,Asphalt and Bitumen,11.7
+PRD-073,Asphalt Cement PG 64-22,Asphalt and Bitumen,9.4
+PRD-074,Asphalt Cement PG 70-28,Asphalt and Bitumen,11.5
+PRD-075,Asphalt Cement PG 52-34,Asphalt and Bitumen,8.2
+PRD-076,Cationic Asphalt Emulsion,Asphalt and Bitumen,11.6
+PRD-077,Medium-Cure Cutback Asphalt,Asphalt and Bitumen,13.6
+PRD-078,Naphtha,Petrochemical Feedstock,8.4
+PRD-079,Granular Sulphur,Petrochemical Feedstock,5.5
+PRD-080,Toluene,Petrochemical Feedstock,7.9
+PRD-081,Mixed Xylenes,Petrochemical Feedstock,11.5
+PRD-082,Polymer-Grade Propylene,Petrochemical Feedstock,8.3
+PRD-083,Petroleum Coke,Petrochemical Feedstock,8.0
+PRD-084,Renewable Natural Gas (RNG) Supply,Low-Carbon Fuels,11.7
+PRD-085,Compressed Hydrogen Supply,Low-Carbon Fuels,13.4
+PRD-086,Carbon-Offset Fuel Program,Low-Carbon Fuels,15.4
+PRD-087,Ethanol E85,Low-Carbon Fuels,8.3
+PRD-088,Low-Carbon-Intensity Gasoline,Low-Carbon Fuels,14.2
+PRD-089,Renewable Propane,Low-Carbon Fuels,13.4
+PRD-090,Clean Fuel Credit Bundle,Low-Carbon Fuels,7.5
+PRD-091,DC Fast Charging 150 kW,EV Charging,20.0
+PRD-092,Level 2 Charging,EV Charging,25.6
+PRD-093,Fleet Charging Subscription,EV Charging,23.3
+PRD-094,Home Charging Install Package,EV Charging,19.1
+PRD-095,Charging Membership Plan,EV Charging,25.6
+PRD-096,Loyalty Rewards Points Program,Convenience and Retail Services,42.1
+PRD-097,Fleet Fuel Card Program,Convenience and Retail Services,41.2
+PRD-098,Car Wash Service,Convenience and Retail Services,31.3
+PRD-099,Propane Cylinder Refill Service,Convenience and Retail Services,45.0
+PRD-100,Coffee and Food Service Bundle,Convenience and Retail Services,29.8
