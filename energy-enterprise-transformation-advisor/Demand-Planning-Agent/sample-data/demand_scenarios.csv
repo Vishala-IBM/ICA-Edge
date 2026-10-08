@@ -1,0 +1,251 @@
+Scenario_Name,Product,Demand_Impact
+Cold Winter 2026-27,Regular Unleaded 87,-1.1
+Cold Winter 2026-27,Premium Unleaded 91,-0.9
+Cold Winter 2026-27,Ultra-Low Sulphur Diesel No. 2,+1.4
+Cold Winter 2026-27,Winter Diesel No. 1,+5.4
+Cold Winter 2026-27,Jet A,-0.5
+Cold Winter 2026-27,Bulk Propane Residential,+12.9
+Cold Winter 2026-27,Light Heating Oil No. 2,+15.0
+Cold Winter 2026-27,Asphalt Cement PG 58-28,-9.2
+Cold Winter 2026-27,Renewable Diesel R99,+0.9
+Cold Winter 2026-27,DC Fast Charging 150 kW,-2.1
+Mild Winter 2026-27,Regular Unleaded 87,+1.1
+Mild Winter 2026-27,Premium Unleaded 91,+0.8
+Mild Winter 2026-27,Ultra-Low Sulphur Diesel No. 2,-0.8
+Mild Winter 2026-27,Winter Diesel No. 1,-5.4
+Mild Winter 2026-27,Jet A,+0.3
+Mild Winter 2026-27,Bulk Propane Residential,-11.4
+Mild Winter 2026-27,Light Heating Oil No. 2,-13.3
+Mild Winter 2026-27,Asphalt Cement PG 58-28,+2.8
+Mild Winter 2026-27,Renewable Diesel R99,-0.5
+Mild Winter 2026-27,DC Fast Charging 150 kW,+1.0
+WTI Price Spike +25 USD per bbl,Regular Unleaded 87,-4.5
+WTI Price Spike +25 USD per bbl,Premium Unleaded 91,-3.4
+WTI Price Spike +25 USD per bbl,Ultra-Low Sulphur Diesel No. 2,-3.7
+WTI Price Spike +25 USD per bbl,Winter Diesel No. 1,-2.9
+WTI Price Spike +25 USD per bbl,Jet A,-2.3
+WTI Price Spike +25 USD per bbl,Bulk Propane Residential,-2.2
+WTI Price Spike +25 USD per bbl,Light Heating Oil No. 2,-3.2
+WTI Price Spike +25 USD per bbl,Asphalt Cement PG 58-28,-2.1
+WTI Price Spike +25 USD per bbl,Renewable Diesel R99,-1.7
+WTI Price Spike +25 USD per bbl,DC Fast Charging 150 kW,+5.7
+WTI Price Collapse -25 USD per bbl,Regular Unleaded 87,+4.5
+WTI Price Collapse -25 USD per bbl,Premium Unleaded 91,+2.5
+WTI Price Collapse -25 USD per bbl,Ultra-Low Sulphur Diesel No. 2,+3.3
+WTI Price Collapse -25 USD per bbl,Winter Diesel No. 1,+2.8
+WTI Price Collapse -25 USD per bbl,Jet A,+2.2
+WTI Price Collapse -25 USD per bbl,Bulk Propane Residential,+1.6
+WTI Price Collapse -25 USD per bbl,Light Heating Oil No. 2,+2.6
+WTI Price Collapse -25 USD per bbl,Asphalt Cement PG 58-28,+2.2
+WTI Price Collapse -25 USD per bbl,Renewable Diesel R99,+2.1
+WTI Price Collapse -25 USD per bbl,DC Fast Charging 150 kW,-3.3
+Moderate Recession,Regular Unleaded 87,-3.4
+Moderate Recession,Premium Unleaded 91,-6.9
+Moderate Recession,Ultra-Low Sulphur Diesel No. 2,-4.9
+Moderate Recession,Winter Diesel No. 1,-4.3
+Moderate Recession,Jet A,-7.1
+Moderate Recession,Bulk Propane Residential,-1.5
+Moderate Recession,Light Heating Oil No. 2,-1.7
+Moderate Recession,Asphalt Cement PG 58-28,-10.2
+Moderate Recession,Renewable Diesel R99,-2.7
+Moderate Recession,DC Fast Charging 150 kW,-1.1
+Strong Economic Growth,Regular Unleaded 87,+2.7
+Strong Economic Growth,Premium Unleaded 91,+3.6
+Strong Economic Growth,Ultra-Low Sulphur Diesel No. 2,+4.4
+Strong Economic Growth,Winter Diesel No. 1,+3.4
+Strong Economic Growth,Jet A,+6.5
+Strong Economic Growth,Bulk Propane Residential,+1.0
+Strong Economic Growth,Light Heating Oil No. 2,+0.9
+Strong Economic Growth,Asphalt Cement PG 58-28,+6.7
+Strong Economic Growth,Renewable Diesel R99,+3.3
+Strong Economic Growth,DC Fast Charging 150 kW,+2.7
+Carbon Price Increase +50 CAD per tonne,Regular Unleaded 87,-1.9
+Carbon Price Increase +50 CAD per tonne,Premium Unleaded 91,-1.7
+Carbon Price Increase +50 CAD per tonne,Ultra-Low Sulphur Diesel No. 2,-2.6
+Carbon Price Increase +50 CAD per tonne,Winter Diesel No. 1,-2.0
+Carbon Price Increase +50 CAD per tonne,Jet A,-1.6
+Carbon Price Increase +50 CAD per tonne,Bulk Propane Residential,-1.7
+Carbon Price Increase +50 CAD per tonne,Light Heating Oil No. 2,-2.8
+Carbon Price Increase +50 CAD per tonne,Asphalt Cement PG 58-28,-1.7
+Carbon Price Increase +50 CAD per tonne,Renewable Diesel R99,+2.6
+Carbon Price Increase +50 CAD per tonne,DC Fast Charging 150 kW,+4.4
+Accelerated EV Adoption,Regular Unleaded 87,-4.6
+Accelerated EV Adoption,Premium Unleaded 91,-3.9
+Accelerated EV Adoption,Ultra-Low Sulphur Diesel No. 2,-0.9
+Accelerated EV Adoption,Winter Diesel No. 1,-0.8
+Accelerated EV Adoption,Jet A,-0.1
+Accelerated EV Adoption,Bulk Propane Residential,+0.1
+Accelerated EV Adoption,Light Heating Oil No. 2,-0.1
+Accelerated EV Adoption,Asphalt Cement PG 58-28,+0.3
+Accelerated EV Adoption,Renewable Diesel R99,-0.5
+Accelerated EV Adoption,DC Fast Charging 150 kW,+40.3
+Slow EV Adoption,Regular Unleaded 87,+1.3
+Slow EV Adoption,Premium Unleaded 91,+1.2
+Slow EV Adoption,Ultra-Low Sulphur Diesel No. 2,+0.3
+Slow EV Adoption,Winter Diesel No. 1,+0.3
+Slow EV Adoption,Jet A,+0.3
+Slow EV Adoption,Bulk Propane Residential,+0.0
+Slow EV Adoption,Light Heating Oil No. 2,+0.0
+Slow EV Adoption,Asphalt Cement PG 58-28,+0.3
+Slow EV Adoption,Renewable Diesel R99,+0.2
+Slow EV Adoption,DC Fast Charging 150 kW,-19.0
+Severe Wildfire Season,Regular Unleaded 87,-2.3
+Severe Wildfire Season,Premium Unleaded 91,-2.0
+Severe Wildfire Season,Ultra-Low Sulphur Diesel No. 2,+2.6
+Severe Wildfire Season,Winter Diesel No. 1,+1.6
+Severe Wildfire Season,Jet A,-6.1
+Severe Wildfire Season,Bulk Propane Residential,+0.5
+Severe Wildfire Season,Light Heating Oil No. 2,-0.2
+Severe Wildfire Season,Asphalt Cement PG 58-28,-3.1
+Severe Wildfire Season,Renewable Diesel R99,+0.5
+Severe Wildfire Season,DC Fast Charging 150 kW,-0.9
+Major Airline Capacity Expansion,Regular Unleaded 87,+0.3
+Major Airline Capacity Expansion,Premium Unleaded 91,+0.3
+Major Airline Capacity Expansion,Ultra-Low Sulphur Diesel No. 2,+0.2
+Major Airline Capacity Expansion,Winter Diesel No. 1,+0.2
+Major Airline Capacity Expansion,Jet A,+13.4
+Major Airline Capacity Expansion,Bulk Propane Residential,-0.0
+Major Airline Capacity Expansion,Light Heating Oil No. 2,-0.1
+Major Airline Capacity Expansion,Asphalt Cement PG 58-28,+0.0
+Major Airline Capacity Expansion,Renewable Diesel R99,-0.2
+Major Airline Capacity Expansion,DC Fast Charging 150 kW,+0.5
+Mining Boom,Regular Unleaded 87,+1.0
+Mining Boom,Premium Unleaded 91,+0.8
+Mining Boom,Ultra-Low Sulphur Diesel No. 2,+5.7
+Mining Boom,Winter Diesel No. 1,+5.9
+Mining Boom,Jet A,+1.9
+Mining Boom,Bulk Propane Residential,+1.7
+Mining Boom,Light Heating Oil No. 2,+0.4
+Mining Boom,Asphalt Cement PG 58-28,+2.2
+Mining Boom,Renewable Diesel R99,+2.2
+Mining Boom,DC Fast Charging 150 kW,+0.9
+Oilfield Activity Surge,Regular Unleaded 87,+1.7
+Oilfield Activity Surge,Premium Unleaded 91,+1.0
+Oilfield Activity Surge,Ultra-Low Sulphur Diesel No. 2,+4.9
+Oilfield Activity Surge,Winter Diesel No. 1,+4.7
+Oilfield Activity Surge,Jet A,+0.7
+Oilfield Activity Surge,Bulk Propane Residential,+2.4
+Oilfield Activity Surge,Light Heating Oil No. 2,+0.5
+Oilfield Activity Surge,Asphalt Cement PG 58-28,+1.3
+Oilfield Activity Surge,Renewable Diesel R99,+1.6
+Oilfield Activity Surge,DC Fast Charging 150 kW,+0.5
+Oilfield Activity Slump,Regular Unleaded 87,-1.4
+Oilfield Activity Slump,Premium Unleaded 91,-0.9
+Oilfield Activity Slump,Ultra-Low Sulphur Diesel No. 2,-5.4
+Oilfield Activity Slump,Winter Diesel No. 1,-4.2
+Oilfield Activity Slump,Jet A,-0.8
+Oilfield Activity Slump,Bulk Propane Residential,-2.0
+Oilfield Activity Slump,Light Heating Oil No. 2,-0.5
+Oilfield Activity Slump,Asphalt Cement PG 58-28,-1.6
+Oilfield Activity Slump,Renewable Diesel R99,-1.3
+Oilfield Activity Slump,DC Fast Charging 150 kW,-0.4
+Farm Drought Year,Regular Unleaded 87,-0.6
+Farm Drought Year,Premium Unleaded 91,-0.3
+Farm Drought Year,Ultra-Low Sulphur Diesel No. 2,-3.2
+Farm Drought Year,Winter Diesel No. 1,-2.7
+Farm Drought Year,Jet A,-0.2
+Farm Drought Year,Bulk Propane Residential,-4.3
+Farm Drought Year,Light Heating Oil No. 2,+0.3
+Farm Drought Year,Asphalt Cement PG 58-28,-0.2
+Farm Drought Year,Renewable Diesel R99,-1.4
+Farm Drought Year,DC Fast Charging 150 kW,-0.0
+Bumper Crop Harvest,Regular Unleaded 87,+0.5
+Bumper Crop Harvest,Premium Unleaded 91,+0.3
+Bumper Crop Harvest,Ultra-Low Sulphur Diesel No. 2,+4.2
+Bumper Crop Harvest,Winter Diesel No. 1,+3.0
+Bumper Crop Harvest,Jet A,+0.3
+Bumper Crop Harvest,Bulk Propane Residential,+3.4
+Bumper Crop Harvest,Light Heating Oil No. 2,+0.2
+Bumper Crop Harvest,Asphalt Cement PG 58-28,-0.1
+Bumper Crop Harvest,Renewable Diesel R99,+1.4
+Bumper Crop Harvest,DC Fast Charging 150 kW,-0.1
+Infrastructure Spending Stimulus,Regular Unleaded 87,+0.7
+Infrastructure Spending Stimulus,Premium Unleaded 91,+0.6
+Infrastructure Spending Stimulus,Ultra-Low Sulphur Diesel No. 2,+2.6
+Infrastructure Spending Stimulus,Winter Diesel No. 1,+2.8
+Infrastructure Spending Stimulus,Jet A,+0.5
+Infrastructure Spending Stimulus,Bulk Propane Residential,+0.5
+Infrastructure Spending Stimulus,Light Heating Oil No. 2,+0.1
+Infrastructure Spending Stimulus,Asphalt Cement PG 58-28,+15.1
+Infrastructure Spending Stimulus,Renewable Diesel R99,+1.6
+Infrastructure Spending Stimulus,DC Fast Charging 150 kW,+1.1
+Clean Fuel Regulation Tightening,Regular Unleaded 87,-1.1
+Clean Fuel Regulation Tightening,Premium Unleaded 91,-0.9
+Clean Fuel Regulation Tightening,Ultra-Low Sulphur Diesel No. 2,-2.2
+Clean Fuel Regulation Tightening,Winter Diesel No. 1,-1.4
+Clean Fuel Regulation Tightening,Jet A,-0.5
+Clean Fuel Regulation Tightening,Bulk Propane Residential,-0.1
+Clean Fuel Regulation Tightening,Light Heating Oil No. 2,-1.0
+Clean Fuel Regulation Tightening,Asphalt Cement PG 58-28,+0.3
+Clean Fuel Regulation Tightening,Renewable Diesel R99,+8.2
+Clean Fuel Regulation Tightening,DC Fast Charging 150 kW,+4.4
+SAF Mandate Introduced,Regular Unleaded 87,+0.2
+SAF Mandate Introduced,Premium Unleaded 91,-0.3
+SAF Mandate Introduced,Ultra-Low Sulphur Diesel No. 2,+0.1
+SAF Mandate Introduced,Winter Diesel No. 1,+0.2
+SAF Mandate Introduced,Jet A,-3.6
+SAF Mandate Introduced,Bulk Propane Residential,+0.3
+SAF Mandate Introduced,Light Heating Oil No. 2,-0.0
+SAF Mandate Introduced,Asphalt Cement PG 58-28,-0.2
+SAF Mandate Introduced,Renewable Diesel R99,-0.2
+SAF Mandate Introduced,DC Fast Charging 150 kW,+0.3
+Fuel Tax Holiday,Regular Unleaded 87,+6.2
+Fuel Tax Holiday,Premium Unleaded 91,+4.8
+Fuel Tax Holiday,Ultra-Low Sulphur Diesel No. 2,+3.7
+Fuel Tax Holiday,Winter Diesel No. 1,+3.8
+Fuel Tax Holiday,Jet A,+0.2
+Fuel Tax Holiday,Bulk Propane Residential,-0.1
+Fuel Tax Holiday,Light Heating Oil No. 2,+0.3
+Fuel Tax Holiday,Asphalt Cement PG 58-28,-0.1
+Fuel Tax Holiday,Renewable Diesel R99,+1.1
+Fuel Tax Holiday,DC Fast Charging 150 kW,-1.4
+Rail Blockade or Trucking Strike,Regular Unleaded 87,-1.8
+Rail Blockade or Trucking Strike,Premium Unleaded 91,-1.7
+Rail Blockade or Trucking Strike,Ultra-Low Sulphur Diesel No. 2,-8.1
+Rail Blockade or Trucking Strike,Winter Diesel No. 1,-6.8
+Rail Blockade or Trucking Strike,Jet A,-1.0
+Rail Blockade or Trucking Strike,Bulk Propane Residential,-1.5
+Rail Blockade or Trucking Strike,Light Heating Oil No. 2,-0.9
+Rail Blockade or Trucking Strike,Asphalt Cement PG 58-28,-3.2
+Rail Blockade or Trucking Strike,Renewable Diesel R99,-3.1
+Rail Blockade or Trucking Strike,DC Fast Charging 150 kW,-1.1
+Competitor Price War,Regular Unleaded 87,-3.3
+Competitor Price War,Premium Unleaded 91,-2.3
+Competitor Price War,Ultra-Low Sulphur Diesel No. 2,-3.7
+Competitor Price War,Winter Diesel No. 1,-3.7
+Competitor Price War,Jet A,-1.8
+Competitor Price War,Bulk Propane Residential,-2.3
+Competitor Price War,Light Heating Oil No. 2,-3.4
+Competitor Price War,Asphalt Cement PG 58-28,-1.9
+Competitor Price War,Renewable Diesel R99,-1.3
+Competitor Price War,DC Fast Charging 150 kW,-2.2
+Regional Refinery Outage,Regular Unleaded 87,-1.4
+Regional Refinery Outage,Premium Unleaded 91,-0.9
+Regional Refinery Outage,Ultra-Low Sulphur Diesel No. 2,-2.0
+Regional Refinery Outage,Winter Diesel No. 1,-1.7
+Regional Refinery Outage,Jet A,-3.2
+Regional Refinery Outage,Bulk Propane Residential,-0.5
+Regional Refinery Outage,Light Heating Oil No. 2,-0.4
+Regional Refinery Outage,Asphalt Cement PG 58-28,-1.1
+Regional Refinery Outage,Renewable Diesel R99,-0.9
+Regional Refinery Outage,DC Fast Charging 150 kW,+0.5
+Pipeline Disruption in Western Canada,Regular Unleaded 87,-2.6
+Pipeline Disruption in Western Canada,Premium Unleaded 91,-1.9
+Pipeline Disruption in Western Canada,Ultra-Low Sulphur Diesel No. 2,-3.1
+Pipeline Disruption in Western Canada,Winter Diesel No. 1,-3.4
+Pipeline Disruption in Western Canada,Jet A,-4.2
+Pipeline Disruption in Western Canada,Bulk Propane Residential,-1.1
+Pipeline Disruption in Western Canada,Light Heating Oil No. 2,-1.0
+Pipeline Disruption in Western Canada,Asphalt Cement PG 58-28,-2.2
+Pipeline Disruption in Western Canada,Renewable Diesel R99,-1.4
+Pipeline Disruption in Western Canada,DC Fast Charging 150 kW,+0.2
+Electrification Shift in Heavy Transport,Regular Unleaded 87,-0.2
+Electrification Shift in Heavy Transport,Premium Unleaded 91,-0.1
+Electrification Shift in Heavy Transport,Ultra-Low Sulphur Diesel No. 2,-3.4
+Electrification Shift in Heavy Transport,Winter Diesel No. 1,-2.6
+Electrification Shift in Heavy Transport,Jet A,+0.2
+Electrification Shift in Heavy Transport,Bulk Propane Residential,+0.3
+Electrification Shift in Heavy Transport,Light Heating Oil No. 2,-0.1
+Electrification Shift in Heavy Transport,Asphalt Cement PG 58-28,+0.3
+Electrification Shift in Heavy Transport,Renewable Diesel R99,-0.9
+Electrification Shift in Heavy Transport,DC Fast Charging 150 kW,+10.8

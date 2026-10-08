@@ -1,0 +1,1001 @@
+Month,Product,Region,Forecast_Volume
+2026-11,Regular Unleaded 87,Alberta,88514
+2026-11,Regular Unleaded 87,British Columbia,59091
+2026-11,Regular Unleaded 87,Saskatchewan,29449
+2026-11,Regular Unleaded 87,Ontario,70131
+2026-11,Regular Unleaded 87,Quebec,43395
+2026-11,Premium Unleaded 91,Alberta,17167
+2026-11,Premium Unleaded 91,British Columbia,12669
+2026-11,Premium Unleaded 91,Saskatchewan,4497
+2026-11,Premium Unleaded 91,Ontario,15234
+2026-11,Premium Unleaded 91,Quebec,7448
+2026-11,Ultra-Low Sulphur Diesel No. 2,Alberta,82677
+2026-11,Ultra-Low Sulphur Diesel No. 2,British Columbia,50314
+2026-11,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,32675
+2026-11,Ultra-Low Sulphur Diesel No. 2,Ontario,65595
+2026-11,Ultra-Low Sulphur Diesel No. 2,Quebec,45410
+2026-11,Winter Diesel No. 1,Alberta,28739
+2026-11,Winter Diesel No. 1,British Columbia,9908
+2026-11,Winter Diesel No. 1,Saskatchewan,15059
+2026-11,Winter Diesel No. 1,Ontario,16360
+2026-11,Winter Diesel No. 1,Quebec,12046
+2026-11,Jet A,Alberta,29071
+2026-11,Jet A,British Columbia,28738
+2026-11,Jet A,Saskatchewan,3463
+2026-11,Jet A,Ontario,34552
+2026-11,Jet A,Quebec,19987
+2026-11,Bulk Propane Residential,Alberta,8182
+2026-11,Bulk Propane Residential,British Columbia,4022
+2026-11,Bulk Propane Residential,Saskatchewan,4256
+2026-11,Bulk Propane Residential,Ontario,9943
+2026-11,Bulk Propane Residential,Quebec,6664
+2026-11,Light Heating Oil No. 2,Alberta,1330
+2026-11,Light Heating Oil No. 2,British Columbia,524
+2026-11,Light Heating Oil No. 2,Saskatchewan,806
+2026-11,Light Heating Oil No. 2,Ontario,5176
+2026-11,Light Heating Oil No. 2,Quebec,5678
+2026-11,Asphalt Cement PG 58-28,Alberta,2515
+2026-11,Asphalt Cement PG 58-28,British Columbia,1272
+2026-11,Asphalt Cement PG 58-28,Saskatchewan,1060
+2026-11,Asphalt Cement PG 58-28,Ontario,2651
+2026-11,Asphalt Cement PG 58-28,Quebec,1426
+2026-11,Renewable Diesel R99,Alberta,2606
+2026-11,Renewable Diesel R99,British Columbia,1973
+2026-11,Renewable Diesel R99,Saskatchewan,892
+2026-11,Renewable Diesel R99,Ontario,2229
+2026-11,Renewable Diesel R99,Quebec,1332
+2026-11,DC Fast Charging 150 kW,Alberta,238
+2026-11,DC Fast Charging 150 kW,British Columbia,766
+2026-11,DC Fast Charging 150 kW,Saskatchewan,41
+2026-11,DC Fast Charging 150 kW,Ontario,557
+2026-11,DC Fast Charging 150 kW,Quebec,398
+2026-12,Regular Unleaded 87,Alberta,86020
+2026-12,Regular Unleaded 87,British Columbia,57403
+2026-12,Regular Unleaded 87,Saskatchewan,29526
+2026-12,Regular Unleaded 87,Ontario,72818
+2026-12,Regular Unleaded 87,Quebec,42931
+2026-12,Premium Unleaded 91,Alberta,16980
+2026-12,Premium Unleaded 91,British Columbia,12970
+2026-12,Premium Unleaded 91,Saskatchewan,4695
+2026-12,Premium Unleaded 91,Ontario,15960
+2026-12,Premium Unleaded 91,Quebec,7417
+2026-12,Ultra-Low Sulphur Diesel No. 2,Alberta,79334
+2026-12,Ultra-Low Sulphur Diesel No. 2,British Columbia,48663
+2026-12,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,31823
+2026-12,Ultra-Low Sulphur Diesel No. 2,Ontario,64986
+2026-12,Ultra-Low Sulphur Diesel No. 2,Quebec,41354
+2026-12,Winter Diesel No. 1,Alberta,37617
+2026-12,Winter Diesel No. 1,British Columbia,12206
+2026-12,Winter Diesel No. 1,Saskatchewan,18715
+2026-12,Winter Diesel No. 1,Ontario,20302
+2026-12,Winter Diesel No. 1,Quebec,15966
+2026-12,Jet A,Alberta,29909
+2026-12,Jet A,British Columbia,30417
+2026-12,Jet A,Saskatchewan,3614
+2026-12,Jet A,Ontario,36448
+2026-12,Jet A,Quebec,20159
+2026-12,Bulk Propane Residential,Alberta,10756
+2026-12,Bulk Propane Residential,British Columbia,5091
+2026-12,Bulk Propane Residential,Saskatchewan,5384
+2026-12,Bulk Propane Residential,Ontario,12897
+2026-12,Bulk Propane Residential,Quebec,8298
+2026-12,Light Heating Oil No. 2,Alberta,1753
+2026-12,Light Heating Oil No. 2,British Columbia,696
+2026-12,Light Heating Oil No. 2,Saskatchewan,1069
+2026-12,Light Heating Oil No. 2,Ontario,6662
+2026-12,Light Heating Oil No. 2,Quebec,7695
+2026-12,Asphalt Cement PG 58-28,Alberta,648
+2026-12,Asphalt Cement PG 58-28,British Columbia,310
+2026-12,Asphalt Cement PG 58-28,Saskatchewan,264
+2026-12,Asphalt Cement PG 58-28,Ontario,678
+2026-12,Asphalt Cement PG 58-28,Quebec,354
+2026-12,Renewable Diesel R99,Alberta,2603
+2026-12,Renewable Diesel R99,British Columbia,2078
+2026-12,Renewable Diesel R99,Saskatchewan,913
+2026-12,Renewable Diesel R99,Ontario,2307
+2026-12,Renewable Diesel R99,Quebec,1424
+2026-12,DC Fast Charging 150 kW,Alberta,243
+2026-12,DC Fast Charging 150 kW,British Columbia,766
+2026-12,DC Fast Charging 150 kW,Saskatchewan,42
+2026-12,DC Fast Charging 150 kW,Ontario,581
+2026-12,DC Fast Charging 150 kW,Quebec,417
+2027-01,Regular Unleaded 87,Alberta,84389
+2027-01,Regular Unleaded 87,British Columbia,55341
+2027-01,Regular Unleaded 87,Saskatchewan,28139
+2027-01,Regular Unleaded 87,Ontario,70917
+2027-01,Regular Unleaded 87,Quebec,42074
+2027-01,Premium Unleaded 91,Alberta,16379
+2027-01,Premium Unleaded 91,British Columbia,12053
+2027-01,Premium Unleaded 91,Saskatchewan,4413
+2027-01,Premium Unleaded 91,Ontario,15220
+2027-01,Premium Unleaded 91,Quebec,7235
+2027-01,Ultra-Low Sulphur Diesel No. 2,Alberta,81125
+2027-01,Ultra-Low Sulphur Diesel No. 2,British Columbia,49480
+2027-01,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,31593
+2027-01,Ultra-Low Sulphur Diesel No. 2,Ontario,65215
+2027-01,Ultra-Low Sulphur Diesel No. 2,Quebec,42704
+2027-01,Winter Diesel No. 1,Alberta,36705
+2027-01,Winter Diesel No. 1,British Columbia,12792
+2027-01,Winter Diesel No. 1,Saskatchewan,18526
+2027-01,Winter Diesel No. 1,Ontario,21466
+2027-01,Winter Diesel No. 1,Quebec,15279
+2027-01,Jet A,Alberta,26737
+2027-01,Jet A,British Columbia,26705
+2027-01,Jet A,Saskatchewan,3146
+2027-01,Jet A,Ontario,32083
+2027-01,Jet A,Quebec,18082
+2027-01,Bulk Propane Residential,Alberta,10418
+2027-01,Bulk Propane Residential,British Columbia,5082
+2027-01,Bulk Propane Residential,Saskatchewan,5272
+2027-01,Bulk Propane Residential,Ontario,12448
+2027-01,Bulk Propane Residential,Quebec,8503
+2027-01,Light Heating Oil No. 2,Alberta,1827
+2027-01,Light Heating Oil No. 2,British Columbia,763
+2027-01,Light Heating Oil No. 2,Saskatchewan,1101
+2027-01,Light Heating Oil No. 2,Ontario,7173
+2027-01,Light Heating Oil No. 2,Quebec,7689
+2027-01,Asphalt Cement PG 58-28,Alberta,630
+2027-01,Asphalt Cement PG 58-28,British Columbia,314
+2027-01,Asphalt Cement PG 58-28,Saskatchewan,264
+2027-01,Asphalt Cement PG 58-28,Ontario,685
+2027-01,Asphalt Cement PG 58-28,Quebec,361
+2027-01,Renewable Diesel R99,Alberta,2665
+2027-01,Renewable Diesel R99,British Columbia,2075
+2027-01,Renewable Diesel R99,Saskatchewan,944
+2027-01,Renewable Diesel R99,Ontario,2356
+2027-01,Renewable Diesel R99,Quebec,1395
+2027-01,DC Fast Charging 150 kW,Alberta,259
+2027-01,DC Fast Charging 150 kW,British Columbia,781
+2027-01,DC Fast Charging 150 kW,Saskatchewan,43
+2027-01,DC Fast Charging 150 kW,Ontario,603
+2027-01,DC Fast Charging 150 kW,Quebec,421
+2027-02,Regular Unleaded 87,Alberta,83840
+2027-02,Regular Unleaded 87,British Columbia,55551
+2027-02,Regular Unleaded 87,Saskatchewan,27663
+2027-02,Regular Unleaded 87,Ontario,67865
+2027-02,Regular Unleaded 87,Quebec,40788
+2027-02,Premium Unleaded 91,Alberta,16279
+2027-02,Premium Unleaded 91,British Columbia,11904
+2027-02,Premium Unleaded 91,Saskatchewan,4502
+2027-02,Premium Unleaded 91,Ontario,14644
+2027-02,Premium Unleaded 91,Quebec,7071
+2027-02,Ultra-Low Sulphur Diesel No. 2,Alberta,80572
+2027-02,Ultra-Low Sulphur Diesel No. 2,British Columbia,49500
+2027-02,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,32342
+2027-02,Ultra-Low Sulphur Diesel No. 2,Ontario,64979
+2027-02,Ultra-Low Sulphur Diesel No. 2,Quebec,42547
+2027-02,Winter Diesel No. 1,Alberta,34189
+2027-02,Winter Diesel No. 1,British Columbia,11587
+2027-02,Winter Diesel No. 1,Saskatchewan,17518
+2027-02,Winter Diesel No. 1,Ontario,19519
+2027-02,Winter Diesel No. 1,Quebec,15164
+2027-02,Jet A,Alberta,27330
+2027-02,Jet A,British Columbia,26687
+2027-02,Jet A,Saskatchewan,3272
+2027-02,Jet A,Ontario,32045
+2027-02,Jet A,Quebec,18655
+2027-02,Bulk Propane Residential,Alberta,9318
+2027-02,Bulk Propane Residential,British Columbia,4584
+2027-02,Bulk Propane Residential,Saskatchewan,4792
+2027-02,Bulk Propane Residential,Ontario,11456
+2027-02,Bulk Propane Residential,Quebec,7367
+2027-02,Light Heating Oil No. 2,Alberta,1732
+2027-02,Light Heating Oil No. 2,British Columbia,679
+2027-02,Light Heating Oil No. 2,Saskatchewan,982
+2027-02,Light Heating Oil No. 2,Ontario,6513
+2027-02,Light Heating Oil No. 2,Quebec,6973
+2027-02,Asphalt Cement PG 58-28,Alberta,627
+2027-02,Asphalt Cement PG 58-28,British Columbia,310
+2027-02,Asphalt Cement PG 58-28,Saskatchewan,277
+2027-02,Asphalt Cement PG 58-28,Ontario,661
+2027-02,Asphalt Cement PG 58-28,Quebec,367
+2027-02,Renewable Diesel R99,Alberta,2658
+2027-02,Renewable Diesel R99,British Columbia,2124
+2027-02,Renewable Diesel R99,Saskatchewan,943
+2027-02,Renewable Diesel R99,Ontario,2328
+2027-02,Renewable Diesel R99,Quebec,1469
+2027-02,DC Fast Charging 150 kW,Alberta,264
+2027-02,DC Fast Charging 150 kW,British Columbia,812
+2027-02,DC Fast Charging 150 kW,Saskatchewan,45
+2027-02,DC Fast Charging 150 kW,Ontario,626
+2027-02,DC Fast Charging 150 kW,Quebec,428
+2027-03,Regular Unleaded 87,Alberta,84358
+2027-03,Regular Unleaded 87,British Columbia,58295
+2027-03,Regular Unleaded 87,Saskatchewan,28328
+2027-03,Regular Unleaded 87,Ontario,73394
+2027-03,Regular Unleaded 87,Quebec,43351
+2027-03,Premium Unleaded 91,Alberta,17503
+2027-03,Premium Unleaded 91,British Columbia,12730
+2027-03,Premium Unleaded 91,Saskatchewan,4684
+2027-03,Premium Unleaded 91,Ontario,15858
+2027-03,Premium Unleaded 91,Quebec,7537
+2027-03,Ultra-Low Sulphur Diesel No. 2,Alberta,84035
+2027-03,Ultra-Low Sulphur Diesel No. 2,British Columbia,49625
+2027-03,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,32697
+2027-03,Ultra-Low Sulphur Diesel No. 2,Ontario,65227
+2027-03,Ultra-Low Sulphur Diesel No. 2,Quebec,45529
+2027-03,Winter Diesel No. 1,Alberta,24584
+2027-03,Winter Diesel No. 1,British Columbia,8542
+2027-03,Winter Diesel No. 1,Saskatchewan,12728
+2027-03,Winter Diesel No. 1,Ontario,14403
+2027-03,Winter Diesel No. 1,Quebec,10746
+2027-03,Jet A,Alberta,31109
+2027-03,Jet A,British Columbia,30336
+2027-03,Jet A,Saskatchewan,3624
+2027-03,Jet A,Ontario,36875
+2027-03,Jet A,Quebec,21012
+2027-03,Bulk Propane Residential,Alberta,7897
+2027-03,Bulk Propane Residential,British Columbia,3654
+2027-03,Bulk Propane Residential,Saskatchewan,4097
+2027-03,Bulk Propane Residential,Ontario,9507
+2027-03,Bulk Propane Residential,Quebec,6338
+2027-03,Light Heating Oil No. 2,Alberta,1208
+2027-03,Light Heating Oil No. 2,British Columbia,490
+2027-03,Light Heating Oil No. 2,Saskatchewan,753
+2027-03,Light Heating Oil No. 2,Ontario,4786
+2027-03,Light Heating Oil No. 2,Quebec,5044
+2027-03,Asphalt Cement PG 58-28,Alberta,1510
+2027-03,Asphalt Cement PG 58-28,British Columbia,770
+2027-03,Asphalt Cement PG 58-28,Saskatchewan,661
+2027-03,Asphalt Cement PG 58-28,Ontario,1632
+2027-03,Asphalt Cement PG 58-28,Quebec,853
+2027-03,Renewable Diesel R99,Alberta,2700
+2027-03,Renewable Diesel R99,British Columbia,2077
+2027-03,Renewable Diesel R99,Saskatchewan,959
+2027-03,Renewable Diesel R99,Ontario,2413
+2027-03,Renewable Diesel R99,Quebec,1483
+2027-03,DC Fast Charging 150 kW,Alberta,281
+2027-03,DC Fast Charging 150 kW,British Columbia,880
+2027-03,DC Fast Charging 150 kW,Saskatchewan,46
+2027-03,DC Fast Charging 150 kW,Ontario,645
+2027-03,DC Fast Charging 150 kW,Quebec,470
+2027-04,Regular Unleaded 87,Alberta,89169
+2027-04,Regular Unleaded 87,British Columbia,58471
+2027-04,Regular Unleaded 87,Saskatchewan,30396
+2027-04,Regular Unleaded 87,Ontario,74889
+2027-04,Regular Unleaded 87,Quebec,45985
+2027-04,Premium Unleaded 91,Alberta,17824
+2027-04,Premium Unleaded 91,British Columbia,13139
+2027-04,Premium Unleaded 91,Saskatchewan,4722
+2027-04,Premium Unleaded 91,Ontario,16111
+2027-04,Premium Unleaded 91,Quebec,7901
+2027-04,Ultra-Low Sulphur Diesel No. 2,Alberta,86946
+2027-04,Ultra-Low Sulphur Diesel No. 2,British Columbia,51193
+2027-04,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,33661
+2027-04,Ultra-Low Sulphur Diesel No. 2,Ontario,65830
+2027-04,Ultra-Low Sulphur Diesel No. 2,Quebec,45989
+2027-04,Winter Diesel No. 1,Alberta,9562
+2027-04,Winter Diesel No. 1,British Columbia,3277
+2027-04,Winter Diesel No. 1,Saskatchewan,4818
+2027-04,Winter Diesel No. 1,Ontario,5346
+2027-04,Winter Diesel No. 1,Quebec,4098
+2027-04,Jet A,Alberta,32042
+2027-04,Jet A,British Columbia,31605
+2027-04,Jet A,Saskatchewan,3785
+2027-04,Jet A,Ontario,37764
+2027-04,Jet A,Quebec,20897
+2027-04,Bulk Propane Residential,Alberta,4852
+2027-04,Bulk Propane Residential,British Columbia,2391
+2027-04,Bulk Propane Residential,Saskatchewan,2507
+2027-04,Bulk Propane Residential,Ontario,5971
+2027-04,Bulk Propane Residential,Quebec,3963
+2027-04,Light Heating Oil No. 2,Alberta,705
+2027-04,Light Heating Oil No. 2,British Columbia,275
+2027-04,Light Heating Oil No. 2,Saskatchewan,411
+2027-04,Light Heating Oil No. 2,Ontario,2667
+2027-04,Light Heating Oil No. 2,Quebec,2889
+2027-04,Asphalt Cement PG 58-28,Alberta,6392
+2027-04,Asphalt Cement PG 58-28,British Columbia,3133
+2027-04,Asphalt Cement PG 58-28,Saskatchewan,2736
+2027-04,Asphalt Cement PG 58-28,Ontario,6893
+2027-04,Asphalt Cement PG 58-28,Quebec,3645
+2027-04,Renewable Diesel R99,Alberta,2761
+2027-04,Renewable Diesel R99,British Columbia,2126
+2027-04,Renewable Diesel R99,Saskatchewan,975
+2027-04,Renewable Diesel R99,Ontario,2531
+2027-04,Renewable Diesel R99,Quebec,1456
+2027-04,DC Fast Charging 150 kW,Alberta,291
+2027-04,DC Fast Charging 150 kW,British Columbia,934
+2027-04,DC Fast Charging 150 kW,Saskatchewan,49
+2027-04,DC Fast Charging 150 kW,Ontario,700
+2027-04,DC Fast Charging 150 kW,Quebec,486
+2027-05,Regular Unleaded 87,Alberta,95528
+2027-05,Regular Unleaded 87,British Columbia,60188
+2027-05,Regular Unleaded 87,Saskatchewan,31522
+2027-05,Regular Unleaded 87,Ontario,77780
+2027-05,Regular Unleaded 87,Quebec,47592
+2027-05,Premium Unleaded 91,Alberta,18075
+2027-05,Premium Unleaded 91,British Columbia,13691
+2027-05,Premium Unleaded 91,Saskatchewan,5055
+2027-05,Premium Unleaded 91,Ontario,16780
+2027-05,Premium Unleaded 91,Quebec,7813
+2027-05,Ultra-Low Sulphur Diesel No. 2,Alberta,88461
+2027-05,Ultra-Low Sulphur Diesel No. 2,British Columbia,53228
+2027-05,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,33707
+2027-05,Ultra-Low Sulphur Diesel No. 2,Ontario,70381
+2027-05,Ultra-Low Sulphur Diesel No. 2,Quebec,44855
+2027-05,Winter Diesel No. 1,Alberta,3753
+2027-05,Winter Diesel No. 1,British Columbia,1343
+2027-05,Winter Diesel No. 1,Saskatchewan,2006
+2027-05,Winter Diesel No. 1,Ontario,2260
+2027-05,Winter Diesel No. 1,Quebec,1663
+2027-05,Jet A,Alberta,32190
+2027-05,Jet A,British Columbia,31728
+2027-05,Jet A,Saskatchewan,3877
+2027-05,Jet A,Ontario,39742
+2027-05,Jet A,Quebec,22066
+2027-05,Bulk Propane Residential,Alberta,3374
+2027-05,Bulk Propane Residential,British Columbia,1555
+2027-05,Bulk Propane Residential,Saskatchewan,1740
+2027-05,Bulk Propane Residential,Ontario,4015
+2027-05,Bulk Propane Residential,Quebec,2572
+2027-05,Light Heating Oil No. 2,Alberta,357
+2027-05,Light Heating Oil No. 2,British Columbia,137
+2027-05,Light Heating Oil No. 2,Saskatchewan,206
+2027-05,Light Heating Oil No. 2,Ontario,1295
+2027-05,Light Heating Oil No. 2,Quebec,1485
+2027-05,Asphalt Cement PG 58-28,Alberta,14899
+2027-05,Asphalt Cement PG 58-28,British Columbia,7830
+2027-05,Asphalt Cement PG 58-28,Saskatchewan,6330
+2027-05,Asphalt Cement PG 58-28,Ontario,16617
+2027-05,Asphalt Cement PG 58-28,Quebec,8836
+2027-05,Renewable Diesel R99,Alberta,2808
+2027-05,Renewable Diesel R99,British Columbia,2207
+2027-05,Renewable Diesel R99,Saskatchewan,1017
+2027-05,Renewable Diesel R99,Ontario,2518
+2027-05,Renewable Diesel R99,Quebec,1466
+2027-05,DC Fast Charging 150 kW,Alberta,317
+2027-05,DC Fast Charging 150 kW,British Columbia,978
+2027-05,DC Fast Charging 150 kW,Saskatchewan,52
+2027-05,DC Fast Charging 150 kW,Ontario,727
+2027-05,DC Fast Charging 150 kW,Quebec,532
+2027-06,Regular Unleaded 87,Alberta,95041
+2027-06,Regular Unleaded 87,British Columbia,65039
+2027-06,Regular Unleaded 87,Saskatchewan,31045
+2027-06,Regular Unleaded 87,Ontario,78780
+2027-06,Regular Unleaded 87,Quebec,48255
+2027-06,Premium Unleaded 91,Alberta,19081
+2027-06,Premium Unleaded 91,British Columbia,14177
+2027-06,Premium Unleaded 91,Saskatchewan,4966
+2027-06,Premium Unleaded 91,Ontario,17370
+2027-06,Premium Unleaded 91,Quebec,8359
+2027-06,Ultra-Low Sulphur Diesel No. 2,Alberta,85346
+2027-06,Ultra-Low Sulphur Diesel No. 2,British Columbia,51198
+2027-06,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,35060
+2027-06,Ultra-Low Sulphur Diesel No. 2,Ontario,71763
+2027-06,Ultra-Low Sulphur Diesel No. 2,Quebec,46832
+2027-06,Winter Diesel No. 1,Alberta,1917
+2027-06,Winter Diesel No. 1,British Columbia,660
+2027-06,Winter Diesel No. 1,Saskatchewan,1008
+2027-06,Winter Diesel No. 1,Ontario,1101
+2027-06,Winter Diesel No. 1,Quebec,827
+2027-06,Jet A,Alberta,33990
+2027-06,Jet A,British Columbia,34677
+2027-06,Jet A,Saskatchewan,4129
+2027-06,Jet A,Ontario,41386
+2027-06,Jet A,Quebec,22662
+2027-06,Bulk Propane Residential,Alberta,2767
+2027-06,Bulk Propane Residential,British Columbia,1346
+2027-06,Bulk Propane Residential,Saskatchewan,1449
+2027-06,Bulk Propane Residential,Ontario,3389
+2027-06,Bulk Propane Residential,Quebec,2255
+2027-06,Light Heating Oil No. 2,Alberta,213
+2027-06,Light Heating Oil No. 2,British Columbia,87
+2027-06,Light Heating Oil No. 2,Saskatchewan,130
+2027-06,Light Heating Oil No. 2,Ontario,813
+2027-06,Light Heating Oil No. 2,Quebec,915
+2027-06,Asphalt Cement PG 58-28,Alberta,22218
+2027-06,Asphalt Cement PG 58-28,British Columbia,10970
+2027-06,Asphalt Cement PG 58-28,Saskatchewan,9031
+2027-06,Asphalt Cement PG 58-28,Ontario,22784
+2027-06,Asphalt Cement PG 58-28,Quebec,12242
+2027-06,Renewable Diesel R99,Alberta,2904
+2027-06,Renewable Diesel R99,British Columbia,2225
+2027-06,Renewable Diesel R99,Saskatchewan,993
+2027-06,Renewable Diesel R99,Ontario,2542
+2027-06,Renewable Diesel R99,Quebec,1498
+2027-06,DC Fast Charging 150 kW,Alberta,323
+2027-06,DC Fast Charging 150 kW,British Columbia,1057
+2027-06,DC Fast Charging 150 kW,Saskatchewan,57
+2027-06,DC Fast Charging 150 kW,Ontario,787
+2027-06,DC Fast Charging 150 kW,Quebec,561
+2027-07,Regular Unleaded 87,Alberta,95194
+2027-07,Regular Unleaded 87,British Columbia,65054
+2027-07,Regular Unleaded 87,Saskatchewan,32673
+2027-07,Regular Unleaded 87,Ontario,82277
+2027-07,Regular Unleaded 87,Quebec,48455
+2027-07,Premium Unleaded 91,Alberta,18753
+2027-07,Premium Unleaded 91,British Columbia,14494
+2027-07,Premium Unleaded 91,Saskatchewan,5066
+2027-07,Premium Unleaded 91,Ontario,17591
+2027-07,Premium Unleaded 91,Quebec,8332
+2027-07,Ultra-Low Sulphur Diesel No. 2,Alberta,87902
+2027-07,Ultra-Low Sulphur Diesel No. 2,British Columbia,51367
+2027-07,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,33736
+2027-07,Ultra-Low Sulphur Diesel No. 2,Ontario,68865
+2027-07,Ultra-Low Sulphur Diesel No. 2,Quebec,46054
+2027-07,Winter Diesel No. 1,Alberta,1959
+2027-07,Winter Diesel No. 1,British Columbia,656
+2027-07,Winter Diesel No. 1,Saskatchewan,1000
+2027-07,Winter Diesel No. 1,Ontario,1092
+2027-07,Winter Diesel No. 1,Quebec,837
+2027-07,Jet A,Alberta,34448
+2027-07,Jet A,British Columbia,35936
+2027-07,Jet A,Saskatchewan,4329
+2027-07,Jet A,Ontario,40957
+2027-07,Jet A,Quebec,24405
+2027-07,Bulk Propane Residential,Alberta,2796
+2027-07,Bulk Propane Residential,British Columbia,1335
+2027-07,Bulk Propane Residential,Saskatchewan,1396
+2027-07,Bulk Propane Residential,Ontario,3346
+2027-07,Bulk Propane Residential,Quebec,2236
+2027-07,Light Heating Oil No. 2,Alberta,175
+2027-07,Light Heating Oil No. 2,British Columbia,71
+2027-07,Light Heating Oil No. 2,Saskatchewan,107
+2027-07,Light Heating Oil No. 2,Ontario,665
+2027-07,Light Heating Oil No. 2,Quebec,748
+2027-07,Asphalt Cement PG 58-28,Alberta,23640
+2027-07,Asphalt Cement PG 58-28,British Columbia,11932
+2027-07,Asphalt Cement PG 58-28,Saskatchewan,10371
+2027-07,Asphalt Cement PG 58-28,Ontario,25917
+2027-07,Asphalt Cement PG 58-28,Quebec,14179
+2027-07,Renewable Diesel R99,Alberta,2905
+2027-07,Renewable Diesel R99,British Columbia,2280
+2027-07,Renewable Diesel R99,Saskatchewan,1037
+2027-07,Renewable Diesel R99,Ontario,2641
+2027-07,Renewable Diesel R99,Quebec,1534
+2027-07,DC Fast Charging 150 kW,Alberta,358
+2027-07,DC Fast Charging 150 kW,British Columbia,1125
+2027-07,DC Fast Charging 150 kW,Saskatchewan,59
+2027-07,DC Fast Charging 150 kW,Ontario,816
+2027-07,DC Fast Charging 150 kW,Quebec,577
+2027-08,Regular Unleaded 87,Alberta,94273
+2027-08,Regular Unleaded 87,British Columbia,64112
+2027-08,Regular Unleaded 87,Saskatchewan,31986
+2027-08,Regular Unleaded 87,Ontario,78903
+2027-08,Regular Unleaded 87,Quebec,48519
+2027-08,Premium Unleaded 91,Alberta,19059
+2027-08,Premium Unleaded 91,British Columbia,14463
+2027-08,Premium Unleaded 91,Saskatchewan,5215
+2027-08,Premium Unleaded 91,Ontario,17479
+2027-08,Premium Unleaded 91,Quebec,8507
+2027-08,Ultra-Low Sulphur Diesel No. 2,Alberta,86208
+2027-08,Ultra-Low Sulphur Diesel No. 2,British Columbia,51226
+2027-08,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,35186
+2027-08,Ultra-Low Sulphur Diesel No. 2,Ontario,68768
+2027-08,Ultra-Low Sulphur Diesel No. 2,Quebec,47964
+2027-08,Winter Diesel No. 1,Alberta,1916
+2027-08,Winter Diesel No. 1,British Columbia,675
+2027-08,Winter Diesel No. 1,Saskatchewan,975
+2027-08,Winter Diesel No. 1,Ontario,1073
+2027-08,Winter Diesel No. 1,Quebec,831
+2027-08,Jet A,Alberta,35335
+2027-08,Jet A,British Columbia,34420
+2027-08,Jet A,Saskatchewan,4299
+2027-08,Jet A,Ontario,43107
+2027-08,Jet A,Quebec,24020
+2027-08,Bulk Propane Residential,Alberta,2829
+2027-08,Bulk Propane Residential,British Columbia,1358
+2027-08,Bulk Propane Residential,Saskatchewan,1400
+2027-08,Bulk Propane Residential,Ontario,3346
+2027-08,Bulk Propane Residential,Quebec,2232
+2027-08,Light Heating Oil No. 2,Alberta,175
+2027-08,Light Heating Oil No. 2,British Columbia,69
+2027-08,Light Heating Oil No. 2,Saskatchewan,104
+2027-08,Light Heating Oil No. 2,Ontario,661
+2027-08,Light Heating Oil No. 2,Quebec,742
+2027-08,Asphalt Cement PG 58-28,Alberta,23530
+2027-08,Asphalt Cement PG 58-28,British Columbia,12000
+2027-08,Asphalt Cement PG 58-28,Saskatchewan,10248
+2027-08,Asphalt Cement PG 58-28,Ontario,26361
+2027-08,Asphalt Cement PG 58-28,Quebec,13500
+2027-08,Renewable Diesel R99,Alberta,2848
+2027-08,Renewable Diesel R99,British Columbia,2245
+2027-08,Renewable Diesel R99,Saskatchewan,1020
+2027-08,Renewable Diesel R99,Ontario,2601
+2027-08,Renewable Diesel R99,Quebec,1601
+2027-08,DC Fast Charging 150 kW,Alberta,362
+2027-08,DC Fast Charging 150 kW,British Columbia,1130
+2027-08,DC Fast Charging 150 kW,Saskatchewan,62
+2027-08,DC Fast Charging 150 kW,Ontario,845
+2027-08,DC Fast Charging 150 kW,Quebec,612
+2027-09,Regular Unleaded 87,Alberta,93048
+2027-09,Regular Unleaded 87,British Columbia,60962
+2027-09,Regular Unleaded 87,Saskatchewan,30990
+2027-09,Regular Unleaded 87,Ontario,76953
+2027-09,Regular Unleaded 87,Quebec,46810
+2027-09,Premium Unleaded 91,Alberta,18422
+2027-09,Premium Unleaded 91,British Columbia,13620
+2027-09,Premium Unleaded 91,Saskatchewan,4908
+2027-09,Premium Unleaded 91,Ontario,16109
+2027-09,Premium Unleaded 91,Quebec,7861
+2027-09,Ultra-Low Sulphur Diesel No. 2,Alberta,88906
+2027-09,Ultra-Low Sulphur Diesel No. 2,British Columbia,53382
+2027-09,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,35474
+2027-09,Ultra-Low Sulphur Diesel No. 2,Ontario,71422
+2027-09,Ultra-Low Sulphur Diesel No. 2,Quebec,47563
+2027-09,Winter Diesel No. 1,Alberta,5789
+2027-09,Winter Diesel No. 1,British Columbia,1997
+2027-09,Winter Diesel No. 1,Saskatchewan,2889
+2027-09,Winter Diesel No. 1,Ontario,3296
+2027-09,Winter Diesel No. 1,Quebec,2509
+2027-09,Jet A,Alberta,32410
+2027-09,Jet A,British Columbia,32286
+2027-09,Jet A,Saskatchewan,3781
+2027-09,Jet A,Ontario,37334
+2027-09,Jet A,Quebec,22003
+2027-09,Bulk Propane Residential,Alberta,3331
+2027-09,Bulk Propane Residential,British Columbia,1555
+2027-09,Bulk Propane Residential,Saskatchewan,1668
+2027-09,Bulk Propane Residential,Ontario,4050
+2027-09,Bulk Propane Residential,Quebec,2652
+2027-09,Light Heating Oil No. 2,Alberta,336
+2027-09,Light Heating Oil No. 2,British Columbia,142
+2027-09,Light Heating Oil No. 2,Saskatchewan,208
+2027-09,Light Heating Oil No. 2,Ontario,1329
+2027-09,Light Heating Oil No. 2,Quebec,1473
+2027-09,Asphalt Cement PG 58-28,Alberta,18829
+2027-09,Asphalt Cement PG 58-28,British Columbia,9567
+2027-09,Asphalt Cement PG 58-28,Saskatchewan,8028
+2027-09,Asphalt Cement PG 58-28,Ontario,20612
+2027-09,Asphalt Cement PG 58-28,Quebec,10877
+2027-09,Renewable Diesel R99,Alberta,3020
+2027-09,Renewable Diesel R99,British Columbia,2279
+2027-09,Renewable Diesel R99,Saskatchewan,1041
+2027-09,Renewable Diesel R99,Ontario,2632
+2027-09,Renewable Diesel R99,Quebec,1543
+2027-09,DC Fast Charging 150 kW,Alberta,355
+2027-09,DC Fast Charging 150 kW,British Columbia,1163
+2027-09,DC Fast Charging 150 kW,Saskatchewan,61
+2027-09,DC Fast Charging 150 kW,Ontario,818
+2027-09,DC Fast Charging 150 kW,Quebec,608
+2027-10,Regular Unleaded 87,Alberta,87459
+2027-10,Regular Unleaded 87,British Columbia,58358
+2027-10,Regular Unleaded 87,Saskatchewan,29887
+2027-10,Regular Unleaded 87,Ontario,73189
+2027-10,Regular Unleaded 87,Quebec,43666
+2027-10,Premium Unleaded 91,Alberta,17136
+2027-10,Premium Unleaded 91,British Columbia,12637
+2027-10,Premium Unleaded 91,Saskatchewan,4600
+2027-10,Premium Unleaded 91,Ontario,16206
+2027-10,Premium Unleaded 91,Quebec,7406
+2027-10,Ultra-Low Sulphur Diesel No. 2,Alberta,88627
+2027-10,Ultra-Low Sulphur Diesel No. 2,British Columbia,52132
+2027-10,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,35833
+2027-10,Ultra-Low Sulphur Diesel No. 2,Ontario,68622
+2027-10,Ultra-Low Sulphur Diesel No. 2,Quebec,46790
+2027-10,Winter Diesel No. 1,Alberta,15620
+2027-10,Winter Diesel No. 1,British Columbia,5130
+2027-10,Winter Diesel No. 1,Saskatchewan,7878
+2027-10,Winter Diesel No. 1,Ontario,8708
+2027-10,Winter Diesel No. 1,Quebec,6594
+2027-10,Jet A,Alberta,31338
+2027-10,Jet A,British Columbia,30314
+2027-10,Jet A,Saskatchewan,3814
+2027-10,Jet A,Ontario,36803
+2027-10,Jet A,Quebec,21492
+2027-10,Bulk Propane Residential,Alberta,5379
+2027-10,Bulk Propane Residential,British Columbia,2576
+2027-10,Bulk Propane Residential,Saskatchewan,2807
+2027-10,Bulk Propane Residential,Ontario,6435
+2027-10,Bulk Propane Residential,Quebec,4333
+2027-10,Light Heating Oil No. 2,Alberta,755
+2027-10,Light Heating Oil No. 2,British Columbia,301
+2027-10,Light Heating Oil No. 2,Saskatchewan,473
+2027-10,Light Heating Oil No. 2,Ontario,2938
+2027-10,Light Heating Oil No. 2,Quebec,3242
+2027-10,Asphalt Cement PG 58-28,Alberta,11483
+2027-10,Asphalt Cement PG 58-28,British Columbia,5845
+2027-10,Asphalt Cement PG 58-28,Saskatchewan,4785
+2027-10,Asphalt Cement PG 58-28,Ontario,11961
+2027-10,Asphalt Cement PG 58-28,Quebec,6624
+2027-10,Renewable Diesel R99,Alberta,2924
+2027-10,Renewable Diesel R99,British Columbia,2368
+2027-10,Renewable Diesel R99,Saskatchewan,1084
+2027-10,Renewable Diesel R99,Ontario,2747
+2027-10,Renewable Diesel R99,Quebec,1566
+2027-10,DC Fast Charging 150 kW,Alberta,361
+2027-10,DC Fast Charging 150 kW,British Columbia,1136
+2027-10,DC Fast Charging 150 kW,Saskatchewan,61
+2027-10,DC Fast Charging 150 kW,Ontario,822
+2027-10,DC Fast Charging 150 kW,Quebec,614
+2027-11,Regular Unleaded 87,Alberta,87622
+2027-11,Regular Unleaded 87,British Columbia,57022
+2027-11,Regular Unleaded 87,Saskatchewan,28711
+2027-11,Regular Unleaded 87,Ontario,72499
+2027-11,Regular Unleaded 87,Quebec,43521
+2027-11,Premium Unleaded 91,Alberta,17159
+2027-11,Premium Unleaded 91,British Columbia,12337
+2027-11,Premium Unleaded 91,Saskatchewan,4379
+2027-11,Premium Unleaded 91,Ontario,15420
+2027-11,Premium Unleaded 91,Quebec,7446
+2027-11,Ultra-Low Sulphur Diesel No. 2,Alberta,86125
+2027-11,Ultra-Low Sulphur Diesel No. 2,British Columbia,50491
+2027-11,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,35009
+2027-11,Ultra-Low Sulphur Diesel No. 2,Ontario,68581
+2027-11,Ultra-Low Sulphur Diesel No. 2,Quebec,44875
+2027-11,Winter Diesel No. 1,Alberta,29371
+2027-11,Winter Diesel No. 1,British Columbia,9736
+2027-11,Winter Diesel No. 1,Saskatchewan,14619
+2027-11,Winter Diesel No. 1,Ontario,16901
+2027-11,Winter Diesel No. 1,Quebec,12045
+2027-11,Jet A,Alberta,30289
+2027-11,Jet A,British Columbia,29448
+2027-11,Jet A,Saskatchewan,3571
+2027-11,Jet A,Ontario,35966
+2027-11,Jet A,Quebec,20636
+2027-11,Bulk Propane Residential,Alberta,8111
+2027-11,Bulk Propane Residential,British Columbia,3863
+2027-11,Bulk Propane Residential,Saskatchewan,4293
+2027-11,Bulk Propane Residential,Ontario,9736
+2027-11,Bulk Propane Residential,Quebec,6570
+2027-11,Light Heating Oil No. 2,Alberta,1251
+2027-11,Light Heating Oil No. 2,British Columbia,500
+2027-11,Light Heating Oil No. 2,Saskatchewan,772
+2027-11,Light Heating Oil No. 2,Ontario,4739
+2027-11,Light Heating Oil No. 2,Quebec,5307
+2027-11,Asphalt Cement PG 58-28,Alberta,2536
+2027-11,Asphalt Cement PG 58-28,British Columbia,1245
+2027-11,Asphalt Cement PG 58-28,Saskatchewan,1114
+2027-11,Asphalt Cement PG 58-28,Ontario,2801
+2027-11,Asphalt Cement PG 58-28,Quebec,1418
+2027-11,Renewable Diesel R99,Alberta,3114
+2027-11,Renewable Diesel R99,British Columbia,2356
+2027-11,Renewable Diesel R99,Saskatchewan,1107
+2027-11,Renewable Diesel R99,Ontario,2659
+2027-11,Renewable Diesel R99,Quebec,1662
+2027-11,DC Fast Charging 150 kW,Alberta,374
+2027-11,DC Fast Charging 150 kW,British Columbia,1136
+2027-11,DC Fast Charging 150 kW,Saskatchewan,59
+2027-11,DC Fast Charging 150 kW,Ontario,841
+2027-11,DC Fast Charging 150 kW,Quebec,620
+2027-12,Regular Unleaded 87,Alberta,87533
+2027-12,Regular Unleaded 87,British Columbia,56208
+2027-12,Regular Unleaded 87,Saskatchewan,29387
+2027-12,Regular Unleaded 87,Ontario,72767
+2027-12,Regular Unleaded 87,Quebec,44223
+2027-12,Premium Unleaded 91,Alberta,17459
+2027-12,Premium Unleaded 91,British Columbia,12195
+2027-12,Premium Unleaded 91,Saskatchewan,4589
+2027-12,Premium Unleaded 91,Ontario,14844
+2027-12,Premium Unleaded 91,Quebec,7221
+2027-12,Ultra-Low Sulphur Diesel No. 2,Alberta,80248
+2027-12,Ultra-Low Sulphur Diesel No. 2,British Columbia,47275
+2027-12,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,31488
+2027-12,Ultra-Low Sulphur Diesel No. 2,Ontario,63511
+2027-12,Ultra-Low Sulphur Diesel No. 2,Quebec,42601
+2027-12,Winter Diesel No. 1,Alberta,37492
+2027-12,Winter Diesel No. 1,British Columbia,12601
+2027-12,Winter Diesel No. 1,Saskatchewan,18873
+2027-12,Winter Diesel No. 1,Ontario,21175
+2027-12,Winter Diesel No. 1,Quebec,15382
+2027-12,Jet A,Alberta,31217
+2027-12,Jet A,British Columbia,31143
+2027-12,Jet A,Saskatchewan,3748
+2027-12,Jet A,Ontario,36681
+2027-12,Jet A,Quebec,20901
+2027-12,Bulk Propane Residential,Alberta,10183
+2027-12,Bulk Propane Residential,British Columbia,5004
+2027-12,Bulk Propane Residential,Saskatchewan,5481
+2027-12,Bulk Propane Residential,Ontario,12879
+2027-12,Bulk Propane Residential,Quebec,8559
+2027-12,Light Heating Oil No. 2,Alberta,1685
+2027-12,Light Heating Oil No. 2,British Columbia,691
+2027-12,Light Heating Oil No. 2,Saskatchewan,1043
+2027-12,Light Heating Oil No. 2,Ontario,6646
+2027-12,Light Heating Oil No. 2,Quebec,7225
+2027-12,Asphalt Cement PG 58-28,Alberta,632
+2027-12,Asphalt Cement PG 58-28,British Columbia,327
+2027-12,Asphalt Cement PG 58-28,Saskatchewan,266
+2027-12,Asphalt Cement PG 58-28,Ontario,687
+2027-12,Asphalt Cement PG 58-28,Quebec,364
+2027-12,Renewable Diesel R99,Alberta,3175
+2027-12,Renewable Diesel R99,British Columbia,2457
+2027-12,Renewable Diesel R99,Saskatchewan,1089
+2027-12,Renewable Diesel R99,Ontario,2716
+2027-12,Renewable Diesel R99,Quebec,1617
+2027-12,DC Fast Charging 150 kW,Alberta,375
+2027-12,DC Fast Charging 150 kW,British Columbia,1189
+2027-12,DC Fast Charging 150 kW,Saskatchewan,61
+2027-12,DC Fast Charging 150 kW,Ontario,847
+2027-12,DC Fast Charging 150 kW,Quebec,617
+2028-01,Regular Unleaded 87,Alberta,80947
+2028-01,Regular Unleaded 87,British Columbia,55057
+2028-01,Regular Unleaded 87,Saskatchewan,27226
+2028-01,Regular Unleaded 87,Ontario,67965
+2028-01,Regular Unleaded 87,Quebec,41699
+2028-01,Premium Unleaded 91,Alberta,16000
+2028-01,Premium Unleaded 91,British Columbia,11792
+2028-01,Premium Unleaded 91,Saskatchewan,4349
+2028-01,Premium Unleaded 91,Ontario,15008
+2028-01,Premium Unleaded 91,Quebec,6892
+2028-01,Ultra-Low Sulphur Diesel No. 2,Alberta,80908
+2028-01,Ultra-Low Sulphur Diesel No. 2,British Columbia,48445
+2028-01,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,32380
+2028-01,Ultra-Low Sulphur Diesel No. 2,Ontario,65438
+2028-01,Ultra-Low Sulphur Diesel No. 2,Quebec,44497
+2028-01,Winter Diesel No. 1,Alberta,35876
+2028-01,Winter Diesel No. 1,British Columbia,12705
+2028-01,Winter Diesel No. 1,Saskatchewan,18733
+2028-01,Winter Diesel No. 1,Ontario,20990
+2028-01,Winter Diesel No. 1,Quebec,15678
+2028-01,Jet A,Alberta,27784
+2028-01,Jet A,British Columbia,27082
+2028-01,Jet A,Saskatchewan,3337
+2028-01,Jet A,Ontario,32941
+2028-01,Jet A,Quebec,19097
+2028-01,Bulk Propane Residential,Alberta,10510
+2028-01,Bulk Propane Residential,British Columbia,4988
+2028-01,Bulk Propane Residential,Saskatchewan,5593
+2028-01,Bulk Propane Residential,Ontario,12299
+2028-01,Bulk Propane Residential,Quebec,8116
+2028-01,Light Heating Oil No. 2,Alberta,1739
+2028-01,Light Heating Oil No. 2,British Columbia,720
+2028-01,Light Heating Oil No. 2,Saskatchewan,1042
+2028-01,Light Heating Oil No. 2,Ontario,6858
+2028-01,Light Heating Oil No. 2,Quebec,7290
+2028-01,Asphalt Cement PG 58-28,Alberta,632
+2028-01,Asphalt Cement PG 58-28,British Columbia,322
+2028-01,Asphalt Cement PG 58-28,Saskatchewan,266
+2028-01,Asphalt Cement PG 58-28,Ontario,682
+2028-01,Asphalt Cement PG 58-28,Quebec,376
+2028-01,Renewable Diesel R99,Alberta,3194
+2028-01,Renewable Diesel R99,British Columbia,2459
+2028-01,Renewable Diesel R99,Saskatchewan,1153
+2028-01,Renewable Diesel R99,Ontario,2825
+2028-01,Renewable Diesel R99,Quebec,1719
+2028-01,DC Fast Charging 150 kW,Alberta,378
+2028-01,DC Fast Charging 150 kW,British Columbia,1201
+2028-01,DC Fast Charging 150 kW,Saskatchewan,64
+2028-01,DC Fast Charging 150 kW,Ontario,905
+2028-01,DC Fast Charging 150 kW,Quebec,644
+2028-02,Regular Unleaded 87,Alberta,79776
+2028-02,Regular Unleaded 87,British Columbia,54067
+2028-02,Regular Unleaded 87,Saskatchewan,26865
+2028-02,Regular Unleaded 87,Ontario,66810
+2028-02,Regular Unleaded 87,Quebec,39805
+2028-02,Premium Unleaded 91,Alberta,16277
+2028-02,Premium Unleaded 91,British Columbia,11508
+2028-02,Premium Unleaded 91,Saskatchewan,4239
+2028-02,Premium Unleaded 91,Ontario,14017
+2028-02,Premium Unleaded 91,Quebec,7035
+2028-02,Ultra-Low Sulphur Diesel No. 2,Alberta,82556
+2028-02,Ultra-Low Sulphur Diesel No. 2,British Columbia,47919
+2028-02,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,33661
+2028-02,Ultra-Low Sulphur Diesel No. 2,Ontario,67499
+2028-02,Ultra-Low Sulphur Diesel No. 2,Quebec,44357
+2028-02,Winter Diesel No. 1,Alberta,35286
+2028-02,Winter Diesel No. 1,British Columbia,12025
+2028-02,Winter Diesel No. 1,Saskatchewan,17309
+2028-02,Winter Diesel No. 1,Ontario,19530
+2028-02,Winter Diesel No. 1,Quebec,14616
+2028-02,Jet A,Alberta,27513
+2028-02,Jet A,British Columbia,28561
+2028-02,Jet A,Saskatchewan,3418
+2028-02,Jet A,Ontario,33710
+2028-02,Jet A,Quebec,19548
+2028-02,Bulk Propane Residential,Alberta,9201
+2028-02,Bulk Propane Residential,British Columbia,4429
+2028-02,Bulk Propane Residential,Saskatchewan,4750
+2028-02,Bulk Propane Residential,Ontario,11042
+2028-02,Bulk Propane Residential,Quebec,7637
+2028-02,Light Heating Oil No. 2,Alberta,1603
+2028-02,Light Heating Oil No. 2,British Columbia,651
+2028-02,Light Heating Oil No. 2,Saskatchewan,984
+2028-02,Light Heating Oil No. 2,Ontario,6155
+2028-02,Light Heating Oil No. 2,Quebec,6680
+2028-02,Asphalt Cement PG 58-28,Alberta,658
+2028-02,Asphalt Cement PG 58-28,British Columbia,312
+2028-02,Asphalt Cement PG 58-28,Saskatchewan,273
+2028-02,Asphalt Cement PG 58-28,Ontario,702
+2028-02,Asphalt Cement PG 58-28,Quebec,370
+2028-02,Renewable Diesel R99,Alberta,3170
+2028-02,Renewable Diesel R99,British Columbia,2562
+2028-02,Renewable Diesel R99,Saskatchewan,1160
+2028-02,Renewable Diesel R99,Ontario,2893
+2028-02,Renewable Diesel R99,Quebec,1689
+2028-02,DC Fast Charging 150 kW,Alberta,400
+2028-02,DC Fast Charging 150 kW,British Columbia,1264
+2028-02,DC Fast Charging 150 kW,Saskatchewan,67
+2028-02,DC Fast Charging 150 kW,Ontario,923
+2028-02,DC Fast Charging 150 kW,Quebec,676
+2028-03,Regular Unleaded 87,Alberta,86961
+2028-03,Regular Unleaded 87,British Columbia,56221
+2028-03,Regular Unleaded 87,Saskatchewan,28744
+2028-03,Regular Unleaded 87,Ontario,70220
+2028-03,Regular Unleaded 87,Quebec,43216
+2028-03,Premium Unleaded 91,Alberta,16699
+2028-03,Premium Unleaded 91,British Columbia,12745
+2028-03,Premium Unleaded 91,Saskatchewan,4458
+2028-03,Premium Unleaded 91,Ontario,15452
+2028-03,Premium Unleaded 91,Quebec,7460
+2028-03,Ultra-Low Sulphur Diesel No. 2,Alberta,83943
+2028-03,Ultra-Low Sulphur Diesel No. 2,British Columbia,51022
+2028-03,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,33292
+2028-03,Ultra-Low Sulphur Diesel No. 2,Ontario,67162
+2028-03,Ultra-Low Sulphur Diesel No. 2,Quebec,44947
+2028-03,Winter Diesel No. 1,Alberta,25343
+2028-03,Winter Diesel No. 1,British Columbia,8584
+2028-03,Winter Diesel No. 1,Saskatchewan,12608
+2028-03,Winter Diesel No. 1,Ontario,14428
+2028-03,Winter Diesel No. 1,Quebec,10735
+2028-03,Jet A,Alberta,31615
+2028-03,Jet A,British Columbia,31464
+2028-03,Jet A,Saskatchewan,3871
+2028-03,Jet A,Ontario,38231
+2028-03,Jet A,Quebec,21674
+2028-03,Bulk Propane Residential,Alberta,7701
+2028-03,Bulk Propane Residential,British Columbia,3674
+2028-03,Bulk Propane Residential,Saskatchewan,3986
+2028-03,Bulk Propane Residential,Ontario,9339
+2028-03,Bulk Propane Residential,Quebec,6137
+2028-03,Light Heating Oil No. 2,Alberta,1147
+2028-03,Light Heating Oil No. 2,British Columbia,463
+2028-03,Light Heating Oil No. 2,Saskatchewan,687
+2028-03,Light Heating Oil No. 2,Ontario,4352
+2028-03,Light Heating Oil No. 2,Quebec,4902
+2028-03,Asphalt Cement PG 58-28,Alberta,1527
+2028-03,Asphalt Cement PG 58-28,British Columbia,767
+2028-03,Asphalt Cement PG 58-28,Saskatchewan,647
+2028-03,Asphalt Cement PG 58-28,Ontario,1621
+2028-03,Asphalt Cement PG 58-28,Quebec,876
+2028-03,Renewable Diesel R99,Alberta,3205
+2028-03,Renewable Diesel R99,British Columbia,2514
+2028-03,Renewable Diesel R99,Saskatchewan,1159
+2028-03,Renewable Diesel R99,Ontario,2944
+2028-03,Renewable Diesel R99,Quebec,1693
+2028-03,DC Fast Charging 150 kW,Alberta,410
+2028-03,DC Fast Charging 150 kW,British Columbia,1332
+2028-03,DC Fast Charging 150 kW,Saskatchewan,72
+2028-03,DC Fast Charging 150 kW,Ontario,993
+2028-03,DC Fast Charging 150 kW,Quebec,698
+2028-04,Regular Unleaded 87,Alberta,90901
+2028-04,Regular Unleaded 87,British Columbia,59561
+2028-04,Regular Unleaded 87,Saskatchewan,30040
+2028-04,Regular Unleaded 87,Ontario,75174
+2028-04,Regular Unleaded 87,Quebec,42974
+2028-04,Premium Unleaded 91,Alberta,17045
+2028-04,Premium Unleaded 91,British Columbia,12955
+2028-04,Premium Unleaded 91,Saskatchewan,4600
+2028-04,Premium Unleaded 91,Ontario,16002
+2028-04,Premium Unleaded 91,Quebec,7330
+2028-04,Ultra-Low Sulphur Diesel No. 2,Alberta,87772
+2028-04,Ultra-Low Sulphur Diesel No. 2,British Columbia,51686
+2028-04,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,34028
+2028-04,Ultra-Low Sulphur Diesel No. 2,Ontario,69773
+2028-04,Ultra-Low Sulphur Diesel No. 2,Quebec,45710
+2028-04,Winter Diesel No. 1,Alberta,9602
+2028-04,Winter Diesel No. 1,British Columbia,3237
+2028-04,Winter Diesel No. 1,Saskatchewan,5034
+2028-04,Winter Diesel No. 1,Ontario,5383
+2028-04,Winter Diesel No. 1,Quebec,4076
+2028-04,Jet A,Alberta,31497
+2028-04,Jet A,British Columbia,31357
+2028-04,Jet A,Saskatchewan,3828
+2028-04,Jet A,Ontario,37695
+2028-04,Jet A,Quebec,21920
+2028-04,Bulk Propane Residential,Alberta,4905
+2028-04,Bulk Propane Residential,British Columbia,2307
+2028-04,Bulk Propane Residential,Saskatchewan,2568
+2028-04,Bulk Propane Residential,Ontario,5864
+2028-04,Bulk Propane Residential,Quebec,3896
+2028-04,Light Heating Oil No. 2,Alberta,672
+2028-04,Light Heating Oil No. 2,British Columbia,265
+2028-04,Light Heating Oil No. 2,Saskatchewan,391
+2028-04,Light Heating Oil No. 2,Ontario,2611
+2028-04,Light Heating Oil No. 2,Quebec,2893
+2028-04,Asphalt Cement PG 58-28,Alberta,6313
+2028-04,Asphalt Cement PG 58-28,British Columbia,3238
+2028-04,Asphalt Cement PG 58-28,Saskatchewan,2763
+2028-04,Asphalt Cement PG 58-28,Ontario,6769
+2028-04,Asphalt Cement PG 58-28,Quebec,3674
+2028-04,Renewable Diesel R99,Alberta,3248
+2028-04,Renewable Diesel R99,British Columbia,2554
+2028-04,Renewable Diesel R99,Saskatchewan,1173
+2028-04,Renewable Diesel R99,Ontario,2861
+2028-04,Renewable Diesel R99,Quebec,1736
+2028-04,DC Fast Charging 150 kW,Alberta,459
+2028-04,DC Fast Charging 150 kW,British Columbia,1435
+2028-04,DC Fast Charging 150 kW,Saskatchewan,74
+2028-04,DC Fast Charging 150 kW,Ontario,1071
+2028-04,DC Fast Charging 150 kW,Quebec,735
+2028-05,Regular Unleaded 87,Alberta,93773
+2028-05,Regular Unleaded 87,British Columbia,60573
+2028-05,Regular Unleaded 87,Saskatchewan,31336
+2028-05,Regular Unleaded 87,Ontario,76311
+2028-05,Regular Unleaded 87,Quebec,46943
+2028-05,Premium Unleaded 91,Alberta,17629
+2028-05,Premium Unleaded 91,British Columbia,13132
+2028-05,Premium Unleaded 91,Saskatchewan,4761
+2028-05,Premium Unleaded 91,Ontario,16493
+2028-05,Premium Unleaded 91,Quebec,7980
+2028-05,Ultra-Low Sulphur Diesel No. 2,Alberta,85413
+2028-05,Ultra-Low Sulphur Diesel No. 2,British Columbia,52111
+2028-05,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,34243
+2028-05,Ultra-Low Sulphur Diesel No. 2,Ontario,68038
+2028-05,Ultra-Low Sulphur Diesel No. 2,Quebec,45539
+2028-05,Winter Diesel No. 1,Alberta,3752
+2028-05,Winter Diesel No. 1,British Columbia,1304
+2028-05,Winter Diesel No. 1,Saskatchewan,1972
+2028-05,Winter Diesel No. 1,Ontario,2253
+2028-05,Winter Diesel No. 1,Quebec,1665
+2028-05,Jet A,Alberta,33867
+2028-05,Jet A,British Columbia,33006
+2028-05,Jet A,Saskatchewan,3959
+2028-05,Jet A,Ontario,39803
+2028-05,Jet A,Quebec,22311
+2028-05,Bulk Propane Residential,Alberta,3205
+2028-05,Bulk Propane Residential,British Columbia,1563
+2028-05,Bulk Propane Residential,Saskatchewan,1760
+2028-05,Bulk Propane Residential,Ontario,3853
+2028-05,Bulk Propane Residential,Quebec,2641
+2028-05,Light Heating Oil No. 2,Alberta,328
+2028-05,Light Heating Oil No. 2,British Columbia,136
+2028-05,Light Heating Oil No. 2,Saskatchewan,195
+2028-05,Light Heating Oil No. 2,Ontario,1268
+2028-05,Light Heating Oil No. 2,Quebec,1420
+2028-05,Asphalt Cement PG 58-28,Alberta,15375
+2028-05,Asphalt Cement PG 58-28,British Columbia,7540
+2028-05,Asphalt Cement PG 58-28,Saskatchewan,6758
+2028-05,Asphalt Cement PG 58-28,Ontario,16034
+2028-05,Asphalt Cement PG 58-28,Quebec,9031
+2028-05,Renewable Diesel R99,Alberta,3408
+2028-05,Renewable Diesel R99,British Columbia,2688
+2028-05,Renewable Diesel R99,Saskatchewan,1220
+2028-05,Renewable Diesel R99,Ontario,2962
+2028-05,Renewable Diesel R99,Quebec,1805
+2028-05,DC Fast Charging 150 kW,Alberta,470
+2028-05,DC Fast Charging 150 kW,British Columbia,1498
+2028-05,DC Fast Charging 150 kW,Saskatchewan,78
+2028-05,DC Fast Charging 150 kW,Ontario,1121
+2028-05,DC Fast Charging 150 kW,Quebec,775
+2028-06,Regular Unleaded 87,Alberta,94739
+2028-06,Regular Unleaded 87,British Columbia,61298
+2028-06,Regular Unleaded 87,Saskatchewan,30631
+2028-06,Regular Unleaded 87,Ontario,80477
+2028-06,Regular Unleaded 87,Quebec,46790
+2028-06,Premium Unleaded 91,Alberta,18365
+2028-06,Premium Unleaded 91,British Columbia,13965
+2028-06,Premium Unleaded 91,Saskatchewan,5000
+2028-06,Premium Unleaded 91,Ontario,16309
+2028-06,Premium Unleaded 91,Quebec,8039
+2028-06,Ultra-Low Sulphur Diesel No. 2,Alberta,88177
+2028-06,Ultra-Low Sulphur Diesel No. 2,British Columbia,53292
+2028-06,Ultra-Low Sulphur Diesel No. 2,Saskatchewan,34825
+2028-06,Ultra-Low Sulphur Diesel No. 2,Ontario,69663
+2028-06,Ultra-Low Sulphur Diesel No. 2,Quebec,48332
+2028-06,Winter Diesel No. 1,Alberta,1936
+2028-06,Winter Diesel No. 1,British Columbia,662
+2028-06,Winter Diesel No. 1,Saskatchewan,1001
+2028-06,Winter Diesel No. 1,Ontario,1117
+2028-06,Winter Diesel No. 1,Quebec,809
+2028-06,Jet A,Alberta,35632
+2028-06,Jet A,British Columbia,35001
+2028-06,Jet A,Saskatchewan,4116
+2028-06,Jet A,Ontario,41582
+2028-06,Jet A,Quebec,24527
+2028-06,Bulk Propane Residential,Alberta,2807
+2028-06,Bulk Propane Residential,British Columbia,1352
+2028-06,Bulk Propane Residential,Saskatchewan,1430
+2028-06,Bulk Propane Residential,Ontario,3327
+2028-06,Bulk Propane Residential,Quebec,2186
+2028-06,Light Heating Oil No. 2,Alberta,211
+2028-06,Light Heating Oil No. 2,British Columbia,83
+2028-06,Light Heating Oil No. 2,Saskatchewan,124
+2028-06,Light Heating Oil No. 2,Ontario,812
+2028-06,Light Heating Oil No. 2,Quebec,872
+2028-06,Asphalt Cement PG 58-28,Alberta,21250
+2028-06,Asphalt Cement PG 58-28,British Columbia,11132
+2028-06,Asphalt Cement PG 58-28,Saskatchewan,9138
+2028-06,Asphalt Cement PG 58-28,Ontario,23104
+2028-06,Asphalt Cement PG 58-28,Quebec,12452
+2028-06,Renewable Diesel R99,Alberta,3335
+2028-06,Renewable Diesel R99,British Columbia,2659
+2028-06,Renewable Diesel R99,Saskatchewan,1208
+2028-06,Renewable Diesel R99,Ontario,3036
+2028-06,Renewable Diesel R99,Quebec,1835
+2028-06,DC Fast Charging 150 kW,Alberta,507
+2028-06,DC Fast Charging 150 kW,British Columbia,1545
+2028-06,DC Fast Charging 150 kW,Saskatchewan,82
+2028-06,DC Fast Charging 150 kW,Ontario,1143
+2028-06,DC Fast Charging 150 kW,Quebec,827

@@ -1,0 +1,1001 @@
+Customer,Product,Forecast_Qty
+Tidewater Freight Lines,Diesel Anti-Gel Additive,1633
+Tidewater Freight Lines,Diesel Exhaust Fluid (DEF),1125
+Tidewater Freight Lines,Premium Diesel with Additive,16032
+Tidewater Freight Lines,Renewable Diesel R99,25602
+Rocky Ridge Farm Co-op,Bulk Propane Commercial,9440
+Rocky Ridge Farm Co-op,Diesel Exhaust Fluid (DEF),480
+Rocky Ridge Farm Co-op,Dyed Off-Road Diesel,14715
+Rocky Ridge Farm Co-op,Farm Diesel Bulk Delivery,15339
+Red River Public Transit Commission,Biodiesel B5 Blend,26122
+Red River Public Transit Commission,Diesel Exhaust Fluid (DEF),495
+Red River Public Transit Commission,Regular Unleaded 87,22331
+Red River Public Transit Commission,Renewable Diesel R99,22432
+Red River Public Transit Commission,Ultra-Low Sulphur Diesel No. 2,12260
+Evergreen Air Services,Avgas 100LL,153560
+Evergreen Air Services,Ground Support Equipment Diesel,146940
+Evergreen Air Services,Jet A,220477
+Evergreen Air Services,Jet A-1,227247
+Evergreen Air Services,Sustainable Aviation Fuel Blend 10%,10920
+Evergreen Air Services,Sustainable Aviation Fuel Blend 30%,3271
+Prairie Resources Ltd.,Arctic Grade Diesel,36242
+Prairie Resources Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,349
+Prairie Resources Ltd.,Industrial Gear Oil ISO 220,839
+Prairie Resources Ltd.,Multipurpose Grease NLGI 2,806
+Prairie Resources Ltd.,Natural Gas Engine Oil,509
+Highland Paving Co.,Asphalt Cement PG 58-28,61111
+Highland Paving Co.,Asphalt Cement PG 70-28,80182
+Highland Paving Co.,Cationic Asphalt Emulsion,33349
+Highland Paving Co.,Dyed Off-Road Diesel,49310
+Highland Paving Co.,Hydraulic Oil AW 46,1310
+Lakeshore Drilling Services,Bulk Propane Commercial,8243
+Lakeshore Drilling Services,Compressor Oil ISO 100,269
+Lakeshore Drilling Services,Condensate and Diluent,12901
+Lakeshore Drilling Services,Drilling Fluid Base Oil,292
+Lakeshore Drilling Services,Dyed Off-Road Diesel,20793
+Lakeshore Drilling Services,Natural Gas Engine Oil,161
+Lakeshore Drilling Services,Ultra-Low Sulphur Diesel No. 2,7066
+Lakeshore Drilling Services,Winter Diesel No. 1,18724
+Stonebridge Fuel Distributors,Bulk Propane Commercial,66345
+Stonebridge Fuel Distributors,Ethanol E85,13839
+Stonebridge Fuel Distributors,Kerosene K-1,25624
+Stonebridge Fuel Distributors,Light Heating Oil No. 2,72662
+Stonebridge Fuel Distributors,Premium Unleaded 91,74389
+Stonebridge Fuel Distributors,Rack Gasoline 87 (Wholesale),29275
+Stonebridge Fuel Distributors,Winter Diesel No. 1,60545
+Prairie Home Heating Ltd.,Autogas Propane,42785
+Prairie Home Heating Ltd.,Bio-Heating Oil B10,22189
+Prairie Home Heating Ltd.,Bulk Propane Commercial,19470
+Prairie Home Heating Ltd.,Bulk Propane Residential,44699
+Prairie Home Heating Ltd.,Butane,48040
+Prairie Home Heating Ltd.,Light Heating Oil No. 2,19108
+Northern Oil and Filter Supply,Automatic Transmission Fluid,795
+Northern Oil and Filter Supply,Conventional Engine Oil 10W-30,501
+Northern Oil and Filter Supply,Engine Coolant 50/50,802
+Northern Oil and Filter Supply,Gear Oil 80W-90,355
+Northern Oil and Filter Supply,Hydraulic Oil AW 46,774
+Northern Oil and Filter Supply,Synthetic Engine Oil 0W-20,634
+Northern Oil and Filter Supply,Synthetic Engine Oil 5W-30,827
+Northern Oil and Filter Supply,Windshield Washer Fluid -40,787
+Riverbend Energy Co-op,Compressor Oil ISO 100,1037
+Riverbend Energy Co-op,Natural Gas Engine Oil,1494
+Riverbend Energy Co-op,Turbine Oil ISO 46,1297
+Riverbend Energy Co-op,Wind Turbine Gear Oil,1152
+Cascade Specialty Chemicals,Condensate and Diluent,395075
+Cascade Specialty Chemicals,Ethane Feedstock Supply,301014
+Cascade Specialty Chemicals,Granular Sulphur,418799
+Cascade Specialty Chemicals,Mixed Xylenes,543322
+Cascade Specialty Chemicals,Petroleum Coke,527282
+Cascade Specialty Chemicals,Polymer-Grade Propylene,476701
+Cascade Specialty Chemicals,Toluene,330490
+Badlands Ferries Corp.,Marine Cylinder Oil,1231
+Badlands Ferries Corp.,Marine Diesel Oil,35097
+Badlands Ferries Corp.,Marine Gas Oil,31725
+Badlands Ferries Corp.,Ultra-Low Sulphur Diesel No. 2,102635
+Badlands Ferries Corp.,Very Low Sulphur Fuel Oil (VLSFO),28174
+Kestrel Rail Services,Biodiesel B20 Blend,104029
+Kestrel Rail Services,Diesel Exhaust Fluid (DEF),1275
+Kestrel Rail Services,Heavy-Duty Diesel Engine Oil 15W-40,1603
+Kestrel Rail Services,Hydraulic Oil AW 46,2283
+Kestrel Rail Services,Locomotive Diesel,166193
+Cascade Provincial Fleet Services,Arctic Grade Diesel,20110
+Cascade Provincial Fleet Services,Regular Unleaded 87,5421
+Cascade Provincial Fleet Services,Ultra-Low Sulphur Diesel No. 2,14214
+Cascade Provincial Fleet Services,Winter Diesel No. 1,12560
+Northern Haulage Inc.,Biodiesel B20 Blend,10985
+Northern Haulage Inc.,Diesel Anti-Gel Additive,254
+Northern Haulage Inc.,Diesel Exhaust Fluid (DEF),149
+Northern Haulage Inc.,Heavy-Duty Diesel Engine Oil 15W-40,111
+Northern Haulage Inc.,Premium Diesel with Additive,12322
+Northern Haulage Inc.,Renewable Diesel R99,7008
+Northern Haulage Inc.,Ultra-Low Sulphur Diesel No. 2,6120
+Northern Haulage Inc.,Winter Diesel No. 1,8210
+Lakeland Ag Services Ltd.,Bulk Propane Commercial,9568
+Lakeland Ag Services Ltd.,Diesel Exhaust Fluid (DEF),224
+Lakeland Ag Services Ltd.,Dyed Off-Road Diesel,7659
+Lakeland Ag Services Ltd.,Farm Diesel Bulk Delivery,10721
+Lakeland Ag Services Ltd.,Multipurpose Grease NLGI 2,168
+Lakeland Ag Services Ltd.,Regular Unleaded 87,11489
+Lakeshore Transit Authority,Biodiesel B5 Blend,14900
+Lakeshore Transit Authority,Diesel Exhaust Fluid (DEF),562
+Lakeshore Transit Authority,Regular Unleaded 87,14365
+Lakeshore Transit Authority,Ultra-Low Sulphur Diesel No. 2,24459
+Rocky Ridge Airways,Avgas 100LL,314604
+Rocky Ridge Airways,Ground Support Equipment Diesel,773151
+Rocky Ridge Airways,Jet A,634692
+Rocky Ridge Airways,Jet A-1,276117
+Rocky Ridge Airways,Sustainable Aviation Fuel Blend 10%,32123
+Rocky Ridge Airways,Sustainable Aviation Fuel Blend 30%,13550
+Westgate Potash Operations,Arctic Grade Diesel,144669
+Westgate Potash Operations,Diesel Exhaust Fluid (DEF),3600
+Westgate Potash Operations,Hydraulic Oil AW 68,2410
+Westgate Potash Operations,Industrial Gear Oil ISO 220,2007
+Westgate Potash Operations,Mining-Grade Bulk Diesel,151235
+Westgate Potash Operations,Natural Gas Engine Oil,3143
+Rocky Ridge Aggregates and Asphalt,Asphalt Cement PG 58-28,15273
+Rocky Ridge Aggregates and Asphalt,Asphalt Cement PG 64-22,15335
+Rocky Ridge Aggregates and Asphalt,Asphalt Cement PG 70-28,18754
+Rocky Ridge Aggregates and Asphalt,Cationic Asphalt Emulsion,16134
+Rocky Ridge Aggregates and Asphalt,Dyed Off-Road Diesel,27074
+Rocky Ridge Aggregates and Asphalt,Hydraulic Oil AW 46,749
+Rocky Ridge Aggregates and Asphalt,Medium-Cure Cutback Asphalt,28155
+Timberline Energy Services,Bulk Propane Commercial,33703
+Timberline Energy Services,Compressor Oil ISO 100,329
+Timberline Energy Services,Condensate and Diluent,16903
+Timberline Energy Services,Drilling Fluid Base Oil,708
+Timberline Energy Services,Dyed Off-Road Diesel,26308
+Timberline Energy Services,Ultra-Low Sulphur Diesel No. 2,10904
+Timberline Energy Services,Winter Diesel No. 1,29025
+Prairie Fuel Distributors,Bulk Propane Commercial,163093
+Prairie Fuel Distributors,Ethanol E85,51242
+Prairie Fuel Distributors,Kerosene K-1,110626
+Prairie Fuel Distributors,Regular Unleaded 87,141577
+Prairie Fuel Distributors,Ultra-Low Sulphur Diesel No. 2,163237
+Prairie Fuel Distributors,Winter Diesel No. 1,70721
+Cedar Valley Propane and Heat,Autogas Propane,4706
+Cedar Valley Propane and Heat,Bio-Heating Oil B10,8506
+Cedar Valley Propane and Heat,Bulk Propane Commercial,4469
+Cedar Valley Propane and Heat,Bulk Propane Residential,10031
+Cedar Valley Propane and Heat,Butane,3660
+Cedar Valley Propane and Heat,Light Heating Oil No. 2,5437
+Northgate Industrial Lubricants Inc.,Brake Fluid DOT 4,3061
+Northgate Industrial Lubricants Inc.,Gear Oil 80W-90,2894
+Northgate Industrial Lubricants Inc.,Hydraulic Oil AW 68,993
+Northgate Industrial Lubricants Inc.,Windshield Washer Fluid -40,2941
+Stonebridge Energy Co-op,Compressor Oil ISO 100,4724
+Stonebridge Energy Co-op,Transformer Insulating Oil,2916
+Stonebridge Energy Co-op,Turbine Oil ISO 46,6477
+Stonebridge Energy Co-op,Ultra-Low Sulphur Diesel No. 2,1717
+Stonebridge Energy Co-op,Wind Turbine Gear Oil,6297
+Cedar Valley Petrochemicals Ltd.,Condensate and Diluent,425619
+Cedar Valley Petrochemicals Ltd.,Ethane Feedstock Supply,513411
+Cedar Valley Petrochemicals Ltd.,Granular Sulphur,603486
+Cedar Valley Petrochemicals Ltd.,Naphtha,427352
+Cedar Valley Petrochemicals Ltd.,Petroleum Coke,302650
+Cedar Valley Petrochemicals Ltd.,Polymer-Grade Propylene,298978
+Cedar Valley Petrochemicals Ltd.,Toluene,628656
+Prairie Shipping Co.,Marine Cylinder Oil,715
+Prairie Shipping Co.,Marine Diesel Oil,42969
+Prairie Shipping Co.,Ultra-Low Sulphur Diesel No. 2,42489
+Prairie Shipping Co.,Very Low Sulphur Fuel Oil (VLSFO),54635
+Prairie Railway Co.,Biodiesel B20 Blend,43829
+Prairie Railway Co.,Diesel Exhaust Fluid (DEF),824
+Prairie Railway Co.,Heavy-Duty Diesel Engine Oil 15W-40,880
+Prairie Railway Co.,Hydraulic Oil AW 46,695
+Coastal Municipal Public Works,Arctic Grade Diesel,22604
+Coastal Municipal Public Works,Engine Coolant 50/50,987
+Coastal Municipal Public Works,Jet A-1,21411
+Coastal Municipal Public Works,Light Heating Oil No. 2,34758
+Coastal Municipal Public Works,Regular Unleaded 87,12132
+Coastal Municipal Public Works,Ultra-Low Sulphur Diesel No. 2,26244
+Coastal Municipal Public Works,Winter Diesel No. 1,14029
+Northgate Haulage Inc.,Biodiesel B20 Blend,19123
+Northgate Haulage Inc.,Diesel Anti-Gel Additive,183
+Northgate Haulage Inc.,Diesel Exhaust Fluid (DEF),221
+Northgate Haulage Inc.,Heavy-Duty Diesel Engine Oil 15W-40,287
+Northgate Haulage Inc.,Premium Diesel with Additive,6735
+Northgate Haulage Inc.,Ultra-Low Sulphur Diesel No. 2,18140
+Harbourfront Agri Supply Co-op,Bulk Propane Commercial,1454
+Harbourfront Agri Supply Co-op,Diesel Exhaust Fluid (DEF),36
+Harbourfront Agri Supply Co-op,Dyed Off-Road Diesel,679
+Harbourfront Agri Supply Co-op,Farm Diesel Bulk Delivery,1213
+Harbourfront Agri Supply Co-op,Hydraulic Oil AW 46,22
+Harbourfront Agri Supply Co-op,Multipurpose Grease NLGI 2,8
+Harbourfront Agri Supply Co-op,Regular Unleaded 87,885
+Pinecrest Transit Authority,Biodiesel B5 Blend,4904
+Pinecrest Transit Authority,DC Fast Charging 150 kW,670
+Pinecrest Transit Authority,Diesel Exhaust Fluid (DEF),154
+Pinecrest Transit Authority,Regular Unleaded 87,6579
+Pinecrest Transit Authority,Renewable Diesel R99,6467
+Pinecrest Transit Authority,Ultra-Low Sulphur Diesel No. 2,5888
+Harbourfront Airport Fuel Services,Ground Support Equipment Diesel,470154
+Harbourfront Airport Fuel Services,Jet A,503661
+Harbourfront Airport Fuel Services,Jet A-1,540366
+Harbourfront Airport Fuel Services,Sustainable Aviation Fuel Blend 10%,39010
+Harbourfront Airport Fuel Services,Sustainable Aviation Fuel Blend 30%,16085
+Lakeshore Minerals Inc.,Diesel Exhaust Fluid (DEF),996
+Lakeshore Minerals Inc.,Hydraulic Oil AW 68,517
+Lakeshore Minerals Inc.,Mining-Grade Bulk Diesel,21831
+Lakeshore Minerals Inc.,Multipurpose Grease NLGI 2,596
+Pinecrest Aggregates and Asphalt,Asphalt Cement PG 58-28,8415
+Pinecrest Aggregates and Asphalt,Asphalt Cement PG 64-22,19294
+Pinecrest Aggregates and Asphalt,Asphalt Cement PG 70-28,5822
+Pinecrest Aggregates and Asphalt,Cationic Asphalt Emulsion,15470
+Pinecrest Aggregates and Asphalt,Dyed Off-Road Diesel,10771
+Pinecrest Aggregates and Asphalt,Hydraulic Oil AW 46,171
+Pinecrest Aggregates and Asphalt,Medium-Cure Cutback Asphalt,21861
+Summit Energy Services,Bulk Propane Commercial,3244
+Summit Energy Services,Condensate and Diluent,8740
+Summit Energy Services,Dyed Off-Road Diesel,10984
+Summit Energy Services,Winter Diesel No. 1,4312
+Harbourfront Energy Distribution Inc.,Light Heating Oil No. 2,325614
+Harbourfront Energy Distribution Inc.,Premium Unleaded 91,602039
+Harbourfront Energy Distribution Inc.,Regular Unleaded 87,318220
+Harbourfront Energy Distribution Inc.,Ultra-Low Sulphur Diesel No. 2,431705
+Harbourfront Energy Distribution Inc.,Winter Diesel No. 1,314044
+Summit Propane Services Inc.,Autogas Propane,21107
+Summit Propane Services Inc.,Bio-Heating Oil B10,8778
+Summit Propane Services Inc.,Bulk Propane Commercial,6948
+Summit Propane Services Inc.,Butane,24698
+Evergreen Industrial Lubricants Inc.,Brake Fluid DOT 4,804
+Evergreen Industrial Lubricants Inc.,Conventional Engine Oil 10W-30,793
+Evergreen Industrial Lubricants Inc.,Gear Oil 80W-90,1289
+Evergreen Industrial Lubricants Inc.,Heavy-Duty Diesel Engine Oil 15W-40,1116
+Evergreen Industrial Lubricants Inc.,Hydraulic Oil AW 32,1157
+Evergreen Industrial Lubricants Inc.,Hydraulic Oil AW 46,1225
+Evergreen Industrial Lubricants Inc.,Synthetic Engine Oil 5W-30,769
+Evergreen Industrial Lubricants Inc.,Windshield Washer Fluid -40,1107
+Ironwood Power Generation,Compressor Oil ISO 100,4797
+Ironwood Power Generation,Natural Gas Engine Oil,1353
+Ironwood Power Generation,Transformer Insulating Oil,3876
+Ironwood Power Generation,Turbine Oil ISO 46,3045
+Ironwood Power Generation,Ultra-Low Sulphur Diesel No. 2,3825
+Northern Petrochemicals Ltd.,Condensate and Diluent,398846
+Northern Petrochemicals Ltd.,Ethane Feedstock Supply,120181
+Northern Petrochemicals Ltd.,Granular Sulphur,247296
+Northern Petrochemicals Ltd.,Mixed Xylenes,232246
+Northern Petrochemicals Ltd.,Naphtha,181301
+Northern Petrochemicals Ltd.,Petroleum Coke,316102
+Northern Petrochemicals Ltd.,Polymer-Grade Propylene,367465
+Northern Petrochemicals Ltd.,Toluene,222167
+Riverbend Marine Services,Marine Cylinder Oil,374
+Riverbend Marine Services,Marine Gas Oil,21176
+Riverbend Marine Services,Ultra-Low Sulphur Diesel No. 2,34294
+Riverbend Marine Services,Very Low Sulphur Fuel Oil (VLSFO),57282
+Cascade Railway Co.,Biodiesel B20 Blend,42829
+Cascade Railway Co.,Heavy-Duty Diesel Engine Oil 15W-40,1077
+Cascade Railway Co.,Hydraulic Oil AW 46,1303
+Cascade Railway Co.,Locomotive Diesel,49206
+Tidewater Provincial Fleet Services,Arctic Grade Diesel,16339
+Tidewater Provincial Fleet Services,Engine Coolant 50/50,1425
+Tidewater Provincial Fleet Services,Jet A-1,43643
+Tidewater Provincial Fleet Services,Light Heating Oil No. 2,28284
+Tidewater Provincial Fleet Services,Regular Unleaded 87,39264
+Tidewater Provincial Fleet Services,Ultra-Low Sulphur Diesel No. 2,43070
+Tidewater Provincial Fleet Services,Winter Diesel No. 1,12988
+Harbourfront Logistics Ltd.,Diesel Anti-Gel Additive,1173
+Harbourfront Logistics Ltd.,Diesel Exhaust Fluid (DEF),1025
+Harbourfront Logistics Ltd.,Renewable Diesel R99,32195
+Harbourfront Logistics Ltd.,Ultra-Low Sulphur Diesel No. 2,23698
+Riverbend Ag Services Ltd.,Bulk Propane Commercial,1637
+Riverbend Ag Services Ltd.,Diesel Exhaust Fluid (DEF),134
+Riverbend Ag Services Ltd.,Farm Diesel Bulk Delivery,2195
+Riverbend Ag Services Ltd.,Hydraulic Oil AW 46,47
+Riverbend Ag Services Ltd.,Multipurpose Grease NLGI 2,22
+Riverbend Ag Services Ltd.,Regular Unleaded 87,4148
+Kestrel Transit Authority,Biodiesel B5 Blend,29040
+Kestrel Transit Authority,DC Fast Charging 150 kW,2851
+Kestrel Transit Authority,Diesel Exhaust Fluid (DEF),957
+Kestrel Transit Authority,Regular Unleaded 87,20332
+Kestrel Transit Authority,Renewable Diesel R99,26977
+Kestrel Transit Authority,Ultra-Low Sulphur Diesel No. 2,20550
+Highland Air Services,Ground Support Equipment Diesel,265840
+Highland Air Services,Jet A,576302
+Highland Air Services,Jet A-1,366018
+Highland Air Services,Sustainable Aviation Fuel Blend 10%,43038
+Highland Air Services,Sustainable Aviation Fuel Blend 30%,18700
+Highland Minerals Inc.,Arctic Grade Diesel,108200
+Highland Minerals Inc.,Diesel Exhaust Fluid (DEF),4497
+Highland Minerals Inc.,Heavy-Duty Diesel Engine Oil 15W-40,1282
+Highland Minerals Inc.,Hydraulic Oil AW 68,2420
+Highland Minerals Inc.,Industrial Gear Oil ISO 220,2782
+Highland Minerals Inc.,Mining-Grade Bulk Diesel,93396
+Highland Minerals Inc.,Multipurpose Grease NLGI 2,1992
+Highland Minerals Inc.,Natural Gas Engine Oil,804
+Northgate Road Builders Ltd.,Asphalt Cement PG 58-28,7740
+Northgate Road Builders Ltd.,Asphalt Cement PG 64-22,20458
+Northgate Road Builders Ltd.,Asphalt Cement PG 70-28,19359
+Northgate Road Builders Ltd.,Cationic Asphalt Emulsion,14670
+Northgate Road Builders Ltd.,Dyed Off-Road Diesel,8402
+Northgate Road Builders Ltd.,Hydraulic Oil AW 46,214
+Northgate Road Builders Ltd.,Medium-Cure Cutback Asphalt,9444
+Ironwood Drilling Services,Compressor Oil ISO 100,443
+Ironwood Drilling Services,Condensate and Diluent,31943
+Ironwood Drilling Services,Drilling Fluid Base Oil,1184
+Ironwood Drilling Services,Ultra-Low Sulphur Diesel No. 2,24132
+Ironwood Drilling Services,Winter Diesel No. 1,43908
+Badlands Fuels Wholesale Ltd.,Ethanol E85,5048
+Badlands Fuels Wholesale Ltd.,Kerosene K-1,22255
+Badlands Fuels Wholesale Ltd.,Premium Unleaded 91,27064
+Badlands Fuels Wholesale Ltd.,Rack Gasoline 87 (Wholesale),30138
+Badlands Fuels Wholesale Ltd.,Ultra-Low Sulphur Diesel No. 2,14264
+Tidewater Propane Services Inc.,Autogas Propane,36166
+Tidewater Propane Services Inc.,Bio-Heating Oil B10,30797
+Tidewater Propane Services Inc.,Bulk Propane Commercial,30136
+Tidewater Propane Services Inc.,Bulk Propane Residential,38774
+Tidewater Propane Services Inc.,Butane,16666
+Tidewater Propane Services Inc.,Light Heating Oil No. 2,16071
+Highland Oil and Filter Supply,Automatic Transmission Fluid,824
+Highland Oil and Filter Supply,Brake Fluid DOT 4,780
+Highland Oil and Filter Supply,Engine Coolant 50/50,550
+Highland Oil and Filter Supply,Hydraulic Oil AW 46,1109
+Highland Oil and Filter Supply,Multipurpose Grease NLGI 2,491
+Highland Oil and Filter Supply,Windshield Washer Fluid -40,745
+Great Plains Power Generation,Natural Gas Engine Oil,232
+Great Plains Power Generation,Transformer Insulating Oil,184
+Great Plains Power Generation,Turbine Oil ISO 46,271
+Great Plains Power Generation,Ultra-Low Sulphur Diesel No. 2,476
+Great Plains Power Generation,Wind Turbine Gear Oil,476
+Kestrel Polymers Inc.,Condensate and Diluent,59329
+Kestrel Polymers Inc.,Ethane Feedstock Supply,176309
+Kestrel Polymers Inc.,Granular Sulphur,135360
+Kestrel Polymers Inc.,Mixed Xylenes,66369
+Kestrel Polymers Inc.,Naphtha,138919
+Kestrel Polymers Inc.,Petroleum Coke,160140
+Kestrel Polymers Inc.,Polymer-Grade Propylene,61787
+Kestrel Polymers Inc.,Toluene,84601
+Northgate Port Services Ltd.,Marine Cylinder Oil,108
+Northgate Port Services Ltd.,Marine Diesel Oil,3595
+Northgate Port Services Ltd.,Marine Gas Oil,10293
+Northgate Port Services Ltd.,Very Low Sulphur Fuel Oil (VLSFO),6393
+Ironwood Short Line Rail Ltd.,Biodiesel B20 Blend,216100
+Ironwood Short Line Rail Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,1762
+Ironwood Short Line Rail Ltd.,Hydraulic Oil AW 46,2505
+Ironwood Short Line Rail Ltd.,Locomotive Diesel,227227
+Summit Defence Logistics Branch,Arctic Grade Diesel,17240
+Summit Defence Logistics Branch,Jet A-1,19986
+Summit Defence Logistics Branch,Light Heating Oil No. 2,20077
+Summit Defence Logistics Branch,Regular Unleaded 87,23985
+Summit Defence Logistics Branch,Winter Diesel No. 1,14034
+Stonebridge Trucking Ltd.,Biodiesel B20 Blend,35072
+Stonebridge Trucking Ltd.,Premium Diesel with Additive,30576
+Stonebridge Trucking Ltd.,Renewable Diesel R99,37156
+Stonebridge Trucking Ltd.,Winter Diesel No. 1,33035
+Timberline Farm Co-op,Bulk Propane Commercial,10057
+Timberline Farm Co-op,Diesel Exhaust Fluid (DEF),209
+Timberline Farm Co-op,Dyed Off-Road Diesel,3181
+Timberline Farm Co-op,Farm Diesel Bulk Delivery,5544
+Timberline Farm Co-op,Hydraulic Oil AW 46,101
+Timberline Farm Co-op,Multipurpose Grease NLGI 2,110
+Timberline Farm Co-op,Regular Unleaded 87,11021
+Blue Heron Municipal Fleet Services,Biodiesel B5 Blend,3978
+Blue Heron Municipal Fleet Services,Diesel Exhaust Fluid (DEF),170
+Blue Heron Municipal Fleet Services,Regular Unleaded 87,12980
+Blue Heron Municipal Fleet Services,Ultra-Low Sulphur Diesel No. 2,7284
+Timberline Airport Fuel Services,Avgas 100LL,441900
+Timberline Airport Fuel Services,Jet A,191942
+Timberline Airport Fuel Services,Jet A-1,497742
+Timberline Airport Fuel Services,Sustainable Aviation Fuel Blend 10%,32197
+Timberline Airport Fuel Services,Sustainable Aviation Fuel Blend 30%,5865
+Prairie Potash Operations,Arctic Grade Diesel,132881
+Prairie Potash Operations,Diesel Exhaust Fluid (DEF),2888
+Prairie Potash Operations,Heavy-Duty Diesel Engine Oil 15W-40,1260
+Prairie Potash Operations,Hydraulic Oil AW 68,1810
+Prairie Potash Operations,Industrial Gear Oil ISO 220,1186
+Prairie Potash Operations,Mining-Grade Bulk Diesel,116981
+Prairie Potash Operations,Multipurpose Grease NLGI 2,1975
+Foothills Paving Co.,Asphalt Cement PG 64-22,5740
+Foothills Paving Co.,Cationic Asphalt Emulsion,7455
+Foothills Paving Co.,Dyed Off-Road Diesel,12586
+Foothills Paving Co.,Medium-Cure Cutback Asphalt,9634
+Highland Energy Services,Bulk Propane Commercial,30815
+Highland Energy Services,Compressor Oil ISO 100,518
+Highland Energy Services,Condensate and Diluent,42533
+Highland Energy Services,Drilling Fluid Base Oil,707
+Highland Energy Services,Ultra-Low Sulphur Diesel No. 2,14893
+Highland Energy Services,Winter Diesel No. 1,22019
+Kestrel Fuels Wholesale Ltd.,Ethanol E85,7726
+Kestrel Fuels Wholesale Ltd.,Kerosene K-1,47675
+Kestrel Fuels Wholesale Ltd.,Light Heating Oil No. 2,66783
+Kestrel Fuels Wholesale Ltd.,Premium Unleaded 91,66028
+Kestrel Fuels Wholesale Ltd.,Rack Gasoline 87 (Wholesale),51455
+Kestrel Fuels Wholesale Ltd.,Ultra-Low Sulphur Diesel No. 2,51260
+Kestrel Fuels Wholesale Ltd.,Winter Diesel No. 1,82548
+Lakeland Home Heating Ltd.,Bio-Heating Oil B10,7261
+Lakeland Home Heating Ltd.,Bulk Propane Commercial,23147
+Lakeland Home Heating Ltd.,Bulk Propane Residential,15241
+Lakeland Home Heating Ltd.,Butane,9393
+Lakeland Home Heating Ltd.,Light Heating Oil No. 2,10708
+Cascade Lubricants Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,1372
+Cascade Lubricants Ltd.,Hydraulic Oil AW 32,1631
+Cascade Lubricants Ltd.,Hydraulic Oil AW 46,2011
+Cascade Lubricants Ltd.,Hydraulic Oil AW 68,2181
+Cascade Lubricants Ltd.,Multipurpose Grease NLGI 2,2148
+Cascade Lubricants Ltd.,Synthetic Engine Oil 0W-20,869
+Cascade Lubricants Ltd.,Windshield Washer Fluid -40,1162
+Northern Renewables Ltd.,Compressor Oil ISO 100,215
+Northern Renewables Ltd.,Natural Gas Engine Oil,450
+Northern Renewables Ltd.,Transformer Insulating Oil,276
+Northern Renewables Ltd.,Ultra-Low Sulphur Diesel No. 2,428
+Northern Renewables Ltd.,Wind Turbine Gear Oil,310
+Kestrel Chemicals,Condensate and Diluent,185659
+Kestrel Chemicals,Ethane Feedstock Supply,244077
+Kestrel Chemicals,Polymer-Grade Propylene,158478
+Kestrel Chemicals,Toluene,231060
+Coastal Marine Services,Marine Cylinder Oil,3027
+Coastal Marine Services,Marine Diesel Oil,70580
+Coastal Marine Services,Marine Gas Oil,56551
+Coastal Marine Services,Ultra-Low Sulphur Diesel No. 2,190851
+Coastal Marine Services,Very Low Sulphur Fuel Oil (VLSFO),158736
+Harbourfront Short Line Rail Ltd.,Biodiesel B20 Blend,39893
+Harbourfront Short Line Rail Ltd.,Diesel Exhaust Fluid (DEF),470
+Harbourfront Short Line Rail Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,303
+Harbourfront Short Line Rail Ltd.,Hydraulic Oil AW 46,618
+Harbourfront Short Line Rail Ltd.,Locomotive Diesel,30904
+Stonebridge Municipal Public Works,Arctic Grade Diesel,11714
+Stonebridge Municipal Public Works,Engine Coolant 50/50,1027
+Stonebridge Municipal Public Works,Light Heating Oil No. 2,32508
+Stonebridge Municipal Public Works,Ultra-Low Sulphur Diesel No. 2,15117
+Stonebridge Municipal Public Works,Winter Diesel No. 1,19431
+Cedar Valley Logistics Ltd.,Biodiesel B20 Blend,24049
+Cedar Valley Logistics Ltd.,Diesel Anti-Gel Additive,566
+Cedar Valley Logistics Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,302
+Cedar Valley Logistics Ltd.,Premium Diesel with Additive,35053
+Cedar Valley Logistics Ltd.,Renewable Diesel R99,18317
+Cedar Valley Logistics Ltd.,Ultra-Low Sulphur Diesel No. 2,21086
+Cedar Valley Logistics Ltd.,Winter Diesel No. 1,42497
+Lakeshore Ag Services Ltd.,Bulk Propane Commercial,12078
+Lakeshore Ag Services Ltd.,Dyed Off-Road Diesel,11328
+Lakeshore Ag Services Ltd.,Multipurpose Grease NLGI 2,224
+Lakeshore Ag Services Ltd.,Regular Unleaded 87,10628
+Highland Public Transit Commission,Biodiesel B5 Blend,4378
+Highland Public Transit Commission,DC Fast Charging 150 kW,477
+Highland Public Transit Commission,Diesel Exhaust Fluid (DEF),152
+Highland Public Transit Commission,Regular Unleaded 87,4012
+Highland Public Transit Commission,Renewable Diesel R99,2947
+Highland Public Transit Commission,Ultra-Low Sulphur Diesel No. 2,4616
+Lakeland Air Services,Avgas 100LL,170282
+Lakeland Air Services,Ground Support Equipment Diesel,77399
+Lakeland Air Services,Jet A,136166
+Lakeland Air Services,Jet A-1,223802
+Lakeland Air Services,Sustainable Aviation Fuel Blend 10%,11584
+Lakeland Air Services,Sustainable Aviation Fuel Blend 30%,5674
+Prairie Mining Corp,Diesel Exhaust Fluid (DEF),3149
+Prairie Mining Corp,Hydraulic Oil AW 68,947
+Prairie Mining Corp,Mining-Grade Bulk Diesel,63021
+Prairie Mining Corp,Multipurpose Grease NLGI 2,1047
+Coastal Paving Co.,Asphalt Cement PG 58-28,8380
+Coastal Paving Co.,Asphalt Cement PG 64-22,17173
+Coastal Paving Co.,Cationic Asphalt Emulsion,14856
+Coastal Paving Co.,Dyed Off-Road Diesel,6961
+Coastal Paving Co.,Hydraulic Oil AW 46,104
+Stonebridge Drilling Services,Bulk Propane Commercial,5118
+Stonebridge Drilling Services,Drilling Fluid Base Oil,382
+Stonebridge Drilling Services,Dyed Off-Road Diesel,9174
+Stonebridge Drilling Services,Ultra-Low Sulphur Diesel No. 2,16050
+Summit Fuel Distributors,Kerosene K-1,55568
+Summit Fuel Distributors,Mid-Grade Unleaded 89,28338
+Summit Fuel Distributors,Rack Gasoline 87 (Wholesale),23578
+Summit Fuel Distributors,Winter Diesel No. 1,73430
+Northern Propane and Heat,Bio-Heating Oil B10,14475
+Northern Propane and Heat,Bulk Propane Commercial,24069
+Northern Propane and Heat,Bulk Propane Residential,33863
+Northern Propane and Heat,Butane,32871
+Northern Propane and Heat,Light Heating Oil No. 2,38299
+Cedar Valley Automotive Fluids Distributors,Gear Oil 80W-90,1845
+Cedar Valley Automotive Fluids Distributors,Hydraulic Oil AW 32,1908
+Cedar Valley Automotive Fluids Distributors,Hydraulic Oil AW 46,563
+Cedar Valley Automotive Fluids Distributors,Hydraulic Oil AW 68,1274
+Boreal Renewables Ltd.,Compressor Oil ISO 100,170
+Boreal Renewables Ltd.,Natural Gas Engine Oil,591
+Boreal Renewables Ltd.,Transformer Insulating Oil,341
+Boreal Renewables Ltd.,Turbine Oil ISO 46,497
+Boreal Polymers Inc.,Condensate and Diluent,50682
+Boreal Polymers Inc.,Granular Sulphur,98080
+Boreal Polymers Inc.,Mixed Xylenes,92841
+Boreal Polymers Inc.,Naphtha,119711
+Boreal Polymers Inc.,Petroleum Coke,129030
+Westgate Shipping Co.,Marine Cylinder Oil,1546
+Westgate Shipping Co.,Marine Diesel Oil,164598
+Westgate Shipping Co.,Marine Gas Oil,147644
+Westgate Shipping Co.,Ultra-Low Sulphur Diesel No. 2,88046
+Badlands Rail Services,Biodiesel B20 Blend,68043
+Badlands Rail Services,Diesel Exhaust Fluid (DEF),4847
+Badlands Rail Services,Heavy-Duty Diesel Engine Oil 15W-40,1844
+Badlands Rail Services,Hydraulic Oil AW 46,1047
+Badlands Rail Services,Locomotive Diesel,72776
+Tidewater Parks and Highways Department,Arctic Grade Diesel,17682
+Tidewater Parks and Highways Department,Engine Coolant 50/50,681
+Tidewater Parks and Highways Department,Jet A-1,28714
+Tidewater Parks and Highways Department,Light Heating Oil No. 2,15224
+Tidewater Parks and Highways Department,Regular Unleaded 87,10028
+Tidewater Parks and Highways Department,Ultra-Low Sulphur Diesel No. 2,25122
+Tidewater Parks and Highways Department,Winter Diesel No. 1,28409
+Ironwood Trucking Ltd.,Diesel Anti-Gel Additive,1205
+Ironwood Trucking Ltd.,Diesel Exhaust Fluid (DEF),947
+Ironwood Trucking Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,461
+Ironwood Trucking Ltd.,Premium Diesel with Additive,29642
+Ironwood Trucking Ltd.,Renewable Diesel R99,39552
+Ironwood Trucking Ltd.,Ultra-Low Sulphur Diesel No. 2,14621
+Cascade Agri Supply Co-op,Bulk Propane Commercial,17880
+Cascade Agri Supply Co-op,Diesel Exhaust Fluid (DEF),532
+Cascade Agri Supply Co-op,Dyed Off-Road Diesel,14676
+Cascade Agri Supply Co-op,Farm Diesel Bulk Delivery,9064
+Cascade Agri Supply Co-op,Hydraulic Oil AW 46,258
+Cascade Agri Supply Co-op,Multipurpose Grease NLGI 2,262
+Cascade Agri Supply Co-op,Regular Unleaded 87,12096
+Red River Transit Authority,Biodiesel B5 Blend,22876
+Red River Transit Authority,DC Fast Charging 150 kW,1365
+Red River Transit Authority,Regular Unleaded 87,7987
+Red River Transit Authority,Renewable Diesel R99,11004
+Red River Transit Authority,Ultra-Low Sulphur Diesel No. 2,10958
+Timberline Aviation Ltd.,Avgas 100LL,392645
+Timberline Aviation Ltd.,Ground Support Equipment Diesel,276822
+Timberline Aviation Ltd.,Jet A,289697
+Timberline Aviation Ltd.,Jet A-1,209256
+Timberline Aviation Ltd.,Sustainable Aviation Fuel Blend 10%,48570
+Timberline Aviation Ltd.,Sustainable Aviation Fuel Blend 30%,20360
+Cedar Valley Mining Corp,Hydraulic Oil AW 68,1355
+Cedar Valley Mining Corp,Industrial Gear Oil ISO 220,2469
+Cedar Valley Mining Corp,Mining-Grade Bulk Diesel,96506
+Cedar Valley Mining Corp,Multipurpose Grease NLGI 2,1574
+Cedar Valley Mining Corp,Natural Gas Engine Oil,2551
+Prairie Construction Group,Asphalt Cement PG 64-22,49143
+Prairie Construction Group,Asphalt Cement PG 70-28,33597
+Prairie Construction Group,Cationic Asphalt Emulsion,60505
+Prairie Construction Group,Dyed Off-Road Diesel,74848
+Prairie Construction Group,Hydraulic Oil AW 46,765
+Prairie Construction Group,Medium-Cure Cutback Asphalt,56576
+Stonebridge Well Servicing Ltd.,Bulk Propane Commercial,11258
+Stonebridge Well Servicing Ltd.,Compressor Oil ISO 100,323
+Stonebridge Well Servicing Ltd.,Condensate and Diluent,12715
+Stonebridge Well Servicing Ltd.,Drilling Fluid Base Oil,349
+Stonebridge Well Servicing Ltd.,Dyed Off-Road Diesel,21027
+Stonebridge Well Servicing Ltd.,Natural Gas Engine Oil,176
+Stonebridge Well Servicing Ltd.,Ultra-Low Sulphur Diesel No. 2,9703
+Stonebridge Well Servicing Ltd.,Winter Diesel No. 1,21492
+Rocky Ridge Energy Distribution Inc.,Bulk Propane Commercial,266084
+Rocky Ridge Energy Distribution Inc.,Kerosene K-1,292723
+Rocky Ridge Energy Distribution Inc.,Mid-Grade Unleaded 89,197169
+Rocky Ridge Energy Distribution Inc.,Premium Unleaded 91,82627
+Granite Propane Services Inc.,Autogas Propane,34012
+Granite Propane Services Inc.,Bio-Heating Oil B10,47022
+Granite Propane Services Inc.,Bulk Propane Commercial,40162
+Granite Propane Services Inc.,Bulk Propane Residential,40682
+Granite Propane Services Inc.,Butane,35134
+Foothills Automotive Fluids Distributors,Engine Coolant 50/50,789
+Foothills Automotive Fluids Distributors,Gear Oil 80W-90,774
+Foothills Automotive Fluids Distributors,Heavy-Duty Diesel Engine Oil 15W-40,410
+Foothills Automotive Fluids Distributors,Hydraulic Oil AW 46,474
+Foothills Automotive Fluids Distributors,Hydraulic Oil AW 68,838
+Foothills Automotive Fluids Distributors,Synthetic Engine Oil 0W-20,655
+Lakeland Electric Utility,Compressor Oil ISO 100,616
+Lakeland Electric Utility,Natural Gas Engine Oil,1101
+Lakeland Electric Utility,Transformer Insulating Oil,1064
+Lakeland Electric Utility,Turbine Oil ISO 46,349
+Lakeland Electric Utility,Ultra-Low Sulphur Diesel No. 2,1064
+Lakeland Electric Utility,Wind Turbine Gear Oil,1325
+Granite Polymers Inc.,Condensate and Diluent,223706
+Granite Polymers Inc.,Ethane Feedstock Supply,384194
+Granite Polymers Inc.,Granular Sulphur,390666
+Granite Polymers Inc.,Mixed Xylenes,292070
+Granite Polymers Inc.,Naphtha,413144
+Granite Polymers Inc.,Petroleum Coke,385433
+Granite Polymers Inc.,Polymer-Grade Propylene,322832
+Granite Polymers Inc.,Toluene,275184
+Blue Heron Ferries Corp.,Marine Cylinder Oil,1120
+Blue Heron Ferries Corp.,Marine Diesel Oil,34477
+Blue Heron Ferries Corp.,Marine Gas Oil,91079
+Blue Heron Ferries Corp.,Ultra-Low Sulphur Diesel No. 2,34835
+Blue Heron Ferries Corp.,Very Low Sulphur Fuel Oil (VLSFO),32465
+Northern Rail Services,Diesel Exhaust Fluid (DEF),1043
+Northern Rail Services,Heavy-Duty Diesel Engine Oil 15W-40,527
+Northern Rail Services,Hydraulic Oil AW 46,1176
+Northern Rail Services,Locomotive Diesel,70816
+Lakeshore Parks and Highways Department,Arctic Grade Diesel,51606
+Lakeshore Parks and Highways Department,Engine Coolant 50/50,486
+Lakeshore Parks and Highways Department,Jet A-1,31632
+Lakeshore Parks and Highways Department,Regular Unleaded 87,14716
+Lakeshore Parks and Highways Department,Ultra-Low Sulphur Diesel No. 2,34794
+Cascade Haulage Inc.,Diesel Anti-Gel Additive,1791
+Cascade Haulage Inc.,Diesel Exhaust Fluid (DEF),786
+Cascade Haulage Inc.,Heavy-Duty Diesel Engine Oil 15W-40,862
+Cascade Haulage Inc.,Premium Diesel with Additive,24720
+Cascade Haulage Inc.,Renewable Diesel R99,49259
+Cascade Haulage Inc.,Ultra-Low Sulphur Diesel No. 2,35208
+Cascade Haulage Inc.,Winter Diesel No. 1,53327
+Harbourfront Growers Association,Bulk Propane Commercial,4839
+Harbourfront Growers Association,Dyed Off-Road Diesel,12423
+Harbourfront Growers Association,Farm Diesel Bulk Delivery,11440
+Harbourfront Growers Association,Hydraulic Oil AW 46,104
+Harbourfront Growers Association,Regular Unleaded 87,8897
+Cascade Municipal Fleet Services,Biodiesel B5 Blend,24974
+Cascade Municipal Fleet Services,DC Fast Charging 150 kW,2327
+Cascade Municipal Fleet Services,Diesel Exhaust Fluid (DEF),360
+Cascade Municipal Fleet Services,Regular Unleaded 87,14105
+Cascade Municipal Fleet Services,Renewable Diesel R99,15713
+Cascade Municipal Fleet Services,Ultra-Low Sulphur Diesel No. 2,22934
+Foothills Airways,Avgas 100LL,621156
+Foothills Airways,Ground Support Equipment Diesel,297504
+Foothills Airways,Jet A,276499
+Foothills Airways,Jet A-1,468523
+Foothills Airways,Sustainable Aviation Fuel Blend 10%,42635
+Foothills Airways,Sustainable Aviation Fuel Blend 30%,16536
+Kestrel Minerals Inc.,Arctic Grade Diesel,29262
+Kestrel Minerals Inc.,Diesel Exhaust Fluid (DEF),1192
+Kestrel Minerals Inc.,Heavy-Duty Diesel Engine Oil 15W-40,521
+Kestrel Minerals Inc.,Hydraulic Oil AW 68,353
+Kestrel Minerals Inc.,Industrial Gear Oil ISO 220,1125
+Kestrel Minerals Inc.,Multipurpose Grease NLGI 2,474
+Kestrel Minerals Inc.,Natural Gas Engine Oil,948
+Ironwood Aggregates and Asphalt,Asphalt Cement PG 64-22,34715
+Ironwood Aggregates and Asphalt,Asphalt Cement PG 70-28,52235
+Ironwood Aggregates and Asphalt,Dyed Off-Road Diesel,49128
+Ironwood Aggregates and Asphalt,Hydraulic Oil AW 46,753
+Ironwood Aggregates and Asphalt,Medium-Cure Cutback Asphalt,25110
+Foothills Well Servicing Ltd.,Bulk Propane Commercial,11243
+Foothills Well Servicing Ltd.,Compressor Oil ISO 100,98
+Foothills Well Servicing Ltd.,Condensate and Diluent,7402
+Foothills Well Servicing Ltd.,Dyed Off-Road Diesel,11831
+Foothills Well Servicing Ltd.,Natural Gas Engine Oil,73
+Foothills Well Servicing Ltd.,Ultra-Low Sulphur Diesel No. 2,9479
+Foothills Well Servicing Ltd.,Winter Diesel No. 1,3385
+Maple Energy Distribution Inc.,Ethanol E85,73281
+Maple Energy Distribution Inc.,Kerosene K-1,381115
+Maple Energy Distribution Inc.,Premium Unleaded 91,337704
+Maple Energy Distribution Inc.,Regular Unleaded 87,266655
+Maple Energy Distribution Inc.,Winter Diesel No. 1,292626
+Stonebridge Heating Fuels Co-op,Autogas Propane,1823
+Stonebridge Heating Fuels Co-op,Bio-Heating Oil B10,1545
+Stonebridge Heating Fuels Co-op,Bulk Propane Commercial,4408
+Stonebridge Heating Fuels Co-op,Bulk Propane Residential,2736
+Stonebridge Heating Fuels Co-op,Butane,4786
+Stonebridge Heating Fuels Co-op,Light Heating Oil No. 2,4692
+Ironwood Oil and Filter Supply,Conventional Engine Oil 10W-30,1581
+Ironwood Oil and Filter Supply,Gear Oil 80W-90,1181
+Ironwood Oil and Filter Supply,Heavy-Duty Diesel Engine Oil 15W-40,1192
+Ironwood Oil and Filter Supply,Hydraulic Oil AW 32,623
+Ironwood Oil and Filter Supply,Hydraulic Oil AW 46,921
+Timberline Electric Utility,Natural Gas Engine Oil,5085
+Timberline Electric Utility,Transformer Insulating Oil,2086
+Timberline Electric Utility,Turbine Oil ISO 46,4915
+Timberline Electric Utility,Ultra-Low Sulphur Diesel No. 2,6591
+Great Plains Chemicals,Condensate and Diluent,345177
+Great Plains Chemicals,Ethane Feedstock Supply,383228
+Great Plains Chemicals,Granular Sulphur,399236
+Great Plains Chemicals,Mixed Xylenes,401751
+Great Plains Chemicals,Naphtha,476908
+Great Plains Chemicals,Petroleum Coke,228435
+Great Plains Chemicals,Polymer-Grade Propylene,304174
+Great Plains Chemicals,Toluene,408510
+Harbourfront Ferries Corp.,Marine Diesel Oil,7163
+Harbourfront Ferries Corp.,Marine Gas Oil,19800
+Harbourfront Ferries Corp.,Ultra-Low Sulphur Diesel No. 2,11509
+Harbourfront Ferries Corp.,Very Low Sulphur Fuel Oil (VLSFO),6198
+Coastal Railway Co.,Biodiesel B20 Blend,226798
+Coastal Railway Co.,Diesel Exhaust Fluid (DEF),6119
+Coastal Railway Co.,Heavy-Duty Diesel Engine Oil 15W-40,2039
+Coastal Railway Co.,Hydraulic Oil AW 46,1682
+Coastal Railway Co.,Locomotive Diesel,62693
+Foothills Parks and Highways Department,Arctic Grade Diesel,4671
+Foothills Parks and Highways Department,Engine Coolant 50/50,240
+Foothills Parks and Highways Department,Jet A-1,7681
+Foothills Parks and Highways Department,Light Heating Oil No. 2,6656
+Foothills Parks and Highways Department,Regular Unleaded 87,10111
+Foothills Parks and Highways Department,Winter Diesel No. 1,11575
+Stonebridge Freight Lines,Biodiesel B20 Blend,42019
+Stonebridge Freight Lines,Diesel Anti-Gel Additive,1571
+Stonebridge Freight Lines,Heavy-Duty Diesel Engine Oil 15W-40,252
+Stonebridge Freight Lines,Premium Diesel with Additive,52304
+Stonebridge Freight Lines,Renewable Diesel R99,17384
+Stonebridge Freight Lines,Ultra-Low Sulphur Diesel No. 2,13712
+Northern Growers Association,Bulk Propane Commercial,20028
+Northern Growers Association,Diesel Exhaust Fluid (DEF),574
+Northern Growers Association,Farm Diesel Bulk Delivery,13748
+Northern Growers Association,Hydraulic Oil AW 46,97
+Northern Growers Association,Multipurpose Grease NLGI 2,98
+Northern Growers Association,Regular Unleaded 87,8859
+Cascade Transit Authority,Biodiesel B5 Blend,27514
+Cascade Transit Authority,Diesel Exhaust Fluid (DEF),472
+Cascade Transit Authority,Renewable Diesel R99,8382
+Cascade Transit Authority,Ultra-Low Sulphur Diesel No. 2,24869
+Silverton Aviation Ltd.,Avgas 100LL,77354
+Silverton Aviation Ltd.,Ground Support Equipment Diesel,184861
+Silverton Aviation Ltd.,Jet A-1,226598
+Silverton Aviation Ltd.,Sustainable Aviation Fuel Blend 10%,20858
+Silverton Aviation Ltd.,Sustainable Aviation Fuel Blend 30%,7930
+Rocky Ridge Potash Operations,Arctic Grade Diesel,43490
+Rocky Ridge Potash Operations,Industrial Gear Oil ISO 220,653
+Rocky Ridge Potash Operations,Mining-Grade Bulk Diesel,45044
+Rocky Ridge Potash Operations,Natural Gas Engine Oil,643
+Prairie Paving Co.,Asphalt Cement PG 58-28,18275
+Prairie Paving Co.,Asphalt Cement PG 64-22,13495
+Prairie Paving Co.,Asphalt Cement PG 70-28,11932
+Prairie Paving Co.,Cationic Asphalt Emulsion,6418
+Prairie Paving Co.,Dyed Off-Road Diesel,19710
+Prairie Paving Co.,Hydraulic Oil AW 46,94
+Prairie Paving Co.,Medium-Cure Cutback Asphalt,13322
+Maple Pressure Pumping Inc.,Bulk Propane Commercial,13687
+Maple Pressure Pumping Inc.,Compressor Oil ISO 100,361
+Maple Pressure Pumping Inc.,Condensate and Diluent,9390
+Maple Pressure Pumping Inc.,Drilling Fluid Base Oil,605
+Maple Pressure Pumping Inc.,Dyed Off-Road Diesel,23767
+Maple Pressure Pumping Inc.,Natural Gas Engine Oil,185
+Maple Pressure Pumping Inc.,Ultra-Low Sulphur Diesel No. 2,14222
+Maple Pressure Pumping Inc.,Winter Diesel No. 1,19702
+Summit Fuels Wholesale Ltd.,Bulk Propane Commercial,120351
+Summit Fuels Wholesale Ltd.,Kerosene K-1,223070
+Summit Fuels Wholesale Ltd.,Light Heating Oil No. 2,88829
+Summit Fuels Wholesale Ltd.,Mid-Grade Unleaded 89,269443
+Summit Fuels Wholesale Ltd.,Premium Unleaded 91,150695
+Summit Fuels Wholesale Ltd.,Regular Unleaded 87,255121
+Summit Fuels Wholesale Ltd.,Winter Diesel No. 1,105536
+Rocky Ridge Heating Fuels Co-op,Autogas Propane,40323
+Rocky Ridge Heating Fuels Co-op,Bio-Heating Oil B10,52159
+Rocky Ridge Heating Fuels Co-op,Bulk Propane Commercial,36219
+Rocky Ridge Heating Fuels Co-op,Bulk Propane Residential,48280
+Granite Automotive Fluids Distributors,Automatic Transmission Fluid,1154
+Granite Automotive Fluids Distributors,Brake Fluid DOT 4,1787
+Granite Automotive Fluids Distributors,Heavy-Duty Diesel Engine Oil 15W-40,3423
+Granite Automotive Fluids Distributors,Hydraulic Oil AW 68,1673
+Granite Automotive Fluids Distributors,Multipurpose Grease NLGI 2,3320
+Granite Automotive Fluids Distributors,Synthetic Engine Oil 5W-30,1724
+Granite Automotive Fluids Distributors,Windshield Washer Fluid -40,1700
+Harbourfront Energy Co-op,Compressor Oil ISO 100,2797
+Harbourfront Energy Co-op,Natural Gas Engine Oil,5194
+Harbourfront Energy Co-op,Transformer Insulating Oil,4137
+Harbourfront Energy Co-op,Turbine Oil ISO 46,1908
+Harbourfront Energy Co-op,Ultra-Low Sulphur Diesel No. 2,3323
+Harbourfront Energy Co-op,Wind Turbine Gear Oil,3380
+Rocky Ridge Chemicals,Condensate and Diluent,281714
+Rocky Ridge Chemicals,Granular Sulphur,235581
+Rocky Ridge Chemicals,Mixed Xylenes,226879
+Rocky Ridge Chemicals,Naphtha,143480
+Rocky Ridge Chemicals,Petroleum Coke,328897
+Rocky Ridge Chemicals,Polymer-Grade Propylene,238019
+Rocky Ridge Chemicals,Toluene,118075
+Summit Shipping Co.,Marine Cylinder Oil,1965
+Summit Shipping Co.,Marine Diesel Oil,81636
+Summit Shipping Co.,Marine Gas Oil,80315
+Summit Shipping Co.,Ultra-Low Sulphur Diesel No. 2,162816
+Summit Shipping Co.,Very Low Sulphur Fuel Oil (VLSFO),68016
+Blue Heron Short Line Rail Ltd.,Biodiesel B20 Blend,76962
+Blue Heron Short Line Rail Ltd.,Diesel Exhaust Fluid (DEF),1189
+Blue Heron Short Line Rail Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,890
+Blue Heron Short Line Rail Ltd.,Hydraulic Oil AW 46,565
+Blue Heron Provincial Fleet Services,Engine Coolant 50/50,273
+Blue Heron Provincial Fleet Services,Light Heating Oil No. 2,11162
+Blue Heron Provincial Fleet Services,Regular Unleaded 87,7175
+Blue Heron Provincial Fleet Services,Ultra-Low Sulphur Diesel No. 2,16026
+Blue Heron Provincial Fleet Services,Winter Diesel No. 1,8497
+Silverton Trucking Ltd.,Biodiesel B20 Blend,5518
+Silverton Trucking Ltd.,Diesel Anti-Gel Additive,148
+Silverton Trucking Ltd.,Diesel Exhaust Fluid (DEF),110
+Silverton Trucking Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,74
+Silverton Trucking Ltd.,Premium Diesel with Additive,1788
+Silverton Trucking Ltd.,Renewable Diesel R99,5151
+Silverton Trucking Ltd.,Ultra-Low Sulphur Diesel No. 2,3880
+Silverton Trucking Ltd.,Winter Diesel No. 1,3320
+Great Plains Agri Supply Co-op,Bulk Propane Commercial,3141
+Great Plains Agri Supply Co-op,Diesel Exhaust Fluid (DEF),132
+Great Plains Agri Supply Co-op,Dyed Off-Road Diesel,3932
+Great Plains Agri Supply Co-op,Farm Diesel Bulk Delivery,6910
+Great Plains Agri Supply Co-op,Hydraulic Oil AW 46,55
+Great Plains Agri Supply Co-op,Multipurpose Grease NLGI 2,82
+Great Plains Agri Supply Co-op,Regular Unleaded 87,3429
+Northern Public Transit Commission,Biodiesel B5 Blend,3705
+Northern Public Transit Commission,DC Fast Charging 150 kW,520
+Northern Public Transit Commission,Diesel Exhaust Fluid (DEF),140
+Northern Public Transit Commission,Regular Unleaded 87,4220
+Northern Public Transit Commission,Renewable Diesel R99,4468
+Northern Public Transit Commission,Ultra-Low Sulphur Diesel No. 2,4099
+Highland Airways,Avgas 100LL,212084
+Highland Airways,Ground Support Equipment Diesel,759807
+Highland Airways,Jet A,563090
+Highland Airways,Jet A-1,247050
+Highland Airways,Sustainable Aviation Fuel Blend 10%,53631
+Highland Airways,Sustainable Aviation Fuel Blend 30%,16533
+Cascade Resources Ltd.,Arctic Grade Diesel,138212
+Cascade Resources Ltd.,Diesel Exhaust Fluid (DEF),3229
+Cascade Resources Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,1218
+Cascade Resources Ltd.,Hydraulic Oil AW 68,2613
+Cascade Resources Ltd.,Mining-Grade Bulk Diesel,152488
+Cascade Resources Ltd.,Multipurpose Grease NLGI 2,784
+Cascade Resources Ltd.,Natural Gas Engine Oil,1258
+Granite Paving Co.,Asphalt Cement PG 58-28,54083
+Granite Paving Co.,Asphalt Cement PG 64-22,29904
+Granite Paving Co.,Asphalt Cement PG 70-28,30909
+Granite Paving Co.,Dyed Off-Road Diesel,50707
+Granite Paving Co.,Hydraulic Oil AW 46,460
+Kestrel Drilling Services,Compressor Oil ISO 100,44
+Kestrel Drilling Services,Condensate and Diluent,2776
+Kestrel Drilling Services,Dyed Off-Road Diesel,5487
+Kestrel Drilling Services,Natural Gas Engine Oil,80
+Kestrel Drilling Services,Ultra-Low Sulphur Diesel No. 2,5545
+Kestrel Drilling Services,Winter Diesel No. 1,7843
+Silverton Petroleum Marketers,Light Heating Oil No. 2,128684
+Silverton Petroleum Marketers,Mid-Grade Unleaded 89,58343
+Silverton Petroleum Marketers,Rack Gasoline 87 (Wholesale),126074
+Silverton Petroleum Marketers,Regular Unleaded 87,167461
+Silverton Petroleum Marketers,Winter Diesel No. 1,93206
+Westgate Home Heating Ltd.,Autogas Propane,40499
+Westgate Home Heating Ltd.,Bio-Heating Oil B10,29039
+Westgate Home Heating Ltd.,Bulk Propane Residential,21763
+Westgate Home Heating Ltd.,Butane,19805
+Westgate Home Heating Ltd.,Light Heating Oil No. 2,41236
+Badlands Lubricants Ltd.,Brake Fluid DOT 4,200
+Badlands Lubricants Ltd.,Synthetic Engine Oil 0W-20,415
+Badlands Lubricants Ltd.,Synthetic Engine Oil 5W-30,179
+Badlands Lubricants Ltd.,Windshield Washer Fluid -40,456
+Boreal Power Generation,Natural Gas Engine Oil,3783
+Boreal Power Generation,Transformer Insulating Oil,4890
+Boreal Power Generation,Turbine Oil ISO 46,5839
+Boreal Power Generation,Ultra-Low Sulphur Diesel No. 2,4058
+Summit Polymers Inc.,Ethane Feedstock Supply,40864
+Summit Polymers Inc.,Mixed Xylenes,144323
+Summit Polymers Inc.,Naphtha,69284
+Summit Polymers Inc.,Polymer-Grade Propylene,94388
+Summit Polymers Inc.,Toluene,143908
+Lakeshore Port Services Ltd.,Marine Cylinder Oil,2327
+Lakeshore Port Services Ltd.,Marine Diesel Oil,86566
+Lakeshore Port Services Ltd.,Marine Gas Oil,65351
+Lakeshore Port Services Ltd.,Ultra-Low Sulphur Diesel No. 2,63860
+Lakeshore Port Services Ltd.,Very Low Sulphur Fuel Oil (VLSFO),153443
+Highland Rail Services,Biodiesel B20 Blend,129177
+Highland Rail Services,Diesel Exhaust Fluid (DEF),8454
+Highland Rail Services,Heavy-Duty Diesel Engine Oil 15W-40,2066
+Highland Rail Services,Hydraulic Oil AW 46,3733
+Highland Rail Services,Locomotive Diesel,79687
+Riverbend Provincial Fleet Services,Arctic Grade Diesel,44251
+Riverbend Provincial Fleet Services,Jet A-1,35462
+Riverbend Provincial Fleet Services,Light Heating Oil No. 2,61376
+Riverbend Provincial Fleet Services,Regular Unleaded 87,37247
+Lakeland Trucking Ltd.,Biodiesel B20 Blend,34317
+Lakeland Trucking Ltd.,Diesel Anti-Gel Additive,993
+Lakeland Trucking Ltd.,Diesel Exhaust Fluid (DEF),420
+Lakeland Trucking Ltd.,Premium Diesel with Additive,17487
+Lakeland Trucking Ltd.,Renewable Diesel R99,23842
+Lakeland Trucking Ltd.,Ultra-Low Sulphur Diesel No. 2,34987
+Lakeland Trucking Ltd.,Winter Diesel No. 1,22595
+Evergreen Agri Supply Co-op,Bulk Propane Commercial,6033
+Evergreen Agri Supply Co-op,Diesel Exhaust Fluid (DEF),268
+Evergreen Agri Supply Co-op,Farm Diesel Bulk Delivery,8377
+Evergreen Agri Supply Co-op,Hydraulic Oil AW 46,95
+Evergreen Agri Supply Co-op,Multipurpose Grease NLGI 2,60
+Cedar Valley Transit Authority,Biodiesel B5 Blend,23320
+Cedar Valley Transit Authority,DC Fast Charging 150 kW,2059
+Cedar Valley Transit Authority,Diesel Exhaust Fluid (DEF),622
+Cedar Valley Transit Authority,Regular Unleaded 87,8090
+Cedar Valley Transit Authority,Renewable Diesel R99,9561
+Cedar Valley Transit Authority,Ultra-Low Sulphur Diesel No. 2,12960
+Evergreen Airways,Avgas 100LL,54262
+Evergreen Airways,Jet A,67210
+Evergreen Airways,Jet A-1,56906
+Evergreen Airways,Sustainable Aviation Fuel Blend 10%,4905
+Evergreen Airways,Sustainable Aviation Fuel Blend 30%,2133
+Harbourfront Resources Ltd.,Arctic Grade Diesel,46328
+Harbourfront Resources Ltd.,Diesel Exhaust Fluid (DEF),1859
+Harbourfront Resources Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,707
+Harbourfront Resources Ltd.,Hydraulic Oil AW 68,516
+Harbourfront Resources Ltd.,Industrial Gear Oil ISO 220,697
+Harbourfront Resources Ltd.,Mining-Grade Bulk Diesel,37589
+Harbourfront Resources Ltd.,Multipurpose Grease NLGI 2,923
+Harbourfront Resources Ltd.,Natural Gas Engine Oil,256
+Timberline Paving Co.,Asphalt Cement PG 58-28,15987
+Timberline Paving Co.,Asphalt Cement PG 64-22,14492
+Timberline Paving Co.,Asphalt Cement PG 70-28,16608
+Timberline Paving Co.,Dyed Off-Road Diesel,24110
+Timberline Paving Co.,Hydraulic Oil AW 46,260
+Timberline Paving Co.,Medium-Cure Cutback Asphalt,37297
+Great Plains Pressure Pumping Inc.,Bulk Propane Commercial,7765
+Great Plains Pressure Pumping Inc.,Compressor Oil ISO 100,233
+Great Plains Pressure Pumping Inc.,Condensate and Diluent,9308
+Great Plains Pressure Pumping Inc.,Drilling Fluid Base Oil,441
+Great Plains Pressure Pumping Inc.,Dyed Off-Road Diesel,14024
+Great Plains Pressure Pumping Inc.,Natural Gas Engine Oil,232
+Great Plains Pressure Pumping Inc.,Ultra-Low Sulphur Diesel No. 2,7245
+Great Plains Pressure Pumping Inc.,Winter Diesel No. 1,8395
+Rocky Ridge Fuel Distributors,Ethanol E85,52622
+Rocky Ridge Fuel Distributors,Mid-Grade Unleaded 89,120219
+Rocky Ridge Fuel Distributors,Premium Unleaded 91,95760
+Rocky Ridge Fuel Distributors,Rack Gasoline 87 (Wholesale),62655
+Rocky Ridge Fuel Distributors,Regular Unleaded 87,181782
+Westgate Propane and Heat,Autogas Propane,3721
+Westgate Propane and Heat,Bio-Heating Oil B10,2941
+Westgate Propane and Heat,Bulk Propane Commercial,4225
+Westgate Propane and Heat,Bulk Propane Residential,2811
+Westgate Propane and Heat,Butane,5797
+Westgate Propane and Heat,Light Heating Oil No. 2,1789
+Lakeland Industrial Lubricants Inc.,Conventional Engine Oil 10W-30,999
+Lakeland Industrial Lubricants Inc.,Gear Oil 80W-90,557
+Lakeland Industrial Lubricants Inc.,Heavy-Duty Diesel Engine Oil 15W-40,859
+Lakeland Industrial Lubricants Inc.,Synthetic Engine Oil 0W-20,475
+Lakeland Industrial Lubricants Inc.,Synthetic Engine Oil 5W-30,929
+Tidewater Power Generation,Compressor Oil ISO 100,2772
+Tidewater Power Generation,Transformer Insulating Oil,2100
+Tidewater Power Generation,Turbine Oil ISO 46,3669
+Tidewater Power Generation,Ultra-Low Sulphur Diesel No. 2,3345
+Tidewater Power Generation,Wind Turbine Gear Oil,3412
+Evergreen Petrochemicals Ltd.,Condensate and Diluent,126703
+Evergreen Petrochemicals Ltd.,Granular Sulphur,213630
+Evergreen Petrochemicals Ltd.,Naphtha,379771
+Evergreen Petrochemicals Ltd.,Petroleum Coke,319569
+Evergreen Petrochemicals Ltd.,Polymer-Grade Propylene,320480
+Summit Ferries Corp.,Marine Cylinder Oil,1514
+Summit Ferries Corp.,Marine Diesel Oil,175075
+Summit Ferries Corp.,Marine Gas Oil,90529
+Summit Ferries Corp.,Ultra-Low Sulphur Diesel No. 2,141943
+Summit Ferries Corp.,Very Low Sulphur Fuel Oil (VLSFO),61980
+Lakeland Railway Co.,Biodiesel B20 Blend,8460
+Lakeland Railway Co.,Diesel Exhaust Fluid (DEF),780
+Lakeland Railway Co.,Heavy-Duty Diesel Engine Oil 15W-40,366
+Lakeland Railway Co.,Hydraulic Oil AW 46,319
+Lakeland Railway Co.,Locomotive Diesel,19747
+Lakeshore Provincial Fleet Services,Arctic Grade Diesel,20985
+Lakeshore Provincial Fleet Services,Engine Coolant 50/50,560
+Lakeshore Provincial Fleet Services,Jet A-1,28363
+Lakeshore Provincial Fleet Services,Light Heating Oil No. 2,21719
+Lakeshore Provincial Fleet Services,Regular Unleaded 87,21267
+Lakeshore Provincial Fleet Services,Ultra-Low Sulphur Diesel No. 2,11802
+Lakeshore Provincial Fleet Services,Winter Diesel No. 1,10730
+Granite Freight Lines,Biodiesel B20 Blend,8352
+Granite Freight Lines,Renewable Diesel R99,8266
+Granite Freight Lines,Ultra-Low Sulphur Diesel No. 2,7013
+Granite Freight Lines,Winter Diesel No. 1,3879
+Kestrel Agri Supply Co-op,Bulk Propane Commercial,3758
+Kestrel Agri Supply Co-op,Diesel Exhaust Fluid (DEF),159
+Kestrel Agri Supply Co-op,Dyed Off-Road Diesel,7386
+Kestrel Agri Supply Co-op,Farm Diesel Bulk Delivery,10225
+Kestrel Agri Supply Co-op,Hydraulic Oil AW 46,123
+Kestrel Agri Supply Co-op,Multipurpose Grease NLGI 2,127
+Kestrel Agri Supply Co-op,Regular Unleaded 87,4773
+Cascade Public Transit Commission,Biodiesel B5 Blend,21860
+Cascade Public Transit Commission,DC Fast Charging 150 kW,2112
+Cascade Public Transit Commission,Diesel Exhaust Fluid (DEF),608
+Cascade Public Transit Commission,Regular Unleaded 87,10756
+Cascade Public Transit Commission,Renewable Diesel R99,23004
+Cascade Public Transit Commission,Ultra-Low Sulphur Diesel No. 2,17887
+Westgate Airways,Ground Support Equipment Diesel,131503
+Westgate Airways,Jet A,53001
+Westgate Airways,Jet A-1,42028
+Westgate Airways,Sustainable Aviation Fuel Blend 10%,9001
+Westgate Airways,Sustainable Aviation Fuel Blend 30%,4162
+Summit Resources Ltd.,Arctic Grade Diesel,94642
+Summit Resources Ltd.,Diesel Exhaust Fluid (DEF),961
+Summit Resources Ltd.,Heavy-Duty Diesel Engine Oil 15W-40,767
+Summit Resources Ltd.,Industrial Gear Oil ISO 220,614
+Summit Resources Ltd.,Mining-Grade Bulk Diesel,39534
+Summit Resources Ltd.,Multipurpose Grease NLGI 2,1362
+Summit Resources Ltd.,Natural Gas Engine Oil,1536
+Maple Road Builders Ltd.,Asphalt Cement PG 58-28,52453
+Maple Road Builders Ltd.,Asphalt Cement PG 64-22,55962
+Maple Road Builders Ltd.,Asphalt Cement PG 70-28,55027
+Maple Road Builders Ltd.,Cationic Asphalt Emulsion,38654
+Maple Road Builders Ltd.,Dyed Off-Road Diesel,51714
+Maple Road Builders Ltd.,Hydraulic Oil AW 46,792
+Maple Road Builders Ltd.,Medium-Cure Cutback Asphalt,56545
+Cascade Well Servicing Ltd.,Bulk Propane Commercial,18975
+Cascade Well Servicing Ltd.,Condensate and Diluent,9954
+Cascade Well Servicing Ltd.,Drilling Fluid Base Oil,614
+Cascade Well Servicing Ltd.,Dyed Off-Road Diesel,19147
+Cascade Well Servicing Ltd.,Winter Diesel No. 1,21562
+Cascade Fuel Distributors,Ethanol E85,39464
+Cascade Fuel Distributors,Kerosene K-1,181330
+Cascade Fuel Distributors,Rack Gasoline 87 (Wholesale),269812
+Cascade Fuel Distributors,Winter Diesel No. 1,180298
+Blue Heron Heating Fuels Co-op,Autogas Propane,39758
+Blue Heron Heating Fuels Co-op,Bulk Propane Commercial,12545
+Blue Heron Heating Fuels Co-op,Butane,20427
+Blue Heron Heating Fuels Co-op,Light Heating Oil No. 2,33652
+Red River Lubricants Ltd.,Brake Fluid DOT 4,946
+Red River Lubricants Ltd.,Engine Coolant 50/50,2146
+Red River Lubricants Ltd.,Gear Oil 80W-90,2314
+Red River Lubricants Ltd.,Hydraulic Oil AW 68,1762
+Red River Lubricants Ltd.,Windshield Washer Fluid -40,1118
+Silverton Power Generation,Compressor Oil ISO 100,2346
+Silverton Power Generation,Natural Gas Engine Oil,732
+Silverton Power Generation,Transformer Insulating Oil,1309
+Silverton Power Generation,Turbine Oil ISO 46,2020
+Silverton Power Generation,Ultra-Low Sulphur Diesel No. 2,1992
+Lakeshore Specialty Chemicals,Condensate and Diluent,15161
+Lakeshore Specialty Chemicals,Ethane Feedstock Supply,32716
+Lakeshore Specialty Chemicals,Naphtha,16427
+Lakeshore Specialty Chemicals,Petroleum Coke,38723
+Coastal Shipping Co.,Marine Cylinder Oil,2156
+Coastal Shipping Co.,Marine Diesel Oil,76623
+Coastal Shipping Co.,Marine Gas Oil,73078
+Coastal Shipping Co.,Very Low Sulphur Fuel Oil (VLSFO),138234
+Red River Rail Services,Biodiesel B20 Blend,18917
+Red River Rail Services,Diesel Exhaust Fluid (DEF),928
+Red River Rail Services,Heavy-Duty Diesel Engine Oil 15W-40,442
+Red River Rail Services,Hydraulic Oil AW 46,799
+Red River Rail Services,Locomotive Diesel,23654
+Foothills Provincial Fleet Services,Arctic Grade Diesel,25121
+Foothills Provincial Fleet Services,Engine Coolant 50/50,449
+Foothills Provincial Fleet Services,Jet A-1,36236
+Foothills Provincial Fleet Services,Ultra-Low Sulphur Diesel No. 2,16133
+Boreal Haulage Inc.,Biodiesel B20 Blend,27574
+Boreal Haulage Inc.,Diesel Anti-Gel Additive,473
+Boreal Haulage Inc.,Diesel Exhaust Fluid (DEF),368
+Boreal Haulage Inc.,Heavy-Duty Diesel Engine Oil 15W-40,352
+Boreal Haulage Inc.,Ultra-Low Sulphur Diesel No. 2,34149
