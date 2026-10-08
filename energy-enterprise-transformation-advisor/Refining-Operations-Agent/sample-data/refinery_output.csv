@@ -1,0 +1,501 @@
+Refinery,Product,Input,Output,Period,Refinery_Name,Province,Product_Category,Unit
+R100,Regular Unleaded 87,150372,153758,2025-01,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,53759,54969,2025-01,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,171251,175107,2025-01,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,52586,53770,2025-01,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,54474,55700,2025-01,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,34833,35618,2025-01,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,58303,59615,2025-01,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,10294,10526,2025-01,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,55148,56390,2025-01,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,130386,131974,2025-01,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,40434,40926,2025-01,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,122059,123546,2025-01,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,24368,24664,2025-01,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,20758,21011,2025-01,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,37503,37959,2025-01,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,23169,23451,2025-01,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,11503,11643,2025-01,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,166445,168427,2025-01,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,41826,42324,2025-01,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,153928,155761,2025-01,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,43580,44099,2025-01,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,33007,33401,2025-01,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,69945,70778,2025-01,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,26920,27241,2025-01,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,45829,46374,2025-01,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,141879,143676,2025-02,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,50123,50758,2025-02,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,152462,154392,2025-02,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,49965,50597,2025-02,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,47308,47907,2025-02,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,30965,31357,2025-02,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,50026,50659,2025-02,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,9705,9828,2025-02,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,49041,49662,2025-02,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,117497,121451,2025-02,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,33230,34348,2025-02,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,103115,106584,2025-02,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,20872,21574,2025-02,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,16976,17547,2025-02,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,31834,32905,2025-02,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,20932,21636,2025-02,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,10099,10439,2025-02,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,140957,142506,2025-02,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,37130,37538,2025-02,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,139709,141244,2025-02,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,40012,40452,2025-02,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,29106,29426,2025-02,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,62633,63321,2025-02,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,22628,22877,2025-02,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,39158,39588,2025-02,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,155829,158549,2025-03,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,52335,53248,2025-03,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,162016,164844,2025-03,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,52329,53242,2025-03,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,51754,52657,2025-03,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,23430,23839,2025-03,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,53862,54802,2025-03,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,10049,10225,2025-03,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,49335,50196,2025-03,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,128755,132476,2025-03,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,37273,38350,2025-03,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,113855,117145,2025-03,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,21304,21920,2025-03,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,13753,14150,2025-03,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,30964,31858,2025-03,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,20854,21457,2025-03,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,10467,10769,2025-03,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,153199,155733,2025-03,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,39799,40457,2025-03,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,148930,151393,2025-03,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,39882,40541,2025-03,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,30595,31101,2025-03,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,63410,64458,2025-03,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,19088,19404,2025-03,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,39955,40616,2025-03,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,139268,141593,2025-04,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,54027,54929,2025-04,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,147347,149807,2025-04,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,24469,24877,2025-04,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,48745,49559,2025-04,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,24356,24762,2025-04,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,53000,53885,2025-04,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,28896,29378,2025-04,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,49180,50001,2025-04,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,112635,114014,2025-04,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,32376,32772,2025-04,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,100260,101488,2025-04,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,18611,18839,2025-04,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,12584,12738,2025-04,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,14158,14331,2025-04,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,18351,18575,2025-04,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,27301,27635,2025-04,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,180654,185931,2025-04,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,46989,48362,2025-04,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,156564,161138,2025-04,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,47623,49014,2025-04,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,34153,35151,2025-04,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,35365,36398,2025-04,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,20664,21268,2025-04,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,46681,48045,2025-04,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,148041,152315,2025-05,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,52535,54052,2025-05,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,159366,163967,2025-05,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,25913,26661,2025-05,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,52075,53579,2025-05,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,23781,24467,2025-05,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,55378,56977,2025-05,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,30132,31002,2025-05,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,52529,54046,2025-05,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,140853,144240,2025-05,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,40650,41628,2025-05,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,121597,124521,2025-05,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,23025,23578,2025-05,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,14945,15305,2025-05,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,18202,18640,2025-05,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,22793,23341,2025-05,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,34566,35397,2025-05,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,171219,175830,2025-05,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,42338,43478,2025-05,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,150799,154860,2025-05,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,44557,45756,2025-05,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,31502,32350,2025-05,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,34741,35676,2025-05,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,19748,20280,2025-05,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,43788,44967,2025-05,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,141082,144312,2025-06,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,53740,54971,2025-06,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,143564,146851,2025-06,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,23427,23964,2025-06,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,47817,48912,2025-06,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,21802,22301,2025-06,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,48015,49114,2025-06,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,46938,48013,2025-06,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,44973,46002,2025-06,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,131607,135385,2025-06,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,35347,36362,2025-06,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,105979,109022,2025-06,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,19113,19662,2025-06,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,12899,13269,2025-06,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,15340,15781,2025-06,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,20331,20915,2025-06,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,46790,48134,2025-06,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,170386,175433,2025-06,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,46014,47377,2025-06,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,148998,153412,2025-06,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,40007,41193,2025-06,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,29826,30710,2025-06,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,30765,31676,2025-06,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,19053,19618,2025-06,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,39880,41062,2025-06,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,165323,168580,2025-07,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,60069,61253,2025-07,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,158376,161496,2025-07,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,26127,26642,2025-07,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,51407,52419,2025-07,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,24739,25226,2025-07,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,52377,53409,2025-07,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,49926,50909,2025-07,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,53240,54289,2025-07,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,131228,135624,2025-07,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,38719,40016,2025-07,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,110991,114709,2025-07,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,21433,22151,2025-07,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,13538,13991,2025-07,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,16076,16615,2025-07,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,20460,21145,2025-07,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,51816,53552,2025-07,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,184682,189616,2025-07,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,47274,48537,2025-07,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,150186,154199,2025-07,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,44672,45866,2025-07,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,32225,33086,2025-07,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,34257,35173,2025-07,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,20574,21124,2025-07,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,43301,44458,2025-07,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,157831,162689,2025-08,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,54784,56470,2025-08,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,151664,156332,2025-08,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,25206,25982,2025-08,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,48442,49933,2025-08,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,23349,24067,2025-08,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,51344,52925,2025-08,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,46805,48246,2025-08,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,50255,51802,2025-08,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,131779,133127,2025-08,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,37496,37880,2025-08,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,106424,107513,2025-08,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,21343,21562,2025-08,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,13471,13609,2025-08,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,16065,16230,2025-08,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,20249,20457,2025-08,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,49274,49778,2025-08,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,177732,181917,2025-08,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,46244,47333,2025-08,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,152419,156007,2025-08,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,43805,44837,2025-08,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,33334,34119,2025-08,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,34107,34910,2025-08,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,19706,20170,2025-08,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,44197,45238,2025-08,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,148036,152738,2025-09,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,51194,52821,2025-09,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,153643,158524,2025-09,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,24118,24884,2025-09,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,49778,51360,2025-09,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,22365,23075,2025-09,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,52057,53711,2025-09,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,49053,50612,2025-09,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,48556,50099,2025-09,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,114447,118190,2025-09,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,34659,35793,2025-09,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,103237,106613,2025-09,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,19488,20125,2025-09,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,13021,13447,2025-09,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,14676,15156,2025-09,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,18789,19404,2025-09,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,47257,48802,2025-09,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,164624,166371,2025-09,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,42702,43155,2025-09,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,146254,147806,2025-09,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,44603,45076,2025-09,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,31764,32101,2025-09,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,34113,34474,2025-09,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,18929,19130,2025-09,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,42941,43397,2025-09,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,157353,159045,2025-10,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,55593,56191,2025-10,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,166367,168155,2025-10,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,25745,26022,2025-10,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,55659,56258,2025-10,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,25596,25871,2025-10,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,57464,58082,2025-10,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,31138,31472,2025-10,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,51736,52292,2025-10,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,133015,136551,2025-10,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,39103,40142,2025-10,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,122539,125797,2025-10,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,22588,23188,2025-10,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,14795,15188,2025-10,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,17455,17919,2025-10,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,23245,23863,2025-10,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,31994,32845,2025-10,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,174411,176977,2025-10,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,47466,48164,2025-10,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,165674,168112,2025-10,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,45426,46094,2025-10,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,35930,36459,2025-10,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,34421,34927,2025-10,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,20888,21195,2025-10,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,44719,45377,2025-10,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,148348,150285,2025-11,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,52455,53140,2025-11,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,148693,150635,2025-11,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,49509,50155,2025-11,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,49418,50064,2025-11,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,31232,31639,2025-11,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,52165,52846,2025-11,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,28810,29187,2025-11,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,49106,49747,2025-11,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,118550,122105,2025-11,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,35542,36608,2025-11,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,109876,113171,2025-11,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,20501,21115,2025-11,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,17308,17827,2025-11,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,30832,31757,2025-11,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,20490,21105,2025-11,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,28969,29837,2025-11,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,154771,159205,2025-11,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,38676,39784,2025-11,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,137699,141644,2025-11,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,38810,39922,2025-11,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,29682,30532,2025-11,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,59069,60762,2025-11,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,22344,22985,2025-11,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,37595,38672,2025-11,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,152729,156153,2025-12,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,56146,57405,2025-12,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,174756,178674,2025-12,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,54681,55907,2025-12,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,54694,55921,2025-12,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,36248,37061,2025-12,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,57349,58635,2025-12,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,10702,10942,2025-12,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,56299,57562,2025-12,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,136381,138613,2025-12,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,39027,39665,2025-12,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,123163,125178,2025-12,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,24564,24966,2025-12,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,20156,20485,2025-12,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,35382,35962,2025-12,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,23700,24088,2025-12,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,12048,12245,2025-12,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,153511,156456,2025-12,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,40234,41006,2025-12,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,156196,159192,2025-12,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,44352,45202,2025-12,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,31288,31888,2025-12,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,68977,70301,2025-12,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,25802,26297,2025-12,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,41854,42657,2025-12,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,149480,152924,2026-01,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,56369,57668,2026-01,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,173752,177756,2026-01,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,56378,57677,2026-01,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,56010,57301,2026-01,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,36051,36882,2026-01,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,56326,57624,2026-01,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,10821,11070,2026-01,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,56919,58231,2026-01,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,120847,123516,2026-01,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,35219,35997,2026-01,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,112904,115398,2026-01,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,21950,22435,2026-01,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,18328,18733,2026-01,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,31822,32524,2026-01,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,21836,22319,2026-01,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,10999,11242,2026-01,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,163570,165735,2026-01,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,42082,42639,2026-01,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,156546,158618,2026-01,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,42056,42613,2026-01,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,33307,33748,2026-01,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,67113,68001,2026-01,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,25981,26325,2026-01,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,44758,45350,2026-01,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,140888,144648,2026-02,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,50808,52164,2026-02,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,155525,159676,2026-02,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,47804,49079,2026-02,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,49564,50887,2026-02,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,32265,33126,2026-02,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,52270,53665,2026-02,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,9688,9947,2026-02,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,47639,48910,2026-02,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,111524,114797,2026-02,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,30860,31766,2026-02,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,101477,104455,2026-02,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,18936,19491,2026-02,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,16751,17243,2026-02,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,29138,29993,2026-02,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,19830,20412,2026-02,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,9616,9898,2026-02,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,151034,153334,2026-02,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,38651,39239,2026-02,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,141477,143631,2026-02,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,41224,41852,2026-02,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,30098,30556,2026-02,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,61696,62635,2026-02,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,24012,24378,2026-02,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,38817,39408,2026-02,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,157205,161719,2026-03,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,56749,58379,2026-03,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,159574,164156,2026-03,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,52110,53606,2026-03,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,55529,57124,2026-03,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,26305,27060,2026-03,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,56436,58056,2026-03,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,10813,11124,2026-03,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,54221,55778,2026-03,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,133810,136045,2026-03,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,37023,37642,2026-03,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,110159,111999,2026-03,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,20770,21117,2026-03,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,13591,13818,2026-03,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,31736,32266,2026-03,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,21992,22359,2026-03,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,10811,10991,2026-03,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,165510,170077,2026-03,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,40462,41579,2026-03,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,149356,153477,2026-03,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,42418,43589,2026-03,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,30786,31635,2026-03,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,63611,65366,2026-03,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,18464,18973,2026-03,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,40885,42014,2026-03,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,150636,153766,2026-04,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,55073,56218,2026-04,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,161946,165311,2026-04,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,26867,27425,2026-04,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,54903,56044,2026-04,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,25813,26349,2026-04,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,54113,55238,2026-04,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,31407,32060,2026-04,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,51629,52702,2026-04,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,109546,113108,2026-04,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,30096,31075,2026-04,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,89918,92842,2026-04,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,17992,18577,2026-04,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,11395,11765,2026-04,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,13162,13590,2026-04,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,17300,17863,2026-04,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,26898,27773,2026-04,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,172538,177865,2026-04,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,43306,44643,2026-04,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,152087,156782,2026-04,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,44840,46224,2026-04,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,33331,34360,2026-04,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,34901,35979,2026-04,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,19846,20459,2026-04,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,45001,46390,2026-04,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,152761,156675,2026-05,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,53263,54628,2026-05,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,154621,158582,2026-05,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,25479,26131,2026-05,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,53556,54928,2026-05,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,23719,24327,2026-05,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,56781,58236,2026-05,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,31196,31995,2026-05,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,51307,52621,2026-05,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,123537,126362,2026-05,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,34163,34944,2026-05,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,106671,109110,2026-05,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,19871,20325,2026-05,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,12714,13004,2026-05,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,15396,15748,2026-05,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,20152,20613,2026-05,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,30874,31580,2026-05,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,191630,197729,2026-05,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,48197,49731,2026-05,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,162026,167183,2026-05,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,49748,51332,2026-05,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,36639,37805,2026-05,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,37381,38570,2026-05,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,21549,22235,2026-05,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,46238,47709,2026-05,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,143027,146427,2026-06,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,54332,55624,2026-06,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,141162,144518,2026-06,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,23020,23567,2026-06,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,46069,47164,2026-06,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,22297,22827,2026-06,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,50828,52036,2026-06,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,44930,45998,2026-06,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,45534,46616,2026-06,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,127412,131329,2026-06,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,34311,35366,2026-06,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,100779,103877,2026-06,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,19120,19708,2026-06,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,12904,13301,2026-06,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,14409,14852,2026-06,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,19686,20291,2026-06,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,47416,48873,2026-06,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,185230,188941,2026-06,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,48637,49612,2026-06,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,151763,154803,2026-06,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,45573,46486,2026-06,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,32727,33383,2026-06,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,34639,35333,2026-06,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,19562,19954,2026-06,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,46264,47191,2026-06,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,160792,164367,2026-07,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,58727,60033,2026-07,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,152373,155761,2026-07,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,25935,26512,2026-07,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,50609,51734,2026-07,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,24606,25153,2026-07,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,55936,57180,2026-07,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,50184,51300,2026-07,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,52106,53264,2026-07,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,134832,136765,2026-07,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,37488,38025,2026-07,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,103239,104719,2026-07,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,20025,20312,2026-07,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,13282,13473,2026-07,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,15013,15229,2026-07,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,19677,19959,2026-07,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,50179,50898,2026-07,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,192500,196123,2026-07,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,50439,51388,2026-07,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,162133,165184,2026-07,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,47431,48324,2026-07,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,34501,35150,2026-07,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,37290,37992,2026-07,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,20923,21316,2026-07,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,46389,47262,2026-07,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
+R100,Regular Unleaded 87,148968,150995,2026-08,Prairie Refinery,AB,Gasoline,m3
+R100,Premium Unleaded 91,56645,57416,2026-08,Prairie Refinery,AB,Gasoline,m3
+R100,Ultra-Low Sulphur Diesel No. 2,145578,147558,2026-08,Prairie Refinery,AB,Diesel,m3
+R100,Winter Diesel No. 1,24389,24720,2026-08,Prairie Refinery,AB,Diesel,m3
+R100,Jet A,48901,49566,2026-08,Prairie Refinery,AB,Jet and Marine,m3
+R100,Propane-Butane Mix,23329,23647,2026-08,Prairie Refinery,AB,LPG and NGL,m3
+R100,Naphtha,50948,51642,2026-08,Prairie Refinery,AB,Petrochemical Feedstock,m3
+R100,Asphalt Cement PG 58-28,46652,47287,2026-08,Prairie Refinery,AB,Asphalt and Bitumen,m3
+R100,Dyed Off-Road Diesel,48872,49537,2026-08,Prairie Refinery,AB,Diesel,m3
+R200,Regular Unleaded 87,122046,124822,2026-08,Lakehead Refinery,ON,Gasoline,m3
+R200,Premium Unleaded 91,34904,35698,2026-08,Lakehead Refinery,ON,Gasoline,m3
+R200,Ultra-Low Sulphur Diesel No. 2,103208,105556,2026-08,Lakehead Refinery,ON,Diesel,m3
+R200,Jet A,18988,19419,2026-08,Lakehead Refinery,ON,Jet and Marine,m3
+R200,Propane-Butane Mix,12799,13090,2026-08,Lakehead Refinery,ON,LPG and NGL,m3
+R200,Light Heating Oil No. 2,15166,15511,2026-08,Lakehead Refinery,ON,Heating Oil,m3
+R200,Naphtha,19222,19659,2026-08,Lakehead Refinery,ON,Petrochemical Feedstock,m3
+R200,Asphalt Cement PG 58-28,48856,49968,2026-08,Lakehead Refinery,ON,Asphalt and Bitumen,m3
+R300,Regular Unleaded 87,181552,183733,2026-08,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Premium Unleaded 91,45010,45551,2026-08,Saint-Laurent Refinery,QC,Gasoline,m3
+R300,Ultra-Low Sulphur Diesel No. 2,153517,155362,2026-08,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Jet A,42549,43060,2026-08,Saint-Laurent Refinery,QC,Jet and Marine,m3
+R300,Marine Gas Oil,33947,34355,2026-08,Saint-Laurent Refinery,QC,Diesel,m3
+R300,Light Heating Oil No. 2,33875,34282,2026-08,Saint-Laurent Refinery,QC,Heating Oil,m3
+R300,Propane-Butane Mix,19707,19944,2026-08,Saint-Laurent Refinery,QC,LPG and NGL,m3
+R300,Naphtha,42700,43213,2026-08,Saint-Laurent Refinery,QC,Petrochemical Feedstock,m3
