@@ -1,0 +1,1001 @@
+Period,Business_Unit,Revenue,Business_Unit_Code,Revenue_Stream,GL_Account,Currency
+2025-01,Oil Sands (SAGD),116515488.48,BU01,Bitumen / Blend Sales,400100,CAD
+2025-01,Oil Sands (SAGD),66418087.32,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2025-01,Oil Sands (SAGD),13101662.68,BU01,Power & Steam Sales,400200,CAD
+2025-01,Conventional Oil,29673604.48,BU02,Light / Medium Crude Sales,400100,CAD
+2025-01,Conventional Oil,24123169.08,BU02,Heavy Crude Sales,400100,CAD
+2025-01,Conventional Oil,8398483.36,BU02,Solution Gas Sales,400200,CAD
+2025-01,Natural Gas & NGL,61187047.03,BU03,Natural Gas Sales,400200,CAD
+2025-01,Natural Gas & NGL,27772884.65,BU03,NGL & Condensate Sales,400300,CAD
+2025-01,Natural Gas & NGL,13403293.84,BU03,Gas Processing Fees,440100,CAD
+2025-01,Midstream & Terminals,97089071.52,BU04,Pipeline Tolls,440100,CAD
+2025-01,Midstream & Terminals,40090752.69,BU04,Terminal Services,440100,CAD
+2025-01,Midstream & Terminals,25664356.02,BU04,Storage,440100,CAD
+2025-01,Midstream & Terminals,42057541.32,BU04,Rail & Marine Logistics,440100,CAD
+2025-01,Prairie Refinery (R100),217075520.04,BU05,Gasoline Sales,410100,CAD
+2025-01,Prairie Refinery (R100),323567837.65,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-01,Prairie Refinery (R100),55966371.2,BU05,Jet Fuel Sales,410200,CAD
+2025-01,Prairie Refinery (R100),84201990.79,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-01,Prairie Refinery (R100),9124551.99,BU05,Sulphur & Petroleum Coke,400300,CAD
+2025-01,Lakehead Refinery (R200),178731254.37,BU06,Gasoline Sales,410100,CAD
+2025-01,Lakehead Refinery (R200),137177715.81,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-01,Lakehead Refinery (R200),25507558.26,BU06,Jet Fuel Sales,410200,CAD
+2025-01,Lakehead Refinery (R200),75652923.56,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-01,Lakehead Refinery (R200),5871955.98,BU06,Sulphur & Petroleum Coke,400300,CAD
+2025-01,Saint-Laurent Refinery (R300),211583694.95,BU07,Gasoline Sales,410100,CAD
+2025-01,Saint-Laurent Refinery (R300),218679199.49,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-01,Saint-Laurent Refinery (R300),43110448.95,BU07,Jet Fuel Sales,410200,CAD
+2025-01,Saint-Laurent Refinery (R300),115454911.57,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-01,Saint-Laurent Refinery (R300),4895472.66,BU07,Sulphur & Petroleum Coke,400300,CAD
+2025-01,Retail Fuels & Convenience,289155182.23,BU08,Retail Gasoline,420100,CAD
+2025-01,Retail Fuels & Convenience,116764064.53,BU08,Retail Diesel,420100,CAD
+2025-01,Retail Fuels & Convenience,119398101.0,BU08,Convenience Store,420100,CAD
+2025-01,Retail Fuels & Convenience,23155795.28,BU08,Loyalty & Services,420100,CAD
+2025-01,Commercial & Wholesale,315395529.63,BU09,Bulk Fuels,410100,CAD
+2025-01,Commercial & Wholesale,24011270.43,BU09,Asphalt & Bitumen,410300,CAD
+2025-01,Commercial & Wholesale,65423098.63,BU09,Heating Oil & Propane,410300,CAD
+2025-01,Commercial & Wholesale,75668031.68,BU09,Aviation & Marine Fuels,410200,CAD
+2025-01,Commercial & Wholesale,56845585.01,BU09,Petrochemical Feedstock,410300,CAD
+2025-01,Commercial & Wholesale,63882030.46,BU09,Cardlock & Fleet Fuel,410200,CAD
+2025-01,Lubricants & Specialty,83848544.0,BU10,Lubricants,410300,CAD
+2025-01,Lubricants & Specialty,28532190.0,BU10,Specialty Fluids,410300,CAD
+2025-01,Lubricants & Specialty,20859802.02,BU10,Grease & Industrial Products,410300,CAD
+2025-01,Energy Trading,281062280.01,BU11,Crude Trading,430100,CAD
+2025-01,Energy Trading,89517510.92,BU11,Gas Trading,430100,CAD
+2025-01,Energy Trading,122441539.23,BU11,NGL & Products Trading,430100,CAD
+2025-01,Energy Trading,9439978.66,BU11,Carbon Credit Trading,430100,CAD
+2025-01,Energy Trading,22773384.65,BU11,Power Trading,430100,CAD
+2025-01,Low Carbon & New Energy,9286849.27,BU12,EV Charging,450100,CAD
+2025-01,Low Carbon & New Energy,48136792.77,BU12,Renewable Fuels,450100,CAD
+2025-01,Low Carbon & New Energy,14493326.64,BU12,Hydrogen & CCUS,450100,CAD
+2025-01,Low Carbon & New Energy,10600250.4,BU12,Carbon Credit & Offset Sales,450100,CAD
+2025-02,Oil Sands (SAGD),125101182.95,BU01,Bitumen / Blend Sales,400100,CAD
+2025-02,Oil Sands (SAGD),70310293.56,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2025-02,Oil Sands (SAGD),12205308.59,BU01,Power & Steam Sales,400200,CAD
+2025-02,Conventional Oil,32505685.58,BU02,Light / Medium Crude Sales,400100,CAD
+2025-02,Conventional Oil,27733233.39,BU02,Heavy Crude Sales,400100,CAD
+2025-02,Conventional Oil,7742541.53,BU02,Solution Gas Sales,400200,CAD
+2025-02,Natural Gas & NGL,58927578.38,BU03,Natural Gas Sales,400200,CAD
+2025-02,Natural Gas & NGL,26802176.26,BU03,NGL & Condensate Sales,400300,CAD
+2025-02,Natural Gas & NGL,14538498.69,BU03,Gas Processing Fees,440100,CAD
+2025-02,Midstream & Terminals,95264267.22,BU04,Pipeline Tolls,440100,CAD
+2025-02,Midstream & Terminals,38185545.5,BU04,Terminal Services,440100,CAD
+2025-02,Midstream & Terminals,23218333.01,BU04,Storage,440100,CAD
+2025-02,Midstream & Terminals,41798094.15,BU04,Rail & Marine Logistics,440100,CAD
+2025-02,Prairie Refinery (R100),217220938.77,BU05,Gasoline Sales,410100,CAD
+2025-02,Prairie Refinery (R100),287727949.36,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-02,Prairie Refinery (R100),48218234.32,BU05,Jet Fuel Sales,410200,CAD
+2025-02,Prairie Refinery (R100),74757346.73,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-02,Prairie Refinery (R100),9140632.95,BU05,Sulphur & Petroleum Coke,400300,CAD
+2025-02,Lakehead Refinery (R200),169679344.48,BU06,Gasoline Sales,410100,CAD
+2025-02,Lakehead Refinery (R200),124102667.88,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-02,Lakehead Refinery (R200),22205438.33,BU06,Jet Fuel Sales,410200,CAD
+2025-02,Lakehead Refinery (R200),68626088.66,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-02,Lakehead Refinery (R200),5907993.3,BU06,Sulphur & Petroleum Coke,400300,CAD
+2025-02,Saint-Laurent Refinery (R300),205621640.82,BU07,Gasoline Sales,410100,CAD
+2025-02,Saint-Laurent Refinery (R300),200876692.48,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-02,Saint-Laurent Refinery (R300),40880448.04,BU07,Jet Fuel Sales,410200,CAD
+2025-02,Saint-Laurent Refinery (R300),105881676.77,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-02,Saint-Laurent Refinery (R300),5184642.06,BU07,Sulphur & Petroleum Coke,400300,CAD
+2025-02,Retail Fuels & Convenience,259628046.03,BU08,Retail Gasoline,420100,CAD
+2025-02,Retail Fuels & Convenience,112468510.96,BU08,Retail Diesel,420100,CAD
+2025-02,Retail Fuels & Convenience,125357816.18,BU08,Convenience Store,420100,CAD
+2025-02,Retail Fuels & Convenience,21541191.31,BU08,Loyalty & Services,420100,CAD
+2025-02,Commercial & Wholesale,297523564.58,BU09,Bulk Fuels,410100,CAD
+2025-02,Commercial & Wholesale,24595899.23,BU09,Asphalt & Bitumen,410300,CAD
+2025-02,Commercial & Wholesale,65542297.29,BU09,Heating Oil & Propane,410300,CAD
+2025-02,Commercial & Wholesale,87621250.87,BU09,Aviation & Marine Fuels,410200,CAD
+2025-02,Commercial & Wholesale,59633177.17,BU09,Petrochemical Feedstock,410300,CAD
+2025-02,Commercial & Wholesale,62245548.92,BU09,Cardlock & Fleet Fuel,410200,CAD
+2025-02,Lubricants & Specialty,92055295.6,BU10,Lubricants,410300,CAD
+2025-02,Lubricants & Specialty,28469236.46,BU10,Specialty Fluids,410300,CAD
+2025-02,Lubricants & Specialty,21443634.81,BU10,Grease & Industrial Products,410300,CAD
+2025-02,Energy Trading,277046327.79,BU11,Crude Trading,430100,CAD
+2025-02,Energy Trading,88557351.87,BU11,Gas Trading,430100,CAD
+2025-02,Energy Trading,83798514.51,BU11,NGL & Products Trading,430100,CAD
+2025-02,Energy Trading,12770062.98,BU11,Carbon Credit Trading,430100,CAD
+2025-02,Energy Trading,31422608.23,BU11,Power Trading,430100,CAD
+2025-02,Low Carbon & New Energy,9211294.91,BU12,EV Charging,450100,CAD
+2025-02,Low Carbon & New Energy,47492661.72,BU12,Renewable Fuels,450100,CAD
+2025-02,Low Carbon & New Energy,14063865.26,BU12,Hydrogen & CCUS,450100,CAD
+2025-02,Low Carbon & New Energy,10982167.3,BU12,Carbon Credit & Offset Sales,450100,CAD
+2025-03,Oil Sands (SAGD),118944091.8,BU01,Bitumen / Blend Sales,400100,CAD
+2025-03,Oil Sands (SAGD),70994112.71,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2025-03,Oil Sands (SAGD),11935279.47,BU01,Power & Steam Sales,400200,CAD
+2025-03,Conventional Oil,30718073.75,BU02,Light / Medium Crude Sales,400100,CAD
+2025-03,Conventional Oil,24959913.47,BU02,Heavy Crude Sales,400100,CAD
+2025-03,Conventional Oil,7003779.2,BU02,Solution Gas Sales,400200,CAD
+2025-03,Natural Gas & NGL,55540602.45,BU03,Natural Gas Sales,400200,CAD
+2025-03,Natural Gas & NGL,26593890.26,BU03,NGL & Condensate Sales,400300,CAD
+2025-03,Natural Gas & NGL,13823607.86,BU03,Gas Processing Fees,440100,CAD
+2025-03,Midstream & Terminals,92955607.11,BU04,Pipeline Tolls,440100,CAD
+2025-03,Midstream & Terminals,39398181.93,BU04,Terminal Services,440100,CAD
+2025-03,Midstream & Terminals,24630188.38,BU04,Storage,440100,CAD
+2025-03,Midstream & Terminals,41302089.74,BU04,Rail & Marine Logistics,440100,CAD
+2025-03,Prairie Refinery (R100),228740329.97,BU05,Gasoline Sales,410100,CAD
+2025-03,Prairie Refinery (R100),317880443.02,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-03,Prairie Refinery (R100),53445811.11,BU05,Jet Fuel Sales,410200,CAD
+2025-03,Prairie Refinery (R100),75246696.31,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-03,Prairie Refinery (R100),9117542.85,BU05,Sulphur & Petroleum Coke,400300,CAD
+2025-03,Lakehead Refinery (R200),182821733.56,BU06,Gasoline Sales,410100,CAD
+2025-03,Lakehead Refinery (R200),131171778.36,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-03,Lakehead Refinery (R200),24060136.38,BU06,Jet Fuel Sales,410200,CAD
+2025-03,Lakehead Refinery (R200),69983107.46,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-03,Lakehead Refinery (R200),5932499.57,BU06,Sulphur & Petroleum Coke,400300,CAD
+2025-03,Saint-Laurent Refinery (R300),213420286.54,BU07,Gasoline Sales,410100,CAD
+2025-03,Saint-Laurent Refinery (R300),211967223.24,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-03,Saint-Laurent Refinery (R300),42769799.3,BU07,Jet Fuel Sales,410200,CAD
+2025-03,Saint-Laurent Refinery (R300),109060908.68,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-03,Saint-Laurent Refinery (R300),4897333.54,BU07,Sulphur & Petroleum Coke,400300,CAD
+2025-03,Retail Fuels & Convenience,290994864.66,BU08,Retail Gasoline,420100,CAD
+2025-03,Retail Fuels & Convenience,120825219.51,BU08,Retail Diesel,420100,CAD
+2025-03,Retail Fuels & Convenience,126366564.06,BU08,Convenience Store,420100,CAD
+2025-03,Retail Fuels & Convenience,22443907.12,BU08,Loyalty & Services,420100,CAD
+2025-03,Commercial & Wholesale,312100256.3,BU09,Bulk Fuels,410100,CAD
+2025-03,Commercial & Wholesale,25601637.75,BU09,Asphalt & Bitumen,410300,CAD
+2025-03,Commercial & Wholesale,63367947.82,BU09,Heating Oil & Propane,410300,CAD
+2025-03,Commercial & Wholesale,85102243.84,BU09,Aviation & Marine Fuels,410200,CAD
+2025-03,Commercial & Wholesale,62539273.06,BU09,Petrochemical Feedstock,410300,CAD
+2025-03,Commercial & Wholesale,65855638.09,BU09,Cardlock & Fleet Fuel,410200,CAD
+2025-03,Lubricants & Specialty,87710295.7,BU10,Lubricants,410300,CAD
+2025-03,Lubricants & Specialty,30278416.57,BU10,Specialty Fluids,410300,CAD
+2025-03,Lubricants & Specialty,21297308.11,BU10,Grease & Industrial Products,410300,CAD
+2025-03,Energy Trading,297106327.75,BU11,Crude Trading,430100,CAD
+2025-03,Energy Trading,158546332.94,BU11,Gas Trading,430100,CAD
+2025-03,Energy Trading,74496340.76,BU11,NGL & Products Trading,430100,CAD
+2025-03,Energy Trading,13412051.34,BU11,Carbon Credit Trading,430100,CAD
+2025-03,Energy Trading,29216665.12,BU11,Power Trading,430100,CAD
+2025-03,Low Carbon & New Energy,9274750.29,BU12,EV Charging,450100,CAD
+2025-03,Low Carbon & New Energy,48004959.9,BU12,Renewable Fuels,450100,CAD
+2025-03,Low Carbon & New Energy,14883384.55,BU12,Hydrogen & CCUS,450100,CAD
+2025-03,Low Carbon & New Energy,10940315.19,BU12,Carbon Credit & Offset Sales,450100,CAD
+2025-04,Oil Sands (SAGD),120766393.22,BU01,Bitumen / Blend Sales,400100,CAD
+2025-04,Oil Sands (SAGD),71827837.37,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2025-04,Oil Sands (SAGD),9285965.79,BU01,Power & Steam Sales,400200,CAD
+2025-04,Conventional Oil,32880726.79,BU02,Light / Medium Crude Sales,400100,CAD
+2025-04,Conventional Oil,25418575.56,BU02,Heavy Crude Sales,400100,CAD
+2025-04,Conventional Oil,6221484.21,BU02,Solution Gas Sales,400200,CAD
+2025-04,Natural Gas & NGL,45655499.83,BU03,Natural Gas Sales,400200,CAD
+2025-04,Natural Gas & NGL,28010023.44,BU03,NGL & Condensate Sales,400300,CAD
+2025-04,Natural Gas & NGL,14380537.97,BU03,Gas Processing Fees,440100,CAD
+2025-04,Midstream & Terminals,93287944.29,BU04,Pipeline Tolls,440100,CAD
+2025-04,Midstream & Terminals,38293070.67,BU04,Terminal Services,440100,CAD
+2025-04,Midstream & Terminals,25474946.7,BU04,Storage,440100,CAD
+2025-04,Midstream & Terminals,42717889.17,BU04,Rail & Marine Logistics,440100,CAD
+2025-04,Prairie Refinery (R100),214241553.96,BU05,Gasoline Sales,410100,CAD
+2025-04,Prairie Refinery (R100),257190429.82,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-04,Prairie Refinery (R100),52396645.5,BU05,Jet Fuel Sales,410200,CAD
+2025-04,Prairie Refinery (R100),91612681.72,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-04,Prairie Refinery (R100),9053820.08,BU05,Sulphur & Petroleum Coke,400300,CAD
+2025-04,Lakehead Refinery (R200),157373177.41,BU06,Gasoline Sales,410100,CAD
+2025-04,Lakehead Refinery (R200),121222502.02,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-04,Lakehead Refinery (R200),20062255.48,BU06,Jet Fuel Sales,410200,CAD
+2025-04,Lakehead Refinery (R200),59931207.12,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-04,Lakehead Refinery (R200),5947010.16,BU06,Sulphur & Petroleum Coke,400300,CAD
+2025-04,Saint-Laurent Refinery (R300),257114931.42,BU07,Gasoline Sales,410100,CAD
+2025-04,Saint-Laurent Refinery (R300),228549956.49,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-04,Saint-Laurent Refinery (R300),50088216.58,BU07,Jet Fuel Sales,410200,CAD
+2025-04,Saint-Laurent Refinery (R300),84707263.69,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-04,Saint-Laurent Refinery (R300),4935711.9,BU07,Sulphur & Petroleum Coke,400300,CAD
+2025-04,Retail Fuels & Convenience,318443833.67,BU08,Retail Gasoline,420100,CAD
+2025-04,Retail Fuels & Convenience,104798845.58,BU08,Retail Diesel,420100,CAD
+2025-04,Retail Fuels & Convenience,124201871.56,BU08,Convenience Store,420100,CAD
+2025-04,Retail Fuels & Convenience,22482830.07,BU08,Loyalty & Services,420100,CAD
+2025-04,Commercial & Wholesale,300839507.66,BU09,Bulk Fuels,410100,CAD
+2025-04,Commercial & Wholesale,23018757.77,BU09,Asphalt & Bitumen,410300,CAD
+2025-04,Commercial & Wholesale,57353044.63,BU09,Heating Oil & Propane,410300,CAD
+2025-04,Commercial & Wholesale,86779709.47,BU09,Aviation & Marine Fuels,410200,CAD
+2025-04,Commercial & Wholesale,63496212.29,BU09,Petrochemical Feedstock,410300,CAD
+2025-04,Commercial & Wholesale,68035877.04,BU09,Cardlock & Fleet Fuel,410200,CAD
+2025-04,Lubricants & Specialty,86415392.49,BU10,Lubricants,410300,CAD
+2025-04,Lubricants & Specialty,32496084.6,BU10,Specialty Fluids,410300,CAD
+2025-04,Lubricants & Specialty,22349423.47,BU10,Grease & Industrial Products,410300,CAD
+2025-04,Energy Trading,316950586.25,BU11,Crude Trading,430100,CAD
+2025-04,Energy Trading,104206060.16,BU11,Gas Trading,430100,CAD
+2025-04,Energy Trading,104834157.58,BU11,NGL & Products Trading,430100,CAD
+2025-04,Energy Trading,11076617.19,BU11,Carbon Credit Trading,430100,CAD
+2025-04,Energy Trading,30472870.59,BU11,Power Trading,430100,CAD
+2025-04,Low Carbon & New Energy,9444464.48,BU12,EV Charging,450100,CAD
+2025-04,Low Carbon & New Energy,53073964.81,BU12,Renewable Fuels,450100,CAD
+2025-04,Low Carbon & New Energy,14705948.87,BU12,Hydrogen & CCUS,450100,CAD
+2025-04,Low Carbon & New Energy,11206917.63,BU12,Carbon Credit & Offset Sales,450100,CAD
+2025-05,Oil Sands (SAGD),113652345.51,BU01,Bitumen / Blend Sales,400100,CAD
+2025-05,Oil Sands (SAGD),65894483.63,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2025-05,Oil Sands (SAGD),8322629.49,BU01,Power & Steam Sales,400200,CAD
+2025-05,Conventional Oil,29975982.27,BU02,Light / Medium Crude Sales,400100,CAD
+2025-05,Conventional Oil,25877081.1,BU02,Heavy Crude Sales,400100,CAD
+2025-05,Conventional Oil,5126727.88,BU02,Solution Gas Sales,400200,CAD
+2025-05,Natural Gas & NGL,40042407.59,BU03,Natural Gas Sales,400200,CAD
+2025-05,Natural Gas & NGL,26184153.36,BU03,NGL & Condensate Sales,400300,CAD
+2025-05,Natural Gas & NGL,13709251.34,BU03,Gas Processing Fees,440100,CAD
+2025-05,Midstream & Terminals,96018871.03,BU04,Pipeline Tolls,440100,CAD
+2025-05,Midstream & Terminals,37464456.66,BU04,Terminal Services,440100,CAD
+2025-05,Midstream & Terminals,24941445.42,BU04,Storage,440100,CAD
+2025-05,Midstream & Terminals,40756814.1,BU04,Rail & Marine Logistics,440100,CAD
+2025-05,Prairie Refinery (R100),208282179.58,BU05,Gasoline Sales,410100,CAD
+2025-05,Prairie Refinery (R100),251532781.45,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-05,Prairie Refinery (R100),50584559.96,BU05,Jet Fuel Sales,410200,CAD
+2025-05,Prairie Refinery (R100),89946831.53,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-05,Prairie Refinery (R100),9186343.61,BU05,Sulphur & Petroleum Coke,400300,CAD
+2025-05,Lakehead Refinery (R200),200093607.1,BU06,Gasoline Sales,410100,CAD
+2025-05,Lakehead Refinery (R200),143146497.35,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-05,Lakehead Refinery (R200),22798488.12,BU06,Jet Fuel Sales,410200,CAD
+2025-05,Lakehead Refinery (R200),75444773.02,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-05,Lakehead Refinery (R200),6092860.61,BU06,Sulphur & Petroleum Coke,400300,CAD
+2025-05,Saint-Laurent Refinery (R300),224344242.06,BU07,Gasoline Sales,410100,CAD
+2025-05,Saint-Laurent Refinery (R300),218775100.26,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-05,Saint-Laurent Refinery (R300),46312446.1,BU07,Jet Fuel Sales,410200,CAD
+2025-05,Saint-Laurent Refinery (R300),79291246.65,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-05,Saint-Laurent Refinery (R300),4931379.28,BU07,Sulphur & Petroleum Coke,400300,CAD
+2025-05,Retail Fuels & Convenience,328238432.88,BU08,Retail Gasoline,420100,CAD
+2025-05,Retail Fuels & Convenience,116877898.13,BU08,Retail Diesel,420100,CAD
+2025-05,Retail Fuels & Convenience,109906997.75,BU08,Convenience Store,420100,CAD
+2025-05,Retail Fuels & Convenience,23791103.57,BU08,Loyalty & Services,420100,CAD
+2025-05,Commercial & Wholesale,303978324.38,BU09,Bulk Fuels,410100,CAD
+2025-05,Commercial & Wholesale,73682667.04,BU09,Asphalt & Bitumen,410300,CAD
+2025-05,Commercial & Wholesale,47510358.73,BU09,Heating Oil & Propane,410300,CAD
+2025-05,Commercial & Wholesale,87652506.42,BU09,Aviation & Marine Fuels,410200,CAD
+2025-05,Commercial & Wholesale,55998556.11,BU09,Petrochemical Feedstock,410300,CAD
+2025-05,Commercial & Wholesale,65596867.13,BU09,Cardlock & Fleet Fuel,410200,CAD
+2025-05,Lubricants & Specialty,87786255.57,BU10,Lubricants,410300,CAD
+2025-05,Lubricants & Specialty,30443112.96,BU10,Specialty Fluids,410300,CAD
+2025-05,Lubricants & Specialty,21899410.52,BU10,Grease & Industrial Products,410300,CAD
+2025-05,Energy Trading,175045536.82,BU11,Crude Trading,430100,CAD
+2025-05,Energy Trading,131183054.17,BU11,Gas Trading,430100,CAD
+2025-05,Energy Trading,81090106.52,BU11,NGL & Products Trading,430100,CAD
+2025-05,Energy Trading,13655312.88,BU11,Carbon Credit Trading,430100,CAD
+2025-05,Energy Trading,32221820.88,BU11,Power Trading,430100,CAD
+2025-05,Low Carbon & New Energy,9286806.12,BU12,EV Charging,450100,CAD
+2025-05,Low Carbon & New Energy,50961950.24,BU12,Renewable Fuels,450100,CAD
+2025-05,Low Carbon & New Energy,15094402.61,BU12,Hydrogen & CCUS,450100,CAD
+2025-05,Low Carbon & New Energy,10731972.79,BU12,Carbon Credit & Offset Sales,450100,CAD
+2025-06,Oil Sands (SAGD),117003863.79,BU01,Bitumen / Blend Sales,400100,CAD
+2025-06,Oil Sands (SAGD),65884749.66,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2025-06,Oil Sands (SAGD),7175127.93,BU01,Power & Steam Sales,400200,CAD
+2025-06,Conventional Oil,28713933.47,BU02,Light / Medium Crude Sales,400100,CAD
+2025-06,Conventional Oil,23975720.9,BU02,Heavy Crude Sales,400100,CAD
+2025-06,Conventional Oil,4934253.23,BU02,Solution Gas Sales,400200,CAD
+2025-06,Natural Gas & NGL,31604764.28,BU03,Natural Gas Sales,400200,CAD
+2025-06,Natural Gas & NGL,26750552.13,BU03,NGL & Condensate Sales,400300,CAD
+2025-06,Natural Gas & NGL,14000394.4,BU03,Gas Processing Fees,440100,CAD
+2025-06,Midstream & Terminals,91477138.17,BU04,Pipeline Tolls,440100,CAD
+2025-06,Midstream & Terminals,38405788.96,BU04,Terminal Services,440100,CAD
+2025-06,Midstream & Terminals,25033635.6,BU04,Storage,440100,CAD
+2025-06,Midstream & Terminals,41377951.77,BU04,Rail & Marine Logistics,440100,CAD
+2025-06,Prairie Refinery (R100),202239992.62,BU05,Gasoline Sales,410100,CAD
+2025-06,Prairie Refinery (R100),252540616.71,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-06,Prairie Refinery (R100),48496539.44,BU05,Jet Fuel Sales,410200,CAD
+2025-06,Prairie Refinery (R100),95531989.31,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-06,Prairie Refinery (R100),9379333.98,BU05,Sulphur & Petroleum Coke,400300,CAD
+2025-06,Lakehead Refinery (R200),186352448.34,BU06,Gasoline Sales,410100,CAD
+2025-06,Lakehead Refinery (R200),120052766.78,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-06,Lakehead Refinery (R200),20079684.71,BU06,Jet Fuel Sales,410200,CAD
+2025-06,Lakehead Refinery (R200),81714143.85,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-06,Lakehead Refinery (R200),5889673.98,BU06,Sulphur & Petroleum Coke,400300,CAD
+2025-06,Saint-Laurent Refinery (R300),243668833.2,BU07,Gasoline Sales,410100,CAD
+2025-06,Saint-Laurent Refinery (R300),206592020.69,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-06,Saint-Laurent Refinery (R300),39157739.27,BU07,Jet Fuel Sales,410200,CAD
+2025-06,Saint-Laurent Refinery (R300),74503580.88,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-06,Saint-Laurent Refinery (R300),4906991.21,BU07,Sulphur & Petroleum Coke,400300,CAD
+2025-06,Retail Fuels & Convenience,326384883.37,BU08,Retail Gasoline,420100,CAD
+2025-06,Retail Fuels & Convenience,107331177.58,BU08,Retail Diesel,420100,CAD
+2025-06,Retail Fuels & Convenience,119025337.84,BU08,Convenience Store,420100,CAD
+2025-06,Retail Fuels & Convenience,22546009.29,BU08,Loyalty & Services,420100,CAD
+2025-06,Commercial & Wholesale,297133440.05,BU09,Bulk Fuels,410100,CAD
+2025-06,Commercial & Wholesale,102198213.58,BU09,Asphalt & Bitumen,410300,CAD
+2025-06,Commercial & Wholesale,43829729.99,BU09,Heating Oil & Propane,410300,CAD
+2025-06,Commercial & Wholesale,82208160.22,BU09,Aviation & Marine Fuels,410200,CAD
+2025-06,Commercial & Wholesale,61352224.37,BU09,Petrochemical Feedstock,410300,CAD
+2025-06,Commercial & Wholesale,65280113.47,BU09,Cardlock & Fleet Fuel,410200,CAD
+2025-06,Lubricants & Specialty,88024571.66,BU10,Lubricants,410300,CAD
+2025-06,Lubricants & Specialty,29267856.72,BU10,Specialty Fluids,410300,CAD
+2025-06,Lubricants & Specialty,21590845.08,BU10,Grease & Industrial Products,410300,CAD
+2025-06,Energy Trading,245454736.38,BU11,Crude Trading,430100,CAD
+2025-06,Energy Trading,154313545.88,BU11,Gas Trading,430100,CAD
+2025-06,Energy Trading,96679238.4,BU11,NGL & Products Trading,430100,CAD
+2025-06,Energy Trading,9840916.26,BU11,Carbon Credit Trading,430100,CAD
+2025-06,Energy Trading,20391878.11,BU11,Power Trading,430100,CAD
+2025-06,Low Carbon & New Energy,9542206.08,BU12,EV Charging,450100,CAD
+2025-06,Low Carbon & New Energy,50027874.3,BU12,Renewable Fuels,450100,CAD
+2025-06,Low Carbon & New Energy,15135895.05,BU12,Hydrogen & CCUS,450100,CAD
+2025-06,Low Carbon & New Energy,10717702.45,BU12,Carbon Credit & Offset Sales,450100,CAD
+2025-07,Oil Sands (SAGD),120542639.25,BU01,Bitumen / Blend Sales,400100,CAD
+2025-07,Oil Sands (SAGD),70195139.69,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2025-07,Oil Sands (SAGD),7562901.91,BU01,Power & Steam Sales,400200,CAD
+2025-07,Conventional Oil,32102579.46,BU02,Light / Medium Crude Sales,400100,CAD
+2025-07,Conventional Oil,24645227.29,BU02,Heavy Crude Sales,400100,CAD
+2025-07,Conventional Oil,4031212.0,BU02,Solution Gas Sales,400200,CAD
+2025-07,Natural Gas & NGL,30095889.25,BU03,Natural Gas Sales,400200,CAD
+2025-07,Natural Gas & NGL,27224792.4,BU03,NGL & Condensate Sales,400300,CAD
+2025-07,Natural Gas & NGL,14040593.3,BU03,Gas Processing Fees,440100,CAD
+2025-07,Midstream & Terminals,92283640.68,BU04,Pipeline Tolls,440100,CAD
+2025-07,Midstream & Terminals,37778406.12,BU04,Terminal Services,440100,CAD
+2025-07,Midstream & Terminals,23484757.02,BU04,Storage,440100,CAD
+2025-07,Midstream & Terminals,39502994.87,BU04,Rail & Marine Logistics,440100,CAD
+2025-07,Prairie Refinery (R100),246557697.22,BU05,Gasoline Sales,410100,CAD
+2025-07,Prairie Refinery (R100),280535782.07,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-07,Prairie Refinery (R100),55236689.03,BU05,Jet Fuel Sales,410200,CAD
+2025-07,Prairie Refinery (R100),104099910.47,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-07,Prairie Refinery (R100),9347177.33,BU05,Sulphur & Petroleum Coke,400300,CAD
+2025-07,Lakehead Refinery (R200),181083097.77,BU06,Gasoline Sales,410100,CAD
+2025-07,Lakehead Refinery (R200),125660224.23,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-07,Lakehead Refinery (R200),22119897.62,BU06,Jet Fuel Sales,410200,CAD
+2025-07,Lakehead Refinery (R200),84057369.52,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-07,Lakehead Refinery (R200),6079239.15,BU06,Sulphur & Petroleum Coke,400300,CAD
+2025-07,Saint-Laurent Refinery (R300),254999390.22,BU07,Gasoline Sales,410100,CAD
+2025-07,Saint-Laurent Refinery (R300),213387486.04,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-07,Saint-Laurent Refinery (R300),44782778.44,BU07,Jet Fuel Sales,410200,CAD
+2025-07,Saint-Laurent Refinery (R300),83961849.19,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-07,Saint-Laurent Refinery (R300),5012790.7,BU07,Sulphur & Petroleum Coke,400300,CAD
+2025-07,Retail Fuels & Convenience,366355562.66,BU08,Retail Gasoline,420100,CAD
+2025-07,Retail Fuels & Convenience,113124143.86,BU08,Retail Diesel,420100,CAD
+2025-07,Retail Fuels & Convenience,116062224.23,BU08,Convenience Store,420100,CAD
+2025-07,Retail Fuels & Convenience,21380073.45,BU08,Loyalty & Services,420100,CAD
+2025-07,Commercial & Wholesale,326325121.73,BU09,Bulk Fuels,410100,CAD
+2025-07,Commercial & Wholesale,116522708.99,BU09,Asphalt & Bitumen,410300,CAD
+2025-07,Commercial & Wholesale,42866654.03,BU09,Heating Oil & Propane,410300,CAD
+2025-07,Commercial & Wholesale,88397947.2,BU09,Aviation & Marine Fuels,410200,CAD
+2025-07,Commercial & Wholesale,62762662.0,BU09,Petrochemical Feedstock,410300,CAD
+2025-07,Commercial & Wholesale,67904321.86,BU09,Cardlock & Fleet Fuel,410200,CAD
+2025-07,Lubricants & Specialty,89772600.62,BU10,Lubricants,410300,CAD
+2025-07,Lubricants & Specialty,29671789.35,BU10,Specialty Fluids,410300,CAD
+2025-07,Lubricants & Specialty,22567217.04,BU10,Grease & Industrial Products,410300,CAD
+2025-07,Energy Trading,276615219.54,BU11,Crude Trading,430100,CAD
+2025-07,Energy Trading,126299895.73,BU11,Gas Trading,430100,CAD
+2025-07,Energy Trading,126723314.8,BU11,NGL & Products Trading,430100,CAD
+2025-07,Energy Trading,14711231.31,BU11,Carbon Credit Trading,430100,CAD
+2025-07,Energy Trading,21871057.58,BU11,Power Trading,430100,CAD
+2025-07,Low Carbon & New Energy,9716066.41,BU12,EV Charging,450100,CAD
+2025-07,Low Carbon & New Energy,50527094.65,BU12,Renewable Fuels,450100,CAD
+2025-07,Low Carbon & New Energy,15128591.56,BU12,Hydrogen & CCUS,450100,CAD
+2025-07,Low Carbon & New Energy,11117404.71,BU12,Carbon Credit & Offset Sales,450100,CAD
+2025-08,Oil Sands (SAGD),117804467.32,BU01,Bitumen / Blend Sales,400100,CAD
+2025-08,Oil Sands (SAGD),71861960.45,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2025-08,Oil Sands (SAGD),7624862.29,BU01,Power & Steam Sales,400200,CAD
+2025-08,Conventional Oil,30217484.92,BU02,Light / Medium Crude Sales,400100,CAD
+2025-08,Conventional Oil,25279950.33,BU02,Heavy Crude Sales,400100,CAD
+2025-08,Conventional Oil,5164157.32,BU02,Solution Gas Sales,400200,CAD
+2025-08,Natural Gas & NGL,34991646.07,BU03,Natural Gas Sales,400200,CAD
+2025-08,Natural Gas & NGL,25677996.01,BU03,NGL & Condensate Sales,400300,CAD
+2025-08,Natural Gas & NGL,13549364.12,BU03,Gas Processing Fees,440100,CAD
+2025-08,Midstream & Terminals,95586507.87,BU04,Pipeline Tolls,440100,CAD
+2025-08,Midstream & Terminals,38095216.99,BU04,Terminal Services,440100,CAD
+2025-08,Midstream & Terminals,23830884.83,BU04,Storage,440100,CAD
+2025-08,Midstream & Terminals,40054245.92,BU04,Rail & Marine Logistics,440100,CAD
+2025-08,Prairie Refinery (R100),236063164.45,BU05,Gasoline Sales,410100,CAD
+2025-08,Prairie Refinery (R100),269966706.04,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-08,Prairie Refinery (R100),50173771.94,BU05,Jet Fuel Sales,410200,CAD
+2025-08,Prairie Refinery (R100),102241319.7,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-08,Prairie Refinery (R100),8991032.17,BU05,Sulphur & Petroleum Coke,400300,CAD
+2025-08,Lakehead Refinery (R200),180423133.97,BU06,Gasoline Sales,410100,CAD
+2025-08,Lakehead Refinery (R200),124317528.25,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-08,Lakehead Refinery (R200),22006358.85,BU06,Jet Fuel Sales,410200,CAD
+2025-08,Lakehead Refinery (R200),78481403.69,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-08,Lakehead Refinery (R200),5809151.65,BU06,Sulphur & Petroleum Coke,400300,CAD
+2025-08,Saint-Laurent Refinery (R300),243111377.91,BU07,Gasoline Sales,410100,CAD
+2025-08,Saint-Laurent Refinery (R300),216890732.08,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-08,Saint-Laurent Refinery (R300),44366096.65,BU07,Jet Fuel Sales,410200,CAD
+2025-08,Saint-Laurent Refinery (R300),81218686.78,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-08,Saint-Laurent Refinery (R300),5039902.51,BU07,Sulphur & Petroleum Coke,400300,CAD
+2025-08,Retail Fuels & Convenience,325958602.32,BU08,Retail Gasoline,420100,CAD
+2025-08,Retail Fuels & Convenience,111416402.81,BU08,Retail Diesel,420100,CAD
+2025-08,Retail Fuels & Convenience,121313936.92,BU08,Convenience Store,420100,CAD
+2025-08,Retail Fuels & Convenience,22294532.41,BU08,Loyalty & Services,420100,CAD
+2025-08,Commercial & Wholesale,288503563.86,BU09,Bulk Fuels,410100,CAD
+2025-08,Commercial & Wholesale,114766315.94,BU09,Asphalt & Bitumen,410300,CAD
+2025-08,Commercial & Wholesale,41228977.77,BU09,Heating Oil & Propane,410300,CAD
+2025-08,Commercial & Wholesale,81586592.88,BU09,Aviation & Marine Fuels,410200,CAD
+2025-08,Commercial & Wholesale,62169449.08,BU09,Petrochemical Feedstock,410300,CAD
+2025-08,Commercial & Wholesale,67467826.08,BU09,Cardlock & Fleet Fuel,410200,CAD
+2025-08,Lubricants & Specialty,87232871.51,BU10,Lubricants,410300,CAD
+2025-08,Lubricants & Specialty,28446166.53,BU10,Specialty Fluids,410300,CAD
+2025-08,Lubricants & Specialty,22167316.58,BU10,Grease & Industrial Products,410300,CAD
+2025-08,Energy Trading,223002054.34,BU11,Crude Trading,430100,CAD
+2025-08,Energy Trading,107840142.65,BU11,Gas Trading,430100,CAD
+2025-08,Energy Trading,59218728.26,BU11,NGL & Products Trading,430100,CAD
+2025-08,Energy Trading,14526837.89,BU11,Carbon Credit Trading,430100,CAD
+2025-08,Energy Trading,19847130.43,BU11,Power Trading,430100,CAD
+2025-08,Low Carbon & New Energy,9703494.86,BU12,EV Charging,450100,CAD
+2025-08,Low Carbon & New Energy,51896920.99,BU12,Renewable Fuels,450100,CAD
+2025-08,Low Carbon & New Energy,15914089.36,BU12,Hydrogen & CCUS,450100,CAD
+2025-08,Low Carbon & New Energy,10860684.4,BU12,Carbon Credit & Offset Sales,450100,CAD
+2025-09,Oil Sands (SAGD),119662373.14,BU01,Bitumen / Blend Sales,400100,CAD
+2025-09,Oil Sands (SAGD),67146281.71,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2025-09,Oil Sands (SAGD),9384208.05,BU01,Power & Steam Sales,400200,CAD
+2025-09,Conventional Oil,30050111.86,BU02,Light / Medium Crude Sales,400100,CAD
+2025-09,Conventional Oil,23104677.14,BU02,Heavy Crude Sales,400100,CAD
+2025-09,Conventional Oil,5845215.09,BU02,Solution Gas Sales,400200,CAD
+2025-09,Natural Gas & NGL,37665156.76,BU03,Natural Gas Sales,400200,CAD
+2025-09,Natural Gas & NGL,26488660.57,BU03,NGL & Condensate Sales,400300,CAD
+2025-09,Natural Gas & NGL,14198639.11,BU03,Gas Processing Fees,440100,CAD
+2025-09,Midstream & Terminals,94243814.5,BU04,Pipeline Tolls,440100,CAD
+2025-09,Midstream & Terminals,39465660.27,BU04,Terminal Services,440100,CAD
+2025-09,Midstream & Terminals,23372611.97,BU04,Storage,440100,CAD
+2025-09,Midstream & Terminals,43517989.03,BU04,Rail & Marine Logistics,440100,CAD
+2025-09,Prairie Refinery (R100),217291139.4,BU05,Gasoline Sales,410100,CAD
+2025-09,Prairie Refinery (R100),268753147.28,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-09,Prairie Refinery (R100),51715963.04,BU05,Jet Fuel Sales,410200,CAD
+2025-09,Prairie Refinery (R100),102456212.91,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-09,Prairie Refinery (R100),8997599.53,BU05,Sulphur & Petroleum Coke,400300,CAD
+2025-09,Lakehead Refinery (R200),162866719.34,BU06,Gasoline Sales,410100,CAD
+2025-09,Lakehead Refinery (R200),119817853.72,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-09,Lakehead Refinery (R200),20610612.36,BU06,Jet Fuel Sales,410200,CAD
+2025-09,Lakehead Refinery (R200),78895105.11,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-09,Lakehead Refinery (R200),6044502.01,BU06,Sulphur & Petroleum Coke,400300,CAD
+2025-09,Saint-Laurent Refinery (R300),224526148.24,BU07,Gasoline Sales,410100,CAD
+2025-09,Saint-Laurent Refinery (R300),206342489.11,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-09,Saint-Laurent Refinery (R300),46578097.07,BU07,Jet Fuel Sales,410200,CAD
+2025-09,Saint-Laurent Refinery (R300),77109933.37,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-09,Saint-Laurent Refinery (R300),5012235.07,BU07,Sulphur & Petroleum Coke,400300,CAD
+2025-09,Retail Fuels & Convenience,329384694.51,BU08,Retail Gasoline,420100,CAD
+2025-09,Retail Fuels & Convenience,102494108.27,BU08,Retail Diesel,420100,CAD
+2025-09,Retail Fuels & Convenience,120661202.6,BU08,Convenience Store,420100,CAD
+2025-09,Retail Fuels & Convenience,22561878.63,BU08,Loyalty & Services,420100,CAD
+2025-09,Commercial & Wholesale,287082738.45,BU09,Bulk Fuels,410100,CAD
+2025-09,Commercial & Wholesale,104389752.02,BU09,Asphalt & Bitumen,410300,CAD
+2025-09,Commercial & Wholesale,47491625.42,BU09,Heating Oil & Propane,410300,CAD
+2025-09,Commercial & Wholesale,84070224.93,BU09,Aviation & Marine Fuels,410200,CAD
+2025-09,Commercial & Wholesale,61117156.29,BU09,Petrochemical Feedstock,410300,CAD
+2025-09,Commercial & Wholesale,66454756.73,BU09,Cardlock & Fleet Fuel,410200,CAD
+2025-09,Lubricants & Specialty,86490050.15,BU10,Lubricants,410300,CAD
+2025-09,Lubricants & Specialty,29245878.94,BU10,Specialty Fluids,410300,CAD
+2025-09,Lubricants & Specialty,22654810.84,BU10,Grease & Industrial Products,410300,CAD
+2025-09,Energy Trading,172415372.31,BU11,Crude Trading,430100,CAD
+2025-09,Energy Trading,97394236.58,BU11,Gas Trading,430100,CAD
+2025-09,Energy Trading,79753573.35,BU11,NGL & Products Trading,430100,CAD
+2025-09,Energy Trading,17494862.76,BU11,Carbon Credit Trading,430100,CAD
+2025-09,Energy Trading,27013011.4,BU11,Power Trading,430100,CAD
+2025-09,Low Carbon & New Energy,10458413.77,BU12,EV Charging,450100,CAD
+2025-09,Low Carbon & New Energy,50488074.41,BU12,Renewable Fuels,450100,CAD
+2025-09,Low Carbon & New Energy,14589711.74,BU12,Hydrogen & CCUS,450100,CAD
+2025-09,Low Carbon & New Energy,10779783.28,BU12,Carbon Credit & Offset Sales,450100,CAD
+2025-10,Oil Sands (SAGD),113815204.25,BU01,Bitumen / Blend Sales,400100,CAD
+2025-10,Oil Sands (SAGD),70697900.48,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2025-10,Oil Sands (SAGD),9406164.74,BU01,Power & Steam Sales,400200,CAD
+2025-10,Conventional Oil,29960272.61,BU02,Light / Medium Crude Sales,400100,CAD
+2025-10,Conventional Oil,24347213.78,BU02,Heavy Crude Sales,400100,CAD
+2025-10,Conventional Oil,6506889.74,BU02,Solution Gas Sales,400200,CAD
+2025-10,Natural Gas & NGL,42886076.92,BU03,Natural Gas Sales,400200,CAD
+2025-10,Natural Gas & NGL,25617201.11,BU03,NGL & Condensate Sales,400300,CAD
+2025-10,Natural Gas & NGL,13563144.43,BU03,Gas Processing Fees,440100,CAD
+2025-10,Midstream & Terminals,96758007.11,BU04,Pipeline Tolls,440100,CAD
+2025-10,Midstream & Terminals,37280457.92,BU04,Terminal Services,440100,CAD
+2025-10,Midstream & Terminals,23530717.91,BU04,Storage,440100,CAD
+2025-10,Midstream & Terminals,42747146.2,BU04,Rail & Marine Logistics,440100,CAD
+2025-10,Prairie Refinery (R100),222280216.67,BU05,Gasoline Sales,410100,CAD
+2025-10,Prairie Refinery (R100),289644653.16,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-10,Prairie Refinery (R100),55780981.35,BU05,Jet Fuel Sales,410200,CAD
+2025-10,Prairie Refinery (R100),88173408.41,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-10,Prairie Refinery (R100),9050016.57,BU05,Sulphur & Petroleum Coke,400300,CAD
+2025-10,Lakehead Refinery (R200),181793086.54,BU06,Gasoline Sales,410100,CAD
+2025-10,Lakehead Refinery (R200),143193107.23,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-10,Lakehead Refinery (R200),22329236.78,BU06,Jet Fuel Sales,410200,CAD
+2025-10,Lakehead Refinery (R200),71530546.01,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-10,Lakehead Refinery (R200),5972836.25,BU06,Sulphur & Petroleum Coke,400300,CAD
+2025-10,Saint-Laurent Refinery (R300),247067914.34,BU07,Gasoline Sales,410100,CAD
+2025-10,Saint-Laurent Refinery (R300),230252078.53,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-10,Saint-Laurent Refinery (R300),49336634.58,BU07,Jet Fuel Sales,410200,CAD
+2025-10,Saint-Laurent Refinery (R300),75450359.55,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-10,Saint-Laurent Refinery (R300),5167735.67,BU07,Sulphur & Petroleum Coke,400300,CAD
+2025-10,Retail Fuels & Convenience,317402927.38,BU08,Retail Gasoline,420100,CAD
+2025-10,Retail Fuels & Convenience,114587094.89,BU08,Retail Diesel,420100,CAD
+2025-10,Retail Fuels & Convenience,118755256.47,BU08,Convenience Store,420100,CAD
+2025-10,Retail Fuels & Convenience,21353806.64,BU08,Loyalty & Services,420100,CAD
+2025-10,Commercial & Wholesale,318249045.1,BU09,Bulk Fuels,410100,CAD
+2025-10,Commercial & Wholesale,71507637.8,BU09,Asphalt & Bitumen,410300,CAD
+2025-10,Commercial & Wholesale,55854330.48,BU09,Heating Oil & Propane,410300,CAD
+2025-10,Commercial & Wholesale,82644381.75,BU09,Aviation & Marine Fuels,410200,CAD
+2025-10,Commercial & Wholesale,61316609.82,BU09,Petrochemical Feedstock,410300,CAD
+2025-10,Commercial & Wholesale,67626619.48,BU09,Cardlock & Fleet Fuel,410200,CAD
+2025-10,Lubricants & Specialty,90551697.96,BU10,Lubricants,410300,CAD
+2025-10,Lubricants & Specialty,30781679.58,BU10,Specialty Fluids,410300,CAD
+2025-10,Lubricants & Specialty,21507681.05,BU10,Grease & Industrial Products,410300,CAD
+2025-10,Energy Trading,235401238.43,BU11,Crude Trading,430100,CAD
+2025-10,Energy Trading,112623653.2,BU11,Gas Trading,430100,CAD
+2025-10,Energy Trading,83687609.22,BU11,NGL & Products Trading,430100,CAD
+2025-10,Energy Trading,12349640.69,BU11,Carbon Credit Trading,430100,CAD
+2025-10,Energy Trading,37131561.56,BU11,Power Trading,430100,CAD
+2025-10,Low Carbon & New Energy,9893092.13,BU12,EV Charging,450100,CAD
+2025-10,Low Carbon & New Energy,52590828.51,BU12,Renewable Fuels,450100,CAD
+2025-10,Low Carbon & New Energy,15657427.26,BU12,Hydrogen & CCUS,450100,CAD
+2025-10,Low Carbon & New Energy,11305282.37,BU12,Carbon Credit & Offset Sales,450100,CAD
+2025-11,Oil Sands (SAGD),116387239.22,BU01,Bitumen / Blend Sales,400100,CAD
+2025-11,Oil Sands (SAGD),66709179.35,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2025-11,Oil Sands (SAGD),10940177.63,BU01,Power & Steam Sales,400200,CAD
+2025-11,Conventional Oil,31138816.66,BU02,Light / Medium Crude Sales,400100,CAD
+2025-11,Conventional Oil,24916000.26,BU02,Heavy Crude Sales,400100,CAD
+2025-11,Conventional Oil,6820896.68,BU02,Solution Gas Sales,400200,CAD
+2025-11,Natural Gas & NGL,49345097.18,BU03,Natural Gas Sales,400200,CAD
+2025-11,Natural Gas & NGL,27517447.95,BU03,NGL & Condensate Sales,400300,CAD
+2025-11,Natural Gas & NGL,13865954.48,BU03,Gas Processing Fees,440100,CAD
+2025-11,Midstream & Terminals,93429046.72,BU04,Pipeline Tolls,440100,CAD
+2025-11,Midstream & Terminals,37914825.12,BU04,Terminal Services,440100,CAD
+2025-11,Midstream & Terminals,24108462.02,BU04,Storage,440100,CAD
+2025-11,Midstream & Terminals,42699714.7,BU04,Rail & Marine Logistics,440100,CAD
+2025-11,Prairie Refinery (R100),219179893.02,BU05,Gasoline Sales,410100,CAD
+2025-11,Prairie Refinery (R100),268434474.48,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-11,Prairie Refinery (R100),50519485.32,BU05,Jet Fuel Sales,410200,CAD
+2025-11,Prairie Refinery (R100),90056981.55,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-11,Prairie Refinery (R100),8749738.9,BU05,Sulphur & Petroleum Coke,400300,CAD
+2025-11,Lakehead Refinery (R200),166915090.2,BU06,Gasoline Sales,410100,CAD
+2025-11,Lakehead Refinery (R200),131001554.03,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-11,Lakehead Refinery (R200),20397210.21,BU06,Jet Fuel Sales,410200,CAD
+2025-11,Lakehead Refinery (R200),82060454.72,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-11,Lakehead Refinery (R200),6073472.7,BU06,Sulphur & Petroleum Coke,400300,CAD
+2025-11,Saint-Laurent Refinery (R300),204159723.42,BU07,Gasoline Sales,410100,CAD
+2025-11,Saint-Laurent Refinery (R300),204324524.47,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-11,Saint-Laurent Refinery (R300),41710812.74,BU07,Jet Fuel Sales,410200,CAD
+2025-11,Saint-Laurent Refinery (R300),97651493.64,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-11,Saint-Laurent Refinery (R300),4813811.54,BU07,Sulphur & Petroleum Coke,400300,CAD
+2025-11,Retail Fuels & Convenience,275503722.22,BU08,Retail Gasoline,420100,CAD
+2025-11,Retail Fuels & Convenience,108110200.44,BU08,Retail Diesel,420100,CAD
+2025-11,Retail Fuels & Convenience,120827486.36,BU08,Convenience Store,420100,CAD
+2025-11,Retail Fuels & Convenience,21928051.5,BU08,Loyalty & Services,420100,CAD
+2025-11,Commercial & Wholesale,302692967.37,BU09,Bulk Fuels,410100,CAD
+2025-11,Commercial & Wholesale,23915062.17,BU09,Asphalt & Bitumen,410300,CAD
+2025-11,Commercial & Wholesale,62497419.87,BU09,Heating Oil & Propane,410300,CAD
+2025-11,Commercial & Wholesale,77375966.86,BU09,Aviation & Marine Fuels,410200,CAD
+2025-11,Commercial & Wholesale,59028263.25,BU09,Petrochemical Feedstock,410300,CAD
+2025-11,Commercial & Wholesale,62173291.27,BU09,Cardlock & Fleet Fuel,410200,CAD
+2025-11,Lubricants & Specialty,87586507.49,BU10,Lubricants,410300,CAD
+2025-11,Lubricants & Specialty,30117364.15,BU10,Specialty Fluids,410300,CAD
+2025-11,Lubricants & Specialty,21368781.24,BU10,Grease & Industrial Products,410300,CAD
+2025-11,Energy Trading,214191081.11,BU11,Crude Trading,430100,CAD
+2025-11,Energy Trading,100082432.04,BU11,Gas Trading,430100,CAD
+2025-11,Energy Trading,101229676.03,BU11,NGL & Products Trading,430100,CAD
+2025-11,Energy Trading,11795735.12,BU11,Carbon Credit Trading,430100,CAD
+2025-11,Energy Trading,38436154.23,BU11,Power Trading,430100,CAD
+2025-11,Low Carbon & New Energy,10363495.91,BU12,EV Charging,450100,CAD
+2025-11,Low Carbon & New Energy,54976692.89,BU12,Renewable Fuels,450100,CAD
+2025-11,Low Carbon & New Energy,16807633.19,BU12,Hydrogen & CCUS,450100,CAD
+2025-11,Low Carbon & New Energy,11026754.36,BU12,Carbon Credit & Offset Sales,450100,CAD
+2025-12,Oil Sands (SAGD),125114017.48,BU01,Bitumen / Blend Sales,400100,CAD
+2025-12,Oil Sands (SAGD),65193902.32,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2025-12,Oil Sands (SAGD),10970308.35,BU01,Power & Steam Sales,400200,CAD
+2025-12,Conventional Oil,29607578.21,BU02,Light / Medium Crude Sales,400100,CAD
+2025-12,Conventional Oil,23825117.92,BU02,Heavy Crude Sales,400100,CAD
+2025-12,Conventional Oil,8082069.42,BU02,Solution Gas Sales,400200,CAD
+2025-12,Natural Gas & NGL,54572387.19,BU03,Natural Gas Sales,400200,CAD
+2025-12,Natural Gas & NGL,28134481.72,BU03,NGL & Condensate Sales,400300,CAD
+2025-12,Natural Gas & NGL,13746509.89,BU03,Gas Processing Fees,440100,CAD
+2025-12,Midstream & Terminals,92601696.0,BU04,Pipeline Tolls,440100,CAD
+2025-12,Midstream & Terminals,39755813.47,BU04,Terminal Services,440100,CAD
+2025-12,Midstream & Terminals,23134604.5,BU04,Storage,440100,CAD
+2025-12,Midstream & Terminals,41506589.75,BU04,Rail & Marine Logistics,440100,CAD
+2025-12,Prairie Refinery (R100),234775687.25,BU05,Gasoline Sales,410100,CAD
+2025-12,Prairie Refinery (R100),341043988.09,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-12,Prairie Refinery (R100),55177385.46,BU05,Jet Fuel Sales,410200,CAD
+2025-12,Prairie Refinery (R100),82714083.69,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-12,Prairie Refinery (R100),9337747.56,BU05,Sulphur & Petroleum Coke,400300,CAD
+2025-12,Lakehead Refinery (R200),194390005.28,BU06,Gasoline Sales,410100,CAD
+2025-12,Lakehead Refinery (R200),141229065.72,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-12,Lakehead Refinery (R200),24636439.78,BU06,Jet Fuel Sales,410200,CAD
+2025-12,Lakehead Refinery (R200),74786780.99,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-12,Lakehead Refinery (R200),6035053.63,BU06,Sulphur & Petroleum Coke,400300,CAD
+2025-12,Saint-Laurent Refinery (R300),216107140.3,BU07,Gasoline Sales,410100,CAD
+2025-12,Saint-Laurent Refinery (R300),209227413.75,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2025-12,Saint-Laurent Refinery (R300),46137942.21,BU07,Jet Fuel Sales,410200,CAD
+2025-12,Saint-Laurent Refinery (R300),112726600.34,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2025-12,Saint-Laurent Refinery (R300),5044890.94,BU07,Sulphur & Petroleum Coke,400300,CAD
+2025-12,Retail Fuels & Convenience,280294949.29,BU08,Retail Gasoline,420100,CAD
+2025-12,Retail Fuels & Convenience,127551206.74,BU08,Retail Diesel,420100,CAD
+2025-12,Retail Fuels & Convenience,124652825.32,BU08,Convenience Store,420100,CAD
+2025-12,Retail Fuels & Convenience,20631631.02,BU08,Loyalty & Services,420100,CAD
+2025-12,Commercial & Wholesale,310381103.72,BU09,Bulk Fuels,410100,CAD
+2025-12,Commercial & Wholesale,24405827.6,BU09,Asphalt & Bitumen,410300,CAD
+2025-12,Commercial & Wholesale,66233224.52,BU09,Heating Oil & Propane,410300,CAD
+2025-12,Commercial & Wholesale,76085189.0,BU09,Aviation & Marine Fuels,410200,CAD
+2025-12,Commercial & Wholesale,59689208.85,BU09,Petrochemical Feedstock,410300,CAD
+2025-12,Commercial & Wholesale,62636998.23,BU09,Cardlock & Fleet Fuel,410200,CAD
+2025-12,Lubricants & Specialty,93581629.8,BU10,Lubricants,410300,CAD
+2025-12,Lubricants & Specialty,29651372.65,BU10,Specialty Fluids,410300,CAD
+2025-12,Lubricants & Specialty,22256908.94,BU10,Grease & Industrial Products,410300,CAD
+2025-12,Energy Trading,255805586.59,BU11,Crude Trading,430100,CAD
+2025-12,Energy Trading,123298571.95,BU11,Gas Trading,430100,CAD
+2025-12,Energy Trading,96178750.11,BU11,NGL & Products Trading,430100,CAD
+2025-12,Energy Trading,15981161.23,BU11,Carbon Credit Trading,430100,CAD
+2025-12,Energy Trading,26927851.05,BU11,Power Trading,430100,CAD
+2025-12,Low Carbon & New Energy,10346630.46,BU12,EV Charging,450100,CAD
+2025-12,Low Carbon & New Energy,53851305.67,BU12,Renewable Fuels,450100,CAD
+2025-12,Low Carbon & New Energy,16108644.07,BU12,Hydrogen & CCUS,450100,CAD
+2025-12,Low Carbon & New Energy,10865083.71,BU12,Carbon Credit & Offset Sales,450100,CAD
+2026-01,Oil Sands (SAGD),126223564.83,BU01,Bitumen / Blend Sales,400100,CAD
+2026-01,Oil Sands (SAGD),71758598.87,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2026-01,Oil Sands (SAGD),11961290.74,BU01,Power & Steam Sales,400200,CAD
+2026-01,Conventional Oil,31131658.83,BU02,Light / Medium Crude Sales,400100,CAD
+2026-01,Conventional Oil,25428706.92,BU02,Heavy Crude Sales,400100,CAD
+2026-01,Conventional Oil,8154261.36,BU02,Solution Gas Sales,400200,CAD
+2026-01,Natural Gas & NGL,58151276.47,BU03,Natural Gas Sales,400200,CAD
+2026-01,Natural Gas & NGL,28378841.93,BU03,NGL & Condensate Sales,400300,CAD
+2026-01,Natural Gas & NGL,13609501.62,BU03,Gas Processing Fees,440100,CAD
+2026-01,Midstream & Terminals,95021888.37,BU04,Pipeline Tolls,440100,CAD
+2026-01,Midstream & Terminals,38945902.45,BU04,Terminal Services,440100,CAD
+2026-01,Midstream & Terminals,23577991.88,BU04,Storage,440100,CAD
+2026-01,Midstream & Terminals,41076753.32,BU04,Rail & Marine Logistics,440100,CAD
+2026-01,Prairie Refinery (R100),233420182.18,BU05,Gasoline Sales,410100,CAD
+2026-01,Prairie Refinery (R100),345352802.48,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-01,Prairie Refinery (R100),58646025.05,BU05,Jet Fuel Sales,410200,CAD
+2026-01,Prairie Refinery (R100),93475350.52,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-01,Prairie Refinery (R100),8933902.59,BU05,Sulphur & Petroleum Coke,400300,CAD
+2026-01,Lakehead Refinery (R200),176800745.6,BU06,Gasoline Sales,410100,CAD
+2026-01,Lakehead Refinery (R200),124987921.91,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-01,Lakehead Refinery (R200),23809010.87,BU06,Jet Fuel Sales,410200,CAD
+2026-01,Lakehead Refinery (R200),69329056.99,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-01,Lakehead Refinery (R200),5856471.63,BU06,Sulphur & Petroleum Coke,400300,CAD
+2026-01,Saint-Laurent Refinery (R300),231415019.98,BU07,Gasoline Sales,410100,CAD
+2026-01,Saint-Laurent Refinery (R300),232654022.23,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-01,Saint-Laurent Refinery (R300),43919636.9,BU07,Jet Fuel Sales,410200,CAD
+2026-01,Saint-Laurent Refinery (R300),115310934.25,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-01,Saint-Laurent Refinery (R300),5166025.05,BU07,Sulphur & Petroleum Coke,400300,CAD
+2026-01,Retail Fuels & Convenience,296363689.07,BU08,Retail Gasoline,420100,CAD
+2026-01,Retail Fuels & Convenience,130768680.98,BU08,Retail Diesel,420100,CAD
+2026-01,Retail Fuels & Convenience,117140631.95,BU08,Convenience Store,420100,CAD
+2026-01,Retail Fuels & Convenience,22370105.37,BU08,Loyalty & Services,420100,CAD
+2026-01,Commercial & Wholesale,325313479.06,BU09,Bulk Fuels,410100,CAD
+2026-01,Commercial & Wholesale,23984117.25,BU09,Asphalt & Bitumen,410300,CAD
+2026-01,Commercial & Wholesale,71343016.74,BU09,Heating Oil & Propane,410300,CAD
+2026-01,Commercial & Wholesale,82928942.97,BU09,Aviation & Marine Fuels,410200,CAD
+2026-01,Commercial & Wholesale,60161282.38,BU09,Petrochemical Feedstock,410300,CAD
+2026-01,Commercial & Wholesale,64247928.15,BU09,Cardlock & Fleet Fuel,410200,CAD
+2026-01,Lubricants & Specialty,91626972.2,BU10,Lubricants,410300,CAD
+2026-01,Lubricants & Specialty,30066347.61,BU10,Specialty Fluids,410300,CAD
+2026-01,Lubricants & Specialty,22010173.99,BU10,Grease & Industrial Products,410300,CAD
+2026-01,Energy Trading,221824313.15,BU11,Crude Trading,430100,CAD
+2026-01,Energy Trading,115145088.79,BU11,Gas Trading,430100,CAD
+2026-01,Energy Trading,124813046.17,BU11,NGL & Products Trading,430100,CAD
+2026-01,Energy Trading,9710834.14,BU11,Carbon Credit Trading,430100,CAD
+2026-01,Energy Trading,21234517.82,BU11,Power Trading,430100,CAD
+2026-01,Low Carbon & New Energy,10245643.51,BU12,EV Charging,450100,CAD
+2026-01,Low Carbon & New Energy,54574297.94,BU12,Renewable Fuels,450100,CAD
+2026-01,Low Carbon & New Energy,16293472.3,BU12,Hydrogen & CCUS,450100,CAD
+2026-01,Low Carbon & New Energy,11053423.48,BU12,Carbon Credit & Offset Sales,450100,CAD
+2026-02,Oil Sands (SAGD),123523631.05,BU01,Bitumen / Blend Sales,400100,CAD
+2026-02,Oil Sands (SAGD),70219428.47,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2026-02,Oil Sands (SAGD),11495974.17,BU01,Power & Steam Sales,400200,CAD
+2026-02,Conventional Oil,32518581.11,BU02,Light / Medium Crude Sales,400100,CAD
+2026-02,Conventional Oil,26672688.44,BU02,Heavy Crude Sales,400100,CAD
+2026-02,Conventional Oil,7791333.68,BU02,Solution Gas Sales,400200,CAD
+2026-02,Natural Gas & NGL,60969282.86,BU03,Natural Gas Sales,400200,CAD
+2026-02,Natural Gas & NGL,27653604.12,BU03,NGL & Condensate Sales,400300,CAD
+2026-02,Natural Gas & NGL,14050486.67,BU03,Gas Processing Fees,440100,CAD
+2026-02,Midstream & Terminals,99383885.07,BU04,Pipeline Tolls,440100,CAD
+2026-02,Midstream & Terminals,36760342.84,BU04,Terminal Services,440100,CAD
+2026-02,Midstream & Terminals,25020190.84,BU04,Storage,440100,CAD
+2026-02,Midstream & Terminals,40526342.68,BU04,Rail & Marine Logistics,440100,CAD
+2026-02,Prairie Refinery (R100),221008970.94,BU05,Gasoline Sales,410100,CAD
+2026-02,Prairie Refinery (R100),310468453.68,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-02,Prairie Refinery (R100),55596476.81,BU05,Jet Fuel Sales,410200,CAD
+2026-02,Prairie Refinery (R100),80885026.06,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-02,Prairie Refinery (R100),9101218.27,BU05,Sulphur & Petroleum Coke,400300,CAD
+2026-02,Lakehead Refinery (R200),160057320.72,BU06,Gasoline Sales,410100,CAD
+2026-02,Lakehead Refinery (R200),121128904.34,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-02,Lakehead Refinery (R200),20545765.04,BU06,Jet Fuel Sales,410200,CAD
+2026-02,Lakehead Refinery (R200),65534773.94,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-02,Lakehead Refinery (R200),5924800.27,BU06,Sulphur & Petroleum Coke,400300,CAD
+2026-02,Saint-Laurent Refinery (R300),208460126.13,BU07,Gasoline Sales,410100,CAD
+2026-02,Saint-Laurent Refinery (R300),218859174.16,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-02,Saint-Laurent Refinery (R300),43315501.49,BU07,Jet Fuel Sales,410200,CAD
+2026-02,Saint-Laurent Refinery (R300),105555157.31,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-02,Saint-Laurent Refinery (R300),4980755.86,BU07,Sulphur & Petroleum Coke,400300,CAD
+2026-02,Retail Fuels & Convenience,264854111.27,BU08,Retail Gasoline,420100,CAD
+2026-02,Retail Fuels & Convenience,111926539.47,BU08,Retail Diesel,420100,CAD
+2026-02,Retail Fuels & Convenience,116513125.63,BU08,Convenience Store,420100,CAD
+2026-02,Retail Fuels & Convenience,22433762.88,BU08,Loyalty & Services,420100,CAD
+2026-02,Commercial & Wholesale,299369879.4,BU09,Bulk Fuels,410100,CAD
+2026-02,Commercial & Wholesale,23650910.4,BU09,Asphalt & Bitumen,410300,CAD
+2026-02,Commercial & Wholesale,70089036.34,BU09,Heating Oil & Propane,410300,CAD
+2026-02,Commercial & Wholesale,78418005.4,BU09,Aviation & Marine Fuels,410200,CAD
+2026-02,Commercial & Wholesale,61497394.3,BU09,Petrochemical Feedstock,410300,CAD
+2026-02,Commercial & Wholesale,63576747.0,BU09,Cardlock & Fleet Fuel,410200,CAD
+2026-02,Lubricants & Specialty,86042576.57,BU10,Lubricants,410300,CAD
+2026-02,Lubricants & Specialty,30749695.53,BU10,Specialty Fluids,410300,CAD
+2026-02,Lubricants & Specialty,21260485.44,BU10,Grease & Industrial Products,410300,CAD
+2026-02,Energy Trading,131879993.38,BU11,Crude Trading,430100,CAD
+2026-02,Energy Trading,106339474.05,BU11,Gas Trading,430100,CAD
+2026-02,Energy Trading,77907723.75,BU11,NGL & Products Trading,430100,CAD
+2026-02,Energy Trading,16486978.65,BU11,Carbon Credit Trading,430100,CAD
+2026-02,Energy Trading,43980783.65,BU11,Power Trading,430100,CAD
+2026-02,Low Carbon & New Energy,10585478.13,BU12,EV Charging,450100,CAD
+2026-02,Low Carbon & New Energy,58212975.94,BU12,Renewable Fuels,450100,CAD
+2026-02,Low Carbon & New Energy,16323622.75,BU12,Hydrogen & CCUS,450100,CAD
+2026-02,Low Carbon & New Energy,11364596.45,BU12,Carbon Credit & Offset Sales,450100,CAD
+2026-03,Oil Sands (SAGD),117924698.36,BU01,Bitumen / Blend Sales,400100,CAD
+2026-03,Oil Sands (SAGD),65936172.02,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2026-03,Oil Sands (SAGD),11409999.78,BU01,Power & Steam Sales,400200,CAD
+2026-03,Conventional Oil,31238912.63,BU02,Light / Medium Crude Sales,400100,CAD
+2026-03,Conventional Oil,27138487.35,BU02,Heavy Crude Sales,400100,CAD
+2026-03,Conventional Oil,6704183.85,BU02,Solution Gas Sales,400200,CAD
+2026-03,Natural Gas & NGL,53685968.96,BU03,Natural Gas Sales,400200,CAD
+2026-03,Natural Gas & NGL,27686313.56,BU03,NGL & Condensate Sales,400300,CAD
+2026-03,Natural Gas & NGL,13787539.42,BU03,Gas Processing Fees,440100,CAD
+2026-03,Midstream & Terminals,95262206.59,BU04,Pipeline Tolls,440100,CAD
+2026-03,Midstream & Terminals,37397408.71,BU04,Terminal Services,440100,CAD
+2026-03,Midstream & Terminals,24989857.06,BU04,Storage,440100,CAD
+2026-03,Midstream & Terminals,39795346.15,BU04,Rail & Marine Logistics,440100,CAD
+2026-03,Prairie Refinery (R100),230311963.69,BU05,Gasoline Sales,410100,CAD
+2026-03,Prairie Refinery (R100),317040807.19,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-03,Prairie Refinery (R100),59334336.93,BU05,Jet Fuel Sales,410200,CAD
+2026-03,Prairie Refinery (R100),75548234.68,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-03,Prairie Refinery (R100),8681101.03,BU05,Sulphur & Petroleum Coke,400300,CAD
+2026-03,Lakehead Refinery (R200),201486085.25,BU06,Gasoline Sales,410100,CAD
+2026-03,Lakehead Refinery (R200),125915717.72,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-03,Lakehead Refinery (R200),20610430.51,BU06,Jet Fuel Sales,410200,CAD
+2026-03,Lakehead Refinery (R200),68942357.69,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-03,Lakehead Refinery (R200),5923600.99,BU06,Sulphur & Petroleum Coke,400300,CAD
+2026-03,Saint-Laurent Refinery (R300),227568131.73,BU07,Gasoline Sales,410100,CAD
+2026-03,Saint-Laurent Refinery (R300),221204686.76,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-03,Saint-Laurent Refinery (R300),44725996.85,BU07,Jet Fuel Sales,410200,CAD
+2026-03,Saint-Laurent Refinery (R300),104120134.76,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-03,Saint-Laurent Refinery (R300),4848986.75,BU07,Sulphur & Petroleum Coke,400300,CAD
+2026-03,Retail Fuels & Convenience,322204771.66,BU08,Retail Gasoline,420100,CAD
+2026-03,Retail Fuels & Convenience,115507898.09,BU08,Retail Diesel,420100,CAD
+2026-03,Retail Fuels & Convenience,122218683.81,BU08,Convenience Store,420100,CAD
+2026-03,Retail Fuels & Convenience,21790015.46,BU08,Loyalty & Services,420100,CAD
+2026-03,Commercial & Wholesale,323959891.74,BU09,Bulk Fuels,410100,CAD
+2026-03,Commercial & Wholesale,23731695.58,BU09,Asphalt & Bitumen,410300,CAD
+2026-03,Commercial & Wholesale,62138153.16,BU09,Heating Oil & Propane,410300,CAD
+2026-03,Commercial & Wholesale,81357075.9,BU09,Aviation & Marine Fuels,410200,CAD
+2026-03,Commercial & Wholesale,61815119.21,BU09,Petrochemical Feedstock,410300,CAD
+2026-03,Commercial & Wholesale,68256697.9,BU09,Cardlock & Fleet Fuel,410200,CAD
+2026-03,Lubricants & Specialty,88595526.37,BU10,Lubricants,410300,CAD
+2026-03,Lubricants & Specialty,28508237.45,BU10,Specialty Fluids,410300,CAD
+2026-03,Lubricants & Specialty,22005837.34,BU10,Grease & Industrial Products,410300,CAD
+2026-03,Energy Trading,265811039.6,BU11,Crude Trading,430100,CAD
+2026-03,Energy Trading,115990760.68,BU11,Gas Trading,430100,CAD
+2026-03,Energy Trading,68032480.85,BU11,NGL & Products Trading,430100,CAD
+2026-03,Energy Trading,17150037.62,BU11,Carbon Credit Trading,430100,CAD
+2026-03,Energy Trading,28487427.88,BU11,Power Trading,430100,CAD
+2026-03,Low Carbon & New Energy,10517940.75,BU12,EV Charging,450100,CAD
+2026-03,Low Carbon & New Energy,59922923.24,BU12,Renewable Fuels,450100,CAD
+2026-03,Low Carbon & New Energy,16173110.15,BU12,Hydrogen & CCUS,450100,CAD
+2026-03,Low Carbon & New Energy,11425858.76,BU12,Carbon Credit & Offset Sales,450100,CAD
+2026-04,Oil Sands (SAGD),121163476.97,BU01,Bitumen / Blend Sales,400100,CAD
+2026-04,Oil Sands (SAGD),70543600.99,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2026-04,Oil Sands (SAGD),9797339.4,BU01,Power & Steam Sales,400200,CAD
+2026-04,Conventional Oil,33291692.99,BU02,Light / Medium Crude Sales,400100,CAD
+2026-04,Conventional Oil,27915027.81,BU02,Heavy Crude Sales,400100,CAD
+2026-04,Conventional Oil,6301558.74,BU02,Solution Gas Sales,400200,CAD
+2026-04,Natural Gas & NGL,45041665.16,BU03,Natural Gas Sales,400200,CAD
+2026-04,Natural Gas & NGL,28423633.81,BU03,NGL & Condensate Sales,400300,CAD
+2026-04,Natural Gas & NGL,13993955.31,BU03,Gas Processing Fees,440100,CAD
+2026-04,Midstream & Terminals,92080284.39,BU04,Pipeline Tolls,440100,CAD
+2026-04,Midstream & Terminals,37201266.28,BU04,Terminal Services,440100,CAD
+2026-04,Midstream & Terminals,23173436.93,BU04,Storage,440100,CAD
+2026-04,Midstream & Terminals,41231498.97,BU04,Rail & Marine Logistics,440100,CAD
+2026-04,Prairie Refinery (R100),229094896.99,BU05,Gasoline Sales,410100,CAD
+2026-04,Prairie Refinery (R100),294107051.19,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-04,Prairie Refinery (R100),61269339.27,BU05,Jet Fuel Sales,410200,CAD
+2026-04,Prairie Refinery (R100),103670952.98,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-04,Prairie Refinery (R100),8616927.43,BU05,Sulphur & Petroleum Coke,400300,CAD
+2026-04,Lakehead Refinery (R200),164629674.68,BU06,Gasoline Sales,410100,CAD
+2026-04,Lakehead Refinery (R200),108910476.07,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-04,Lakehead Refinery (R200),20062046.65,BU06,Jet Fuel Sales,410200,CAD
+2026-04,Lakehead Refinery (R200),58572073.56,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-04,Lakehead Refinery (R200),5724089.07,BU06,Sulphur & Petroleum Coke,400300,CAD
+2026-04,Saint-Laurent Refinery (R300),247793319.92,BU07,Gasoline Sales,410100,CAD
+2026-04,Saint-Laurent Refinery (R300),229667194.52,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-04,Saint-Laurent Refinery (R300),47636583.28,BU07,Jet Fuel Sales,410200,CAD
+2026-04,Saint-Laurent Refinery (R300),86583188.98,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-04,Saint-Laurent Refinery (R300),4828506.3,BU07,Sulphur & Petroleum Coke,400300,CAD
+2026-04,Retail Fuels & Convenience,315499398.19,BU08,Retail Gasoline,420100,CAD
+2026-04,Retail Fuels & Convenience,114777941.42,BU08,Retail Diesel,420100,CAD
+2026-04,Retail Fuels & Convenience,121675777.2,BU08,Convenience Store,420100,CAD
+2026-04,Retail Fuels & Convenience,21650437.57,BU08,Loyalty & Services,420100,CAD
+2026-04,Commercial & Wholesale,317209856.59,BU09,Bulk Fuels,410100,CAD
+2026-04,Commercial & Wholesale,23659176.69,BU09,Asphalt & Bitumen,410300,CAD
+2026-04,Commercial & Wholesale,54102033.84,BU09,Heating Oil & Propane,410300,CAD
+2026-04,Commercial & Wholesale,88940033.8,BU09,Aviation & Marine Fuels,410200,CAD
+2026-04,Commercial & Wholesale,62672563.06,BU09,Petrochemical Feedstock,410300,CAD
+2026-04,Commercial & Wholesale,70297155.67,BU09,Cardlock & Fleet Fuel,410200,CAD
+2026-04,Lubricants & Specialty,89364354.1,BU10,Lubricants,410300,CAD
+2026-04,Lubricants & Specialty,29854926.93,BU10,Specialty Fluids,410300,CAD
+2026-04,Lubricants & Specialty,21759041.75,BU10,Grease & Industrial Products,410300,CAD
+2026-04,Energy Trading,192447516.51,BU11,Crude Trading,430100,CAD
+2026-04,Energy Trading,118096600.56,BU11,Gas Trading,430100,CAD
+2026-04,Energy Trading,113285894.0,BU11,NGL & Products Trading,430100,CAD
+2026-04,Energy Trading,12528244.48,BU11,Carbon Credit Trading,430100,CAD
+2026-04,Energy Trading,26280344.06,BU11,Power Trading,430100,CAD
+2026-04,Low Carbon & New Energy,11402223.56,BU12,EV Charging,450100,CAD
+2026-04,Low Carbon & New Energy,58434951.17,BU12,Renewable Fuels,450100,CAD
+2026-04,Low Carbon & New Energy,15992274.1,BU12,Hydrogen & CCUS,450100,CAD
+2026-04,Low Carbon & New Energy,11074181.45,BU12,Carbon Credit & Offset Sales,450100,CAD
+2026-05,Oil Sands (SAGD),133338681.26,BU01,Bitumen / Blend Sales,400100,CAD
+2026-05,Oil Sands (SAGD),76036575.87,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2026-05,Oil Sands (SAGD),8280143.87,BU01,Power & Steam Sales,400200,CAD
+2026-05,Conventional Oil,30212624.88,BU02,Light / Medium Crude Sales,400100,CAD
+2026-05,Conventional Oil,25899643.19,BU02,Heavy Crude Sales,400100,CAD
+2026-05,Conventional Oil,5264353.87,BU02,Solution Gas Sales,400200,CAD
+2026-05,Natural Gas & NGL,39567589.74,BU03,Natural Gas Sales,400200,CAD
+2026-05,Natural Gas & NGL,28371088.49,BU03,NGL & Condensate Sales,400300,CAD
+2026-05,Natural Gas & NGL,13748379.73,BU03,Gas Processing Fees,440100,CAD
+2026-05,Midstream & Terminals,89424892.43,BU04,Pipeline Tolls,440100,CAD
+2026-05,Midstream & Terminals,36925194.42,BU04,Terminal Services,440100,CAD
+2026-05,Midstream & Terminals,23112722.83,BU04,Storage,440100,CAD
+2026-05,Midstream & Terminals,42489844.17,BU04,Rail & Marine Logistics,440100,CAD
+2026-05,Prairie Refinery (R100),235556558.68,BU05,Gasoline Sales,410100,CAD
+2026-05,Prairie Refinery (R100),273527433.35,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-05,Prairie Refinery (R100),57795139.09,BU05,Jet Fuel Sales,410200,CAD
+2026-05,Prairie Refinery (R100),91852434.57,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-05,Prairie Refinery (R100),9429472.79,BU05,Sulphur & Petroleum Coke,400300,CAD
+2026-05,Lakehead Refinery (R200),179615052.12,BU06,Gasoline Sales,410100,CAD
+2026-05,Lakehead Refinery (R200),130106014.0,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-05,Lakehead Refinery (R200),21794999.72,BU06,Jet Fuel Sales,410200,CAD
+2026-05,Lakehead Refinery (R200),65847548.81,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-05,Lakehead Refinery (R200),6084987.74,BU06,Sulphur & Petroleum Coke,400300,CAD
+2026-05,Saint-Laurent Refinery (R300),281314906.74,BU07,Gasoline Sales,410100,CAD
+2026-05,Saint-Laurent Refinery (R300),249481400.88,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-05,Saint-Laurent Refinery (R300),56112564.09,BU07,Jet Fuel Sales,410200,CAD
+2026-05,Saint-Laurent Refinery (R300),90117456.16,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-05,Saint-Laurent Refinery (R300),4812077.0,BU07,Sulphur & Petroleum Coke,400300,CAD
+2026-05,Retail Fuels & Convenience,347310053.42,BU08,Retail Gasoline,420100,CAD
+2026-05,Retail Fuels & Convenience,117540188.78,BU08,Retail Diesel,420100,CAD
+2026-05,Retail Fuels & Convenience,119153704.32,BU08,Convenience Store,420100,CAD
+2026-05,Retail Fuels & Convenience,21754639.29,BU08,Loyalty & Services,420100,CAD
+2026-05,Commercial & Wholesale,307702869.35,BU09,Bulk Fuels,410100,CAD
+2026-05,Commercial & Wholesale,80902197.19,BU09,Asphalt & Bitumen,410300,CAD
+2026-05,Commercial & Wholesale,49403443.88,BU09,Heating Oil & Propane,410300,CAD
+2026-05,Commercial & Wholesale,94177233.16,BU09,Aviation & Marine Fuels,410200,CAD
+2026-05,Commercial & Wholesale,69069412.19,BU09,Petrochemical Feedstock,410300,CAD
+2026-05,Commercial & Wholesale,75492453.44,BU09,Cardlock & Fleet Fuel,410200,CAD
+2026-05,Lubricants & Specialty,86080432.23,BU10,Lubricants,410300,CAD
+2026-05,Lubricants & Specialty,29068062.89,BU10,Specialty Fluids,410300,CAD
+2026-05,Lubricants & Specialty,23307884.41,BU10,Grease & Industrial Products,410300,CAD
+2026-05,Energy Trading,222544701.33,BU11,Crude Trading,430100,CAD
+2026-05,Energy Trading,157887042.83,BU11,Gas Trading,430100,CAD
+2026-05,Energy Trading,111312979.13,BU11,NGL & Products Trading,430100,CAD
+2026-05,Energy Trading,10937263.08,BU11,Carbon Credit Trading,430100,CAD
+2026-05,Energy Trading,23645077.64,BU11,Power Trading,430100,CAD
+2026-05,Low Carbon & New Energy,10724119.95,BU12,EV Charging,450100,CAD
+2026-05,Low Carbon & New Energy,57493255.49,BU12,Renewable Fuels,450100,CAD
+2026-05,Low Carbon & New Energy,16699902.58,BU12,Hydrogen & CCUS,450100,CAD
+2026-05,Low Carbon & New Energy,11641760.57,BU12,Carbon Credit & Offset Sales,450100,CAD
+2026-06,Oil Sands (SAGD),125205303.37,BU01,Bitumen / Blend Sales,400100,CAD
+2026-06,Oil Sands (SAGD),74857515.84,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2026-06,Oil Sands (SAGD),7304618.2,BU01,Power & Steam Sales,400200,CAD
+2026-06,Conventional Oil,32365350.88,BU02,Light / Medium Crude Sales,400100,CAD
+2026-06,Conventional Oil,27658986.95,BU02,Heavy Crude Sales,400100,CAD
+2026-06,Conventional Oil,4216814.81,BU02,Solution Gas Sales,400200,CAD
+2026-06,Natural Gas & NGL,34793617.74,BU03,Natural Gas Sales,400200,CAD
+2026-06,Natural Gas & NGL,28931372.22,BU03,NGL & Condensate Sales,400300,CAD
+2026-06,Natural Gas & NGL,13608646.72,BU03,Gas Processing Fees,440100,CAD
+2026-06,Midstream & Terminals,95709341.88,BU04,Pipeline Tolls,440100,CAD
+2026-06,Midstream & Terminals,39822044.07,BU04,Terminal Services,440100,CAD
+2026-06,Midstream & Terminals,25717431.06,BU04,Storage,440100,CAD
+2026-06,Midstream & Terminals,41117798.42,BU04,Rail & Marine Logistics,440100,CAD
+2026-06,Prairie Refinery (R100),226245477.62,BU05,Gasoline Sales,410100,CAD
+2026-06,Prairie Refinery (R100),252105014.43,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-06,Prairie Refinery (R100),49815868.43,BU05,Jet Fuel Sales,410200,CAD
+2026-06,Prairie Refinery (R100),103637463.83,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-06,Prairie Refinery (R100),9577872.97,BU05,Sulphur & Petroleum Coke,400300,CAD
+2026-06,Lakehead Refinery (R200),182263929.58,BU06,Gasoline Sales,410100,CAD
+2026-06,Lakehead Refinery (R200),125165121.77,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-06,Lakehead Refinery (R200),21156985.16,BU06,Jet Fuel Sales,410200,CAD
+2026-06,Lakehead Refinery (R200),80470385.89,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-06,Lakehead Refinery (R200),5765604.07,BU06,Sulphur & Petroleum Coke,400300,CAD
+2026-06,Saint-Laurent Refinery (R300),258605982.09,BU07,Gasoline Sales,410100,CAD
+2026-06,Saint-Laurent Refinery (R300),215922646.64,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-06,Saint-Laurent Refinery (R300),50782842.18,BU07,Jet Fuel Sales,410200,CAD
+2026-06,Saint-Laurent Refinery (R300),88570277.79,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-06,Saint-Laurent Refinery (R300),4958488.02,BU07,Sulphur & Petroleum Coke,400300,CAD
+2026-06,Retail Fuels & Convenience,359839136.47,BU08,Retail Gasoline,420100,CAD
+2026-06,Retail Fuels & Convenience,106523534.76,BU08,Retail Diesel,420100,CAD
+2026-06,Retail Fuels & Convenience,123085156.66,BU08,Convenience Store,420100,CAD
+2026-06,Retail Fuels & Convenience,22363677.26,BU08,Loyalty & Services,420100,CAD
+2026-06,Commercial & Wholesale,328472134.54,BU09,Bulk Fuels,410100,CAD
+2026-06,Commercial & Wholesale,105109963.15,BU09,Asphalt & Bitumen,410300,CAD
+2026-06,Commercial & Wholesale,43322947.15,BU09,Heating Oil & Propane,410300,CAD
+2026-06,Commercial & Wholesale,89002739.53,BU09,Aviation & Marine Fuels,410200,CAD
+2026-06,Commercial & Wholesale,70656151.1,BU09,Petrochemical Feedstock,410300,CAD
+2026-06,Commercial & Wholesale,79766513.59,BU09,Cardlock & Fleet Fuel,410200,CAD
+2026-06,Lubricants & Specialty,92459057.9,BU10,Lubricants,410300,CAD
+2026-06,Lubricants & Specialty,29701311.38,BU10,Specialty Fluids,410300,CAD
+2026-06,Lubricants & Specialty,21656365.28,BU10,Grease & Industrial Products,410300,CAD
+2026-06,Energy Trading,213195362.36,BU11,Crude Trading,430100,CAD
+2026-06,Energy Trading,94298388.34,BU11,Gas Trading,430100,CAD
+2026-06,Energy Trading,101316612.99,BU11,NGL & Products Trading,430100,CAD
+2026-06,Energy Trading,17862814.12,BU11,Carbon Credit Trading,430100,CAD
+2026-06,Energy Trading,27986495.17,BU11,Power Trading,430100,CAD
+2026-06,Low Carbon & New Energy,11254323.17,BU12,EV Charging,450100,CAD
+2026-06,Low Carbon & New Energy,58425506.25,BU12,Renewable Fuels,450100,CAD
+2026-06,Low Carbon & New Energy,17251753.96,BU12,Hydrogen & CCUS,450100,CAD
+2026-06,Low Carbon & New Energy,11080058.66,BU12,Carbon Credit & Offset Sales,450100,CAD
+2026-07,Oil Sands (SAGD),125712429.17,BU01,Bitumen / Blend Sales,400100,CAD
+2026-07,Oil Sands (SAGD),74143509.23,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2026-07,Oil Sands (SAGD),7055255.84,BU01,Power & Steam Sales,400200,CAD
+2026-07,Conventional Oil,34562741.78,BU02,Light / Medium Crude Sales,400100,CAD
+2026-07,Conventional Oil,26108965.39,BU02,Heavy Crude Sales,400100,CAD
+2026-07,Conventional Oil,4271014.86,BU02,Solution Gas Sales,400200,CAD
+2026-07,Natural Gas & NGL,31378207.44,BU03,Natural Gas Sales,400200,CAD
+2026-07,Natural Gas & NGL,28131647.62,BU03,NGL & Condensate Sales,400300,CAD
+2026-07,Natural Gas & NGL,13498542.95,BU03,Gas Processing Fees,440100,CAD
+2026-07,Midstream & Terminals,96129857.18,BU04,Pipeline Tolls,440100,CAD
+2026-07,Midstream & Terminals,37322480.56,BU04,Terminal Services,440100,CAD
+2026-07,Midstream & Terminals,24281528.78,BU04,Storage,440100,CAD
+2026-07,Midstream & Terminals,42375715.94,BU04,Rail & Marine Logistics,440100,CAD
+2026-07,Prairie Refinery (R100),251525411.91,BU05,Gasoline Sales,410100,CAD
+2026-07,Prairie Refinery (R100),274043235.96,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-07,Prairie Refinery (R100),55374361.13,BU05,Jet Fuel Sales,410200,CAD
+2026-07,Prairie Refinery (R100),112441946.72,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-07,Prairie Refinery (R100),8579096.52,BU05,Sulphur & Petroleum Coke,400300,CAD
+2026-07,Lakehead Refinery (R200),195374169.92,BU06,Gasoline Sales,410100,CAD
+2026-07,Lakehead Refinery (R200),125757120.22,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-07,Lakehead Refinery (R200),22134089.3,BU06,Jet Fuel Sales,410200,CAD
+2026-07,Lakehead Refinery (R200),89190912.77,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-07,Lakehead Refinery (R200),6168322.26,BU06,Sulphur & Petroleum Coke,400300,CAD
+2026-07,Saint-Laurent Refinery (R300),270124674.37,BU07,Gasoline Sales,410100,CAD
+2026-07,Saint-Laurent Refinery (R300),234178594.17,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-07,Saint-Laurent Refinery (R300),53410736.0,BU07,Jet Fuel Sales,410200,CAD
+2026-07,Saint-Laurent Refinery (R300),87705841.48,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-07,Saint-Laurent Refinery (R300),5053061.61,BU07,Sulphur & Petroleum Coke,400300,CAD
+2026-07,Retail Fuels & Convenience,360228811.63,BU08,Retail Gasoline,420100,CAD
+2026-07,Retail Fuels & Convenience,116269286.39,BU08,Retail Diesel,420100,CAD
+2026-07,Retail Fuels & Convenience,130301211.96,BU08,Convenience Store,420100,CAD
+2026-07,Retail Fuels & Convenience,21743447.55,BU08,Loyalty & Services,420100,CAD
+2026-07,Commercial & Wholesale,334818725.41,BU09,Bulk Fuels,410100,CAD
+2026-07,Commercial & Wholesale,114312253.67,BU09,Asphalt & Bitumen,410300,CAD
+2026-07,Commercial & Wholesale,43019812.4,BU09,Heating Oil & Propane,410300,CAD
+2026-07,Commercial & Wholesale,89163500.1,BU09,Aviation & Marine Fuels,410200,CAD
+2026-07,Commercial & Wholesale,71244973.74,BU09,Petrochemical Feedstock,410300,CAD
+2026-07,Commercial & Wholesale,78710877.67,BU09,Cardlock & Fleet Fuel,410200,CAD
+2026-07,Lubricants & Specialty,86839752.57,BU10,Lubricants,410300,CAD
+2026-07,Lubricants & Specialty,30945572.74,BU10,Specialty Fluids,410300,CAD
+2026-07,Lubricants & Specialty,21788611.67,BU10,Grease & Industrial Products,410300,CAD
+2026-07,Energy Trading,212269063.72,BU11,Crude Trading,430100,CAD
+2026-07,Energy Trading,122461654.05,BU11,Gas Trading,430100,CAD
+2026-07,Energy Trading,95004881.86,BU11,NGL & Products Trading,430100,CAD
+2026-07,Energy Trading,12265757.19,BU11,Carbon Credit Trading,430100,CAD
+2026-07,Energy Trading,19857736.57,BU11,Power Trading,430100,CAD
+2026-07,Low Carbon & New Energy,11675735.55,BU12,EV Charging,450100,CAD
+2026-07,Low Carbon & New Energy,61154735.39,BU12,Renewable Fuels,450100,CAD
+2026-07,Low Carbon & New Energy,17111359.71,BU12,Hydrogen & CCUS,450100,CAD
+2026-07,Low Carbon & New Energy,11309710.2,BU12,Carbon Credit & Offset Sales,450100,CAD
+2026-08,Oil Sands (SAGD),122341196.03,BU01,Bitumen / Blend Sales,400100,CAD
+2026-08,Oil Sands (SAGD),73341599.1,BU01,Synthetic Crude (SCO) Sales,400100,CAD
+2026-08,Oil Sands (SAGD),7333110.58,BU01,Power & Steam Sales,400200,CAD
+2026-08,Conventional Oil,32162945.28,BU02,Light / Medium Crude Sales,400100,CAD
+2026-08,Conventional Oil,26252606.98,BU02,Heavy Crude Sales,400100,CAD
+2026-08,Conventional Oil,4123585.19,BU02,Solution Gas Sales,400200,CAD
+2026-08,Natural Gas & NGL,33919514.43,BU03,Natural Gas Sales,400200,CAD
+2026-08,Natural Gas & NGL,29970138.07,BU03,NGL & Condensate Sales,400300,CAD
+2026-08,Natural Gas & NGL,14095674.49,BU03,Gas Processing Fees,440100,CAD
+2026-08,Midstream & Terminals,99876882.02,BU04,Pipeline Tolls,440100,CAD
+2026-08,Midstream & Terminals,39530180.22,BU04,Terminal Services,440100,CAD
+2026-08,Midstream & Terminals,23507013.22,BU04,Storage,440100,CAD
+2026-08,Midstream & Terminals,40627504.12,BU04,Rail & Marine Logistics,440100,CAD
+2026-08,Prairie Refinery (R100),231808943.03,BU05,Gasoline Sales,410100,CAD
+2026-08,Prairie Refinery (R100),260811885.59,BU05,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-08,Prairie Refinery (R100),52318048.75,BU05,Jet Fuel Sales,410200,CAD
+2026-08,Prairie Refinery (R100),99480222.09,BU05,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-08,Prairie Refinery (R100),9076218.94,BU05,Sulphur & Petroleum Coke,400300,CAD
+2026-08,Lakehead Refinery (R200),184134990.46,BU06,Gasoline Sales,410100,CAD
+2026-08,Lakehead Refinery (R200),122736149.64,BU06,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-08,Lakehead Refinery (R200),19870881.88,BU06,Jet Fuel Sales,410200,CAD
+2026-08,Lakehead Refinery (R200),81153312.04,BU06,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-08,Lakehead Refinery (R200),5875094.03,BU06,Sulphur & Petroleum Coke,400300,CAD
+2026-08,Saint-Laurent Refinery (R300),250557198.06,BU07,Gasoline Sales,410100,CAD
+2026-08,Saint-Laurent Refinery (R300),225015249.8,BU07,Diesel & Marine Gas Oil Sales,410200,CAD
+2026-08,Saint-Laurent Refinery (R300),47179795.74,BU07,Jet Fuel Sales,410200,CAD
+2026-08,Saint-Laurent Refinery (R300),82791709.09,BU07,"Other Products (LPG, Naphtha, Asphalt, Heating Oil)",410300,CAD
+2026-08,Saint-Laurent Refinery (R300),4762803.74,BU07,Sulphur & Petroleum Coke,400300,CAD
+2026-08,Retail Fuels & Convenience,351469030.93,BU08,Retail Gasoline,420100,CAD
+2026-08,Retail Fuels & Convenience,109008414.73,BU08,Retail Diesel,420100,CAD
+2026-08,Retail Fuels & Convenience,121754902.13,BU08,Convenience Store,420100,CAD
+2026-08,Retail Fuels & Convenience,23050199.91,BU08,Loyalty & Services,420100,CAD
+2026-08,Commercial & Wholesale,304086400.71,BU09,Bulk Fuels,410100,CAD
+2026-08,Commercial & Wholesale,123826359.9,BU09,Asphalt & Bitumen,410300,CAD
+2026-08,Commercial & Wholesale,44116141.26,BU09,Heating Oil & Propane,410300,CAD
+2026-08,Commercial & Wholesale,92090795.14,BU09,Aviation & Marine Fuels,410200,CAD
+2026-08,Commercial & Wholesale,68288519.28,BU09,Petrochemical Feedstock,410300,CAD
+2026-08,Commercial & Wholesale,69016213.39,BU09,Cardlock & Fleet Fuel,410200,CAD
+2026-08,Lubricants & Specialty,85667324.42,BU10,Lubricants,410300,CAD
+2026-08,Lubricants & Specialty,30326151.52,BU10,Specialty Fluids,410300,CAD
+2026-08,Lubricants & Specialty,21317631.0,BU10,Grease & Industrial Products,410300,CAD
+2026-08,Energy Trading,226694487.45,BU11,Crude Trading,430100,CAD
+2026-08,Energy Trading,75558322.13,BU11,Gas Trading,430100,CAD
+2026-08,Energy Trading,92736248.64,BU11,NGL & Products Trading,430100,CAD
+2026-08,Energy Trading,14861193.15,BU11,Carbon Credit Trading,430100,CAD
+2026-08,Energy Trading,29429122.01,BU11,Power Trading,430100,CAD
+2026-08,Low Carbon & New Energy,11202358.69,BU12,EV Charging,450100,CAD
+2026-08,Low Carbon & New Energy,60412183.53,BU12,Renewable Fuels,450100,CAD
+2026-08,Low Carbon & New Energy,17620715.45,BU12,Hydrogen & CCUS,450100,CAD
+2026-08,Low Carbon & New Energy,10656760.17,BU12,Carbon Credit & Offset Sales,450100,CAD

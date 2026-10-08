@@ -1,0 +1,1001 @@
+Cost_Center,Cost_Type,Amount,Period,Cost_Center_Name,Business_Unit,GL_Account,Cost_Behaviour,Currency
+CC-1100,Energy & Fuel,38705594.74,2025-01,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,8438960.36,2025-01,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12662822.04,2025-01,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7713848.49,2025-01,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5464376.54,2025-01,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7255895.03,2025-01,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4647448.52,2025-01,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3885154.01,2025-01,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,4078613.89,2025-01,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,3705895.64,2025-01,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,3091499.62,2025-01,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,4223355.76,2025-01,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,6784384.07,2025-01,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,4982614.31,2025-01,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,3953119.49,2025-01,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2861872.98,2025-01,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,16400346.75,2025-01,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,48383515.51,2025-01,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,21162088.39,2025-01,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,14073745.16,2025-01,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,10977612.69,2025-01,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,29429020.03,2025-01,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,15446602.18,2025-01,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,8997651.74,2025-01,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,13704452.29,2025-01,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,42162454.42,2025-01,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,18784055.46,2025-01,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,11235534.87,2025-01,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,37148755.52,2025-01,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,24152290.54,2025-01,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12386284.97,2025-01,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,16886308.39,2025-01,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,36358690.65,2025-01,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9068366.36,2025-01,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,5711300.1,2025-01,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4351562.3,2025-01,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,20863720.12,2025-01,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,6975818.5,2025-01,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,8322926.99,2025-01,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3030749.44,2025-01,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,4070245.79,2025-01,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,5865630.95,2025-01,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,14397598.59,2025-01,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,7104130.16,2025-01,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,11315659.58,2025-01,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,8113749.81,2025-01,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6065524.5,2025-01,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,18430430.35,2025-01,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,7997890.66,2025-01,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,10172945.47,2025-01,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,37039686.06,2025-02,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,8845146.32,2025-02,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,11729264.41,2025-02,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7408355.11,2025-02,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5309211.24,2025-02,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,6401202.44,2025-02,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4524201.52,2025-02,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,4063317.01,2025-02,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,3749760.76,2025-02,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,3652265.01,2025-02,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,2936647.17,2025-02,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,4425402.91,2025-02,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,6801394.1,2025-02,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,5031829.42,2025-02,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4099843.95,2025-02,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2711555.22,2025-02,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,17034300.17,2025-02,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,47431717.53,2025-02,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,21915281.0,2025-02,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,13462131.09,2025-02,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,10005867.64,2025-02,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,30704996.85,2025-02,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,16727531.34,2025-02,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,9275974.07,2025-02,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,13409464.69,2025-02,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,40407834.01,2025-02,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,16874904.94,2025-02,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,10911834.12,2025-02,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,38000891.66,2025-02,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,26020267.46,2025-02,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12023426.25,2025-02,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,17139232.6,2025-02,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,35466560.16,2025-02,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,8833376.39,2025-02,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,5921965.49,2025-02,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4443771.58,2025-02,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,22714596.04,2025-02,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7006422.97,2025-02,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,9004032.82,2025-02,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3033382.39,2025-02,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,3974765.58,2025-02,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6061904.73,2025-02,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,13701662.66,2025-02,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,7184822.56,2025-02,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,11107283.84,2025-02,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,7938913.97,2025-02,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,5898426.65,2025-02,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,18570247.85,2025-02,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8728856.15,2025-02,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,9449366.15,2025-02,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,33408258.02,2025-03,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,8990088.86,2025-03,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12504675.03,2025-03,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7290291.92,2025-03,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5613179.42,2025-03,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7266743.64,2025-03,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4891756.52,2025-03,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3810942.84,2025-03,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,3889072.51,2025-03,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,3190163.61,2025-03,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,3141846.69,2025-03,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,4094234.52,2025-03,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,7146625.69,2025-03,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,4687534.4,2025-03,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4140354.8,2025-03,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2549957.14,2025-03,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,16190119.73,2025-03,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,42962766.53,2025-03,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,22099756.92,2025-03,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,14583395.82,2025-03,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,10990098.97,2025-03,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,28526460.64,2025-03,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,14111193.59,2025-03,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,8951598.68,2025-03,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,13336414.4,2025-03,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,36595701.57,2025-03,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,17533812.49,2025-03,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,11052389.95,2025-03,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,38751889.97,2025-03,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,23970970.98,2025-03,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12017578.62,2025-03,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,15738274.18,2025-03,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,36960395.8,2025-03,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,8608037.31,2025-03,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,5826773.66,2025-03,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4414301.05,2025-03,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,20425264.82,2025-03,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7159572.63,2025-03,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,8799228.27,2025-03,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,2877041.55,2025-03,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,4269166.17,2025-03,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,5964064.55,2025-03,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,13639042.05,2025-03,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,7595652.61,2025-03,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,11179973.46,2025-03,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,8180192.32,2025-03,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6105611.43,2025-03,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,19466832.5,2025-03,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,7945927.4,2025-03,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,9886282.32,2025-03,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,33284030.28,2025-04,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,8635435.77,2025-04,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12655427.38,2025-04,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7370951.05,2025-04,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5268350.6,2025-04,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7156858.34,2025-04,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4619330.96,2025-04,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3376918.04,2025-04,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,3816896.7,2025-04,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,3097331.49,2025-04,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,2978624.0,2025-04,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,4149057.51,2025-04,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,6806283.44,2025-04,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,4699483.73,2025-04,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4126614.82,2025-04,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2583945.94,2025-04,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,16071900.61,2025-04,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,39983935.07,2025-04,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,22084199.49,2025-04,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,13694823.86,2025-04,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,10599267.39,2025-04,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,25297757.62,2025-04,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,31901672.1,2025-04,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,22619512.68,2025-04,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,14777720.94,2025-04,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,36841157.91,2025-04,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,16937992.47,2025-04,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,11282132.47,2025-04,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,39674236.89,2025-04,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,23481520.84,2025-04,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,11236153.37,2025-04,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,15986892.91,2025-04,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,38305735.15,2025-04,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9291251.58,2025-04,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,5972737.55,2025-04,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4683505.77,2025-04,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,21966873.08,2025-04,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,6618391.88,2025-04,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,9509613.72,2025-04,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,2878817.28,2025-04,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,4285683.61,2025-04,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,5911706.67,2025-04,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,13653054.24,2025-04,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,6804522.72,2025-04,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,10392494.22,2025-04,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,8036021.5,2025-04,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6238744.72,2025-04,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,19887107.23,2025-04,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8195047.83,2025-04,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,9584233.48,2025-04,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,28317012.89,2025-05,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,8734822.51,2025-05,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,11735267.72,2025-05,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,8060276.44,2025-05,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5758888.79,2025-05,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7464419.03,2025-05,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4680967.05,2025-05,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3243626.45,2025-05,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,3843087.08,2025-05,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,2575534.19,2025-05,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,2948623.64,2025-05,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,4027482.34,2025-05,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,6718855.76,2025-05,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,4695682.83,2025-05,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4217131.52,2025-05,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2230741.5,2025-05,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,14563800.36,2025-05,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,36675038.34,2025-05,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,21830100.32,2025-05,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,13836868.16,2025-05,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,11335137.12,2025-05,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,25125055.18,2025-05,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,14147972.36,2025-05,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,10057679.37,2025-05,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,14353002.84,2025-05,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,31878352.61,2025-05,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,18196369.83,2025-05,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,10939207.8,2025-05,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,39359753.92,2025-05,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,24598775.9,2025-05,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12614531.33,2025-05,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,17078379.78,2025-05,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,36977392.0,2025-05,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9382217.57,2025-05,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,5804654.24,2025-05,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4333587.23,2025-05,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,22072117.63,2025-05,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7174519.75,2025-05,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,8867719.19,2025-05,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3228971.39,2025-05,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,3966970.91,2025-05,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6121887.46,2025-05,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,14519825.96,2025-05,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,6872130.76,2025-05,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,11276183.01,2025-05,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,7947236.78,2025-05,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6200200.46,2025-05,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,19152104.64,2025-05,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8617428.28,2025-05,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,9934965.14,2025-05,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,26962025.22,2025-06,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,8959845.97,2025-06,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12249291.43,2025-06,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7752939.61,2025-06,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5236555.76,2025-06,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7844967.34,2025-06,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4537694.38,2025-06,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3052980.87,2025-06,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,4065141.68,2025-06,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,2632960.17,2025-06,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,2935173.45,2025-06,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,3226142.05,2025-06,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,7369313.36,2025-06,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,5263876.45,2025-06,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4153844.23,2025-06,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2167795.44,2025-06,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,17116824.33,2025-06,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,31813435.7,2025-06,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,21708470.35,2025-06,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,13636092.29,2025-06,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,11982158.98,2025-06,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,21814344.81,2025-06,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,15681726.23,2025-06,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,8741609.74,2025-06,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,13161377.36,2025-06,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,28799984.74,2025-06,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,17373787.47,2025-06,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,10570862.77,2025-06,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,40167504.22,2025-06,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,23436367.66,2025-06,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,11918526.1,2025-06,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,17018083.14,2025-06,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,35136598.65,2025-06,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,8774075.84,2025-06,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,5963996.99,2025-06,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4583962.06,2025-06,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,21743410.56,2025-06,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7460528.54,2025-06,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,9166532.05,2025-06,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3070988.79,2025-06,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,3990761.95,2025-06,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6041450.66,2025-06,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,13717865.42,2025-06,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,6373463.81,2025-06,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,11081037.04,2025-06,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,8418789.27,2025-06,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6062949.47,2025-06,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,20150877.66,2025-06,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,7927398.83,2025-06,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,9752750.7,2025-06,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,26049695.15,2025-07,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,9528960.44,2025-07,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12792219.88,2025-07,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7373386.08,2025-07,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5327298.25,2025-07,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7251493.3,2025-07,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4451289.73,2025-07,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3147930.26,2025-07,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,3943771.07,2025-07,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,2382114.29,2025-07,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,3082487.2,2025-07,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,3165044.72,2025-07,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,7338969.68,2025-07,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,5136657.77,2025-07,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,3993999.2,2025-07,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2073739.22,2025-07,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,15161456.93,2025-07,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,33891791.49,2025-07,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,23572493.34,2025-07,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,15100107.06,2025-07,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,11131886.48,2025-07,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,21743347.47,2025-07,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,14123944.52,2025-07,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,9583338.72,2025-07,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,14462558.7,2025-07,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,25881109.89,2025-07,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,17393560.3,2025-07,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,10521092.93,2025-07,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,38493740.81,2025-07,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,24222157.29,2025-07,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12078383.53,2025-07,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,16625148.51,2025-07,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,38536369.13,2025-07,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9119099.37,2025-07,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,6250412.05,2025-07,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4692290.47,2025-07,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,19602187.34,2025-07,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,6915112.18,2025-07,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,9248274.68,2025-07,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3104810.45,2025-07,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,3949679.27,2025-07,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,5555774.61,2025-07,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,14003873.53,2025-07,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,7137381.32,2025-07,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,11358151.14,2025-07,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,7502123.52,2025-07,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,5708073.8,2025-07,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,19185751.39,2025-07,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8315335.62,2025-07,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,9936087.12,2025-07,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,25450979.15,2025-08,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,8999502.8,2025-08,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,13076976.68,2025-08,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7162029.53,2025-08,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5525522.46,2025-08,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7226748.79,2025-08,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4521558.95,2025-08,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3125228.33,2025-08,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,4219418.31,2025-08,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,2584935.56,2025-08,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,2860181.21,2025-08,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,3513712.38,2025-08,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,7401930.15,2025-08,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,5345778.92,2025-08,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4210409.19,2025-08,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2118074.53,2025-08,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,16007216.35,2025-08,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,35610091.28,2025-08,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,22540700.04,2025-08,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,13854576.18,2025-08,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,12489513.24,2025-08,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,22063418.31,2025-08,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,15903763.82,2025-08,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,9378279.26,2025-08,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,14570981.91,2025-08,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,30226624.07,2025-08,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,18742078.26,2025-08,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,11390172.27,2025-08,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,36482896.64,2025-08,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,23677801.57,2025-08,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12618396.22,2025-08,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,17249883.63,2025-08,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,33719095.7,2025-08,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,8599309.04,2025-08,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,6506311.95,2025-08,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4540889.63,2025-08,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,21347164.13,2025-08,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7508946.88,2025-08,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,9519414.89,2025-08,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,2981795.73,2025-08,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,4486792.41,2025-08,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6022635.76,2025-08,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,14288367.46,2025-08,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,7180088.71,2025-08,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,10935999.0,2025-08,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,8288400.41,2025-08,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6252805.27,2025-08,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,18665159.23,2025-08,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8135877.7,2025-08,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,10458679.76,2025-08,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,28432382.38,2025-09,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,9272817.54,2025-09,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12088643.57,2025-09,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7536528.22,2025-09,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5616281.87,2025-09,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7448147.09,2025-09,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4640238.89,2025-09,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3425197.92,2025-09,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,3739249.16,2025-09,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,2724239.32,2025-09,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,3115583.97,2025-09,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,3484430.39,2025-09,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,6828574.33,2025-09,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,5037970.56,2025-09,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,3954357.59,2025-09,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2383335.22,2025-09,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,16452082.37,2025-09,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,36810545.46,2025-09,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,22894769.76,2025-09,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,14266144.69,2025-09,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,11799847.73,2025-09,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,24292761.4,2025-09,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,14801021.88,2025-09,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,9045784.78,2025-09,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,13881635.71,2025-09,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,30496724.19,2025-09,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,18024079.92,2025-09,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,11370233.6,2025-09,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,38705291.0,2025-09,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,25563670.27,2025-09,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12470147.63,2025-09,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,16534500.69,2025-09,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,34277181.3,2025-09,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9394248.06,2025-09,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,5688761.01,2025-09,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4459513.69,2025-09,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,20454440.64,2025-09,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7140820.92,2025-09,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,9396693.39,2025-09,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3195865.23,2025-09,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,4169641.12,2025-09,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6112193.35,2025-09,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,15006260.67,2025-09,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,6860485.45,2025-09,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,11725627.39,2025-09,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,8315459.12,2025-09,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,5953431.23,2025-09,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,18469377.59,2025-09,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8120911.83,2025-09,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,9985404.38,2025-09,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,31745586.41,2025-10,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,8821653.75,2025-10,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,11590898.37,2025-10,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,8087107.07,2025-10,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5256635.86,2025-10,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7328787.14,2025-10,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4614016.43,2025-10,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3515049.45,2025-10,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,4213577.07,2025-10,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,3080535.94,2025-10,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,2914893.19,2025-10,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,4163814.72,2025-10,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,7234635.24,2025-10,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,5146630.34,2025-10,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4048999.08,2025-10,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2553700.26,2025-10,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,16539598.57,2025-10,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,39881563.74,2025-10,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,23080657.69,2025-10,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,15099077.17,2025-10,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,10984947.6,2025-10,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,27482127.37,2025-10,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,15653678.48,2025-10,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,9310148.12,2025-10,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,14138726.42,2025-10,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,36781773.53,2025-10,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,17941264.34,2025-10,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,11062765.72,2025-10,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,38483087.27,2025-10,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,26129146.29,2025-10,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12700597.42,2025-10,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,17464900.3,2025-10,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,35259125.71,2025-10,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9833634.8,2025-10,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,6266276.43,2025-10,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4431984.16,2025-10,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,22188935.83,2025-10,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7273140.27,2025-10,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,8872270.77,2025-10,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3207129.79,2025-10,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,4124808.9,2025-10,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6377898.97,2025-10,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,13366626.68,2025-10,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,7099746.91,2025-10,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,10465911.75,2025-10,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,7674313.8,2025-10,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6573627.86,2025-10,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,18669528.52,2025-10,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,7857565.81,2025-10,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,10888323.63,2025-10,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,33545985.37,2025-11,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,9480673.41,2025-11,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12195301.7,2025-11,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7946867.54,2025-11,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5339409.53,2025-11,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7569797.89,2025-11,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4730364.81,2025-11,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3950142.82,2025-11,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,4051596.62,2025-11,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,3266407.13,2025-11,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,3199148.38,2025-11,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,4411534.78,2025-11,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,6965099.84,2025-11,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,5193382.17,2025-11,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4217829.22,2025-11,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2578970.2,2025-11,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,15803490.62,2025-11,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,42759560.0,2025-11,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,22565953.64,2025-11,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,15019513.19,2025-11,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,10557300.25,2025-11,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,30580022.94,2025-11,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,15220814.04,2025-11,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,8757455.81,2025-11,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,14197587.34,2025-11,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,35538341.29,2025-11,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,18471177.29,2025-11,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,11552166.02,2025-11,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,39139805.76,2025-11,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,24381854.8,2025-11,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12244417.9,2025-11,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,17929843.49,2025-11,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,37287963.86,2025-11,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,8900965.89,2025-11,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,5891493.38,2025-11,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4557376.41,2025-11,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,21941675.31,2025-11,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7292703.36,2025-11,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,8859084.94,2025-11,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,2870801.39,2025-11,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,4089148.99,2025-11,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,5831278.38,2025-11,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,14397051.96,2025-11,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,7333310.86,2025-11,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,11245227.02,2025-11,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,8536929.0,2025-11,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6285439.51,2025-11,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,19520160.75,2025-11,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8199793.03,2025-11,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,9907007.54,2025-11,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,36847291.61,2025-12,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,9696486.89,2025-12,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,13337029.91,2025-12,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7664158.15,2025-12,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5584352.56,2025-12,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7180707.28,2025-12,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4515796.13,2025-12,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,4459788.85,2025-12,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,4147145.85,2025-12,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,3666353.32,2025-12,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,3079214.98,2025-12,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,4704026.86,2025-12,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,7249291.8,2025-12,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,4882911.35,2025-12,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4381951.43,2025-12,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2729297.34,2025-12,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,16042034.61,2025-12,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,45404144.06,2025-12,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,23003101.88,2025-12,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,14466063.07,2025-12,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,11138109.28,2025-12,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,32593127.31,2025-12,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,16993610.78,2025-12,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,8955306.99,2025-12,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,15073368.98,2025-12,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,40059609.45,2025-12,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,17318198.97,2025-12,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,10065745.94,2025-12,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,37002357.63,2025-12,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,25879553.75,2025-12,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12613221.06,2025-12,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,18242993.88,2025-12,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,40577503.61,2025-12,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9379073.3,2025-12,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,5573520.06,2025-12,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4576921.37,2025-12,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,21557928.44,2025-12,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7755047.56,2025-12,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,9299169.35,2025-12,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3023948.79,2025-12,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,3999231.24,2025-12,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6268954.3,2025-12,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,14947877.03,2025-12,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,7063637.84,2025-12,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,10679156.86,2025-12,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,9036465.79,2025-12,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,5975261.09,2025-12,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,19728647.64,2025-12,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8314374.22,2025-12,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,10585923.74,2025-12,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,37762515.27,2026-01,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,8759967.89,2026-01,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12897611.93,2026-01,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7808219.06,2026-01,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5609739.9,2026-01,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7389976.33,2026-01,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4622819.45,2026-01,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,4231652.34,2026-01,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,4266890.84,2026-01,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,3731577.38,2026-01,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,2951007.8,2026-01,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,4711170.08,2026-01,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,7221068.75,2026-01,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,5237760.76,2026-01,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4389126.88,2026-01,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,3099751.55,2026-01,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,15957540.9,2026-01,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,49039903.72,2026-01,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,22893509.88,2026-01,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,15091066.14,2026-01,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,10647002.11,2026-01,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,30505884.48,2026-01,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,14630939.32,2026-01,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,8902813.43,2026-01,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,13662500.37,2026-01,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,42296660.04,2026-01,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,18327424.85,2026-01,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,11516711.81,2026-01,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,40073406.63,2026-01,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,24098522.6,2026-01,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12862267.39,2026-01,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,18040316.92,2026-01,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,36828891.3,2026-01,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9070435.07,2026-01,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,6400298.04,2026-01,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4481720.85,2026-01,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,22646679.63,2026-01,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7282301.97,2026-01,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,9098266.61,2026-01,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3457746.19,2026-01,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,3942681.07,2026-01,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6008655.01,2026-01,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,13295182.75,2026-01,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,6804441.24,2026-01,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,11007967.84,2026-01,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,7856768.12,2026-01,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6169422.33,2026-01,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,19003556.35,2026-01,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8135788.62,2026-01,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,10055421.12,2026-01,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,34795097.35,2026-02,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,9209473.22,2026-02,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12212852.86,2026-02,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,8551122.89,2026-02,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5459771.02,2026-02,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7132319.76,2026-02,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4377840.83,2026-02,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,4526336.13,2026-02,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,3782883.6,2026-02,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,3608439.86,2026-02,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,3187640.07,2026-02,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,4466714.08,2026-02,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,6875395.74,2026-02,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,5268178.63,2026-02,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,3993957.77,2026-02,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2983909.14,2026-02,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,16034460.48,2026-02,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,47597133.72,2026-02,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,22445172.53,2026-02,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,14387339.63,2026-02,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,11507712.09,2026-02,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,29637208.86,2026-02,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,15493411.79,2026-02,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,9463952.41,2026-02,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,13417796.98,2026-02,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,42182875.17,2026-02,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,18613607.53,2026-02,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,11425800.41,2026-02,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,36855413.22,2026-02,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,24862547.32,2026-02,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12316738.37,2026-02,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,16598662.01,2026-02,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,36822557.3,2026-02,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9985762.4,2026-02,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,6135542.91,2026-02,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4497483.07,2026-02,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,22349025.19,2026-02,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7845448.5,2026-02,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,9262600.67,2026-02,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,2908996.7,2026-02,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,4217929.72,2026-02,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6016634.93,2026-02,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,13471065.67,2026-02,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,6965788.73,2026-02,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,10710093.07,2026-02,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,8394964.24,2026-02,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6030314.68,2026-02,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,20463945.44,2026-02,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,7816336.81,2026-02,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,10632540.44,2026-02,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,33635791.64,2026-03,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,8979732.56,2026-03,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12716222.72,2026-03,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7837943.76,2026-03,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5476197.79,2026-03,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7394629.48,2026-03,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4797343.89,2026-03,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3649716.57,2026-03,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,4179320.8,2026-03,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,3384185.93,2026-03,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,3183287.51,2026-03,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,4456433.21,2026-03,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,7023237.63,2026-03,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,4934253.65,2026-03,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4096426.02,2026-03,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2920366.99,2026-03,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,16114819.96,2026-03,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,43108301.41,2026-03,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,21892581.83,2026-03,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,13631571.62,2026-03,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,10300708.52,2026-03,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,28962918.11,2026-03,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,15258647.94,2026-03,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,9335314.96,2026-03,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,14126402.95,2026-03,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,33872567.47,2026-03,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,18941042.67,2026-03,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,11103282.8,2026-03,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,40085154.59,2026-03,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,24911461.08,2026-03,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12797697.82,2026-03,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,17641819.99,2026-03,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,39498844.18,2026-03,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9199573.24,2026-03,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,6325763.82,2026-03,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4582294.94,2026-03,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,20979877.6,2026-03,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7147229.97,2026-03,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,9744791.95,2026-03,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3073016.38,2026-03,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,4224127.05,2026-03,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6067921.05,2026-03,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,13623756.09,2026-03,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,7147694.59,2026-03,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,10944597.54,2026-03,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,8214986.47,2026-03,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6388160.5,2026-03,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,19667104.3,2026-03,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,7851430.67,2026-03,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,9970230.78,2026-03,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,32130472.5,2026-04,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,9979458.09,2026-04,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12289508.14,2026-04,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7067998.11,2026-04,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5580207.59,2026-04,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7424705.75,2026-04,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4652666.24,2026-04,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3825875.91,2026-04,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,3876588.24,2026-04,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,3081060.95,2026-04,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,3064046.33,2026-04,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,4301117.1,2026-04,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,7664975.19,2026-04,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,4832370.6,2026-04,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,3845244.01,2026-04,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2540927.0,2026-04,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,15931540.34,2026-04,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,42343545.93,2026-04,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,23064078.71,2026-04,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,14487758.5,2026-04,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,10530268.04,2026-04,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,24932145.03,2026-04,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,30239233.58,2026-04,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,19841542.13,2026-04,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,15020052.77,2026-04,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,34534745.28,2026-04,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,19696337.35,2026-04,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,10916860.01,2026-04,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,41373755.7,2026-04,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,25692322.79,2026-04,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,11870169.31,2026-04,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,17121846.37,2026-04,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,37184455.08,2026-04,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9214498.91,2026-04,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,6289544.75,2026-04,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4694801.58,2026-04,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,21359726.22,2026-04,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,6984861.44,2026-04,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,8825186.82,2026-04,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3058272.3,2026-04,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,3956916.08,2026-04,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6547649.71,2026-04,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,14339132.05,2026-04,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,7001580.61,2026-04,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,10733150.11,2026-04,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,8014653.41,2026-04,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6257781.23,2026-04,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,19743383.78,2026-04,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8416714.44,2026-04,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,10785428.13,2026-04,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,29981117.75,2026-05,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,9237186.42,2026-05,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12075772.91,2026-05,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7288623.89,2026-05,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,6012425.2,2026-05,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,6996005.56,2026-05,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4645060.18,2026-05,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3026147.46,2026-05,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,3960224.92,2026-05,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,2969146.82,2026-05,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,2842887.03,2026-05,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,3669740.93,2026-05,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,7711297.94,2026-05,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,5229479.88,2026-05,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4144474.27,2026-05,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2432496.22,2026-05,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,16175583.92,2026-05,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,36694419.35,2026-05,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,23287540.78,2026-05,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,15492585.51,2026-05,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,11096132.19,2026-05,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,23011901.28,2026-05,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,15567734.03,2026-05,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,9878374.87,2026-05,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,15131214.73,2026-05,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,32934513.36,2026-05,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,18076332.9,2026-05,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,11190197.68,2026-05,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,37837793.36,2026-05,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,25351054.07,2026-05,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12759371.23,2026-05,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,18778814.51,2026-05,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,35485737.67,2026-05,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9710812.69,2026-05,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,6181333.81,2026-05,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4255707.02,2026-05,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,22117256.27,2026-05,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7362758.76,2026-05,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,9152162.76,2026-05,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3127918.04,2026-05,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,4056003.15,2026-05,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6052434.61,2026-05,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,13838272.82,2026-05,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,6828139.86,2026-05,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,12150705.9,2026-05,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,8745856.32,2026-05,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6543747.98,2026-05,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,19477982.46,2026-05,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8340758.5,2026-05,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,10394416.64,2026-05,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,27885568.28,2026-06,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,9370398.05,2026-06,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12951687.7,2026-06,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7845723.6,2026-06,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5588864.2,2026-06,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7466056.25,2026-06,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4520914.5,2026-06,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,2983606.01,2026-06,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,4379176.38,2026-06,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,2483606.73,2026-06,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,3140194.55,2026-06,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,3347332.99,2026-06,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,7043734.9,2026-06,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,5217599.29,2026-06,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4150543.32,2026-06,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2098998.83,2026-06,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,16070871.07,2026-06,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,34915391.23,2026-06,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,21822967.79,2026-06,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,14553047.34,2026-06,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,11018945.86,2026-06,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,23664339.83,2026-06,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,14490757.27,2026-06,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,9975091.82,2026-06,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,14747704.01,2026-06,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,28405969.89,2026-06,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,20113502.59,2026-06,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,11593175.9,2026-06,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,40414748.88,2026-06,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,24431651.8,2026-06,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,11699493.49,2026-06,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,18184094.54,2026-06,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,37628873.54,2026-06,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9439679.62,2026-06,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,6274867.3,2026-06,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,5027553.27,2026-06,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,20952915.73,2026-06,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7425180.95,2026-06,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,9624269.66,2026-06,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3185353.65,2026-06,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,3834123.96,2026-06,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6321047.63,2026-06,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,13803395.05,2026-06,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,6630405.58,2026-06,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,10813110.31,2026-06,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,7701086.25,2026-06,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6120937.39,2026-06,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,19537952.74,2026-06,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8418004.3,2026-06,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,9897424.61,2026-06,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,24746640.73,2026-07,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,9393130.57,2026-07,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12963886.62,2026-07,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,8171542.01,2026-07,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5896836.45,2026-07,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7189862.68,2026-07,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4522474.43,2026-07,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,2827687.06,2026-07,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,4258819.11,2026-07,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,2421341.19,2026-07,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,3165431.2,2026-07,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,3272767.6,2026-07,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,7388247.69,2026-07,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,5314860.16,2026-07,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4124532.54,2026-07,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2279589.64,2026-07,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,15713409.65,2026-07,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,32405892.55,2026-07,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,24205905.1,2026-07,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,13866818.37,2026-07,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,12047695.08,2026-07,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,20447851.6,2026-07,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,15840061.95,2026-07,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,9429273.62,2026-07,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,14031358.82,2026-07,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,28988314.95,2026-07,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,17670624.98,2026-07,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,12115422.06,2026-07,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,39779897.06,2026-07,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,24682827.04,2026-07,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,13025602.85,2026-07,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,17369420.38,2026-07,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,35765849.52,2026-07,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9656310.31,2026-07,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,6204732.37,2026-07,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4710967.98,2026-07,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,21941604.33,2026-07,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7647432.8,2026-07,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,9725782.3,2026-07,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3033837.36,2026-07,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,4007195.67,2026-07,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6075502.45,2026-07,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,14297030.83,2026-07,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,7344189.27,2026-07,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,11508635.0,2026-07,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,8584224.52,2026-07,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,5978423.51,2026-07,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,20602220.66,2026-07,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8580422.26,2026-07,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,10163914.52,2026-07,Supply Chain & Procurement,Corporate,600700,Variable,CAD
+CC-1100,Energy & Fuel,27194248.24,2026-08,SAGD Operations,Oil Sands (SAGD),600200,Variable,CAD
+CC-1100,Operating Labour,8997011.88,2026-08,SAGD Operations,Oil Sands (SAGD),600100,Fixed,CAD
+CC-1110,Maintenance & Repair,12202156.22,2026-08,Oil Sands Maintenance,Oil Sands (SAGD),600300,Variable,CAD
+CC-1110,Materials & Chemicals,7993153.26,2026-08,Oil Sands Maintenance,Oil Sands (SAGD),600400,Variable,CAD
+CC-1200,Operating Labour,5562899.23,2026-08,Conventional Field Operations,Conventional Oil,600100,Fixed,CAD
+CC-1200,Contract Services,7190585.62,2026-08,Conventional Field Operations,Conventional Oil,600500,Variable,CAD
+CC-1210,Maintenance & Repair,4734162.16,2026-08,Conventional Production Equipment,Conventional Oil,600300,Variable,CAD
+CC-1210,Power & Utilities,3001307.05,2026-08,Conventional Production Equipment,Conventional Oil,600250,Variable,CAD
+CC-1300,Operating Labour,4247780.82,2026-08,Gas Plant Operations,Natural Gas & NGL,600100,Fixed,CAD
+CC-1300,Power & Utilities,2537291.58,2026-08,Gas Plant Operations,Natural Gas & NGL,600250,Variable,CAD
+CC-1310,Maintenance & Repair,2883434.71,2026-08,Gas Gathering & Compression,Natural Gas & NGL,600300,Variable,CAD
+CC-1310,Energy & Fuel,3537092.08,2026-08,Gas Gathering & Compression,Natural Gas & NGL,600200,Variable,CAD
+CC-1400,Operating Labour,7050737.53,2026-08,Pipeline Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1400,Integrity & Inspection,5161677.0,2026-08,Pipeline Operations,Midstream & Terminals,600600,Fixed,CAD
+CC-1410,Operating Labour,4129039.86,2026-08,Terminal Operations,Midstream & Terminals,600100,Fixed,CAD
+CC-1410,Power & Utilities,2275618.67,2026-08,Terminal Operations,Midstream & Terminals,600250,Variable,CAD
+CC-1500,Operating Labour,17409330.94,2026-08,R100 Process Operations,Prairie Refinery (R100),600100,Fixed,CAD
+CC-1500,Energy & Fuel,33985358.86,2026-08,R100 Process Operations,Prairie Refinery (R100),600200,Variable,CAD
+CC-1510,Maintenance & Repair,24061482.27,2026-08,R100 Maintenance & Turnaround,Prairie Refinery (R100),600300,Variable,CAD
+CC-1510,Contract Services,14332803.49,2026-08,R100 Maintenance & Turnaround,Prairie Refinery (R100),600500,Variable,CAD
+CC-1600,Operating Labour,11363329.11,2026-08,R200 Process Operations,Lakehead Refinery (R200),600100,Fixed,CAD
+CC-1600,Energy & Fuel,22961307.2,2026-08,R200 Process Operations,Lakehead Refinery (R200),600200,Variable,CAD
+CC-1610,Maintenance & Repair,14660851.96,2026-08,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600300,Variable,CAD
+CC-1610,Contract Services,9002643.39,2026-08,R200 Maintenance & Turnaround,Lakehead Refinery (R200),600500,Variable,CAD
+CC-1700,Operating Labour,14997724.83,2026-08,R300 Process Operations,Saint-Laurent Refinery (R300),600100,Fixed,CAD
+CC-1700,Energy & Fuel,28939621.37,2026-08,R300 Process Operations,Saint-Laurent Refinery (R300),600200,Variable,CAD
+CC-1710,Maintenance & Repair,18728575.08,2026-08,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600300,Variable,CAD
+CC-1710,Contract Services,11655513.55,2026-08,R300 Maintenance & Turnaround,Saint-Laurent Refinery (R300),600500,Variable,CAD
+CC-1800,Operating Labour,38928326.72,2026-08,Retail Network Operations,Retail Fuels & Convenience,600100,Fixed,CAD
+CC-1800,Lease & Property,25101323.34,2026-08,Retail Network Operations,Retail Fuels & Convenience,600800,Fixed,CAD
+CC-1810,Marketing & Advertising,12374185.29,2026-08,Retail Marketing & Loyalty,Retail Fuels & Convenience,600900,Variable,CAD
+CC-1810,Payment Processing Fees,19421965.5,2026-08,Retail Marketing & Loyalty,Retail Fuels & Convenience,601000,Variable,CAD
+CC-1900,Transportation & Freight,35993862.23,2026-08,Commercial Distribution,Commercial & Wholesale,600700,Variable,CAD
+CC-1900,Operating Labour,9554993.75,2026-08,Commercial Distribution,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Operating Labour,5991194.46,2026-08,Cardlock & Fleet Operations,Commercial & Wholesale,600100,Fixed,CAD
+CC-1910,Contract Services,4638620.6,2026-08,Cardlock & Fleet Operations,Commercial & Wholesale,600500,Variable,CAD
+CC-2000,Materials & Chemicals,23518369.1,2026-08,Lubricants Blending Plant,Lubricants & Specialty,600400,Variable,CAD
+CC-2000,Operating Labour,7885101.77,2026-08,Lubricants Blending Plant,Lubricants & Specialty,600100,Fixed,CAD
+CC-2100,Personnel,8949552.39,2026-08,Trading & Risk Desk,Energy Trading,600100,Fixed,CAD
+CC-2100,Market Data & Systems,3243810.33,2026-08,Trading & Risk Desk,Energy Trading,601100,Fixed,CAD
+CC-2200,Operating Labour,4315330.33,2026-08,Low Carbon Projects,Low Carbon & New Energy,600100,Fixed,CAD
+CC-2200,Contract Services,6515304.65,2026-08,Low Carbon Projects,Low Carbon & New Energy,600500,Variable,CAD
+CC-9001,Personnel,14088667.18,2026-08,Corporate Finance & Administration,Corporate,600100,Fixed,CAD
+CC-9001,Professional Fees,7210679.04,2026-08,Corporate Finance & Administration,Corporate,601200,Fixed,CAD
+CC-9002,Software & Licences,11005991.02,2026-08,IT & Digital,Corporate,601100,Fixed,CAD
+CC-9002,Contract Services,8023278.44,2026-08,IT & Digital,Corporate,600500,Variable,CAD
+CC-9003,Personnel,6180640.17,2026-08,HSE & Environmental Compliance,Corporate,600100,Fixed,CAD
+CC-9003,Environmental Compliance & Levies,19722526.02,2026-08,HSE & Environmental Compliance,Corporate,601300,Variable,CAD
+CC-9004,Personnel,8151967.24,2026-08,Supply Chain & Procurement,Corporate,600100,Fixed,CAD
+CC-9004,Warehousing & Logistics,10078535.99,2026-08,Supply Chain & Procurement,Corporate,600700,Variable,CAD
