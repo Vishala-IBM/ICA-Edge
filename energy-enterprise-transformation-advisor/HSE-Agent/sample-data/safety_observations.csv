@@ -1,0 +1,501 @@
+Observation_ID,Category,Observation_Date,Site,Site_Name,Observation_Type,Observer_Role,Person_Observed,Activity,Shift,Potential_Severity,Action_Required,Corrective_Action,Action_Status,Days_To_Close
+OBS-00001,Line of Fire,2025-01-01,FAC-04,Montney-Kakwa Gas Plant,At-risk behaviour,HSE advisor,Contractor,Turnaround,Day,Low,Yes,Toolbox talk on line-of-fire hazards,Closed,20
+OBS-00002,Permit to Work,2025-01-01,FAC-08,Duvernay-Fox Creek Oil Battery,Safe behaviour (positive),Peer,Contractor,Drilling / completions,Day,Low,No,,N/A,
+OBS-00003,Tools & Equipment,2025-01-06,R300,Saint-Laurent Refinery,Safe behaviour (positive),Contractor safety rep,Employee,Construction,Day,Low,No,,N/A,
+OBS-00004,Emergency Preparedness,2025-01-08,R300,Saint-Laurent Refinery,At-risk behaviour,Peer,Employee,Maintenance,Day,Low,Yes,Drill and muster point review,Closed,29
+OBS-00005,Electrical Safety,2025-01-10,FAC-16,Athabasca SAGD CPF,Safe behaviour (positive),Management walk-through,Employee,Maintenance,Day,Low,No,,N/A,
+OBS-00006,Ergonomics,2025-01-11,FAC-12,Clearwater-Marten Hills Oil Battery,Good catch,Peer,Employee,Construction,Night,Low,No,,N/A,
+OBS-00007,Spill Prevention & Environmental,2025-01-11,FAC-25,Lloydminster Heavy Oil Battery,Safe behaviour (positive),Management walk-through,Employee,Construction,Day,Low,No,,N/A,
+OBS-00008,Personal Protective Equipment,2025-01-11,R300,Saint-Laurent Refinery,Unsafe condition,HSE advisor,Contractor,Maintenance,Day,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,5
+OBS-00009,Contractor Management,2025-01-15,PL-01,Oil Sands Gathering Pipelines,At-risk behaviour,Supervisor,Contractor,Warehouse handling,Night,Medium,Yes,Contractor pre-job safety orientation,Closed,19
+OBS-00010,Cold Weather Hazards,2025-01-16,FAC-21,Viking-Kerrobert Oil Battery,At-risk behaviour,HSE advisor,Contractor,Turnaround,Day,Medium,Yes,De-icing and cold-weather work plan,Closed,35
+OBS-00011,Line of Fire,2025-01-17,FAC-24,Lloydminster Heavy Oil Battery,Unsafe condition,Contractor safety rep,Contractor,Warehouse handling,Day,Medium,Yes,Toolbox talk on line-of-fire hazards,Closed,41
+OBS-00012,Driving & Vehicles,2025-01-18,FAC-21,Viking-Kerrobert Oil Battery,At-risk behaviour,Management walk-through,Contractor,Construction,Night,High,Yes,Journey management review; driver coaching,Closed,3
+OBS-00013,Driving & Vehicles,2025-01-20,FAC-14,Cold Lake SAGD CPF,Good catch,Contractor safety rep,Employee,Drilling / completions,Day,Medium,No,,N/A,
+OBS-00014,Spill Prevention & Environmental,2025-01-20,FAC-24,Lloydminster Heavy Oil Battery,Safe behaviour (positive),Management walk-through,Contractor,Drilling / completions,Day,Low,No,,N/A,
+OBS-00015,Lockout / Tagout (LOTO),2025-01-23,FAC-21,Viking-Kerrobert Oil Battery,Good catch,Supervisor,Contractor,Construction,Day,Low,No,,N/A,
+OBS-00016,Electrical Safety,2025-01-24,FAC-16,Athabasca SAGD CPF,Safe behaviour (positive),Peer,Contractor,Maintenance,Day,Low,No,,N/A,
+OBS-00017,Lockout / Tagout (LOTO),2025-01-24,FAC-19,Peace River SAGD CPF,At-risk behaviour,HSE advisor,Contractor,Loading / unloading,Day,Medium,Yes,Re-verify isolation plan; LOTO refresher,Closed,28
+OBS-00018,Working at Heights,2025-01-27,FAC-15,Cold Lake SAGD CPF,Unsafe condition,Supervisor,Contractor,Routine operations,Day,Medium,Yes,Verify fall-protection plan and anchor points,Closed,16
+OBS-00019,Lifting & Rigging,2025-01-28,R100,Prairie Refinery,At-risk behaviour,Supervisor,Contractor,Maintenance,Day,High,Yes,Rigging inspection and lift plan review,Closed,21
+OBS-00020,Working at Heights,2025-01-30,FAC-08,Duvernay-Fox Creek Oil Battery,At-risk behaviour,Supervisor,Contractor,Inspection,Night,Low,Yes,Verify fall-protection plan and anchor points,Closed,20
+OBS-00021,Permit to Work,2025-01-31,R300,Saint-Laurent Refinery,Unsafe condition,Supervisor,Contractor,Warehouse handling,Day,Low,Yes,Permit quality review with area authority,Open,
+OBS-00022,Emergency Preparedness,2025-02-01,FAC-17,Athabasca SAGD CPF,Safe behaviour (positive),Supervisor,Contractor,Loading / unloading,Day,Low,No,,N/A,
+OBS-00023,Cold Weather Hazards,2025-02-05,R200,Lakehead Refinery,Unsafe condition,Peer,Contractor,Loading / unloading,Night,Medium,Yes,De-icing and cold-weather work plan,Open,
+OBS-00024,Operating Discipline (Process Safety),2025-02-06,FAC-17,Athabasca SAGD CPF,At-risk behaviour,Peer,Employee,Construction,Day,Low,Yes,Review operating procedure with crew,Closed,29
+OBS-00025,Gas Detection / H2S,2025-02-07,R300,Saint-Laurent Refinery,At-risk behaviour,Peer,Contractor,Warehouse handling,Day,Medium,Yes,Calibrate and bump-test monitors,Overdue,
+OBS-00026,Ergonomics,2025-02-10,FAC-15,Cold Lake SAGD CPF,Stop-work intervention,Peer,Employee,Maintenance,Day,Medium,Yes,Task redesign / mechanical assist,Closed,22
+OBS-00027,Tools & Equipment,2025-02-14,FAC-18,Athabasca SAGD CPF,Safe behaviour (positive),Peer,Employee,Turnaround,Day,Low,No,,N/A,
+OBS-00028,Housekeeping,2025-02-16,FAC-17,Athabasca SAGD CPF,Unsafe condition,Contractor safety rep,Contractor,Construction,Day,High,Yes,Clean-up and housekeeping inspection schedule,Overdue,
+OBS-00029,Driving & Vehicles,2025-02-16,FAC-18,Athabasca SAGD CPF,Unsafe condition,Peer,Employee,Drilling / completions,Day,Low,Yes,Journey management review; driver coaching,Closed,28
+OBS-00030,Hot Work,2025-02-17,FAC-03,Montney-Kakwa Gas Plant,Unsafe condition,Peer,Contractor,Routine operations,Day,Medium,Yes,Audit hot work permits; gas testing refresher,Closed,19
+OBS-00031,Confined Space Entry,2025-02-20,FAC-05,Deep Basin-Edson Gas Plant,At-risk behaviour,Management walk-through,Contractor,Maintenance,Night,Medium,Yes,Re-verify entry permit and rescue plan,Closed,32
+OBS-00032,Personal Protective Equipment,2025-02-20,FAC-22,Bakken-Estevan Oil Battery,Unsafe condition,Management walk-through,Contractor,Construction,Day,High,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,21
+OBS-00033,Driving & Vehicles,2025-02-20,T800,Terminal T800,Good catch,HSE advisor,Contractor,Warehouse handling,Day,Medium,No,,N/A,
+OBS-00034,Working at Heights,2025-02-21,PL-06,Quebec Products Pipeline,Safe behaviour (positive),Supervisor,Employee,Construction,Night,Low,No,,N/A,
+OBS-00035,Line of Fire,2025-02-21,R200,Lakehead Refinery,At-risk behaviour,Management walk-through,Contractor,Warehouse handling,Day,Low,Yes,Toolbox talk on line-of-fire hazards,Overdue,
+OBS-00036,Cold Weather Hazards,2025-02-23,FAC-14,Cold Lake SAGD CPF,Unsafe condition,Contractor safety rep,Contractor,Loading / unloading,Day,Medium,Yes,De-icing and cold-weather work plan,Open,
+OBS-00037,Lockout / Tagout (LOTO),2025-02-23,PL-02,Peace River Export Line,Safe behaviour (positive),Peer,Contractor,Construction,Night,Low,No,,N/A,
+OBS-00038,Lockout / Tagout (LOTO),2025-02-25,T100,Terminal T100,Safe behaviour (positive),Peer,Employee,Warehouse handling,Day,Low,No,,N/A,
+OBS-00039,Cold Weather Hazards,2025-02-28,FAC-01,Montney-Dawson Gas Plant,At-risk behaviour,Management walk-through,Employee,Inspection,Night,Low,Yes,De-icing and cold-weather work plan,Closed,19
+OBS-00040,Permit to Work,2025-03-01,R300,Saint-Laurent Refinery,Unsafe condition,Peer,Contractor,Maintenance,Day,Medium,Yes,Permit quality review with area authority,Closed,9
+OBS-00041,Lockout / Tagout (LOTO),2025-03-02,FAC-12,Clearwater-Marten Hills Oil Battery,At-risk behaviour,HSE advisor,Employee,Inspection,Day,Medium,Yes,Re-verify isolation plan; LOTO refresher,Closed,37
+OBS-00042,Confined Space Entry,2025-03-02,FAC-17,Athabasca SAGD CPF,Safe behaviour (positive),Supervisor,Contractor,Warehouse handling,Day,Low,No,,N/A,
+OBS-00043,Personal Protective Equipment,2025-03-03,FAC-15,Cold Lake SAGD CPF,Safe behaviour (positive),Management walk-through,Employee,Maintenance,Night,Low,No,,N/A,
+OBS-00044,Lifting & Rigging,2025-03-03,PL-03,Prairie Trunk Pipeline (SK-MB),Unsafe condition,Management walk-through,Contractor,Turnaround,Night,High,Yes,Rigging inspection and lift plan review,Open,
+OBS-00045,Lockout / Tagout (LOTO),2025-03-05,FAC-01,Montney-Dawson Gas Plant,Unsafe condition,Supervisor,Contractor,Warehouse handling,Day,Medium,Yes,Re-verify isolation plan; LOTO refresher,Closed,8
+OBS-00046,Personal Protective Equipment,2025-03-06,FAC-14,Cold Lake SAGD CPF,Unsafe condition,Supervisor,Employee,Inspection,Day,High,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,27
+OBS-00047,Permit to Work,2025-03-08,R300,Saint-Laurent Refinery,At-risk behaviour,Peer,Contractor,Routine operations,Day,Medium,Yes,Permit quality review with area authority,Closed,37
+OBS-00048,Driving & Vehicles,2025-03-09,R300,Saint-Laurent Refinery,Unsafe condition,Peer,Employee,Construction,Night,Low,Yes,Journey management review; driver coaching,Overdue,
+OBS-00049,Ergonomics,2025-03-09,T700,Terminal T700,Safe behaviour (positive),Contractor safety rep,Contractor,Turnaround,Night,Low,No,,N/A,
+OBS-00050,Tools & Equipment,2025-03-11,T700,Terminal T700,Safe behaviour (positive),Management walk-through,Contractor,Maintenance,Day,Low,No,,N/A,
+OBS-00051,Personal Protective Equipment,2025-03-12,T800,Terminal T800,Safe behaviour (positive),Supervisor,Contractor,Construction,Day,Low,No,,N/A,
+OBS-00052,Personal Protective Equipment,2025-03-13,FAC-04,Montney-Kakwa Gas Plant,Safe behaviour (positive),HSE advisor,Employee,Loading / unloading,Day,Low,No,,N/A,
+OBS-00053,Driving & Vehicles,2025-03-13,R200,Lakehead Refinery,Unsafe condition,Peer,Contractor,Maintenance,Day,High,Yes,Journey management review; driver coaching,Closed,4
+OBS-00054,Tools & Equipment,2025-03-14,FAC-10,Cardium-Pembina Oil Battery,At-risk behaviour,Peer,Contractor,Warehouse handling,Day,Low,Yes,Replace or repair damaged tools; inspection tags,Closed,11
+OBS-00055,Cold Weather Hazards,2025-03-15,FAC-18,Athabasca SAGD CPF,Stop-work intervention,Management walk-through,Employee,Turnaround,Day,Medium,Yes,De-icing and cold-weather work plan,Open,
+OBS-00056,Confined Space Entry,2025-03-15,FAC-20,Viking-Kerrobert Oil Battery,Unsafe condition,Peer,Employee,Loading / unloading,Day,Low,Yes,Re-verify entry permit and rescue plan,Closed,15
+OBS-00057,Confined Space Entry,2025-03-16,FAC-14,Cold Lake SAGD CPF,At-risk behaviour,Peer,Employee,Turnaround,Day,Low,Yes,Re-verify entry permit and rescue plan,Closed,32
+OBS-00058,Personal Protective Equipment,2025-03-16,R100,Prairie Refinery,Unsafe condition,Management walk-through,Employee,Construction,Day,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,21
+OBS-00059,Personal Protective Equipment,2025-03-16,T500,Terminal T500,At-risk behaviour,Supervisor,Contractor,Construction,Day,Medium,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,37
+OBS-00060,Emergency Preparedness,2025-03-17,T100,Terminal T100,At-risk behaviour,HSE advisor,Contractor,Inspection,Night,Medium,Yes,Drill and muster point review,Overdue,
+OBS-00061,Cold Weather Hazards,2025-03-20,FAC-17,Athabasca SAGD CPF,Unsafe condition,Peer,Contractor,Warehouse handling,Day,Low,Yes,De-icing and cold-weather work plan,Closed,27
+OBS-00062,Housekeeping,2025-03-21,FAC-01,Montney-Dawson Gas Plant,At-risk behaviour,Contractor safety rep,Employee,Drilling / completions,Day,Medium,Yes,Clean-up and housekeeping inspection schedule,Open,
+OBS-00063,Operating Discipline (Process Safety),2025-03-21,R200,Lakehead Refinery,Safe behaviour (positive),Peer,Contractor,Inspection,Night,Low,No,,N/A,
+OBS-00064,Lockout / Tagout (LOTO),2025-03-22,FAC-18,Athabasca SAGD CPF,Safe behaviour (positive),Peer,Contractor,Loading / unloading,Day,Low,No,,N/A,
+OBS-00065,Tools & Equipment,2025-03-22,R300,Saint-Laurent Refinery,At-risk behaviour,HSE advisor,Contractor,Routine operations,Night,High,Yes,Replace or repair damaged tools; inspection tags,Closed,33
+OBS-00066,Driving & Vehicles,2025-03-24,FAC-05,Deep Basin-Edson Gas Plant,At-risk behaviour,Supervisor,Contractor,Construction,Day,Medium,Yes,Journey management review; driver coaching,Closed,27
+OBS-00067,Tools & Equipment,2025-03-24,FAC-18,Athabasca SAGD CPF,Safe behaviour (positive),Supervisor,Contractor,Turnaround,Night,Low,No,,N/A,
+OBS-00068,Cold Weather Hazards,2025-03-24,FAC-19,Peace River SAGD CPF,Unsafe condition,Management walk-through,Employee,Maintenance,Night,High,Yes,De-icing and cold-weather work plan,Closed,41
+OBS-00069,Contractor Management,2025-03-25,FAC-04,Montney-Kakwa Gas Plant,At-risk behaviour,Management walk-through,Contractor,Routine operations,Night,Medium,Yes,Contractor pre-job safety orientation,Closed,44
+OBS-00070,Tools & Equipment,2025-03-25,FAC-22,Bakken-Estevan Oil Battery,Unsafe condition,Contractor safety rep,Contractor,Construction,Day,Medium,Yes,Replace or repair damaged tools; inspection tags,Closed,18
+OBS-00071,Driving & Vehicles,2025-03-30,PL-02,Peace River Export Line,Safe behaviour (positive),Contractor safety rep,Contractor,Turnaround,Day,Low,No,,N/A,
+OBS-00072,Line of Fire,2025-04-01,R200,Lakehead Refinery,At-risk behaviour,Peer,Contractor,Inspection,Day,Medium,Yes,Toolbox talk on line-of-fire hazards,Closed,45
+OBS-00073,Driving & Vehicles,2025-04-02,FAC-22,Bakken-Estevan Oil Battery,Safe behaviour (positive),Supervisor,Employee,Routine operations,Night,Low,No,,N/A,
+OBS-00074,Tools & Equipment,2025-04-02,R200,Lakehead Refinery,At-risk behaviour,Supervisor,Employee,Loading / unloading,Day,High,Yes,Replace or repair damaged tools; inspection tags,Closed,40
+OBS-00075,Working at Heights,2025-04-03,DC-EDM,Edmonton Distribution Centre,Stop-work intervention,Peer,Employee,Loading / unloading,Night,Low,Yes,Verify fall-protection plan and anchor points,Open,
+OBS-00076,Working at Heights,2025-04-06,T700,Terminal T700,Stop-work intervention,Management walk-through,Employee,Drilling / completions,Night,Low,Yes,Verify fall-protection plan and anchor points,Closed,8
+OBS-00077,Personal Protective Equipment,2025-04-07,FAC-09,Cardium-Pembina Oil Battery,Safe behaviour (positive),HSE advisor,Employee,Loading / unloading,Night,Low,No,,N/A,
+OBS-00078,Contractor Management,2025-04-07,R300,Saint-Laurent Refinery,Safe behaviour (positive),HSE advisor,Employee,Drilling / completions,Night,Low,No,,N/A,
+OBS-00079,Housekeeping,2025-04-08,FAC-02,Montney-Dawson Gas Plant,Safe behaviour (positive),Peer,Employee,Turnaround,Day,Low,No,,N/A,
+OBS-00080,Line of Fire,2025-04-08,FAC-11,Swan Hills Oil Battery,Stop-work intervention,Supervisor,Contractor,Maintenance,Day,Low,Yes,Toolbox talk on line-of-fire hazards,Closed,32
+OBS-00081,Working at Heights,2025-04-09,R100,Prairie Refinery,Safe behaviour (positive),Supervisor,Contractor,Turnaround,Night,Low,No,,N/A,
+OBS-00082,Line of Fire,2025-04-09,R200,Lakehead Refinery,At-risk behaviour,Supervisor,Employee,Construction,Day,Low,Yes,Toolbox talk on line-of-fire hazards,Closed,44
+OBS-00083,Permit to Work,2025-04-09,R300,Saint-Laurent Refinery,At-risk behaviour,HSE advisor,Contractor,Drilling / completions,Night,Medium,Yes,Permit quality review with area authority,Closed,41
+OBS-00084,Personal Protective Equipment,2025-04-10,PL-05,Ontario Products Pipeline,Safe behaviour (positive),Peer,Employee,Construction,Day,Low,No,,N/A,
+OBS-00085,Gas Detection / H2S,2025-04-10,T800,Terminal T800,Safe behaviour (positive),Peer,Employee,Maintenance,Day,Low,No,,N/A,
+OBS-00086,Lifting & Rigging,2025-04-11,FAC-04,Montney-Kakwa Gas Plant,Safe behaviour (positive),Contractor safety rep,Contractor,Turnaround,Day,Low,No,,N/A,
+OBS-00087,Gas Detection / H2S,2025-04-14,FAC-22,Bakken-Estevan Oil Battery,Unsafe condition,Peer,Contractor,Warehouse handling,Night,Medium,Yes,Calibrate and bump-test monitors,Closed,13
+OBS-00088,Hot Work,2025-04-15,FAC-05,Deep Basin-Edson Gas Plant,Safe behaviour (positive),HSE advisor,Contractor,Construction,Day,Low,No,,N/A,
+OBS-00089,Emergency Preparedness,2025-04-15,FAC-17,Athabasca SAGD CPF,Good catch,Supervisor,Contractor,Turnaround,Night,Medium,No,,N/A,
+OBS-00090,Lifting & Rigging,2025-04-18,FAC-18,Athabasca SAGD CPF,Unsafe condition,Supervisor,Employee,Construction,Night,Low,Yes,Rigging inspection and lift plan review,Closed,4
+OBS-00091,Contractor Management,2025-04-19,FAC-16,Athabasca SAGD CPF,At-risk behaviour,Peer,Contractor,Warehouse handling,Day,Low,Yes,Contractor pre-job safety orientation,Closed,36
+OBS-00092,Lifting & Rigging,2025-04-19,FAC-23,Bakken-Estevan Oil Battery,Safe behaviour (positive),Peer,Contractor,Loading / unloading,Day,Low,No,,N/A,
+OBS-00093,Driving & Vehicles,2025-04-19,R200,Lakehead Refinery,Safe behaviour (positive),Peer,Employee,Warehouse handling,Day,Low,No,,N/A,
+OBS-00094,Driving & Vehicles,2025-04-21,FAC-07,Duvernay-Fox Creek Oil Battery,Stop-work intervention,Peer,Contractor,Maintenance,Day,Medium,Yes,Journey management review; driver coaching,Closed,35
+OBS-00095,Personal Protective Equipment,2025-04-21,R300,Saint-Laurent Refinery,Safe behaviour (positive),HSE advisor,Contractor,Maintenance,Day,Low,No,,N/A,
+OBS-00096,Contractor Management,2025-04-25,FAC-19,Peace River SAGD CPF,Unsafe condition,Peer,Contractor,Loading / unloading,Day,Medium,Yes,Contractor pre-job safety orientation,Open,
+OBS-00097,Contractor Management,2025-04-27,FAC-09,Cardium-Pembina Oil Battery,Safe behaviour (positive),HSE advisor,Contractor,Construction,Night,Low,No,,N/A,
+OBS-00098,Permit to Work,2025-04-29,R100,Prairie Refinery,At-risk behaviour,Supervisor,Employee,Loading / unloading,Day,High,Yes,Permit quality review with area authority,Closed,7
+OBS-00099,Lifting & Rigging,2025-05-02,FAC-03,Montney-Kakwa Gas Plant,Unsafe condition,Contractor safety rep,Contractor,Routine operations,Day,High,Yes,Rigging inspection and lift plan review,Closed,2
+OBS-00100,Personal Protective Equipment,2025-05-03,FAC-20,Viking-Kerrobert Oil Battery,Safe behaviour (positive),Peer,Contractor,Routine operations,Day,Low,No,,N/A,
+OBS-00101,Working at Heights,2025-05-04,FAC-16,Athabasca SAGD CPF,Unsafe condition,Peer,Contractor,Warehouse handling,Day,High,Yes,Verify fall-protection plan and anchor points,Closed,42
+OBS-00102,Lockout / Tagout (LOTO),2025-05-04,R200,Lakehead Refinery,At-risk behaviour,Contractor safety rep,Employee,Routine operations,Day,Medium,Yes,Re-verify isolation plan; LOTO refresher,Closed,11
+OBS-00103,Personal Protective Equipment,2025-05-05,FAC-11,Swan Hills Oil Battery,Unsafe condition,Peer,Contractor,Drilling / completions,Day,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,45
+OBS-00104,Hot Work,2025-05-08,DC-EDM,Edmonton Distribution Centre,Unsafe condition,Supervisor,Contractor,Maintenance,Night,Medium,Yes,Audit hot work permits; gas testing refresher,Closed,8
+OBS-00105,Working at Heights,2025-05-08,FAC-16,Athabasca SAGD CPF,Safe behaviour (positive),Peer,Employee,Drilling / completions,Day,Low,No,,N/A,
+OBS-00106,Spill Prevention & Environmental,2025-05-08,R100,Prairie Refinery,Unsafe condition,Contractor safety rep,Contractor,Inspection,Night,Low,Yes,Secondary containment inspection; drip tray provision,Closed,34
+OBS-00107,Lifting & Rigging,2025-05-09,FAC-25,Lloydminster Heavy Oil Battery,Unsafe condition,Supervisor,Employee,Drilling / completions,Day,Medium,Yes,Rigging inspection and lift plan review,Closed,20
+OBS-00108,Driving & Vehicles,2025-05-10,FAC-16,Athabasca SAGD CPF,At-risk behaviour,Management walk-through,Contractor,Turnaround,Night,Medium,Yes,Journey management review; driver coaching,Closed,4
+OBS-00109,Confined Space Entry,2025-05-10,FAC-18,Athabasca SAGD CPF,Unsafe condition,Supervisor,Contractor,Routine operations,Day,Low,Yes,Re-verify entry permit and rescue plan,Closed,27
+OBS-00110,Lifting & Rigging,2025-05-14,FAC-17,Athabasca SAGD CPF,Safe behaviour (positive),Contractor safety rep,Contractor,Turnaround,Day,Low,No,,N/A,
+OBS-00111,Ergonomics,2025-05-15,R100,Prairie Refinery,At-risk behaviour,Peer,Employee,Turnaround,Night,High,Yes,Task redesign / mechanical assist,Closed,10
+OBS-00112,Tools & Equipment,2025-05-16,R300,Saint-Laurent Refinery,Unsafe condition,Peer,Employee,Turnaround,Day,Low,Yes,Replace or repair damaged tools; inspection tags,Closed,26
+OBS-00113,Operating Discipline (Process Safety),2025-05-16,T100,Terminal T100,Safe behaviour (positive),Supervisor,Employee,Drilling / completions,Day,Low,No,,N/A,
+OBS-00114,Lockout / Tagout (LOTO),2025-05-18,FAC-04,Montney-Kakwa Gas Plant,At-risk behaviour,Peer,Contractor,Maintenance,Day,Low,Yes,Re-verify isolation plan; LOTO refresher,Closed,39
+OBS-00115,Personal Protective Equipment,2025-05-19,FAC-19,Peace River SAGD CPF,At-risk behaviour,Management walk-through,Employee,Maintenance,Day,Medium,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,3
+OBS-00116,Permit to Work,2025-05-19,T200,Terminal T200,Safe behaviour (positive),Supervisor,Contractor,Maintenance,Day,Low,No,,N/A,
+OBS-00117,Permit to Work,2025-05-20,PL-04,Montney Gas Gathering System,Unsafe condition,Peer,Contractor,Routine operations,Night,Low,Yes,Permit quality review with area authority,Closed,36
+OBS-00118,Electrical Safety,2025-05-22,FAC-16,Athabasca SAGD CPF,Safe behaviour (positive),Contractor safety rep,Employee,Drilling / completions,Night,Low,No,,N/A,
+OBS-00119,Spill Prevention & Environmental,2025-05-25,FAC-05,Deep Basin-Edson Gas Plant,Unsafe condition,Supervisor,Employee,Warehouse handling,Night,Medium,Yes,Secondary containment inspection; drip tray provision,Closed,23
+OBS-00120,Spill Prevention & Environmental,2025-05-26,PL-05,Ontario Products Pipeline,Safe behaviour (positive),Contractor safety rep,Employee,Maintenance,Day,Low,No,,N/A,
+OBS-00121,Ergonomics,2025-05-27,DC-EDM,Edmonton Distribution Centre,Safe behaviour (positive),Supervisor,Contractor,Drilling / completions,Day,Low,No,,N/A,
+OBS-00122,Electrical Safety,2025-05-28,R300,Saint-Laurent Refinery,Safe behaviour (positive),HSE advisor,Employee,Routine operations,Day,Low,No,,N/A,
+OBS-00123,Spill Prevention & Environmental,2025-05-29,DC-EDM,Edmonton Distribution Centre,At-risk behaviour,Supervisor,Contractor,Drilling / completions,Day,Low,Yes,Secondary containment inspection; drip tray provision,Closed,41
+OBS-00124,Operating Discipline (Process Safety),2025-05-30,R200,Lakehead Refinery,Safe behaviour (positive),HSE advisor,Employee,Routine operations,Day,Low,No,,N/A,
+OBS-00125,Operating Discipline (Process Safety),2025-06-03,FAC-19,Peace River SAGD CPF,At-risk behaviour,HSE advisor,Employee,Construction,Night,Low,Yes,Review operating procedure with crew,Closed,12
+OBS-00126,Tools & Equipment,2025-06-03,R100,Prairie Refinery,Unsafe condition,Supervisor,Contractor,Routine operations,Day,Medium,Yes,Replace or repair damaged tools; inspection tags,Closed,44
+OBS-00127,Gas Detection / H2S,2025-06-04,FAC-06,Deep Basin-Edson Gas Plant,At-risk behaviour,Peer,Contractor,Turnaround,Day,High,Yes,Calibrate and bump-test monitors,Closed,34
+OBS-00128,Confined Space Entry,2025-06-04,FAC-18,Athabasca SAGD CPF,Unsafe condition,Supervisor,Contractor,Loading / unloading,Day,Low,Yes,Re-verify entry permit and rescue plan,Closed,16
+OBS-00129,Operating Discipline (Process Safety),2025-06-04,R200,Lakehead Refinery,Safe behaviour (positive),Peer,Contractor,Inspection,Day,Low,No,,N/A,
+OBS-00130,Contractor Management,2025-06-10,FAC-14,Cold Lake SAGD CPF,Safe behaviour (positive),Management walk-through,Contractor,Routine operations,Day,Low,No,,N/A,
+OBS-00131,Line of Fire,2025-06-11,FAC-03,Montney-Kakwa Gas Plant,Safe behaviour (positive),Supervisor,Contractor,Construction,Day,Low,No,,N/A,
+OBS-00132,Gas Detection / H2S,2025-06-11,FAC-08,Duvernay-Fox Creek Oil Battery,Unsafe condition,Peer,Employee,Construction,Day,High,Yes,Calibrate and bump-test monitors,Closed,3
+OBS-00133,Hot Work,2025-06-11,FAC-14,Cold Lake SAGD CPF,Safe behaviour (positive),Peer,Contractor,Routine operations,Day,Low,No,,N/A,
+OBS-00134,Lockout / Tagout (LOTO),2025-06-12,FAC-07,Duvernay-Fox Creek Oil Battery,Stop-work intervention,HSE advisor,Employee,Loading / unloading,Day,High,Yes,Re-verify isolation plan; LOTO refresher,Closed,15
+OBS-00135,Line of Fire,2025-06-14,FAC-03,Montney-Kakwa Gas Plant,Unsafe condition,Peer,Employee,Routine operations,Night,Medium,Yes,Toolbox talk on line-of-fire hazards,Overdue,
+OBS-00136,Operating Discipline (Process Safety),2025-06-14,FAC-25,Lloydminster Heavy Oil Battery,Unsafe condition,Management walk-through,Employee,Maintenance,Day,Low,Yes,Review operating procedure with crew,Closed,37
+OBS-00137,Line of Fire,2025-06-18,FAC-15,Cold Lake SAGD CPF,Safe behaviour (positive),Supervisor,Contractor,Warehouse handling,Day,Low,No,,N/A,
+OBS-00138,Housekeeping,2025-06-22,R100,Prairie Refinery,Safe behaviour (positive),HSE advisor,Employee,Turnaround,Night,Low,No,,N/A,
+OBS-00139,Hot Work,2025-06-23,PL-05,Ontario Products Pipeline,Unsafe condition,Peer,Contractor,Drilling / completions,Day,Medium,Yes,Audit hot work permits; gas testing refresher,Closed,40
+OBS-00140,Line of Fire,2025-06-27,FAC-09,Cardium-Pembina Oil Battery,Stop-work intervention,Peer,Employee,Warehouse handling,Day,Low,Yes,Toolbox talk on line-of-fire hazards,Closed,15
+OBS-00141,Emergency Preparedness,2025-06-27,T600,Terminal T600,Unsafe condition,Supervisor,Contractor,Construction,Day,Low,Yes,Drill and muster point review,Closed,8
+OBS-00142,Electrical Safety,2025-06-28,FAC-12,Clearwater-Marten Hills Oil Battery,At-risk behaviour,Management walk-through,Contractor,Warehouse handling,Night,Low,Yes,Arc-flash labelling and PPE check,Closed,6
+OBS-00143,Hot Work,2025-06-29,FAC-13,Clearwater-Marten Hills Oil Battery,Good catch,HSE advisor,Contractor,Routine operations,Night,Low,No,,N/A,
+OBS-00144,Housekeeping,2025-07-02,FAC-16,Athabasca SAGD CPF,Unsafe condition,Contractor safety rep,Contractor,Turnaround,Night,Low,Yes,Clean-up and housekeeping inspection schedule,Closed,12
+OBS-00145,Working at Heights,2025-07-02,FAC-19,Peace River SAGD CPF,Safe behaviour (positive),Management walk-through,Contractor,Maintenance,Day,Low,No,,N/A,
+OBS-00146,Lifting & Rigging,2025-07-02,FAC-24,Lloydminster Heavy Oil Battery,At-risk behaviour,Management walk-through,Employee,Warehouse handling,Day,High,Yes,Rigging inspection and lift plan review,Closed,8
+OBS-00147,Driving & Vehicles,2025-07-03,FAC-11,Swan Hills Oil Battery,Safe behaviour (positive),Contractor safety rep,Contractor,Routine operations,Night,Low,No,,N/A,
+OBS-00148,Line of Fire,2025-07-04,R300,Saint-Laurent Refinery,At-risk behaviour,HSE advisor,Contractor,Turnaround,Night,Medium,Yes,Toolbox talk on line-of-fire hazards,Closed,8
+OBS-00149,Confined Space Entry,2025-07-06,FAC-04,Montney-Kakwa Gas Plant,Safe behaviour (positive),Supervisor,Employee,Drilling / completions,Day,Low,No,,N/A,
+OBS-00150,Confined Space Entry,2025-07-06,R300,Saint-Laurent Refinery,Unsafe condition,HSE advisor,Contractor,Construction,Night,Medium,Yes,Re-verify entry permit and rescue plan,Closed,14
+OBS-00151,Confined Space Entry,2025-07-07,FAC-19,Peace River SAGD CPF,At-risk behaviour,Peer,Contractor,Routine operations,Day,Low,Yes,Re-verify entry permit and rescue plan,Closed,22
+OBS-00152,Hot Work,2025-07-08,FAC-01,Montney-Dawson Gas Plant,At-risk behaviour,Supervisor,Contractor,Turnaround,Night,Medium,Yes,Audit hot work permits; gas testing refresher,Closed,4
+OBS-00153,Tools & Equipment,2025-07-09,DC-EDM,Edmonton Distribution Centre,Safe behaviour (positive),Supervisor,Contractor,Loading / unloading,Day,Low,No,,N/A,
+OBS-00154,Lockout / Tagout (LOTO),2025-07-09,FAC-22,Bakken-Estevan Oil Battery,Safe behaviour (positive),Supervisor,Employee,Inspection,Day,Low,No,,N/A,
+OBS-00155,Permit to Work,2025-07-11,FAC-01,Montney-Dawson Gas Plant,At-risk behaviour,Supervisor,Contractor,Warehouse handling,Day,High,Yes,Permit quality review with area authority,Closed,6
+OBS-00156,Housekeeping,2025-07-11,FAC-15,Cold Lake SAGD CPF,Safe behaviour (positive),Peer,Contractor,Routine operations,Night,Low,No,,N/A,
+OBS-00157,Contractor Management,2025-07-13,FAC-07,Duvernay-Fox Creek Oil Battery,At-risk behaviour,Peer,Contractor,Maintenance,Night,Medium,Yes,Contractor pre-job safety orientation,Closed,28
+OBS-00158,Lifting & Rigging,2025-07-19,PL-05,Ontario Products Pipeline,Unsafe condition,HSE advisor,Employee,Maintenance,Day,High,Yes,Rigging inspection and lift plan review,Closed,12
+OBS-00159,Line of Fire,2025-07-21,T200,Terminal T200,Unsafe condition,Supervisor,Contractor,Warehouse handling,Day,High,Yes,Toolbox talk on line-of-fire hazards,Closed,21
+OBS-00160,Working at Heights,2025-07-22,FAC-12,Clearwater-Marten Hills Oil Battery,Safe behaviour (positive),HSE advisor,Contractor,Routine operations,Night,Low,No,,N/A,
+OBS-00161,Permit to Work,2025-07-23,FAC-16,Athabasca SAGD CPF,At-risk behaviour,Supervisor,Employee,Turnaround,Night,Medium,Yes,Permit quality review with area authority,Closed,30
+OBS-00162,Line of Fire,2025-07-25,FAC-01,Montney-Dawson Gas Plant,Good catch,Peer,Employee,Turnaround,Night,Low,No,,N/A,
+OBS-00163,Tools & Equipment,2025-07-26,FAC-06,Deep Basin-Edson Gas Plant,At-risk behaviour,Peer,Contractor,Drilling / completions,Night,Low,Yes,Replace or repair damaged tools; inspection tags,Open,
+OBS-00164,Permit to Work,2025-07-28,FAC-23,Bakken-Estevan Oil Battery,At-risk behaviour,Supervisor,Contractor,Maintenance,Night,Medium,Yes,Permit quality review with area authority,Overdue,
+OBS-00165,Personal Protective Equipment,2025-07-29,PL-02,Peace River Export Line,At-risk behaviour,Peer,Employee,Drilling / completions,Night,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,32
+OBS-00166,Spill Prevention & Environmental,2025-07-29,R100,Prairie Refinery,Safe behaviour (positive),Supervisor,Contractor,Warehouse handling,Night,Low,No,,N/A,
+OBS-00167,Line of Fire,2025-08-01,FAC-07,Duvernay-Fox Creek Oil Battery,Safe behaviour (positive),Peer,Employee,Maintenance,Day,Low,No,,N/A,
+OBS-00168,Hot Work,2025-08-01,T300,Terminal T300,At-risk behaviour,Peer,Employee,Turnaround,Day,Low,Yes,Audit hot work permits; gas testing refresher,Closed,12
+OBS-00169,Lockout / Tagout (LOTO),2025-08-02,FAC-23,Bakken-Estevan Oil Battery,Safe behaviour (positive),Management walk-through,Employee,Maintenance,Day,Low,No,,N/A,
+OBS-00170,Personal Protective Equipment,2025-08-05,FAC-16,Athabasca SAGD CPF,At-risk behaviour,Peer,Contractor,Drilling / completions,Night,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,40
+OBS-00171,Tools & Equipment,2025-08-07,FAC-02,Montney-Dawson Gas Plant,Safe behaviour (positive),Peer,Employee,Inspection,Night,Low,No,,N/A,
+OBS-00172,Emergency Preparedness,2025-08-08,PL-05,Ontario Products Pipeline,At-risk behaviour,Peer,Employee,Drilling / completions,Day,Medium,Yes,Drill and muster point review,Closed,42
+OBS-00173,Line of Fire,2025-08-08,R100,Prairie Refinery,Stop-work intervention,Supervisor,Contractor,Construction,Day,High,Yes,Toolbox talk on line-of-fire hazards,Overdue,
+OBS-00174,Driving & Vehicles,2025-08-08,T600,Terminal T600,Safe behaviour (positive),Supervisor,Employee,Warehouse handling,Night,Low,No,,N/A,
+OBS-00175,Tools & Equipment,2025-08-10,FAC-05,Deep Basin-Edson Gas Plant,Stop-work intervention,Supervisor,Contractor,Construction,Day,Low,Yes,Replace or repair damaged tools; inspection tags,Closed,3
+OBS-00176,Housekeeping,2025-08-12,R100,Prairie Refinery,Unsafe condition,Peer,Contractor,Routine operations,Day,Low,Yes,Clean-up and housekeeping inspection schedule,Closed,26
+OBS-00177,Personal Protective Equipment,2025-08-13,FAC-07,Duvernay-Fox Creek Oil Battery,Safe behaviour (positive),HSE advisor,Employee,Construction,Day,Low,No,,N/A,
+OBS-00178,Lockout / Tagout (LOTO),2025-08-16,FAC-13,Clearwater-Marten Hills Oil Battery,Safe behaviour (positive),HSE advisor,Contractor,Routine operations,Night,Low,No,,N/A,
+OBS-00179,Contractor Management,2025-08-18,T100,Terminal T100,Unsafe condition,Supervisor,Employee,Construction,Day,Low,Yes,Contractor pre-job safety orientation,Closed,8
+OBS-00180,Hot Work,2025-08-22,R300,Saint-Laurent Refinery,Unsafe condition,Peer,Employee,Warehouse handling,Day,Low,Yes,Audit hot work permits; gas testing refresher,Closed,18
+OBS-00181,Housekeeping,2025-08-23,R100,Prairie Refinery,At-risk behaviour,Management walk-through,Employee,Drilling / completions,Night,Medium,Yes,Clean-up and housekeeping inspection schedule,Closed,33
+OBS-00182,Hot Work,2025-08-24,FAC-23,Bakken-Estevan Oil Battery,Safe behaviour (positive),Management walk-through,Contractor,Drilling / completions,Day,Low,No,,N/A,
+OBS-00183,Contractor Management,2025-08-27,FAC-14,Cold Lake SAGD CPF,Safe behaviour (positive),Supervisor,Contractor,Inspection,Day,Low,No,,N/A,
+OBS-00184,Personal Protective Equipment,2025-08-28,T600,Terminal T600,At-risk behaviour,Supervisor,Contractor,Construction,Night,High,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,44
+OBS-00185,Contractor Management,2025-08-30,FAC-24,Lloydminster Heavy Oil Battery,At-risk behaviour,Contractor safety rep,Employee,Loading / unloading,Night,High,Yes,Contractor pre-job safety orientation,Open,
+OBS-00186,Contractor Management,2025-08-30,T700,Terminal T700,At-risk behaviour,Peer,Contractor,Loading / unloading,Night,High,Yes,Contractor pre-job safety orientation,Closed,27
+OBS-00187,Confined Space Entry,2025-08-31,FAC-03,Montney-Kakwa Gas Plant,At-risk behaviour,Peer,Contractor,Construction,Day,Low,Yes,Re-verify entry permit and rescue plan,Closed,3
+OBS-00188,Housekeeping,2025-08-31,FAC-24,Lloydminster Heavy Oil Battery,Stop-work intervention,Management walk-through,Employee,Drilling / completions,Day,Low,Yes,Clean-up and housekeeping inspection schedule,Closed,27
+OBS-00189,Ergonomics,2025-09-01,FAC-18,Athabasca SAGD CPF,Safe behaviour (positive),Supervisor,Contractor,Drilling / completions,Night,Low,No,,N/A,
+OBS-00190,Housekeeping,2025-09-01,FAC-22,Bakken-Estevan Oil Battery,At-risk behaviour,HSE advisor,Employee,Drilling / completions,Day,Low,Yes,Clean-up and housekeeping inspection schedule,Overdue,
+OBS-00191,Tools & Equipment,2025-09-02,FAC-01,Montney-Dawson Gas Plant,At-risk behaviour,HSE advisor,Contractor,Turnaround,Day,Low,Yes,Replace or repair damaged tools; inspection tags,Closed,17
+OBS-00192,Line of Fire,2025-09-02,R200,Lakehead Refinery,Good catch,Supervisor,Employee,Warehouse handling,Day,High,No,,N/A,
+OBS-00193,Lifting & Rigging,2025-09-06,FAC-02,Montney-Dawson Gas Plant,Unsafe condition,Management walk-through,Contractor,Maintenance,Night,Medium,Yes,Rigging inspection and lift plan review,Closed,21
+OBS-00194,Lockout / Tagout (LOTO),2025-09-09,FAC-22,Bakken-Estevan Oil Battery,Safe behaviour (positive),Management walk-through,Contractor,Drilling / completions,Night,Low,No,,N/A,
+OBS-00195,Tools & Equipment,2025-09-10,FAC-18,Athabasca SAGD CPF,Unsafe condition,Supervisor,Employee,Turnaround,Night,Medium,Yes,Replace or repair damaged tools; inspection tags,Closed,40
+OBS-00196,Personal Protective Equipment,2025-09-11,FAC-09,Cardium-Pembina Oil Battery,At-risk behaviour,Management walk-through,Contractor,Construction,Night,Medium,Yes,Re-brief on PPE requirements; supervisor follow-up,Overdue,
+OBS-00197,Hot Work,2025-09-11,T500,Terminal T500,Unsafe condition,Peer,Employee,Turnaround,Day,High,Yes,Audit hot work permits; gas testing refresher,Closed,6
+OBS-00198,Personal Protective Equipment,2025-09-12,FAC-21,Viking-Kerrobert Oil Battery,Safe behaviour (positive),Supervisor,Contractor,Loading / unloading,Night,Low,No,,N/A,
+OBS-00199,Lifting & Rigging,2025-09-15,FAC-17,Athabasca SAGD CPF,Safe behaviour (positive),Management walk-through,Contractor,Maintenance,Day,Low,No,,N/A,
+OBS-00200,Spill Prevention & Environmental,2025-09-15,FAC-18,Athabasca SAGD CPF,Unsafe condition,Supervisor,Contractor,Turnaround,Day,Medium,Yes,Secondary containment inspection; drip tray provision,Closed,22
+OBS-00201,Hot Work,2025-09-15,R200,Lakehead Refinery,At-risk behaviour,Supervisor,Contractor,Turnaround,Day,Low,Yes,Audit hot work permits; gas testing refresher,Closed,13
+OBS-00202,Permit to Work,2025-09-17,FAC-19,Peace River SAGD CPF,Unsafe condition,Peer,Contractor,Routine operations,Night,Low,Yes,Permit quality review with area authority,Open,
+OBS-00203,Working at Heights,2025-09-18,FAC-15,Cold Lake SAGD CPF,Good catch,Supervisor,Contractor,Drilling / completions,Day,Low,No,,N/A,
+OBS-00204,Spill Prevention & Environmental,2025-09-19,FAC-25,Lloydminster Heavy Oil Battery,Safe behaviour (positive),Supervisor,Contractor,Warehouse handling,Day,Low,No,,N/A,
+OBS-00205,Electrical Safety,2025-09-20,FAC-13,Clearwater-Marten Hills Oil Battery,Unsafe condition,HSE advisor,Employee,Maintenance,Night,Medium,Yes,Arc-flash labelling and PPE check,Closed,40
+OBS-00206,Working at Heights,2025-09-20,FAC-18,Athabasca SAGD CPF,Safe behaviour (positive),Peer,Contractor,Drilling / completions,Day,Low,No,,N/A,
+OBS-00207,Housekeeping,2025-09-21,FAC-18,Athabasca SAGD CPF,At-risk behaviour,Supervisor,Contractor,Loading / unloading,Day,Low,Yes,Clean-up and housekeeping inspection schedule,Closed,41
+OBS-00208,Line of Fire,2025-09-23,R100,Prairie Refinery,Safe behaviour (positive),Supervisor,Contractor,Warehouse handling,Day,Low,No,,N/A,
+OBS-00209,Confined Space Entry,2025-09-25,T400,Terminal T400,At-risk behaviour,Contractor safety rep,Employee,Routine operations,Day,Low,Yes,Re-verify entry permit and rescue plan,Open,
+OBS-00210,Electrical Safety,2025-09-27,PL-01,Oil Sands Gathering Pipelines,At-risk behaviour,Management walk-through,Contractor,Drilling / completions,Day,Medium,Yes,Arc-flash labelling and PPE check,Closed,5
+OBS-00211,Gas Detection / H2S,2025-09-28,FAC-10,Cardium-Pembina Oil Battery,At-risk behaviour,Supervisor,Contractor,Inspection,Night,Low,Yes,Calibrate and bump-test monitors,Closed,26
+OBS-00212,Housekeeping,2025-09-29,R100,Prairie Refinery,At-risk behaviour,Peer,Contractor,Routine operations,Day,Medium,Yes,Clean-up and housekeeping inspection schedule,Closed,42
+OBS-00213,Tools & Equipment,2025-09-30,FAC-13,Clearwater-Marten Hills Oil Battery,Good catch,Supervisor,Employee,Inspection,Day,Low,No,,N/A,
+OBS-00214,Ergonomics,2025-10-02,R300,Saint-Laurent Refinery,Good catch,Peer,Contractor,Inspection,Day,Medium,No,,N/A,
+OBS-00215,Lifting & Rigging,2025-10-02,R300,Saint-Laurent Refinery,Good catch,Supervisor,Contractor,Maintenance,Day,High,No,,N/A,
+OBS-00216,Confined Space Entry,2025-10-05,FAC-13,Clearwater-Marten Hills Oil Battery,Safe behaviour (positive),Contractor safety rep,Employee,Loading / unloading,Day,Low,No,,N/A,
+OBS-00217,Lockout / Tagout (LOTO),2025-10-06,FAC-16,Athabasca SAGD CPF,Stop-work intervention,Contractor safety rep,Employee,Turnaround,Day,Low,Yes,Re-verify isolation plan; LOTO refresher,Closed,6
+OBS-00218,Housekeeping,2025-10-08,R300,Saint-Laurent Refinery,Unsafe condition,HSE advisor,Contractor,Turnaround,Day,Low,Yes,Clean-up and housekeeping inspection schedule,Closed,15
+OBS-00219,Personal Protective Equipment,2025-10-09,PL-06,Quebec Products Pipeline,Safe behaviour (positive),Peer,Employee,Routine operations,Day,Low,No,,N/A,
+OBS-00220,Permit to Work,2025-10-09,R300,Saint-Laurent Refinery,Safe behaviour (positive),Peer,Employee,Routine operations,Day,Low,No,,N/A,
+OBS-00221,Housekeeping,2025-10-11,FAC-16,Athabasca SAGD CPF,Unsafe condition,Supervisor,Employee,Loading / unloading,Day,High,Yes,Clean-up and housekeeping inspection schedule,Closed,28
+OBS-00222,Gas Detection / H2S,2025-10-11,T700,Terminal T700,Safe behaviour (positive),Peer,Employee,Routine operations,Day,Low,No,,N/A,
+OBS-00223,Lockout / Tagout (LOTO),2025-10-13,FAC-04,Montney-Kakwa Gas Plant,Stop-work intervention,HSE advisor,Employee,Inspection,Night,High,Yes,Re-verify isolation plan; LOTO refresher,Closed,5
+OBS-00224,Personal Protective Equipment,2025-10-14,FAC-11,Swan Hills Oil Battery,Safe behaviour (positive),Peer,Employee,Routine operations,Day,Low,No,,N/A,
+OBS-00225,Permit to Work,2025-10-15,FAC-19,Peace River SAGD CPF,At-risk behaviour,Management walk-through,Contractor,Turnaround,Night,Medium,Yes,Permit quality review with area authority,Closed,29
+OBS-00226,Personal Protective Equipment,2025-10-22,R200,Lakehead Refinery,Safe behaviour (positive),Supervisor,Employee,Loading / unloading,Night,Low,No,,N/A,
+OBS-00227,Driving & Vehicles,2025-10-26,R200,Lakehead Refinery,Unsafe condition,Supervisor,Contractor,Warehouse handling,Night,Low,Yes,Journey management review; driver coaching,Closed,4
+OBS-00228,Confined Space Entry,2025-10-26,R200,Lakehead Refinery,At-risk behaviour,Supervisor,Contractor,Routine operations,Night,High,Yes,Re-verify entry permit and rescue plan,Closed,37
+OBS-00229,Hot Work,2025-10-27,FAC-02,Montney-Dawson Gas Plant,At-risk behaviour,Peer,Contractor,Drilling / completions,Day,Low,Yes,Audit hot work permits; gas testing refresher,Closed,22
+OBS-00230,Permit to Work,2025-10-27,FAC-06,Deep Basin-Edson Gas Plant,Unsafe condition,Peer,Contractor,Drilling / completions,Night,Low,Yes,Permit quality review with area authority,Closed,5
+OBS-00231,Operating Discipline (Process Safety),2025-10-28,FAC-17,Athabasca SAGD CPF,Safe behaviour (positive),Contractor safety rep,Contractor,Inspection,Day,Low,No,,N/A,
+OBS-00232,Housekeeping,2025-10-29,FAC-14,Cold Lake SAGD CPF,Safe behaviour (positive),Supervisor,Contractor,Loading / unloading,Night,Low,No,,N/A,
+OBS-00233,Working at Heights,2025-11-02,PL-02,Peace River Export Line,Safe behaviour (positive),Peer,Contractor,Warehouse handling,Day,Low,No,,N/A,
+OBS-00234,Permit to Work,2025-11-05,R200,Lakehead Refinery,Safe behaviour (positive),Peer,Employee,Inspection,Night,Low,No,,N/A,
+OBS-00235,Tools & Equipment,2025-11-05,T600,Terminal T600,Unsafe condition,HSE advisor,Contractor,Maintenance,Night,Medium,Yes,Replace or repair damaged tools; inspection tags,Closed,24
+OBS-00236,Lifting & Rigging,2025-11-06,FAC-16,Athabasca SAGD CPF,Safe behaviour (positive),Supervisor,Contractor,Maintenance,Day,Low,No,,N/A,
+OBS-00237,Operating Discipline (Process Safety),2025-11-06,R100,Prairie Refinery,Safe behaviour (positive),HSE advisor,Employee,Construction,Day,Low,No,,N/A,
+OBS-00238,Permit to Work,2025-11-07,FAC-02,Montney-Dawson Gas Plant,Unsafe condition,Contractor safety rep,Contractor,Routine operations,Day,Low,Yes,Permit quality review with area authority,Closed,7
+OBS-00239,Line of Fire,2025-11-07,FAC-06,Deep Basin-Edson Gas Plant,Safe behaviour (positive),Peer,Contractor,Loading / unloading,Day,Low,No,,N/A,
+OBS-00240,Cold Weather Hazards,2025-11-09,FAC-23,Bakken-Estevan Oil Battery,Unsafe condition,Peer,Contractor,Construction,Night,Low,Yes,De-icing and cold-weather work plan,Closed,31
+OBS-00241,Permit to Work,2025-11-09,R200,Lakehead Refinery,Safe behaviour (positive),HSE advisor,Employee,Loading / unloading,Night,Low,No,,N/A,
+OBS-00242,Tools & Equipment,2025-11-10,FAC-02,Montney-Dawson Gas Plant,At-risk behaviour,Supervisor,Employee,Warehouse handling,Day,Low,Yes,Replace or repair damaged tools; inspection tags,Closed,20
+OBS-00243,Line of Fire,2025-11-11,FAC-18,Athabasca SAGD CPF,At-risk behaviour,Peer,Contractor,Drilling / completions,Day,Low,Yes,Toolbox talk on line-of-fire hazards,Closed,10
+OBS-00244,Tools & Equipment,2025-11-12,R100,Prairie Refinery,Good catch,HSE advisor,Contractor,Routine operations,Day,Medium,No,,N/A,
+OBS-00245,Hot Work,2025-11-12,R100,Prairie Refinery,At-risk behaviour,Contractor safety rep,Employee,Drilling / completions,Day,Low,Yes,Audit hot work permits; gas testing refresher,Closed,25
+OBS-00246,Permit to Work,2025-11-13,R200,Lakehead Refinery,At-risk behaviour,Management walk-through,Employee,Loading / unloading,Day,Medium,Yes,Permit quality review with area authority,Closed,42
+OBS-00247,Lockout / Tagout (LOTO),2025-11-14,PL-02,Peace River Export Line,Stop-work intervention,Peer,Employee,Maintenance,Day,Low,Yes,Re-verify isolation plan; LOTO refresher,Closed,4
+OBS-00248,Lifting & Rigging,2025-11-15,R200,Lakehead Refinery,Unsafe condition,Contractor safety rep,Contractor,Turnaround,Night,Medium,Yes,Rigging inspection and lift plan review,Closed,36
+OBS-00249,Hot Work,2025-11-17,FAC-08,Duvernay-Fox Creek Oil Battery,Safe behaviour (positive),HSE advisor,Employee,Routine operations,Night,Low,No,,N/A,
+OBS-00250,Housekeeping,2025-11-17,FAC-09,Cardium-Pembina Oil Battery,Unsafe condition,Supervisor,Employee,Inspection,Day,Low,Yes,Clean-up and housekeeping inspection schedule,Closed,8
+OBS-00251,Line of Fire,2025-11-19,FAC-25,Lloydminster Heavy Oil Battery,Safe behaviour (positive),Management walk-through,Employee,Maintenance,Day,Low,No,,N/A,
+OBS-00252,Permit to Work,2025-11-20,FAC-18,Athabasca SAGD CPF,Safe behaviour (positive),HSE advisor,Employee,Maintenance,Night,Low,No,,N/A,
+OBS-00253,Personal Protective Equipment,2025-11-20,FAC-19,Peace River SAGD CPF,Safe behaviour (positive),HSE advisor,Contractor,Turnaround,Day,Low,No,,N/A,
+OBS-00254,Personal Protective Equipment,2025-11-21,FAC-16,Athabasca SAGD CPF,At-risk behaviour,Supervisor,Contractor,Construction,Day,Medium,Yes,Re-brief on PPE requirements; supervisor follow-up,Overdue,
+OBS-00255,Ergonomics,2025-11-22,FAC-05,Deep Basin-Edson Gas Plant,Good catch,Supervisor,Contractor,Construction,Day,High,No,,N/A,
+OBS-00256,Contractor Management,2025-11-30,FAC-05,Deep Basin-Edson Gas Plant,Unsafe condition,Management walk-through,Contractor,Inspection,Day,Low,Yes,Contractor pre-job safety orientation,Closed,38
+OBS-00257,Operating Discipline (Process Safety),2025-12-02,FAC-12,Clearwater-Marten Hills Oil Battery,Safe behaviour (positive),Management walk-through,Employee,Construction,Day,Low,No,,N/A,
+OBS-00258,Operating Discipline (Process Safety),2025-12-04,FAC-14,Cold Lake SAGD CPF,At-risk behaviour,Supervisor,Contractor,Inspection,Night,Low,Yes,Review operating procedure with crew,Closed,39
+OBS-00259,Electrical Safety,2025-12-05,FAC-21,Viking-Kerrobert Oil Battery,Unsafe condition,HSE advisor,Contractor,Inspection,Day,Medium,Yes,Arc-flash labelling and PPE check,Closed,12
+OBS-00260,Hot Work,2025-12-07,FAC-10,Cardium-Pembina Oil Battery,At-risk behaviour,HSE advisor,Contractor,Turnaround,Day,Medium,Yes,Audit hot work permits; gas testing refresher,Closed,15
+OBS-00261,Personal Protective Equipment,2025-12-07,FAC-10,Cardium-Pembina Oil Battery,Safe behaviour (positive),Peer,Employee,Inspection,Night,Low,No,,N/A,
+OBS-00262,Personal Protective Equipment,2025-12-07,FAC-15,Cold Lake SAGD CPF,At-risk behaviour,Peer,Employee,Inspection,Day,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,2
+OBS-00263,Lockout / Tagout (LOTO),2025-12-08,FAC-03,Montney-Kakwa Gas Plant,Unsafe condition,Supervisor,Employee,Turnaround,Day,Medium,Yes,Re-verify isolation plan; LOTO refresher,Closed,21
+OBS-00264,Lockout / Tagout (LOTO),2025-12-11,R100,Prairie Refinery,Unsafe condition,Management walk-through,Employee,Inspection,Day,High,Yes,Re-verify isolation plan; LOTO refresher,Closed,34
+OBS-00265,Working at Heights,2025-12-11,R200,Lakehead Refinery,At-risk behaviour,Supervisor,Employee,Construction,Night,Low,Yes,Verify fall-protection plan and anchor points,Closed,10
+OBS-00266,Working at Heights,2025-12-12,R200,Lakehead Refinery,Safe behaviour (positive),Contractor safety rep,Contractor,Inspection,Day,Low,No,,N/A,
+OBS-00267,Permit to Work,2025-12-13,FAC-03,Montney-Kakwa Gas Plant,Safe behaviour (positive),Peer,Contractor,Routine operations,Day,Low,No,,N/A,
+OBS-00268,Driving & Vehicles,2025-12-15,FAC-13,Clearwater-Marten Hills Oil Battery,Stop-work intervention,Management walk-through,Contractor,Turnaround,Day,Medium,Yes,Journey management review; driver coaching,Closed,20
+OBS-00269,Personal Protective Equipment,2025-12-15,FAC-25,Lloydminster Heavy Oil Battery,Unsafe condition,Peer,Employee,Construction,Day,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,9
+OBS-00270,Ergonomics,2025-12-15,PL-06,Quebec Products Pipeline,Stop-work intervention,Peer,Contractor,Drilling / completions,Day,Low,Yes,Task redesign / mechanical assist,Closed,28
+OBS-00271,Confined Space Entry,2025-12-16,FAC-23,Bakken-Estevan Oil Battery,Unsafe condition,Supervisor,Contractor,Routine operations,Day,Low,Yes,Re-verify entry permit and rescue plan,Closed,37
+OBS-00272,Permit to Work,2025-12-17,T300,Terminal T300,At-risk behaviour,Management walk-through,Contractor,Loading / unloading,Day,High,Yes,Permit quality review with area authority,Overdue,
+OBS-00273,Working at Heights,2025-12-18,FAC-18,Athabasca SAGD CPF,Safe behaviour (positive),Peer,Employee,Routine operations,Day,Low,No,,N/A,
+OBS-00274,Tools & Equipment,2025-12-21,FAC-06,Deep Basin-Edson Gas Plant,Safe behaviour (positive),Management walk-through,Employee,Maintenance,Day,Low,No,,N/A,
+OBS-00275,Ergonomics,2025-12-25,FAC-15,Cold Lake SAGD CPF,At-risk behaviour,Management walk-through,Employee,Maintenance,Night,Low,Yes,Task redesign / mechanical assist,Closed,12
+OBS-00276,Ergonomics,2025-12-25,R200,Lakehead Refinery,Safe behaviour (positive),Management walk-through,Contractor,Turnaround,Day,Low,No,,N/A,
+OBS-00277,Lockout / Tagout (LOTO),2025-12-25,R300,Saint-Laurent Refinery,Safe behaviour (positive),Peer,Contractor,Loading / unloading,Day,Low,No,,N/A,
+OBS-00278,Lifting & Rigging,2025-12-27,FAC-06,Deep Basin-Edson Gas Plant,Unsafe condition,Contractor safety rep,Employee,Maintenance,Day,Medium,Yes,Rigging inspection and lift plan review,Open,
+OBS-00279,Working at Heights,2025-12-27,FAC-22,Bakken-Estevan Oil Battery,Unsafe condition,Peer,Employee,Warehouse handling,Night,Medium,Yes,Verify fall-protection plan and anchor points,Closed,32
+OBS-00280,Housekeeping,2025-12-31,R100,Prairie Refinery,Unsafe condition,Peer,Contractor,Warehouse handling,Day,Low,Yes,Clean-up and housekeeping inspection schedule,Closed,25
+OBS-00281,Personal Protective Equipment,2026-01-01,FAC-17,Athabasca SAGD CPF,Good catch,Supervisor,Contractor,Warehouse handling,Night,Low,No,,N/A,
+OBS-00282,Working at Heights,2026-01-02,FAC-19,Peace River SAGD CPF,Unsafe condition,Supervisor,Contractor,Loading / unloading,Day,Low,Yes,Verify fall-protection plan and anchor points,Closed,39
+OBS-00283,Tools & Equipment,2026-01-04,R100,Prairie Refinery,At-risk behaviour,Supervisor,Employee,Loading / unloading,Night,Medium,Yes,Replace or repair damaged tools; inspection tags,Closed,10
+OBS-00284,Working at Heights,2026-01-07,FAC-01,Montney-Dawson Gas Plant,At-risk behaviour,HSE advisor,Contractor,Turnaround,Day,Low,Yes,Verify fall-protection plan and anchor points,Closed,17
+OBS-00285,Permit to Work,2026-01-08,FAC-11,Swan Hills Oil Battery,Safe behaviour (positive),Management walk-through,Contractor,Inspection,Day,Low,No,,N/A,
+OBS-00286,Tools & Equipment,2026-01-08,FAC-13,Clearwater-Marten Hills Oil Battery,Safe behaviour (positive),HSE advisor,Employee,Routine operations,Day,Low,No,,N/A,
+OBS-00287,Personal Protective Equipment,2026-01-09,R100,Prairie Refinery,Stop-work intervention,Peer,Employee,Maintenance,Day,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,24
+OBS-00288,Ergonomics,2026-01-12,FAC-21,Viking-Kerrobert Oil Battery,Safe behaviour (positive),Supervisor,Contractor,Drilling / completions,Day,Low,No,,N/A,
+OBS-00289,Personal Protective Equipment,2026-01-12,FAC-24,Lloydminster Heavy Oil Battery,Unsafe condition,Peer,Employee,Warehouse handling,Day,Medium,Yes,Re-brief on PPE requirements; supervisor follow-up,Open,
+OBS-00290,Lifting & Rigging,2026-01-13,FAC-21,Viking-Kerrobert Oil Battery,At-risk behaviour,Supervisor,Contractor,Warehouse handling,Day,Medium,Yes,Rigging inspection and lift plan review,Closed,16
+OBS-00291,Cold Weather Hazards,2026-01-13,T500,Terminal T500,Unsafe condition,Peer,Contractor,Loading / unloading,Day,Low,Yes,De-icing and cold-weather work plan,Closed,24
+OBS-00292,Lockout / Tagout (LOTO),2026-01-15,FAC-04,Montney-Kakwa Gas Plant,Safe behaviour (positive),HSE advisor,Employee,Maintenance,Day,Low,No,,N/A,
+OBS-00293,Cold Weather Hazards,2026-01-15,R300,Saint-Laurent Refinery,Safe behaviour (positive),Management walk-through,Contractor,Routine operations,Day,Low,No,,N/A,
+OBS-00294,Contractor Management,2026-01-16,FAC-17,Athabasca SAGD CPF,At-risk behaviour,Supervisor,Contractor,Maintenance,Day,High,Yes,Contractor pre-job safety orientation,Closed,10
+OBS-00295,Driving & Vehicles,2026-01-16,FAC-18,Athabasca SAGD CPF,Safe behaviour (positive),Peer,Contractor,Routine operations,Day,Low,No,,N/A,
+OBS-00296,Contractor Management,2026-01-18,FAC-04,Montney-Kakwa Gas Plant,Safe behaviour (positive),HSE advisor,Employee,Warehouse handling,Day,Low,No,,N/A,
+OBS-00297,Cold Weather Hazards,2026-01-22,R200,Lakehead Refinery,Safe behaviour (positive),Management walk-through,Contractor,Routine operations,Day,Low,No,,N/A,
+OBS-00298,Confined Space Entry,2026-01-22,T800,Terminal T800,Safe behaviour (positive),Supervisor,Contractor,Routine operations,Night,Low,No,,N/A,
+OBS-00299,Personal Protective Equipment,2026-01-24,T700,Terminal T700,At-risk behaviour,Supervisor,Employee,Loading / unloading,Day,Medium,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,30
+OBS-00300,Working at Heights,2026-01-25,T700,Terminal T700,At-risk behaviour,HSE advisor,Contractor,Construction,Day,Low,Yes,Verify fall-protection plan and anchor points,Closed,5
+OBS-00301,Tools & Equipment,2026-01-26,FAC-02,Montney-Dawson Gas Plant,Safe behaviour (positive),Management walk-through,Employee,Turnaround,Day,Low,No,,N/A,
+OBS-00302,Housekeeping,2026-01-26,FAC-05,Deep Basin-Edson Gas Plant,At-risk behaviour,Management walk-through,Contractor,Routine operations,Night,Medium,Yes,Clean-up and housekeeping inspection schedule,Closed,6
+OBS-00303,Personal Protective Equipment,2026-01-27,R200,Lakehead Refinery,Safe behaviour (positive),Supervisor,Contractor,Loading / unloading,Night,Low,No,,N/A,
+OBS-00304,Emergency Preparedness,2026-01-29,FAC-20,Viking-Kerrobert Oil Battery,Safe behaviour (positive),Supervisor,Contractor,Inspection,Day,Low,No,,N/A,
+OBS-00305,Personal Protective Equipment,2026-01-31,FAC-17,Athabasca SAGD CPF,Safe behaviour (positive),Peer,Contractor,Turnaround,Night,Low,No,,N/A,
+OBS-00306,Lifting & Rigging,2026-01-31,T400,Terminal T400,Safe behaviour (positive),Contractor safety rep,Employee,Warehouse handling,Night,Low,No,,N/A,
+OBS-00307,Driving & Vehicles,2026-02-01,R200,Lakehead Refinery,At-risk behaviour,Peer,Employee,Loading / unloading,Night,High,Yes,Journey management review; driver coaching,Closed,37
+OBS-00308,Lifting & Rigging,2026-02-02,FAC-14,Cold Lake SAGD CPF,At-risk behaviour,Supervisor,Employee,Inspection,Night,High,Yes,Rigging inspection and lift plan review,Closed,39
+OBS-00309,Lockout / Tagout (LOTO),2026-02-02,PL-01,Oil Sands Gathering Pipelines,At-risk behaviour,Supervisor,Contractor,Loading / unloading,Day,Low,Yes,Re-verify isolation plan; LOTO refresher,Closed,16
+OBS-00310,Hot Work,2026-02-03,FAC-04,Montney-Kakwa Gas Plant,Stop-work intervention,Peer,Contractor,Warehouse handling,Day,Medium,Yes,Audit hot work permits; gas testing refresher,Closed,7
+OBS-00311,Tools & Equipment,2026-02-05,FAC-15,Cold Lake SAGD CPF,Stop-work intervention,Supervisor,Employee,Maintenance,Day,Medium,Yes,Replace or repair damaged tools; inspection tags,Closed,38
+OBS-00312,Ergonomics,2026-02-05,FAC-22,Bakken-Estevan Oil Battery,Unsafe condition,HSE advisor,Employee,Inspection,Night,High,Yes,Task redesign / mechanical assist,Closed,42
+OBS-00313,Gas Detection / H2S,2026-02-05,R100,Prairie Refinery,Unsafe condition,Supervisor,Employee,Routine operations,Night,Medium,Yes,Calibrate and bump-test monitors,Open,
+OBS-00314,Operating Discipline (Process Safety),2026-02-10,FAC-05,Deep Basin-Edson Gas Plant,Unsafe condition,HSE advisor,Employee,Turnaround,Day,Medium,Yes,Review operating procedure with crew,Closed,30
+OBS-00315,Driving & Vehicles,2026-02-10,R200,Lakehead Refinery,Safe behaviour (positive),Peer,Contractor,Drilling / completions,Night,Low,No,,N/A,
+OBS-00316,Personal Protective Equipment,2026-02-10,T500,Terminal T500,Safe behaviour (positive),Contractor safety rep,Employee,Inspection,Night,Low,No,,N/A,
+OBS-00317,Personal Protective Equipment,2026-02-12,T500,Terminal T500,Safe behaviour (positive),Peer,Employee,Turnaround,Night,Low,No,,N/A,
+OBS-00318,Emergency Preparedness,2026-02-13,R100,Prairie Refinery,Safe behaviour (positive),Management walk-through,Contractor,Turnaround,Day,Low,No,,N/A,
+OBS-00319,Spill Prevention & Environmental,2026-02-13,R300,Saint-Laurent Refinery,Unsafe condition,HSE advisor,Contractor,Loading / unloading,Night,Low,Yes,Secondary containment inspection; drip tray provision,Closed,16
+OBS-00320,Gas Detection / H2S,2026-02-15,R300,Saint-Laurent Refinery,Stop-work intervention,Supervisor,Employee,Turnaround,Day,High,Yes,Calibrate and bump-test monitors,Closed,30
+OBS-00321,Tools & Equipment,2026-02-17,DC-EDM,Edmonton Distribution Centre,Stop-work intervention,Peer,Employee,Inspection,Day,Low,Yes,Replace or repair damaged tools; inspection tags,Closed,5
+OBS-00322,Hot Work,2026-02-18,FAC-19,Peace River SAGD CPF,Stop-work intervention,Supervisor,Employee,Loading / unloading,Night,Medium,Yes,Audit hot work permits; gas testing refresher,Closed,9
+OBS-00323,Cold Weather Hazards,2026-02-19,FAC-04,Montney-Kakwa Gas Plant,Unsafe condition,Management walk-through,Contractor,Loading / unloading,Day,Medium,Yes,De-icing and cold-weather work plan,Closed,11
+OBS-00324,Hot Work,2026-02-20,T500,Terminal T500,Stop-work intervention,Peer,Employee,Drilling / completions,Day,Low,Yes,Audit hot work permits; gas testing refresher,Open,
+OBS-00325,Cold Weather Hazards,2026-02-22,FAC-14,Cold Lake SAGD CPF,Stop-work intervention,Peer,Employee,Inspection,Day,Low,Yes,De-icing and cold-weather work plan,Closed,36
+OBS-00326,Permit to Work,2026-02-22,R100,Prairie Refinery,At-risk behaviour,Contractor safety rep,Employee,Loading / unloading,Day,High,Yes,Permit quality review with area authority,Closed,31
+OBS-00327,Personal Protective Equipment,2026-02-23,FAC-08,Duvernay-Fox Creek Oil Battery,Safe behaviour (positive),Management walk-through,Contractor,Construction,Day,Low,No,,N/A,
+OBS-00328,Cold Weather Hazards,2026-02-25,FAC-05,Deep Basin-Edson Gas Plant,Stop-work intervention,Supervisor,Employee,Construction,Day,High,Yes,De-icing and cold-weather work plan,Open,
+OBS-00329,Operating Discipline (Process Safety),2026-02-26,R200,Lakehead Refinery,Unsafe condition,Peer,Employee,Drilling / completions,Day,Medium,Yes,Review operating procedure with crew,Overdue,
+OBS-00330,Spill Prevention & Environmental,2026-02-27,R300,Saint-Laurent Refinery,At-risk behaviour,Management walk-through,Contractor,Drilling / completions,Night,High,Yes,Secondary containment inspection; drip tray provision,Closed,4
+OBS-00331,Working at Heights,2026-02-28,FAC-02,Montney-Dawson Gas Plant,Good catch,Peer,Contractor,Maintenance,Day,Medium,No,,N/A,
+OBS-00332,Personal Protective Equipment,2026-02-28,FAC-14,Cold Lake SAGD CPF,At-risk behaviour,Peer,Contractor,Routine operations,Night,High,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,12
+OBS-00333,Permit to Work,2026-03-01,FAC-17,Athabasca SAGD CPF,Unsafe condition,Peer,Employee,Maintenance,Day,Medium,Yes,Permit quality review with area authority,Closed,6
+OBS-00334,Permit to Work,2026-03-02,R100,Prairie Refinery,Safe behaviour (positive),Supervisor,Employee,Routine operations,Day,Low,No,,N/A,
+OBS-00335,Working at Heights,2026-03-04,FAC-05,Deep Basin-Edson Gas Plant,At-risk behaviour,Peer,Contractor,Drilling / completions,Day,Medium,Yes,Verify fall-protection plan and anchor points,Closed,16
+OBS-00336,Ergonomics,2026-03-04,FAC-15,Cold Lake SAGD CPF,Safe behaviour (positive),Peer,Employee,Routine operations,Day,Low,No,,N/A,
+OBS-00337,Line of Fire,2026-03-05,PL-04,Montney Gas Gathering System,Safe behaviour (positive),Supervisor,Employee,Loading / unloading,Day,Low,No,,N/A,
+OBS-00338,Confined Space Entry,2026-03-07,FAC-04,Montney-Kakwa Gas Plant,At-risk behaviour,Supervisor,Contractor,Drilling / completions,Day,Low,Yes,Re-verify entry permit and rescue plan,Closed,14
+OBS-00339,Confined Space Entry,2026-03-08,FAC-09,Cardium-Pembina Oil Battery,Safe behaviour (positive),Peer,Contractor,Loading / unloading,Night,Low,No,,N/A,
+OBS-00340,Electrical Safety,2026-03-09,FAC-05,Deep Basin-Edson Gas Plant,Safe behaviour (positive),Management walk-through,Contractor,Turnaround,Day,Low,No,,N/A,
+OBS-00341,Personal Protective Equipment,2026-03-09,R100,Prairie Refinery,Unsafe condition,Peer,Employee,Inspection,Day,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Open,
+OBS-00342,Personal Protective Equipment,2026-03-10,FAC-17,Athabasca SAGD CPF,At-risk behaviour,Peer,Contractor,Construction,Day,Medium,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,3
+OBS-00343,Cold Weather Hazards,2026-03-10,R200,Lakehead Refinery,Safe behaviour (positive),Peer,Contractor,Warehouse handling,Day,Low,No,,N/A,
+OBS-00344,Permit to Work,2026-03-11,R300,Saint-Laurent Refinery,Safe behaviour (positive),Supervisor,Employee,Warehouse handling,Day,Low,No,,N/A,
+OBS-00345,Confined Space Entry,2026-03-12,FAC-08,Duvernay-Fox Creek Oil Battery,Safe behaviour (positive),HSE advisor,Contractor,Warehouse handling,Night,Low,No,,N/A,
+OBS-00346,Driving & Vehicles,2026-03-12,FAC-09,Cardium-Pembina Oil Battery,Stop-work intervention,HSE advisor,Employee,Turnaround,Day,High,Yes,Journey management review; driver coaching,Closed,45
+OBS-00347,Driving & Vehicles,2026-03-13,FAC-12,Clearwater-Marten Hills Oil Battery,Unsafe condition,Peer,Employee,Maintenance,Day,Low,Yes,Journey management review; driver coaching,Closed,32
+OBS-00348,Ergonomics,2026-03-15,FAC-22,Bakken-Estevan Oil Battery,At-risk behaviour,Management walk-through,Contractor,Maintenance,Night,Low,Yes,Task redesign / mechanical assist,Open,
+OBS-00349,Lockout / Tagout (LOTO),2026-03-16,T100,Terminal T100,Safe behaviour (positive),Supervisor,Contractor,Construction,Day,Low,No,,N/A,
+OBS-00350,Housekeeping,2026-03-18,FAC-08,Duvernay-Fox Creek Oil Battery,Safe behaviour (positive),Peer,Employee,Warehouse handling,Day,Low,No,,N/A,
+OBS-00351,Driving & Vehicles,2026-03-20,FAC-24,Lloydminster Heavy Oil Battery,Safe behaviour (positive),Management walk-through,Employee,Inspection,Night,Low,No,,N/A,
+OBS-00352,Ergonomics,2026-03-20,T300,Terminal T300,At-risk behaviour,HSE advisor,Employee,Routine operations,Day,Low,Yes,Task redesign / mechanical assist,Closed,18
+OBS-00353,Personal Protective Equipment,2026-03-21,FAC-07,Duvernay-Fox Creek Oil Battery,Good catch,Peer,Contractor,Maintenance,Day,Medium,No,,N/A,
+OBS-00354,Spill Prevention & Environmental,2026-03-24,R100,Prairie Refinery,Unsafe condition,Contractor safety rep,Contractor,Construction,Night,Low,Yes,Secondary containment inspection; drip tray provision,Closed,42
+OBS-00355,Ergonomics,2026-03-26,FAC-19,Peace River SAGD CPF,Stop-work intervention,Management walk-through,Employee,Loading / unloading,Day,Medium,Yes,Task redesign / mechanical assist,Closed,38
+OBS-00356,Personal Protective Equipment,2026-03-26,T800,Terminal T800,Unsafe condition,Peer,Contractor,Warehouse handling,Day,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,35
+OBS-00357,Tools & Equipment,2026-03-29,FAC-25,Lloydminster Heavy Oil Battery,At-risk behaviour,HSE advisor,Contractor,Warehouse handling,Day,Medium,Yes,Replace or repair damaged tools; inspection tags,Closed,41
+OBS-00358,Gas Detection / H2S,2026-03-30,R200,Lakehead Refinery,Unsafe condition,Peer,Employee,Turnaround,Day,Low,Yes,Calibrate and bump-test monitors,Closed,4
+OBS-00359,Personal Protective Equipment,2026-04-02,T100,Terminal T100,Safe behaviour (positive),Management walk-through,Contractor,Warehouse handling,Night,Low,No,,N/A,
+OBS-00360,Lockout / Tagout (LOTO),2026-04-04,FAC-02,Montney-Dawson Gas Plant,Unsafe condition,Management walk-through,Contractor,Routine operations,Night,Medium,Yes,Re-verify isolation plan; LOTO refresher,Closed,23
+OBS-00361,Tools & Equipment,2026-04-05,FAC-24,Lloydminster Heavy Oil Battery,Safe behaviour (positive),Peer,Employee,Turnaround,Day,Low,No,,N/A,
+OBS-00362,Permit to Work,2026-04-09,FAC-12,Clearwater-Marten Hills Oil Battery,Safe behaviour (positive),HSE advisor,Employee,Drilling / completions,Day,Low,No,,N/A,
+OBS-00363,Operating Discipline (Process Safety),2026-04-10,T800,Terminal T800,At-risk behaviour,Management walk-through,Employee,Maintenance,Night,Low,Yes,Review operating procedure with crew,Closed,24
+OBS-00364,Spill Prevention & Environmental,2026-04-13,T700,Terminal T700,At-risk behaviour,Peer,Contractor,Construction,Day,Low,Yes,Secondary containment inspection; drip tray provision,Closed,40
+OBS-00365,Personal Protective Equipment,2026-04-13,T700,Terminal T700,Safe behaviour (positive),Management walk-through,Employee,Warehouse handling,Night,Low,No,,N/A,
+OBS-00366,Hot Work,2026-04-14,R200,Lakehead Refinery,At-risk behaviour,Contractor safety rep,Employee,Inspection,Night,High,Yes,Audit hot work permits; gas testing refresher,Closed,23
+OBS-00367,Personal Protective Equipment,2026-04-15,DC-EDM,Edmonton Distribution Centre,At-risk behaviour,Management walk-through,Contractor,Warehouse handling,Night,High,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,20
+OBS-00368,Working at Heights,2026-04-17,FAC-20,Viking-Kerrobert Oil Battery,At-risk behaviour,Peer,Employee,Warehouse handling,Day,Low,Yes,Verify fall-protection plan and anchor points,Closed,29
+OBS-00369,Lockout / Tagout (LOTO),2026-04-21,FAC-04,Montney-Kakwa Gas Plant,Unsafe condition,Peer,Employee,Inspection,Night,Low,Yes,Re-verify isolation plan; LOTO refresher,Open,
+OBS-00370,Driving & Vehicles,2026-04-21,R300,Saint-Laurent Refinery,Good catch,Management walk-through,Employee,Inspection,Day,Low,No,,N/A,
+OBS-00371,Line of Fire,2026-04-22,FAC-06,Deep Basin-Edson Gas Plant,Safe behaviour (positive),Management walk-through,Employee,Turnaround,Day,Low,No,,N/A,
+OBS-00372,Personal Protective Equipment,2026-04-23,R300,Saint-Laurent Refinery,At-risk behaviour,Peer,Contractor,Inspection,Day,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,44
+OBS-00373,Confined Space Entry,2026-04-24,R200,Lakehead Refinery,At-risk behaviour,Peer,Employee,Drilling / completions,Day,Low,Yes,Re-verify entry permit and rescue plan,Overdue,
+OBS-00374,Permit to Work,2026-04-25,FAC-03,Montney-Kakwa Gas Plant,Unsafe condition,HSE advisor,Contractor,Turnaround,Night,High,Yes,Permit quality review with area authority,Closed,42
+OBS-00375,Spill Prevention & Environmental,2026-04-30,FAC-05,Deep Basin-Edson Gas Plant,Safe behaviour (positive),Peer,Employee,Warehouse handling,Night,Low,No,,N/A,
+OBS-00376,Emergency Preparedness,2026-05-01,FAC-07,Duvernay-Fox Creek Oil Battery,At-risk behaviour,Peer,Employee,Routine operations,Day,High,Yes,Drill and muster point review,Closed,9
+OBS-00377,Personal Protective Equipment,2026-05-02,FAC-14,Cold Lake SAGD CPF,Unsafe condition,Supervisor,Contractor,Drilling / completions,Night,Medium,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,7
+OBS-00378,Spill Prevention & Environmental,2026-05-02,R100,Prairie Refinery,Stop-work intervention,Peer,Employee,Construction,Day,Low,Yes,Secondary containment inspection; drip tray provision,Closed,38
+OBS-00379,Working at Heights,2026-05-04,FAC-10,Cardium-Pembina Oil Battery,At-risk behaviour,Contractor safety rep,Employee,Drilling / completions,Day,Low,Yes,Verify fall-protection plan and anchor points,Closed,43
+OBS-00380,Contractor Management,2026-05-05,DC-EDM,Edmonton Distribution Centre,At-risk behaviour,HSE advisor,Contractor,Maintenance,Day,Low,Yes,Contractor pre-job safety orientation,Closed,27
+OBS-00381,Lockout / Tagout (LOTO),2026-05-05,FAC-09,Cardium-Pembina Oil Battery,Unsafe condition,Peer,Employee,Maintenance,Night,Low,Yes,Re-verify isolation plan; LOTO refresher,Closed,23
+OBS-00382,Lifting & Rigging,2026-05-06,T300,Terminal T300,Safe behaviour (positive),Peer,Employee,Warehouse handling,Night,Low,No,,N/A,
+OBS-00383,Contractor Management,2026-05-07,FAC-19,Peace River SAGD CPF,Safe behaviour (positive),Peer,Employee,Construction,Day,Low,No,,N/A,
+OBS-00384,Working at Heights,2026-05-08,FAC-12,Clearwater-Marten Hills Oil Battery,Unsafe condition,Peer,Contractor,Inspection,Day,Medium,Yes,Verify fall-protection plan and anchor points,Closed,4
+OBS-00385,Permit to Work,2026-05-08,T400,Terminal T400,Unsafe condition,Peer,Employee,Loading / unloading,Day,Low,Yes,Permit quality review with area authority,Closed,18
+OBS-00386,Ergonomics,2026-05-11,FAC-14,Cold Lake SAGD CPF,Unsafe condition,Supervisor,Contractor,Maintenance,Night,Low,Yes,Task redesign / mechanical assist,Closed,7
+OBS-00387,Working at Heights,2026-05-13,FAC-17,Athabasca SAGD CPF,Safe behaviour (positive),HSE advisor,Contractor,Maintenance,Night,Low,No,,N/A,
+OBS-00388,Hot Work,2026-05-13,FAC-23,Bakken-Estevan Oil Battery,At-risk behaviour,HSE advisor,Contractor,Construction,Night,Medium,Yes,Audit hot work permits; gas testing refresher,Closed,11
+OBS-00389,Permit to Work,2026-05-14,FAC-02,Montney-Dawson Gas Plant,At-risk behaviour,Contractor safety rep,Contractor,Routine operations,Day,Low,Yes,Permit quality review with area authority,Overdue,
+OBS-00390,Working at Heights,2026-05-17,FAC-07,Duvernay-Fox Creek Oil Battery,Safe behaviour (positive),Supervisor,Contractor,Routine operations,Day,Low,No,,N/A,
+OBS-00391,Confined Space Entry,2026-05-17,R300,Saint-Laurent Refinery,Unsafe condition,Peer,Contractor,Turnaround,Night,High,Yes,Re-verify entry permit and rescue plan,Closed,19
+OBS-00392,Personal Protective Equipment,2026-05-18,FAC-16,Athabasca SAGD CPF,Safe behaviour (positive),Peer,Employee,Construction,Night,Low,No,,N/A,
+OBS-00393,Housekeeping,2026-05-18,R200,Lakehead Refinery,Unsafe condition,HSE advisor,Contractor,Turnaround,Day,Low,Yes,Clean-up and housekeeping inspection schedule,Closed,18
+OBS-00394,Gas Detection / H2S,2026-05-19,FAC-15,Cold Lake SAGD CPF,At-risk behaviour,Supervisor,Employee,Drilling / completions,Day,High,Yes,Calibrate and bump-test monitors,Closed,32
+OBS-00395,Ergonomics,2026-05-19,FAC-18,Athabasca SAGD CPF,At-risk behaviour,Supervisor,Employee,Inspection,Night,High,Yes,Task redesign / mechanical assist,Closed,15
+OBS-00396,Contractor Management,2026-05-20,FAC-11,Swan Hills Oil Battery,Safe behaviour (positive),Management walk-through,Contractor,Routine operations,Day,Low,No,,N/A,
+OBS-00397,Lockout / Tagout (LOTO),2026-05-20,R200,Lakehead Refinery,Unsafe condition,Supervisor,Contractor,Loading / unloading,Day,High,Yes,Re-verify isolation plan; LOTO refresher,Closed,2
+OBS-00398,Personal Protective Equipment,2026-05-21,FAC-08,Duvernay-Fox Creek Oil Battery,Safe behaviour (positive),Peer,Contractor,Construction,Day,Low,No,,N/A,
+OBS-00399,Personal Protective Equipment,2026-05-21,FAC-25,Lloydminster Heavy Oil Battery,Safe behaviour (positive),Management walk-through,Employee,Maintenance,Day,Low,No,,N/A,
+OBS-00400,Permit to Work,2026-05-24,FAC-07,Duvernay-Fox Creek Oil Battery,Unsafe condition,Contractor safety rep,Employee,Loading / unloading,Night,Low,Yes,Permit quality review with area authority,Closed,36
+OBS-00401,Line of Fire,2026-05-24,T300,Terminal T300,Safe behaviour (positive),Supervisor,Employee,Loading / unloading,Day,Low,No,,N/A,
+OBS-00402,Electrical Safety,2026-05-26,FAC-15,Cold Lake SAGD CPF,Safe behaviour (positive),Supervisor,Contractor,Warehouse handling,Night,Low,No,,N/A,
+OBS-00403,Lockout / Tagout (LOTO),2026-06-04,FAC-09,Cardium-Pembina Oil Battery,Unsafe condition,Management walk-through,Employee,Routine operations,Night,Low,Yes,Re-verify isolation plan; LOTO refresher,Overdue,
+OBS-00404,Lockout / Tagout (LOTO),2026-06-04,FAC-11,Swan Hills Oil Battery,Safe behaviour (positive),Supervisor,Contractor,Drilling / completions,Day,Low,No,,N/A,
+OBS-00405,Line of Fire,2026-06-04,R200,Lakehead Refinery,At-risk behaviour,Management walk-through,Employee,Routine operations,Day,Low,Yes,Toolbox talk on line-of-fire hazards,Closed,33
+OBS-00406,Electrical Safety,2026-06-05,FAC-19,Peace River SAGD CPF,Unsafe condition,HSE advisor,Employee,Inspection,Night,Low,Yes,Arc-flash labelling and PPE check,Closed,39
+OBS-00407,Ergonomics,2026-06-06,FAC-18,Athabasca SAGD CPF,Safe behaviour (positive),HSE advisor,Contractor,Turnaround,Day,Low,No,,N/A,
+OBS-00408,Working at Heights,2026-06-08,FAC-17,Athabasca SAGD CPF,Safe behaviour (positive),Management walk-through,Employee,Inspection,Day,Low,No,,N/A,
+OBS-00409,Personal Protective Equipment,2026-06-09,FAC-01,Montney-Dawson Gas Plant,Safe behaviour (positive),Peer,Contractor,Routine operations,Day,Low,No,,N/A,
+OBS-00410,Housekeeping,2026-06-09,FAC-10,Cardium-Pembina Oil Battery,Safe behaviour (positive),Management walk-through,Contractor,Routine operations,Day,Low,No,,N/A,
+OBS-00411,Line of Fire,2026-06-09,FAC-14,Cold Lake SAGD CPF,Safe behaviour (positive),Supervisor,Contractor,Maintenance,Day,Low,No,,N/A,
+OBS-00412,Personal Protective Equipment,2026-06-09,FAC-24,Lloydminster Heavy Oil Battery,Unsafe condition,Management walk-through,Contractor,Loading / unloading,Day,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,23
+OBS-00413,Lifting & Rigging,2026-06-10,FAC-18,Athabasca SAGD CPF,Safe behaviour (positive),Management walk-through,Contractor,Construction,Day,Low,No,,N/A,
+OBS-00414,Housekeeping,2026-06-13,FAC-19,Peace River SAGD CPF,At-risk behaviour,Supervisor,Employee,Turnaround,Day,High,Yes,Clean-up and housekeeping inspection schedule,Closed,31
+OBS-00415,Confined Space Entry,2026-06-14,R300,Saint-Laurent Refinery,Safe behaviour (positive),HSE advisor,Contractor,Routine operations,Day,Low,No,,N/A,
+OBS-00416,Lifting & Rigging,2026-06-14,R300,Saint-Laurent Refinery,Safe behaviour (positive),Peer,Contractor,Maintenance,Night,Low,No,,N/A,
+OBS-00417,Spill Prevention & Environmental,2026-06-15,T700,Terminal T700,Unsafe condition,Supervisor,Contractor,Construction,Night,High,Yes,Secondary containment inspection; drip tray provision,Closed,39
+OBS-00418,Personal Protective Equipment,2026-06-17,T500,Terminal T500,At-risk behaviour,Supervisor,Contractor,Inspection,Night,Medium,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,27
+OBS-00419,Tools & Equipment,2026-06-19,FAC-04,Montney-Kakwa Gas Plant,Unsafe condition,Peer,Contractor,Routine operations,Day,Low,Yes,Replace or repair damaged tools; inspection tags,Closed,36
+OBS-00420,Housekeeping,2026-06-19,FAC-17,Athabasca SAGD CPF,At-risk behaviour,Management walk-through,Employee,Construction,Day,High,Yes,Clean-up and housekeeping inspection schedule,Closed,18
+OBS-00421,Housekeeping,2026-06-19,FAC-19,Peace River SAGD CPF,At-risk behaviour,Peer,Contractor,Turnaround,Night,Medium,Yes,Clean-up and housekeeping inspection schedule,Overdue,
+OBS-00422,Emergency Preparedness,2026-06-19,R200,Lakehead Refinery,Safe behaviour (positive),Contractor safety rep,Contractor,Routine operations,Day,Low,No,,N/A,
+OBS-00423,Contractor Management,2026-06-20,FAC-03,Montney-Kakwa Gas Plant,Safe behaviour (positive),Peer,Contractor,Drilling / completions,Night,Low,No,,N/A,
+OBS-00424,Ergonomics,2026-06-20,T500,Terminal T500,Safe behaviour (positive),Management walk-through,Employee,Turnaround,Night,Low,No,,N/A,
+OBS-00425,Permit to Work,2026-06-22,FAC-01,Montney-Dawson Gas Plant,Unsafe condition,Supervisor,Employee,Inspection,Day,Medium,Yes,Permit quality review with area authority,Closed,45
+OBS-00426,Line of Fire,2026-06-22,R200,Lakehead Refinery,At-risk behaviour,Peer,Contractor,Inspection,Day,Low,Yes,Toolbox talk on line-of-fire hazards,Closed,24
+OBS-00427,Emergency Preparedness,2026-06-24,FAC-19,Peace River SAGD CPF,Unsafe condition,Management walk-through,Employee,Construction,Day,Medium,Yes,Drill and muster point review,Closed,16
+OBS-00428,Housekeeping,2026-06-25,FAC-09,Cardium-Pembina Oil Battery,At-risk behaviour,Management walk-through,Employee,Inspection,Night,Medium,Yes,Clean-up and housekeeping inspection schedule,Closed,42
+OBS-00429,Hot Work,2026-06-26,R300,Saint-Laurent Refinery,Safe behaviour (positive),Peer,Employee,Drilling / completions,Day,Low,No,,N/A,
+OBS-00430,Personal Protective Equipment,2026-06-28,FAC-08,Duvernay-Fox Creek Oil Battery,Safe behaviour (positive),Peer,Contractor,Warehouse handling,Night,Low,No,,N/A,
+OBS-00431,Hot Work,2026-06-28,FAC-09,Cardium-Pembina Oil Battery,Safe behaviour (positive),Supervisor,Contractor,Maintenance,Day,Low,No,,N/A,
+OBS-00432,Working at Heights,2026-06-28,FAC-10,Cardium-Pembina Oil Battery,At-risk behaviour,HSE advisor,Employee,Drilling / completions,Night,High,Yes,Verify fall-protection plan and anchor points,Closed,43
+OBS-00433,Contractor Management,2026-07-01,FAC-04,Montney-Kakwa Gas Plant,Unsafe condition,Peer,Employee,Drilling / completions,Day,Low,Yes,Contractor pre-job safety orientation,Open,
+OBS-00434,Lockout / Tagout (LOTO),2026-07-01,FAC-15,Cold Lake SAGD CPF,At-risk behaviour,HSE advisor,Employee,Maintenance,Night,Medium,Yes,Re-verify isolation plan; LOTO refresher,Closed,2
+OBS-00435,Hot Work,2026-07-06,T400,Terminal T400,Safe behaviour (positive),HSE advisor,Contractor,Drilling / completions,Day,Low,No,,N/A,
+OBS-00436,Personal Protective Equipment,2026-07-07,FAC-05,Deep Basin-Edson Gas Plant,At-risk behaviour,Contractor safety rep,Contractor,Loading / unloading,Night,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Closed,28
+OBS-00437,Personal Protective Equipment,2026-07-07,FAC-25,Lloydminster Heavy Oil Battery,Safe behaviour (positive),Management walk-through,Contractor,Drilling / completions,Day,Low,No,,N/A,
+OBS-00438,Lockout / Tagout (LOTO),2026-07-10,FAC-17,Athabasca SAGD CPF,At-risk behaviour,Management walk-through,Contractor,Routine operations,Night,High,Yes,Re-verify isolation plan; LOTO refresher,Closed,2
+OBS-00439,Ergonomics,2026-07-14,FAC-16,Athabasca SAGD CPF,Safe behaviour (positive),Contractor safety rep,Contractor,Drilling / completions,Day,Low,No,,N/A,
+OBS-00440,Housekeeping,2026-07-21,FAC-17,Athabasca SAGD CPF,At-risk behaviour,Management walk-through,Employee,Maintenance,Night,Low,Yes,Clean-up and housekeeping inspection schedule,Closed,33
+OBS-00441,Line of Fire,2026-07-21,R300,Saint-Laurent Refinery,Safe behaviour (positive),Contractor safety rep,Contractor,Maintenance,Day,Low,No,,N/A,
+OBS-00442,Driving & Vehicles,2026-07-22,R300,Saint-Laurent Refinery,At-risk behaviour,Supervisor,Employee,Inspection,Day,Low,Yes,Journey management review; driver coaching,Overdue,
+OBS-00443,Line of Fire,2026-07-26,FAC-02,Montney-Dawson Gas Plant,At-risk behaviour,Peer,Contractor,Inspection,Day,High,Yes,Toolbox talk on line-of-fire hazards,Closed,21
+OBS-00444,Ergonomics,2026-07-26,T500,Terminal T500,Safe behaviour (positive),HSE advisor,Contractor,Drilling / completions,Night,Low,No,,N/A,
+OBS-00445,Permit to Work,2026-07-28,T200,Terminal T200,Unsafe condition,HSE advisor,Contractor,Inspection,Night,Medium,Yes,Permit quality review with area authority,Closed,9
+OBS-00446,Line of Fire,2026-07-29,R300,Saint-Laurent Refinery,At-risk behaviour,Peer,Contractor,Construction,Night,Medium,Yes,Toolbox talk on line-of-fire hazards,Open,
+OBS-00447,Spill Prevention & Environmental,2026-07-30,R100,Prairie Refinery,Unsafe condition,Supervisor,Employee,Construction,Day,Low,Yes,Secondary containment inspection; drip tray provision,Closed,2
+OBS-00448,Hot Work,2026-08-01,FAC-11,Swan Hills Oil Battery,Safe behaviour (positive),Supervisor,Contractor,Inspection,Day,Low,No,,N/A,
+OBS-00449,Line of Fire,2026-08-01,FAC-19,Peace River SAGD CPF,Unsafe condition,Management walk-through,Employee,Drilling / completions,Day,Low,Yes,Toolbox talk on line-of-fire hazards,Closed,7
+OBS-00450,Housekeeping,2026-08-03,T100,Terminal T100,Unsafe condition,Peer,Employee,Inspection,Day,Medium,Yes,Clean-up and housekeeping inspection schedule,Closed,34
+OBS-00451,Personal Protective Equipment,2026-08-05,FAC-16,Athabasca SAGD CPF,Unsafe condition,Peer,Contractor,Routine operations,Day,Medium,Yes,Re-brief on PPE requirements; supervisor follow-up,Open,
+OBS-00452,Emergency Preparedness,2026-08-06,FAC-19,Peace River SAGD CPF,Unsafe condition,Supervisor,Contractor,Maintenance,Day,Low,Yes,Drill and muster point review,Closed,40
+OBS-00453,Spill Prevention & Environmental,2026-08-08,FAC-04,Montney-Kakwa Gas Plant,Safe behaviour (positive),Supervisor,Employee,Maintenance,Day,Low,No,,N/A,
+OBS-00454,Lockout / Tagout (LOTO),2026-08-09,FAC-12,Clearwater-Marten Hills Oil Battery,Unsafe condition,Peer,Contractor,Maintenance,Day,Medium,Yes,Re-verify isolation plan; LOTO refresher,Closed,3
+OBS-00455,Housekeeping,2026-08-09,T800,Terminal T800,Safe behaviour (positive),Peer,Employee,Construction,Night,Low,No,,N/A,
+OBS-00456,Lockout / Tagout (LOTO),2026-08-12,T800,Terminal T800,Safe behaviour (positive),Peer,Employee,Drilling / completions,Day,Low,No,,N/A,
+OBS-00457,Personal Protective Equipment,2026-08-13,FAC-13,Clearwater-Marten Hills Oil Battery,Safe behaviour (positive),Contractor safety rep,Employee,Loading / unloading,Day,Low,No,,N/A,
+OBS-00458,Lockout / Tagout (LOTO),2026-08-13,FAC-18,Athabasca SAGD CPF,Safe behaviour (positive),HSE advisor,Contractor,Warehouse handling,Day,Low,No,,N/A,
+OBS-00459,Tools & Equipment,2026-08-14,PL-04,Montney Gas Gathering System,Unsafe condition,Peer,Contractor,Maintenance,Day,Medium,Yes,Replace or repair damaged tools; inspection tags,Closed,35
+OBS-00460,Personal Protective Equipment,2026-08-20,R100,Prairie Refinery,Good catch,Peer,Contractor,Inspection,Day,Medium,No,,N/A,
+OBS-00461,Housekeeping,2026-08-22,T100,Terminal T100,Safe behaviour (positive),Peer,Contractor,Turnaround,Day,Low,No,,N/A,
+OBS-00462,Operating Discipline (Process Safety),2026-08-24,R200,Lakehead Refinery,Good catch,HSE advisor,Contractor,Drilling / completions,Day,Low,No,,N/A,
+OBS-00463,Emergency Preparedness,2026-08-25,FAC-01,Montney-Dawson Gas Plant,At-risk behaviour,Supervisor,Employee,Drilling / completions,Night,Medium,Yes,Drill and muster point review,Closed,4
+OBS-00464,Ergonomics,2026-08-27,T700,Terminal T700,At-risk behaviour,Peer,Employee,Inspection,Day,Low,Yes,Task redesign / mechanical assist,Closed,28
+OBS-00465,Housekeeping,2026-08-29,FAC-15,Cold Lake SAGD CPF,Good catch,Peer,Employee,Loading / unloading,Night,Low,No,,N/A,
+OBS-00466,Confined Space Entry,2026-08-29,T600,Terminal T600,Safe behaviour (positive),Contractor safety rep,Contractor,Warehouse handling,Day,Low,No,,N/A,
+OBS-00467,Contractor Management,2026-08-30,FAC-05,Deep Basin-Edson Gas Plant,Safe behaviour (positive),HSE advisor,Employee,Warehouse handling,Day,Low,No,,N/A,
+OBS-00468,Contractor Management,2026-09-04,FAC-14,Cold Lake SAGD CPF,Unsafe condition,HSE advisor,Contractor,Maintenance,Day,Medium,Yes,Contractor pre-job safety orientation,Open,
+OBS-00469,Housekeeping,2026-09-04,R100,Prairie Refinery,At-risk behaviour,Peer,Employee,Inspection,Day,Medium,Yes,Clean-up and housekeeping inspection schedule,Open,
+OBS-00470,Personal Protective Equipment,2026-09-04,T300,Terminal T300,At-risk behaviour,Supervisor,Contractor,Routine operations,Day,Medium,Yes,Re-brief on PPE requirements; supervisor follow-up,Open,
+OBS-00471,Tools & Equipment,2026-09-05,R300,Saint-Laurent Refinery,Safe behaviour (positive),Supervisor,Contractor,Warehouse handling,Day,Low,No,,N/A,
+OBS-00472,Driving & Vehicles,2026-09-06,R200,Lakehead Refinery,At-risk behaviour,Contractor safety rep,Employee,Inspection,Day,Medium,Yes,Journey management review; driver coaching,Open,
+OBS-00473,Line of Fire,2026-09-07,FAC-05,Deep Basin-Edson Gas Plant,Safe behaviour (positive),HSE advisor,Employee,Drilling / completions,Day,Low,No,,N/A,
+OBS-00474,Driving & Vehicles,2026-09-07,FAC-18,Athabasca SAGD CPF,At-risk behaviour,HSE advisor,Employee,Maintenance,Day,Medium,Yes,Journey management review; driver coaching,Closed,45
+OBS-00475,Gas Detection / H2S,2026-09-07,FAC-19,Peace River SAGD CPF,Safe behaviour (positive),Supervisor,Employee,Maintenance,Day,Low,No,,N/A,
+OBS-00476,Permit to Work,2026-09-09,FAC-01,Montney-Dawson Gas Plant,At-risk behaviour,Peer,Contractor,Warehouse handling,Day,Medium,Yes,Permit quality review with area authority,Open,
+OBS-00477,Ergonomics,2026-09-10,FAC-08,Duvernay-Fox Creek Oil Battery,At-risk behaviour,Supervisor,Employee,Turnaround,Day,Medium,Yes,Task redesign / mechanical assist,Overdue,
+OBS-00478,Working at Heights,2026-09-10,FAC-17,Athabasca SAGD CPF,At-risk behaviour,Peer,Employee,Inspection,Day,Low,Yes,Verify fall-protection plan and anchor points,Closed,40
+OBS-00479,Housekeeping,2026-09-10,R100,Prairie Refinery,Safe behaviour (positive),Supervisor,Employee,Warehouse handling,Day,Low,No,,N/A,
+OBS-00480,Operating Discipline (Process Safety),2026-09-11,FAC-01,Montney-Dawson Gas Plant,Safe behaviour (positive),Supervisor,Contractor,Routine operations,Night,Low,No,,N/A,
+OBS-00481,Contractor Management,2026-09-13,FAC-05,Deep Basin-Edson Gas Plant,At-risk behaviour,Peer,Contractor,Drilling / completions,Night,High,Yes,Contractor pre-job safety orientation,Overdue,
+OBS-00482,Contractor Management,2026-09-15,PL-03,Prairie Trunk Pipeline (SK-MB),At-risk behaviour,Peer,Employee,Routine operations,Day,Low,Yes,Contractor pre-job safety orientation,Open,
+OBS-00483,Driving & Vehicles,2026-09-15,R200,Lakehead Refinery,Good catch,Supervisor,Contractor,Maintenance,Day,Low,No,,N/A,
+OBS-00484,Spill Prevention & Environmental,2026-09-15,R200,Lakehead Refinery,At-risk behaviour,Contractor safety rep,Employee,Inspection,Day,Low,Yes,Secondary containment inspection; drip tray provision,Open,
+OBS-00485,Confined Space Entry,2026-09-18,FAC-10,Cardium-Pembina Oil Battery,Safe behaviour (positive),Supervisor,Employee,Turnaround,Night,Low,No,,N/A,
+OBS-00486,Operating Discipline (Process Safety),2026-09-22,FAC-05,Deep Basin-Edson Gas Plant,Safe behaviour (positive),Peer,Employee,Warehouse handling,Day,Low,No,,N/A,
+OBS-00487,Line of Fire,2026-09-22,FAC-20,Viking-Kerrobert Oil Battery,Good catch,Supervisor,Employee,Loading / unloading,Night,Low,No,,N/A,
+OBS-00488,Personal Protective Equipment,2026-09-23,FAC-16,Athabasca SAGD CPF,Unsafe condition,Peer,Employee,Maintenance,Day,Low,Yes,Re-brief on PPE requirements; supervisor follow-up,Overdue,
+OBS-00489,Line of Fire,2026-09-23,R100,Prairie Refinery,Unsafe condition,Supervisor,Employee,Routine operations,Day,Medium,Yes,Toolbox talk on line-of-fire hazards,Closed,33
+OBS-00490,Housekeeping,2026-09-24,FAC-14,Cold Lake SAGD CPF,Unsafe condition,Peer,Employee,Drilling / completions,Day,Low,Yes,Clean-up and housekeeping inspection schedule,Open,
+OBS-00491,Personal Protective Equipment,2026-09-26,FAC-17,Athabasca SAGD CPF,Unsafe condition,HSE advisor,Employee,Maintenance,Night,Medium,Yes,Re-brief on PPE requirements; supervisor follow-up,Overdue,
+OBS-00492,Contractor Management,2026-09-27,FAC-02,Montney-Dawson Gas Plant,Unsafe condition,HSE advisor,Employee,Drilling / completions,Night,Low,Yes,Contractor pre-job safety orientation,Overdue,
+OBS-00493,Spill Prevention & Environmental,2026-09-29,FAC-10,Cardium-Pembina Oil Battery,At-risk behaviour,HSE advisor,Contractor,Loading / unloading,Night,High,Yes,Secondary containment inspection; drip tray provision,Closed,25
+OBS-00494,Spill Prevention & Environmental,2026-09-29,R100,Prairie Refinery,Safe behaviour (positive),Management walk-through,Contractor,Routine operations,Night,Low,No,,N/A,
+OBS-00495,Confined Space Entry,2026-09-29,R300,Saint-Laurent Refinery,At-risk behaviour,HSE advisor,Contractor,Inspection,Day,Low,Yes,Re-verify entry permit and rescue plan,Closed,36
+OBS-00496,Hot Work,2026-10-01,FAC-03,Montney-Kakwa Gas Plant,Unsafe condition,Contractor safety rep,Contractor,Turnaround,Day,Medium,Yes,Audit hot work permits; gas testing refresher,Open,
+OBS-00497,Tools & Equipment,2026-10-03,PL-03,Prairie Trunk Pipeline (SK-MB),Safe behaviour (positive),Contractor safety rep,Contractor,Inspection,Day,Low,No,,N/A,
+OBS-00498,Cold Weather Hazards,2026-10-07,FAC-25,Lloydminster Heavy Oil Battery,Safe behaviour (positive),Contractor safety rep,Contractor,Construction,Day,Low,No,,N/A,
+OBS-00499,Cold Weather Hazards,2026-10-07,R200,Lakehead Refinery,Safe behaviour (positive),Peer,Contractor,Maintenance,Night,Low,No,,N/A,
+OBS-00500,Cold Weather Hazards,2026-10-07,R300,Saint-Laurent Refinery,Safe behaviour (positive),Contractor safety rep,Employee,Drilling / completions,Day,Low,No,,N/A,
