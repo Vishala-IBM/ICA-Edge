@@ -1,0 +1,501 @@
+Material,Plant,Safety_Stock,Unit
+Anti-Strip Additive,A100,14,kL
+Asphalt Base Stock (Vacuum Bottoms),A100,12891,tonnes
+Asphalt Cement PG 52-34,A100,327,tonnes
+Asphalt Cement PG 58-28,A100,5074,tonnes
+Asphalt Cement PG 64-22,A100,4676,tonnes
+Asphalt Cement PG 70-28,A100,1376,tonnes
+Ball Valve 4in Class 300,A100,7,EA
+Cationic Asphalt Emulsion,A100,2412,tonnes
+Centrifugal Pump API 610,A100,5,EA
+Electric Motor 200 hp,A100,8,EA
+Emulsifier,A100,23,kL
+Fixed Gas Detector,A100,7,EA
+Hydrochloric Acid,A100,46,tonnes
+Medium Voltage Switchgear,A100,6,EA
+Medium-Cure Cutback Asphalt,A100,233,tonnes
+Polymer Modifier SBS,A100,63,tonnes
+Pressure Transmitter,A100,7,EA
+Radar Level Transmitter,A100,7,EA
+Ball Valve 4in Class 300,B100,8,EA
+Biodiesel B20 Blend,B100,2603,kL
+Canola Oil Feedstock,B100,9787,kL
+Centrifugal Pump API 610,B100,4,EA
+Coriolis Flow Meter 4in,B100,7,EA
+Fired Heater Burner,B100,3,EA
+Fixed Gas Detector,B100,6,EA
+Hydrogen Supply,B100,39073,kg
+Hydrotreating Catalyst NiMo,B100,12,tonnes
+Mechanical Seal Cartridge,B100,6,EA
+Medium Voltage Switchgear,B100,6,EA
+Radar Level Transmitter,B100,8,EA
+Reciprocating Compressor Overhaul Kit,B100,7,EA
+Renewable Diesel R99,B100,4226,kL
+Renewable Propane,B100,343,kL
+Tallow Feedstock,B100,5486,kL
+Used Cooking Oil Feedstock,B100,8242,kL
+Air Cooler Fan Assembly,C100,3,EA
+Amine Solvent MDEA,C100,7,tonnes
+Ball Valve 4in Class 300,C100,7,EA
+Butane,C100,2498,kL
+Centrifugal Pump API 610,C100,7,EA
+Condensate and Diluent,C100,6001,tonnes
+Corrosion Inhibitor,C100,14,kL
+Electric Motor 200 hp,C100,2,EA
+Ethane Feedstock Supply,C100,14974,tonnes
+Medium Voltage Switchgear,C100,4,EA
+Pressure Relief Valve 2x3,C100,5,EA
+Propane-Butane Mix,C100,8649,kL
+Radar Level Transmitter,C100,4,EA
+Raw NGL Mix Feedstock,C100,11225,kL
+Reciprocating Compressor Overhaul Kit,C100,4,EA
+Variable Frequency Drive 500 hp,C100,5,EA
+Amine Solvent MDEA,G100,22,tonnes
+Centrifugal Pump API 610,G100,8,EA
+Condensate and Diluent,G100,2323,tonnes
+Control Valve 3in with Positioner,G100,1,EA
+Corrosion Inhibitor,G100,22,kL
+Electric Motor 200 hp,G100,3,EA
+Ethane Feedstock Supply,G100,1321,tonnes
+Fired Heater Burner,G100,8,EA
+Fixed Gas Detector,G100,5,EA
+Granular Sulphur,G100,5638,tonnes
+Medium Voltage Switchgear,G100,5,EA
+Methanol Hydrate Inhibitor,G100,72,kL
+Natural Gas Engine Oil,G100,7,kL
+Pressure Relief Valve 2x3,G100,3,EA
+Pressure Transmitter,G100,7,EA
+Propane-Butane Mix,G100,4365,kL
+Radar Level Transmitter,G100,1,EA
+Reciprocating Compressor Overhaul Kit,G100,7,EA
+Sales Gas,G100,5454,e3m3
+Triethylene Glycol,G100,46,kL
+Variable Frequency Drive 500 hp,G100,5,EA
+Air Cooler Fan Assembly,G200,3,EA
+Amine Solvent MDEA,G200,19,tonnes
+Ball Valve 4in Class 300,G200,5,EA
+Condensate and Diluent,G200,2595,tonnes
+Control Valve 3in with Positioner,G200,6,EA
+Corrosion Inhibitor,G200,17,kL
+Electric Motor 200 hp,G200,6,EA
+Ethane Feedstock Supply,G200,811,tonnes
+Fired Heater Burner,G200,2,EA
+Gate Valve 6in Class 600,G200,4,EA
+Granular Sulphur,G200,2336,tonnes
+Medium Voltage Switchgear,G200,2,EA
+Methanol Hydrate Inhibitor,G200,20,kL
+Natural Gas Engine Oil,G200,4,kL
+Pressure Transmitter,G200,1,EA
+Propane-Butane Mix,G200,2625,kL
+Radar Level Transmitter,G200,5,EA
+Reciprocating Compressor Overhaul Kit,G200,6,EA
+Sales Gas,G200,2515,e3m3
+Triethylene Glycol,G200,14,kL
+Variable Frequency Drive 500 hp,G200,3,EA
+Air Cooler Fan Assembly,G300,4,EA
+Amine Solvent MDEA,G300,20,tonnes
+Ball Valve 4in Class 300,G300,1,EA
+Centrifugal Pump API 610,G300,6,EA
+Condensate and Diluent,G300,4455,tonnes
+Control Valve 3in with Positioner,G300,2,EA
+Coriolis Flow Meter 4in,G300,5,EA
+Corrosion Inhibitor,G300,15,kL
+Ethane Feedstock Supply,G300,1016,tonnes
+Fired Heater Burner,G300,6,EA
+Fixed Gas Detector,G300,4,EA
+Granular Sulphur,G300,3282,tonnes
+Medium Voltage Switchgear,G300,4,EA
+Methanol Hydrate Inhibitor,G300,50,kL
+Natural Gas Engine Oil,G300,9,kL
+Pressure Transmitter,G300,3,EA
+Propane-Butane Mix,G300,1718,kL
+Reciprocating Compressor Overhaul Kit,G300,2,EA
+Sales Gas,G300,3426,e3m3
+Triethylene Glycol,G300,19,kL
+Variable Frequency Drive 500 hp,G300,3,EA
+Automatic Transmission Fluid,L100,71,kL
+Ball Valve 4in Class 300,L100,4,EA
+Centrifugal Pump API 610,L100,7,EA
+Control Valve 3in with Positioner,L100,2,EA
+Conventional Engine Oil 10W-30,L100,339,kL
+Detergent Inhibitor Additive Package,L100,227,kL
+Diesel Exhaust Fluid (DEF),L100,308,kL
+Engine Coolant 50/50,L100,206,kL
+Fixed Gas Detector,L100,4,EA
+Gear Oil 80W-90,L100,246,kL
+Group II Base Oil,L100,2871,kL
+Group III Base Oil,L100,2096,kL
+Heavy-Duty Diesel Engine Oil 15W-40,L100,552,kL
+Hydraulic Oil AW 32,L100,266,kL
+Hydraulic Oil AW 46,L100,421,kL
+Hydraulic Oil AW 68,L100,279,kL
+Intermediate Bulk Containers 1000 L,L100,288,EA
+Mechanical Seal Cartridge,L100,3,EA
+Medium Voltage Switchgear,L100,7,EA
+Multipurpose Grease NLGI 2,L100,60,kL
+PAO Synthetic Base Stock,L100,732,kL
+Plastic Drums 205 L,L100,1465,EA
+Plastic Pails 18 L,L100,16782,EA
+Pour Point Depressant,L100,41,kL
+Radar Level Transmitter,L100,8,EA
+Reciprocating Compressor Overhaul Kit,L100,2,EA
+Synthetic Engine Oil 0W-20,L100,453,kL
+Synthetic Engine Oil 5W-30,L100,408,kL
+Transformer Insulating Oil,L100,88,kL
+Turbine Oil ISO 46,L100,137,kL
+Variable Frequency Drive 500 hp,L100,6,EA
+Viscosity Modifier Additive,L100,129,kL
+Ball Valve 4in Class 300,P100,7,EA
+Butane,P100,650,kL
+Centrifugal Pump API 610,P100,4,EA
+Condensate and Diluent,P100,12196,tonnes
+Control Valve 3in with Positioner,P100,3,EA
+Coriolis Flow Meter 4in,P100,5,EA
+Electric Motor 200 hp,P100,6,EA
+Ethane Feedstock Supply,P100,5342,tonnes
+Fired Heater Burner,P100,4,EA
+Fixed Gas Detector,P100,1,EA
+Mechanical Seal Cartridge,P100,2,EA
+Mixed Xylenes,P100,4271,tonnes
+Naphtha,P100,6048,tonnes
+Polymer-Grade Propylene,P100,4654,tonnes
+Polymerization Catalyst,P100,23,tonnes
+Pressure Relief Valve 2x3,P100,6,EA
+Pressure Transmitter,P100,7,EA
+Propane-Butane Mix,P100,2667,kL
+Toluene,P100,3709,tonnes
+Variable Frequency Drive 500 hp,P100,4,EA
+Air Cooler Fan Assembly,R100,1,EA
+Amine Solvent MDEA,R100,39,tonnes
+Asphalt Cement PG 58-28,R100,9230,tonnes
+Ball Valve 4in Class 300,R100,4,EA
+Caustic Soda 50%,R100,71,tonnes
+Centrifugal Pump API 610,R100,3,EA
+Coriolis Flow Meter 4in,R100,5,EA
+Diesel Anti-Gel Additive,R100,33,kL
+Diluent,R100,25318,kL
+Electric Motor 200 hp,R100,3,EA
+FCC Catalyst,R100,180,tonnes
+Fired Heater Burner,R100,2,EA
+Fixed Gas Detector,R100,5,EA
+Fuel System Cleaner,R100,15,kL
+Gate Valve 6in Class 600,R100,5,EA
+Granular Sulphur,R100,6038,tonnes
+Heavy Crude Oil Blend,R100,130735,kL
+Hydrocracking Catalyst,R100,9,tonnes
+Hydrotreating Catalyst NiMo,R100,16,tonnes
+Jet A,R100,13164,kL
+Kerosene K-1,R100,508,kL
+Light Heating Oil No. 2,R100,2380,kL
+Light Sweet Crude Oil,R100,95948,kL
+Mechanical Seal Cartridge,R100,6,EA
+Medium Voltage Switchgear,R100,2,EA
+Mid-Grade Unleaded 89,R100,5566,kL
+Mixed Xylenes,R100,3271,tonnes
+Naphtha,R100,4261,tonnes
+Petroleum Coke,R100,16744,tonnes
+Polymer-Grade Propylene,R100,6005,tonnes
+Premium Unleaded 91,R100,10440,kL
+Pressure Relief Valve 2x3,R100,6,EA
+Pressure Transmitter,R100,7,EA
+Propane-Butane Mix,R100,4473,kL
+Radar Level Transmitter,R100,6,EA
+Reciprocating Compressor Overhaul Kit,R100,5,EA
+Regular Unleaded 87,R100,17621,kL
+Sulphuric Acid,R100,240,tonnes
+Toluene,R100,3496,tonnes
+Ultra-Low Sulphur Diesel No. 2,R100,25774,kL
+Variable Frequency Drive 500 hp,R100,6,EA
+Winter Diesel No. 1,R100,6150,kL
+Air Cooler Fan Assembly,R200,2,EA
+Amine Solvent MDEA,R200,15,tonnes
+Asphalt Cement PG 58-28,R200,2707,tonnes
+Ball Valve 4in Class 300,R200,7,EA
+Caustic Soda 50%,R200,45,tonnes
+Centrifugal Pump API 610,R200,2,EA
+Control Valve 3in with Positioner,R200,4,EA
+Coriolis Flow Meter 4in,R200,5,EA
+Diesel Anti-Gel Additive,R200,18,kL
+Diluent,R200,28716,kL
+Electric Motor 200 hp,R200,2,EA
+FCC Catalyst,R200,80,tonnes
+Fired Heater Burner,R200,3,EA
+Fixed Gas Detector,R200,2,EA
+Fuel System Cleaner,R200,23,kL
+Gate Valve 6in Class 600,R200,2,EA
+Granular Sulphur,R200,6868,tonnes
+Heavy Crude Oil Blend,R200,115624,kL
+Hydrocracking Catalyst,R200,8,tonnes
+Hydrotreating Catalyst NiMo,R200,27,tonnes
+Jet A,R200,6898,kL
+Kerosene K-1,R200,421,kL
+Light Heating Oil No. 2,R200,1868,kL
+Light Sweet Crude Oil,R200,63050,kL
+Mechanical Seal Cartridge,R200,5,EA
+Medium Voltage Switchgear,R200,2,EA
+Mid-Grade Unleaded 89,R200,4153,kL
+Mixed Xylenes,R200,2280,tonnes
+Naphtha,R200,3581,tonnes
+Petroleum Coke,R200,19954,tonnes
+Polymer-Grade Propylene,R200,2794,tonnes
+Premium Unleaded 91,R200,7100,kL
+Pressure Relief Valve 2x3,R200,7,EA
+Pressure Transmitter,R200,3,EA
+Propane-Butane Mix,R200,1566,kL
+Radar Level Transmitter,R200,3,EA
+Reciprocating Compressor Overhaul Kit,R200,2,EA
+Regular Unleaded 87,R200,16802,kL
+Sulphuric Acid,R200,94,tonnes
+Toluene,R200,1755,tonnes
+Ultra-Low Sulphur Diesel No. 2,R200,10526,kL
+Winter Diesel No. 1,R200,5777,kL
+Air Cooler Fan Assembly,R300,2,EA
+Amine Solvent MDEA,R300,29,tonnes
+Asphalt Cement PG 58-28,R300,3598,tonnes
+Caustic Soda 50%,R300,57,tonnes
+Centrifugal Pump API 610,R300,6,EA
+Control Valve 3in with Positioner,R300,5,EA
+Coriolis Flow Meter 4in,R300,3,EA
+Diesel Anti-Gel Additive,R300,9,kL
+Diluent,R300,19416,kL
+Electric Motor 200 hp,R300,4,EA
+FCC Catalyst,R300,124,tonnes
+Fired Heater Burner,R300,1,EA
+Fixed Gas Detector,R300,5,EA
+Fuel System Cleaner,R300,6,kL
+Gate Valve 6in Class 600,R300,6,EA
+Granular Sulphur,R300,7784,tonnes
+Heavy Crude Oil Blend,R300,85432,kL
+Hydrocracking Catalyst,R300,3,tonnes
+Hydrotreating Catalyst NiMo,R300,17,tonnes
+Jet A,R300,5896,kL
+Kerosene K-1,R300,330,kL
+Light Heating Oil No. 2,R300,2674,kL
+Light Sweet Crude Oil,R300,74350,kL
+Mechanical Seal Cartridge,R300,4,EA
+Medium Voltage Switchgear,R300,3,EA
+Mid-Grade Unleaded 89,R300,2052,kL
+Mixed Xylenes,R300,2321,tonnes
+Naphtha,R300,3863,tonnes
+Petroleum Coke,R300,6807,tonnes
+Polymer-Grade Propylene,R300,3412,tonnes
+Premium Unleaded 91,R300,8712,kL
+Pressure Relief Valve 2x3,R300,6,EA
+Pressure Transmitter,R300,4,EA
+Propane-Butane Mix,R300,2952,kL
+Radar Level Transmitter,R300,6,EA
+Reciprocating Compressor Overhaul Kit,R300,1,EA
+Regular Unleaded 87,R300,9956,kL
+Sulphuric Acid,R300,65,tonnes
+Toluene,R300,1295,tonnes
+Ultra-Low Sulphur Diesel No. 2,R300,9785,kL
+Variable Frequency Drive 500 hp,R300,4,EA
+Winter Diesel No. 1,R300,3829,kL
+Arctic Grade Diesel,T100,1124,kL
+Asphalt Cement PG 58-28,T100,2178,tonnes
+Ball Valve 4in Class 300,T100,2,EA
+Biodiesel B20 Blend,T100,676,kL
+Bulk Propane Commercial,T100,2846,kL
+Diesel Anti-Gel Additive,T100,60,kL
+Diesel Exhaust Fluid (DEF),T100,397,kL
+Dyed Off-Road Diesel,T100,2969,kL
+Engine Coolant 50/50,T100,91,kL
+Ethanol E85,T100,406,kL
+Fuel Ethanol,T100,2087,kL
+Gate Valve 6in Class 600,T100,3,EA
+Jet A,T100,7360,kL
+Jet A-1,T100,3687,kL
+Kerosene K-1,T100,272,kL
+Light Heating Oil No. 2,T100,1508,kL
+Mechanical Seal Cartridge,T100,4,EA
+Medium Voltage Switchgear,T100,6,EA
+Mid-Grade Unleaded 89,T100,1352,kL
+Premium Unleaded 91,T100,1842,kL
+Pressure Transmitter,T100,1,EA
+Rack Gasoline 87 (Wholesale),T100,5442,kL
+Regular Unleaded 87,T100,7076,kL
+Renewable Diesel R99,T100,1092,kL
+Ultra-Low Sulphur Diesel No. 2,T100,7516,kL
+Windshield Washer Fluid -40,T100,54,kL
+Winter Diesel No. 1,T100,3382,kL
+Arctic Grade Diesel,T200,484,kL
+Biodiesel B20 Blend,T200,988,kL
+Control Valve 3in with Positioner,T200,5,EA
+Diesel Anti-Gel Additive,T200,65,kL
+Diesel Exhaust Fluid (DEF),T200,158,kL
+Dyed Off-Road Diesel,T200,3514,kL
+Engine Coolant 50/50,T200,94,kL
+Ethanol E85,T200,538,kL
+Fuel Ethanol,T200,1729,kL
+Jet A,T200,5012,kL
+Jet A-1,T200,3796,kL
+Light Heating Oil No. 2,T200,2213,kL
+Marine Diesel Oil,T200,1736,kL
+Marine Gas Oil,T200,3884,kL
+Mechanical Seal Cartridge,T200,5,EA
+Mid-Grade Unleaded 89,T200,1288,kL
+Premium Unleaded 91,T200,2965,kL
+Rack Gasoline 87 (Wholesale),T200,4117,kL
+Radar Level Transmitter,T200,8,EA
+Reciprocating Compressor Overhaul Kit,T200,4,EA
+Regular Unleaded 87,T200,7085,kL
+Renewable Diesel R99,T200,1019,kL
+Ultra-Low Sulphur Diesel No. 2,T200,9085,kL
+Variable Frequency Drive 500 hp,T200,2,EA
+Very Low Sulphur Fuel Oil (VLSFO),T200,3926,kL
+Windshield Washer Fluid -40,T200,100,kL
+Winter Diesel No. 1,T200,2022,kL
+Air Cooler Fan Assembly,T300,4,EA
+Asphalt Cement PG 58-28,T300,1803,tonnes
+Biodiesel B20 Blend,T300,289,kL
+Bulk Propane Commercial,T300,991,kL
+Coriolis Flow Meter 4in,T300,4,EA
+Diesel Anti-Gel Additive,T300,19,kL
+Diesel Exhaust Fluid (DEF),T300,192,kL
+Dyed Off-Road Diesel,T300,1730,kL
+Engine Coolant 50/50,T300,20,kL
+Fired Heater Burner,T300,4,EA
+Kerosene K-1,T300,230,kL
+Light Heating Oil No. 2,T300,1082,kL
+Medium Voltage Switchgear,T300,1,EA
+Premium Unleaded 91,T300,949,kL
+Pressure Relief Valve 2x3,T300,6,EA
+Rack Gasoline 87 (Wholesale),T300,1640,kL
+Regular Unleaded 87,T300,3393,kL
+Ultra-Low Sulphur Diesel No. 2,T300,2791,kL
+Windshield Washer Fluid -40,T300,73,kL
+Winter Diesel No. 1,T300,1926,kL
+Ball Valve 4in Class 300,T400,8,EA
+Biodiesel B20 Blend,T400,1178,kL
+Bulk Propane Commercial,T400,1822,kL
+Control Valve 3in with Positioner,T400,5,EA
+Diesel Anti-Gel Additive,T400,53,kL
+Diesel Exhaust Fluid (DEF),T400,628,kL
+Dyed Off-Road Diesel,T400,3353,kL
+Engine Coolant 50/50,T400,138,kL
+Ethanol E85,T400,535,kL
+Fixed Gas Detector,T400,7,EA
+Fuel Ethanol,T400,2069,kL
+Jet A,T400,4461,kL
+Jet A-1,T400,2854,kL
+Kerosene K-1,T400,524,kL
+Light Heating Oil No. 2,T400,937,kL
+Medium Voltage Switchgear,T400,5,EA
+Mid-Grade Unleaded 89,T400,1261,kL
+Premium Unleaded 91,T400,2644,kL
+Rack Gasoline 87 (Wholesale),T400,4026,kL
+Reciprocating Compressor Overhaul Kit,T400,5,EA
+Regular Unleaded 87,T400,6414,kL
+Renewable Diesel R99,T400,1351,kL
+Ultra-Low Sulphur Diesel No. 2,T400,8504,kL
+Windshield Washer Fluid -40,T400,158,kL
+Winter Diesel No. 1,T400,1979,kL
+Ball Valve 4in Class 300,T500,4,EA
+Biodiesel B20 Blend,T500,1081,kL
+Bulk Propane Commercial,T500,2991,kL
+Coriolis Flow Meter 4in,T500,6,EA
+Diesel Anti-Gel Additive,T500,74,kL
+Diesel Exhaust Fluid (DEF),T500,311,kL
+Dyed Off-Road Diesel,T500,2719,kL
+Electric Motor 200 hp,T500,8,EA
+Engine Coolant 50/50,T500,92,kL
+Ethanol E85,T500,494,kL
+Fuel Ethanol,T500,946,kL
+Gate Valve 6in Class 600,T500,2,EA
+Jet A,T500,5445,kL
+Light Heating Oil No. 2,T500,1691,kL
+Mid-Grade Unleaded 89,T500,1168,kL
+Premium Unleaded 91,T500,2076,kL
+Pressure Transmitter,T500,3,EA
+Rack Gasoline 87 (Wholesale),T500,3726,kL
+Regular Unleaded 87,T500,6888,kL
+Renewable Diesel R99,T500,907,kL
+Ultra-Low Sulphur Diesel No. 2,T500,6703,kL
+Windshield Washer Fluid -40,T500,69,kL
+Winter Diesel No. 1,T500,3456,kL
+Air Cooler Fan Assembly,T600,3,EA
+Biodiesel B20 Blend,T600,1634,kL
+Bulk Propane Commercial,T600,1274,kL
+Diesel Anti-Gel Additive,T600,53,kL
+Diesel Exhaust Fluid (DEF),T600,534,kL
+Dyed Off-Road Diesel,T600,3744,kL
+Electric Motor 200 hp,T600,3,EA
+Engine Coolant 50/50,T600,104,kL
+Ethanol E85,T600,380,kL
+Fuel Ethanol,T600,2185,kL
+Jet A,T600,4427,kL
+Jet A-1,T600,2393,kL
+Kerosene K-1,T600,215,kL
+Light Heating Oil No. 2,T600,1450,kL
+Marine Gas Oil,T600,4262,kL
+Mechanical Seal Cartridge,T600,7,EA
+Mid-Grade Unleaded 89,T600,1302,kL
+Premium Unleaded 91,T600,3073,kL
+Pressure Relief Valve 2x3,T600,5,EA
+Rack Gasoline 87 (Wholesale),T600,3181,kL
+Radar Level Transmitter,T600,3,EA
+Regular Unleaded 87,T600,7829,kL
+Renewable Diesel R99,T600,784,kL
+Ultra-Low Sulphur Diesel No. 2,T600,8090,kL
+Windshield Washer Fluid -40,T600,62,kL
+Winter Diesel No. 1,T600,5233,kL
+Arctic Grade Diesel,T700,544,kL
+Biodiesel B20 Blend,T700,752,kL
+Bulk Propane Commercial,T700,1773,kL
+Control Valve 3in with Positioner,T700,4,EA
+Diesel Anti-Gel Additive,T700,44,kL
+Diesel Exhaust Fluid (DEF),T700,159,kL
+Dyed Off-Road Diesel,T700,1390,kL
+Engine Coolant 50/50,T700,57,kL
+Fired Heater Burner,T700,7,EA
+Fuel Ethanol,T700,1070,kL
+Jet A,T700,1788,kL
+Kerosene K-1,T700,154,kL
+Light Heating Oil No. 2,T700,1515,kL
+Marine Diesel Oil,T700,1558,kL
+Marine Gas Oil,T700,2320,kL
+Mechanical Seal Cartridge,T700,3,EA
+Medium Voltage Switchgear,T700,5,EA
+Premium Unleaded 91,T700,1563,kL
+Pressure Relief Valve 2x3,T700,4,EA
+Rack Gasoline 87 (Wholesale),T700,3090,kL
+Regular Unleaded 87,T700,2495,kL
+Renewable Diesel R99,T700,364,kL
+Ultra-Low Sulphur Diesel No. 2,T700,3372,kL
+Very Low Sulphur Fuel Oil (VLSFO),T700,3536,kL
+Windshield Washer Fluid -40,T700,37,kL
+Winter Diesel No. 1,T700,2790,kL
+Air Cooler Fan Assembly,T800,6,EA
+Avgas 100LL,T800,445,kL
+Coriolis Flow Meter 4in,T800,5,EA
+Diesel Exhaust Fluid (DEF),T800,22,kL
+Electric Motor 200 hp,T800,2,EA
+Ground Support Equipment Diesel,T800,274,kL
+Jet A,T800,6370,kL
+Jet A-1,T800,3481,kL
+Mechanical Seal Cartridge,T800,7,EA
+Medium Voltage Switchgear,T800,5,EA
+Sustainable Aviation Fuel Blend 10%,T800,492,kL
+Ultra-Low Sulphur Diesel No. 2,T800,495,kL
+Air Cooler Fan Assembly,U100,5,EA
+Amine Solvent MDEA,U100,40,tonnes
+Ball Valve 4in Class 300,U100,1,EA
+Caustic Soda 50%,U100,31,tonnes
+Control Valve 3in with Positioner,U100,2,EA
+Coriolis Flow Meter 4in,U100,3,EA
+Diluent,U100,49608,kL
+Diluted Bitumen Feedstock,U100,177090,kL
+Electric Motor 200 hp,U100,1,EA
+Gate Valve 6in Class 600,U100,6,EA
+Granular Sulphur,U100,44844,tonnes
+Hydrotreating Catalyst NiMo,U100,27,tonnes
+Mechanical Seal Cartridge,U100,3,EA
+Medium Voltage Switchgear,U100,7,EA
+Petroleum Coke,U100,173872,tonnes
+Pressure Relief Valve 2x3,U100,3,EA
+Pressure Transmitter,U100,4,EA
+Radar Level Transmitter,U100,5,EA
+Reciprocating Compressor Overhaul Kit,U100,5,EA
+Synthetic Crude Oil (SCO),U100,142125,kL
+Ultra-Low Sulphur Diesel No. 2,U100,13309,kL
+Variable Frequency Drive 500 hp,U100,2,EA

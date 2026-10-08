@@ -1,0 +1,251 @@
+Constraint_ID,Constraint_Type,Impact,Plant,Start_Date,Duration_Days
+CON-001,Off-Spec Crude or Feedstock,19.7,U100,2026-10-12,4
+CON-002,Marine Berth Availability,13.3,R300,2026-10-13,10
+CON-003,Product Pipeline Capacity,19.4,T100,2026-10-13,35
+CON-004,Rail Car Availability,15.5,T700,2026-10-14,45
+CON-005,Power Grid Curtailment,19.6,R300,2026-10-15,3
+CON-006,Product Pipeline Capacity,10.8,T100,2026-10-15,29
+CON-007,Tank Capacity Limit,15.4,T500,2026-10-17,64
+CON-008,Emissions Permit Limit (Flaring or SO2),15.3,G300,2026-10-19,110
+CON-009,Hydrogen Supply Shortfall,34.9,U100,2026-10-19,5
+CON-010,Truck Driver Shortage,17.4,T600,2026-10-20,38
+CON-011,Unplanned Unit Outage,20.0,R200,2026-10-24,20
+CON-012,Feedstock Availability,26.2,R300,2026-10-24,25
+CON-013,Unplanned Unit Outage,43.3,B100,2026-10-26,6
+CON-014,Supplier Delay (Critical Spares),13.8,T800,2026-10-28,16
+CON-015,Emissions Permit Limit (Flaring or SO2),19.7,R200,2026-10-29,103
+CON-016,Emissions Permit Limit (Flaring or SO2),21.4,G100,2026-10-30,43
+CON-017,Unplanned Unit Outage,15.2,R200,2026-11-01,6
+CON-018,Extreme Cold Weather,22.5,R100,2026-11-02,5
+CON-019,Unplanned Unit Outage,35.5,B100,2026-11-05,30
+CON-020,Extreme Cold Weather,15.2,T600,2026-11-06,9
+CON-021,Rail Car Availability,33.7,T800,2026-11-07,13
+CON-022,Feedstock Availability,23.1,P100,2026-11-09,25
+CON-023,Truck Driver Shortage,9.2,T500,2026-11-10,21
+CON-024,Extreme Cold Weather,6.0,T400,2026-11-12,5
+CON-025,Unplanned Unit Outage,34.1,B100,2026-11-13,28
+CON-026,Emissions Permit Limit (Flaring or SO2),25.9,G300,2026-11-14,76
+CON-027,Extreme Cold Weather,38.0,G300,2026-11-16,5
+CON-028,Supplier Delay (Critical Spares),5.8,R100,2026-11-17,16
+CON-029,Extreme Cold Weather,26.9,T600,2026-11-18,8
+CON-030,Unplanned Unit Outage,43.2,G100,2026-11-21,16
+CON-031,Crude Pipeline Allocation,24.4,R100,2026-11-21,87
+CON-032,Feedstock Availability,5.3,R200,2026-11-23,43
+CON-033,Regulatory Inspection Hold,48.0,R200,2026-11-23,20
+CON-034,Rail Car Availability,29.6,A100,2026-11-24,18
+CON-035,Truck Driver Shortage,9.7,T300,2026-11-26,27
+CON-036,Extreme Cold Weather,24.5,T700,2026-11-27,5
+CON-037,Regulatory Inspection Hold,32.5,G200,2026-11-29,20
+CON-038,Feedstock Availability,10.6,L100,2026-11-30,14
+CON-039,Extreme Cold Weather,39.6,P100,2026-12-01,2
+CON-040,Truck Driver Shortage,12.8,T100,2026-12-01,60
+CON-041,Extreme Cold Weather,10.6,T300,2026-12-01,10
+CON-042,Planned Turnaround,67.6,R100,2026-12-04,35
+CON-043,Extreme Cold Weather,29.8,L100,2026-12-05,7
+CON-044,Extreme Cold Weather,22.4,T300,2026-12-06,5
+CON-045,Extreme Cold Weather,38.8,R200,2026-12-09,8
+CON-046,Rail Car Availability,20.1,T100,2026-12-09,36
+CON-047,Truck Driver Shortage,15.9,T200,2026-12-11,54
+CON-048,Extreme Cold Weather,11.4,U100,2026-12-11,7
+CON-049,Tank Capacity Limit,6.1,T200,2026-12-14,117
+CON-050,Truck Driver Shortage,18.2,T500,2026-12-14,51
+CON-051,Utilities Limitation (Steam or Power),7.2,R100,2026-12-17,1
+CON-052,Off-Spec Crude or Feedstock,13.9,U100,2026-12-20,7
+CON-053,Off-Spec Crude or Feedstock,16.0,R100,2026-12-27,14
+CON-054,Extreme Cold Weather,37.2,G100,2026-12-28,6
+CON-055,Hydrogen Supply Shortfall,16.1,B100,2026-12-29,17
+CON-056,Supplier Delay (Critical Spares),3.8,G300,2027-01-01,14
+CON-057,Product Pipeline Capacity,12.7,R200,2027-01-02,12
+CON-058,Catalyst Supply Delay,23.0,R300,2027-01-03,40
+CON-059,Hydrogen Supply Shortfall,25.4,B100,2027-01-04,12
+CON-060,Labour Action or Contractor Shortage,27.8,T200,2027-01-06,17
+CON-061,Planned Turnaround,77.2,G300,2027-01-07,55
+CON-062,Tank Capacity Limit,12.8,T300,2027-01-07,103
+CON-063,Marine Berth Availability,28.4,T200,2027-01-08,5
+CON-064,Power Grid Curtailment,23.6,C100,2027-01-10,6
+CON-065,Utilities Limitation (Steam or Power),24.2,G100,2027-01-10,12
+CON-066,Feedstock Availability,10.7,R100,2027-01-13,36
+CON-067,Regulatory Inspection Hold,33.0,G100,2027-01-14,28
+CON-068,Extreme Cold Weather,37.9,G200,2027-01-14,6
+CON-069,Hydrogen Supply Shortfall,11.7,U100,2027-01-14,4
+CON-070,Extreme Cold Weather,12.4,T300,2027-01-17,10
+CON-071,Truck Driver Shortage,16.6,T300,2027-01-19,20
+CON-072,Crude Pipeline Allocation,15.3,R100,2027-01-20,66
+CON-073,Labour Action or Contractor Shortage,38.3,T500,2027-01-20,26
+CON-074,Extreme Cold Weather,30.7,T600,2027-01-21,3
+CON-075,Feedstock Availability,16.2,R100,2027-01-22,57
+CON-076,Marine Berth Availability,11.6,R300,2027-01-22,2
+CON-077,Extreme Cold Weather,23.5,R100,2027-01-23,5
+CON-078,Supplier Delay (Critical Spares),8.8,G200,2027-01-26,48
+CON-079,Regulatory Inspection Hold,17.5,G300,2027-01-27,30
+CON-080,Extreme Cold Weather,5.0,T200,2027-01-28,9
+CON-081,Extreme Cold Weather,9.1,G200,2027-01-29,10
+CON-082,Marine Berth Availability,21.8,T600,2027-02-04,3
+CON-083,Extreme Cold Weather,23.9,B100,2027-02-07,10
+CON-084,Supplier Delay (Critical Spares),4.5,R300,2027-02-07,20
+CON-085,Extreme Cold Weather,34.6,T700,2027-02-09,3
+CON-086,Crude Pipeline Allocation,7.7,R100,2027-02-11,24
+CON-087,Feedstock Availability,11.0,R200,2027-02-11,10
+CON-088,Off-Spec Crude or Feedstock,15.0,R300,2027-02-12,9
+CON-089,Marine Berth Availability,39.9,T600,2027-02-12,13
+CON-090,Utilities Limitation (Steam or Power),28.5,R300,2027-02-13,6
+CON-091,Supplier Delay (Critical Spares),3.2,T600,2027-02-13,19
+CON-092,Emissions Permit Limit (Flaring or SO2),5.1,R100,2027-02-15,145
+CON-093,Catalyst Supply Delay,22.9,R100,2027-02-16,60
+CON-094,Truck Driver Shortage,19.5,T100,2027-02-18,58
+CON-095,Off-Spec Crude or Feedstock,10.6,B100,2027-02-19,14
+CON-096,Catalyst Supply Delay,11.2,U100,2027-02-19,50
+CON-097,Extreme Cold Weather,8.9,L100,2027-02-26,7
+CON-098,Extreme Cold Weather,22.7,R300,2027-02-27,9
+CON-099,Truck Driver Shortage,8.5,T100,2027-02-27,54
+CON-100,Marine Berth Availability,43.1,T600,2027-03-01,7
+CON-101,Emissions Permit Limit (Flaring or SO2),13.9,R200,2027-03-03,48
+CON-102,Regulatory Inspection Hold,44.0,R300,2027-03-07,13
+CON-103,Supplier Delay (Critical Spares),5.4,T700,2027-03-07,16
+CON-104,Extreme Cold Weather,35.0,T100,2027-03-08,4
+CON-105,Product Pipeline Capacity,20.0,T800,2027-03-08,56
+CON-106,Emissions Permit Limit (Flaring or SO2),15.4,G300,2027-03-11,153
+CON-107,Regulatory Inspection Hold,29.8,R100,2027-03-11,19
+CON-108,Tank Capacity Limit,7.5,T200,2027-03-11,88
+CON-109,Feedstock Availability,23.1,C100,2027-03-16,34
+CON-110,Catalyst Supply Delay,16.5,U100,2027-03-16,53
+CON-111,Product Pipeline Capacity,24.8,T200,2027-03-17,58
+CON-112,Marine Berth Availability,40.3,R300,2027-03-19,14
+CON-113,Extreme Cold Weather,9.0,U100,2027-03-19,9
+CON-114,Product Pipeline Capacity,24.2,T400,2027-03-21,18
+CON-115,Rail Car Availability,19.0,A100,2027-03-22,20
+CON-116,Extreme Cold Weather,24.2,R100,2027-03-22,3
+CON-117,Feedstock Availability,19.5,C100,2027-03-23,36
+CON-118,Marine Berth Availability,42.3,T200,2027-03-24,10
+CON-119,Extreme Cold Weather,8.5,R200,2027-03-26,2
+CON-120,Feedstock Availability,35.9,C100,2027-03-27,30
+CON-121,Supplier Delay (Critical Spares),5.2,T800,2027-03-29,35
+CON-122,Rail Car Availability,8.7,T500,2027-04-04,43
+CON-123,Product Pipeline Capacity,25.2,T700,2027-04-04,17
+CON-124,Utilities Limitation (Steam or Power),5.5,P100,2027-04-07,14
+CON-125,Marine Berth Availability,19.4,T700,2027-04-09,13
+CON-126,Supplier Delay (Critical Spares),10.8,C100,2027-04-10,28
+CON-127,Crude Pipeline Allocation,15.4,R200,2027-04-11,47
+CON-128,Flooding or Washout,42.4,A100,2027-04-15,19
+CON-129,Product Pipeline Capacity,5.9,T200,2027-04-15,38
+CON-130,Rail Car Availability,9.4,T700,2027-04-16,28
+CON-131,Cybersecurity or IT Outage,25.8,B100,2027-04-17,5
+CON-132,Rail Car Availability,20.4,T500,2027-04-17,17
+CON-133,Truck Driver Shortage,5.0,T200,2027-04-19,14
+CON-134,Feedstock Availability,17.4,R100,2027-04-24,59
+CON-135,Truck Driver Shortage,9.0,T600,2027-04-24,35
+CON-136,Rail Car Availability,24.4,T100,2027-04-25,25
+CON-137,Flooding or Washout,48.3,G200,2027-04-26,9
+CON-138,Utilities Limitation (Steam or Power),25.2,R300,2027-04-26,9
+CON-139,Unplanned Unit Outage,38.0,C100,2027-04-27,18
+CON-140,Hydrogen Supply Shortfall,34.8,B100,2027-04-28,21
+CON-141,Supplier Delay (Critical Spares),5.7,T100,2027-04-28,24
+CON-142,Feedstock Availability,14.8,P100,2027-04-29,52
+CON-143,Rail Car Availability,24.2,A100,2027-04-30,25
+CON-144,Wildfire Evacuation or Smoke,49.8,C100,2027-05-02,25
+CON-145,Crude Pipeline Allocation,13.2,R300,2027-05-02,66
+CON-146,Flooding or Washout,47.4,T200,2027-05-02,18
+CON-147,Truck Driver Shortage,7.5,T500,2027-05-02,40
+CON-148,Tank Capacity Limit,18.9,T400,2027-05-04,110
+CON-149,Flooding or Washout,26.2,T300,2027-05-05,14
+CON-150,Truck Driver Shortage,11.2,T400,2027-05-05,86
+CON-151,Off-Spec Crude or Feedstock,5.5,R300,2027-05-09,9
+CON-152,Truck Driver Shortage,10.9,T800,2027-05-09,63
+CON-153,Unplanned Unit Outage,44.6,G300,2027-05-10,9
+CON-154,Wildfire Evacuation or Smoke,68.3,T800,2027-05-11,17
+CON-155,Unplanned Unit Outage,52.7,G100,2027-05-13,7
+CON-156,Unplanned Unit Outage,47.4,G300,2027-05-15,12
+CON-157,Crude Pipeline Allocation,23.3,R100,2027-05-15,15
+CON-158,Rail Car Availability,33.9,T500,2027-05-15,10
+CON-159,Truck Driver Shortage,12.3,T700,2027-05-17,66
+CON-160,Supplier Delay (Critical Spares),7.0,B100,2027-05-18,18
+CON-161,Power Grid Curtailment,24.4,G200,2027-05-20,2
+CON-162,Marine Berth Availability,17.8,R300,2027-05-20,8
+CON-163,Catalyst Supply Delay,17.3,R300,2027-05-22,35
+CON-164,Cybersecurity or IT Outage,29.7,T800,2027-05-22,3
+CON-165,Catalyst Supply Delay,20.0,B100,2027-05-23,16
+CON-166,Flooding or Washout,52.2,G200,2027-05-23,10
+CON-167,Planned Turnaround,35.8,P100,2027-05-23,35
+CON-168,Off-Spec Crude or Feedstock,9.9,B100,2027-05-25,11
+CON-169,Emissions Permit Limit (Flaring or SO2),22.6,G300,2027-05-25,36
+CON-170,Tank Capacity Limit,9.9,T800,2027-05-26,43
+CON-171,Flooding or Washout,37.1,T400,2027-05-27,6
+CON-172,Feedstock Availability,18.0,R200,2027-05-29,49
+CON-173,Labour Action or Contractor Shortage,39.0,R300,2027-05-30,18
+CON-174,Utilities Limitation (Steam or Power),13.4,G100,2027-06-01,7
+CON-175,Feedstock Availability,40.0,R300,2027-06-01,24
+CON-176,Planned Turnaround,44.3,P100,2027-06-03,27
+CON-177,Product Pipeline Capacity,29.4,R200,2027-06-05,34
+CON-178,Tank Capacity Limit,23.8,T800,2027-06-05,113
+CON-179,Flooding or Washout,58.1,G200,2027-06-06,13
+CON-180,Unplanned Unit Outage,49.9,G300,2027-06-06,11
+CON-181,Flooding or Washout,28.0,A100,2027-06-07,8
+CON-182,Crude Pipeline Allocation,19.6,R200,2027-06-09,19
+CON-183,Crude Pipeline Allocation,15.4,R200,2027-06-10,64
+CON-184,Utilities Limitation (Steam or Power),9.7,G100,2027-06-11,4
+CON-185,Product Pipeline Capacity,19.0,T300,2027-06-11,59
+CON-186,Truck Driver Shortage,6.6,T500,2027-06-11,20
+CON-187,Planned Turnaround,47.8,G100,2027-06-14,60
+CON-188,Regulatory Inspection Hold,18.3,G100,2027-06-17,22
+CON-189,Power Grid Curtailment,12.2,C100,2027-06-19,3
+CON-190,Product Pipeline Capacity,12.3,T300,2027-06-19,19
+CON-191,Feedstock Availability,30.5,R100,2027-06-23,30
+CON-192,Tank Capacity Limit,6.8,T700,2027-06-23,46
+CON-193,Wildfire Evacuation or Smoke,81.1,U100,2027-06-23,22
+CON-194,Cybersecurity or IT Outage,7.8,T700,2027-06-24,4
+CON-195,Supplier Delay (Critical Spares),6.3,R200,2027-06-26,15
+CON-196,Catalyst Supply Delay,22.3,R200,2027-06-28,25
+CON-197,Planned Turnaround,62.5,P100,2027-06-29,60
+CON-198,Flooding or Washout,54.3,A100,2027-06-30,4
+CON-199,Rail Car Availability,17.4,R100,2027-07-02,26
+CON-200,Feedstock Availability,19.7,B100,2027-07-04,8
+CON-201,Marine Berth Availability,33.5,T700,2027-07-06,9
+CON-202,Wildfire Evacuation or Smoke,78.8,G100,2027-07-07,15
+CON-203,Feedstock Availability,6.8,R100,2027-07-08,46
+CON-204,Rail Car Availability,27.4,T200,2027-07-08,24
+CON-205,Crude Pipeline Allocation,13.4,U100,2027-07-08,53
+CON-206,Truck Driver Shortage,16.4,T800,2027-07-10,30
+CON-207,Emissions Permit Limit (Flaring or SO2),18.2,R200,2027-07-14,43
+CON-208,Truck Driver Shortage,8.7,T500,2027-07-15,18
+CON-209,Catalyst Supply Delay,24.5,R300,2027-07-16,30
+CON-210,Unplanned Unit Outage,43.4,R300,2027-07-18,5
+CON-211,Product Pipeline Capacity,13.1,T200,2027-07-18,47
+CON-212,Wildfire Evacuation or Smoke,80.5,T100,2027-07-20,21
+CON-213,Power Grid Curtailment,21.3,P100,2027-07-21,6
+CON-214,Rail Car Availability,9.6,P100,2027-07-21,18
+CON-215,Rail Car Availability,27.8,R300,2027-07-21,16
+CON-216,Regulatory Inspection Hold,11.5,R100,2027-07-22,25
+CON-217,Feedstock Availability,27.1,R300,2027-07-23,45
+CON-218,Regulatory Inspection Hold,40.2,T500,2027-07-25,16
+CON-219,Wildfire Evacuation or Smoke,15.6,U100,2027-07-29,13
+CON-220,Hydrogen Supply Shortfall,11.8,R100,2027-08-03,7
+CON-221,Utilities Limitation (Steam or Power),8.1,R300,2027-08-04,8
+CON-222,Rail Car Availability,20.0,P100,2027-08-06,8
+CON-223,Off-Spec Crude or Feedstock,14.4,U100,2027-08-09,9
+CON-224,Planned Turnaround,51.7,P100,2027-08-12,51
+CON-225,Truck Driver Shortage,16.5,T100,2027-08-12,19
+CON-226,Utilities Limitation (Steam or Power),16.9,R100,2027-08-14,8
+CON-227,Regulatory Inspection Hold,12.4,T600,2027-08-16,16
+CON-228,Feedstock Availability,22.1,B100,2027-08-19,42
+CON-229,Unplanned Unit Outage,35.0,R300,2027-08-19,19
+CON-230,Rail Car Availability,10.4,T300,2027-08-23,27
+CON-231,Rail Car Availability,11.5,T500,2027-08-24,22
+CON-232,Rail Car Availability,10.0,T700,2027-09-02,14
+CON-233,Emissions Permit Limit (Flaring or SO2),24.4,P100,2027-09-04,125
+CON-234,Feedstock Availability,20.6,B100,2027-09-05,19
+CON-235,Supplier Delay (Critical Spares),11.3,P100,2027-09-06,57
+CON-236,Truck Driver Shortage,11.3,T500,2027-09-06,36
+CON-237,Rail Car Availability,29.3,T700,2027-09-11,29
+CON-238,Feedstock Availability,23.3,C100,2027-09-15,33
+CON-239,Crude Pipeline Allocation,24.7,R200,2027-09-15,41
+CON-240,Power Grid Curtailment,19.7,G300,2027-09-16,3
+CON-241,Marine Berth Availability,22.8,R300,2027-09-18,8
+CON-242,Marine Berth Availability,33.4,T200,2027-09-20,10
+CON-243,Feedstock Availability,12.4,C100,2027-09-21,23
+CON-244,Emissions Permit Limit (Flaring or SO2),20.4,G300,2027-09-21,171
+CON-245,Utilities Limitation (Steam or Power),23.5,G100,2027-09-22,2
+CON-246,Cybersecurity or IT Outage,25.2,R300,2027-09-25,3
+CON-247,Marine Berth Availability,22.8,R300,2027-09-26,3
+CON-248,Crude Pipeline Allocation,19.2,R200,2027-09-28,44
+CON-249,Feedstock Availability,14.3,P100,2027-10-02,23
+CON-250,Product Pipeline Capacity,24.2,T600,2027-10-03,52
