@@ -1,0 +1,201 @@
+Carrier,On_Time_Rate,Damage_Rate,Mode,Home_Region
+Acadian Bulk Liquid Transport,95.2,0.47,Truck (Tank),East
+Acadian Express Freight,87.0,1.43,Truck (Flatbed/Van),East
+Acadian Flatbed Transport,85.6,0.67,Truck (Flatbed/Van),East
+Acadian Freight Systems Inc.,92.7,1.42,Truck (Flatbed/Van),East
+Acadian Fuel Haulage Co.,93.3,0.43,Truck (Tank),East
+Acadian Intermodal Services,85.9,1.04,Intermodal,East
+Acadian Marine Transport,78.3,0.35,Marine,East
+Acadian Petroleum Haulers Inc.,98.4,0.5,Truck (Tank),East
+Acadian Railway,76.7,0.63,Rail,East
+Acadian Tanker Services,81.3,0.34,Marine,East
+Algonquin Petroleum Haulers Inc.,91.4,0.68,Truck (Tank),Central
+Algonquin Shipping Co.,84.4,0.48,Marine,Central
+Algonquin Tank Lines Ltd.,99.5,0.33,Truck (Tank),Central
+Assiniboine Express Freight,92.1,0.83,Truck (Flatbed/Van),Prairies
+Assiniboine Fuel Haulage Co.,91.2,0.29,Truck (Tank),Prairies
+Assiniboine Heavy Haul Ltd.,93.4,0.7,Truck (Flatbed/Van),Prairies
+Assiniboine Marine Transport,90.2,0.35,Marine,Prairies
+Assiniboine Tank Lines Ltd.,89.5,0.6,Truck (Tank),Prairies
+Athabasca Barge Lines,75.7,0.31,Marine,West
+Athabasca Bulk Liquid Transport,95.7,0.32,Truck (Tank),West
+Athabasca Express Freight,93.0,0.62,Truck (Flatbed/Van),West
+Athabasca Flatbed Transport,97.5,0.02,Truck (Flatbed/Van),West
+Athabasca Fuel Haulage Co.,93.9,0.41,Truck (Tank),West
+Athabasca Intermodal Services,82.0,1.18,Intermodal,West
+Athabasca Railway,85.9,0.48,Rail,West
+Athabasca Tank Lines Ltd.,98.7,0.02,Truck (Tank),West
+Atlantic Flatbed Transport,85.9,1.09,Truck (Flatbed/Van),East
+Atlantic Freight Systems Inc.,88.7,0.91,Truck (Flatbed/Van),East
+Atlantic Heavy Haul Ltd.,93.1,1.26,Truck (Flatbed/Van),East
+Atlantic Shipping Co.,81.5,0.56,Marine,East
+Atlantic Tank Lines Ltd.,93.0,0.5,Truck (Tank),East
+Badlands 3PL Solutions,94.1,0.23,Intermodal,Prairies
+Badlands Bulk Liquid Transport,96.6,0.48,Truck (Tank),Prairies
+Badlands Express Freight,94.0,2.03,Truck (Flatbed/Van),Prairies
+Badlands Fuel Haulage Co.,92.6,0.17,Truck (Tank),Prairies
+Badlands Heavy Haul Ltd.,94.0,0.44,Truck (Flatbed/Van),Prairies
+Badlands Petroleum Haulers Inc.,91.2,0.31,Truck (Tank),Prairies
+Badlands Railway,85.4,1.02,Rail,Prairies
+Bow Valley Intermodal Services,98.0,1.61,Intermodal,West
+Bow Valley Petroleum Haulers Inc.,89.4,0.75,Truck (Tank),West
+Bow Valley Rail Services,85.2,0.39,Rail,West
+Bow Valley Tank Lines Ltd.,92.8,0.51,Truck (Tank),West
+Cabot Bulk Liquid Transport,96.5,0.26,Truck (Tank),East
+Cabot Flatbed Transport,85.7,1.6,Truck (Flatbed/Van),East
+Cabot Freight Systems Inc.,92.8,1.53,Truck (Flatbed/Van),East
+Cabot Rail Services,85.1,0.61,Rail,East
+Cabot Tank Lines Ltd.,93.3,0.6,Truck (Tank),East
+Capital 3PL Solutions,90.8,1.59,Intermodal,Central
+Capital Express Freight,92.8,1.87,Truck (Flatbed/Van),Central
+Capital Flatbed Transport,95.5,2.2,Truck (Flatbed/Van),Central
+Capital Fuel Haulage Co.,96.3,0.42,Truck (Tank),Central
+Cascade Flatbed Transport,97.1,0.48,Truck (Flatbed/Van),West
+Cascade Freight Systems Inc.,86.3,1.21,Truck (Flatbed/Van),West
+Cascade Fuel Haulage Co.,97.4,0.76,Truck (Tank),West
+Cascade Heavy Haul Ltd.,98.1,1.19,Truck (Flatbed/Van),West
+Cascade Petroleum Haulers Inc.,90.6,0.21,Truck (Tank),West
+Cascade Tank Lines Ltd.,93.4,0.4,Truck (Tank),West
+Coastal Bulk Liquid Transport,90.4,0.56,Truck (Tank),West
+Coastal Freight Systems Inc.,88.2,1.46,Truck (Flatbed/Van),West
+Coastal Fuel Haulage Co.,89.6,0.59,Truck (Tank),West
+Coastal Marine Transport,82.9,0.13,Marine,West
+Coastal Shipping Co.,78.1,0.23,Marine,West
+Foothills Bulk Liquid Transport,92.4,0.35,Truck (Tank),West
+Foothills Logistics Group,90.2,1.17,Intermodal,West
+Fraser Fuel Haulage Co.,90.0,0.55,Truck (Tank),West
+Fraser Intermodal Services,94.3,1.72,Intermodal,West
+Fraser Logistics Group,85.8,1.15,Intermodal,West
+Fraser Petroleum Haulers Inc.,93.6,0.02,Truck (Tank),West
+Fraser Rail Services,80.7,0.98,Rail,West
+Fundy Logistics Group,95.1,0.64,Intermodal,East
+Fundy Petroleum Haulers Inc.,91.7,0.3,Truck (Tank),East
+Fundy Tank Lines Ltd.,99.5,0.02,Truck (Tank),East
+Fundy Tanker Services,77.5,0.35,Marine,East
+Gaspe Barge Lines,82.1,0.29,Marine,East
+Gaspe Fuel Haulage Co.,95.2,0.47,Truck (Tank),East
+Gaspe Logistics Group,91.4,2.05,Intermodal,East
+Gaspe Petroleum Haulers Inc.,98.1,0.32,Truck (Tank),East
+Gaspe Rail Services,79.1,0.57,Rail,East
+Georgian Bulk Liquid Transport,91.0,0.03,Truck (Tank),Central
+Georgian Express Freight,87.1,2.03,Truck (Flatbed/Van),Central
+Georgian Petroleum Haulers Inc.,86.6,0.44,Truck (Tank),Central
+Georgian Rail Services,87.3,1.2,Rail,Central
+Georgian Shipping Co.,80.4,0.48,Marine,Central
+Great Lakes Bulk Liquid Transport,99.5,0.07,Truck (Tank),Central
+Great Lakes Flatbed Transport,91.2,2.33,Truck (Flatbed/Van),Central
+Great Lakes Rail Services,85.1,0.27,Rail,Central
+Great Lakes Shipping Co.,82.2,0.02,Marine,Central
+Great Lakes Tank Lines Ltd.,94.6,0.65,Truck (Tank),Central
+Great Lakes Tanker Services,77.9,0.35,Marine,Central
+Great Plains Barge Lines,82.8,0.23,Marine,Prairies
+Great Plains Bulk Liquid Transport,99.5,0.27,Truck (Tank),Prairies
+Great Plains Heavy Haul Ltd.,93.1,1.17,Truck (Flatbed/Van),Prairies
+Great Plains Petroleum Haulers Inc.,91.9,0.59,Truck (Tank),Prairies
+Great Plains Railway,89.7,0.92,Rail,Prairies
+Heartland Bulk Liquid Transport,94.7,0.24,Truck (Tank),Prairies
+Heartland Intermodal Services,84.6,0.23,Intermodal,Prairies
+Heartland Logistics Group,89.5,0.44,Intermodal,Prairies
+Heartland Petroleum Haulers Inc.,92.0,0.45,Truck (Tank),Prairies
+Huron 3PL Solutions,85.9,0.65,Intermodal,Central
+Huron Bulk Liquid Transport,90.5,0.23,Truck (Tank),Central
+Huron Freight Systems Inc.,92.8,0.86,Truck (Flatbed/Van),Central
+Huron Fuel Haulage Co.,99.5,0.52,Truck (Tank),Central
+Huron Intermodal Services,92.2,0.95,Intermodal,Central
+Huron Tank Lines Ltd.,89.2,0.41,Truck (Tank),Central
+Lakehead Barge Lines,66.0,0.44,Marine,Central
+Lakehead Bulk Liquid Transport,89.8,0.26,Truck (Tank),Central
+Lakehead Petroleum Haulers Inc.,94.9,0.22,Truck (Tank),Central
+Lakeshore Freight Systems Inc.,90.7,0.39,Truck (Flatbed/Van),Central
+Lakeshore Fuel Haulage Co.,92.2,0.4,Truck (Tank),Central
+Lakeshore Heavy Haul Ltd.,91.0,1.21,Truck (Flatbed/Van),Central
+Lakeshore Petroleum Haulers Inc.,93.9,0.36,Truck (Tank),Central
+Lakeshore Rail Services,87.3,0.02,Rail,Central
+Lakeshore Tank Lines Ltd.,87.4,0.38,Truck (Tank),Central
+Lakeshore Tanker Services,78.1,0.52,Marine,Central
+Laurentian Fuel Haulage Co.,90.6,0.48,Truck (Tank),East
+Laurentian Heavy Haul Ltd.,92.6,1.17,Truck (Flatbed/Van),East
+Laurentian Petroleum Haulers Inc.,95.6,0.26,Truck (Tank),East
+Laurentian Tank Lines Ltd.,96.5,0.42,Truck (Tank),East
+Maple 3PL Solutions,90.0,0.66,Intermodal,Central
+Maple Bulk Liquid Transport,95.9,0.22,Truck (Tank),Central
+Maple Flatbed Transport,93.6,2.21,Truck (Flatbed/Van),Central
+Maple Petroleum Haulers Inc.,90.3,0.59,Truck (Tank),Central
+Maple Rail Services,86.3,0.43,Rail,Central
+Maple Tank Lines Ltd.,94.2,0.65,Truck (Tank),Central
+Maritime 3PL Solutions,82.6,1.51,Intermodal,East
+Maritime Bulk Liquid Transport,92.2,0.58,Truck (Tank),East
+Maritime Flatbed Transport,94.0,1.57,Truck (Flatbed/Van),East
+Maritime Intermodal Services,91.8,1.08,Intermodal,East
+Maritime Logistics Group,86.9,0.74,Intermodal,East
+Niagara Flatbed Transport,91.3,0.45,Truck (Flatbed/Van),Central
+Niagara Fuel Haulage Co.,95.6,0.07,Truck (Tank),Central
+Niagara Logistics Group,96.4,0.55,Intermodal,Central
+Niagara Railway,87.1,0.99,Rail,Central
+Niagara Tank Lines Ltd.,92.0,0.6,Truck (Tank),Central
+Pacific Bulk Liquid Transport,95.3,0.04,Truck (Tank),West
+Pacific Express Freight,94.4,2.22,Truck (Flatbed/Van),West
+Pacific Fuel Haulage Co.,92.0,0.52,Truck (Tank),West
+Pacific Heavy Haul Ltd.,87.0,1.66,Truck (Flatbed/Van),West
+Pacific Intermodal Services,86.2,0.46,Intermodal,West
+Pacific Petroleum Haulers Inc.,95.0,0.55,Truck (Tank),West
+Parkland Bulk Liquid Transport,92.1,0.72,Truck (Tank),Prairies
+Parkland Flatbed Transport,95.2,1.77,Truck (Flatbed/Van),Prairies
+Parkland Fuel Haulage Co.,90.4,0.68,Truck (Tank),Prairies
+Parkland Marine Transport,88.0,0.36,Marine,Prairies
+Parkland Petroleum Haulers Inc.,92.4,0.09,Truck (Tank),Prairies
+Parkland Tanker Services,82.4,0.3,Marine,Prairies
+Peace Country Barge Lines,80.3,0.26,Marine,West
+Peace Country Bulk Liquid Transport,88.8,0.46,Truck (Tank),West
+Peace Country Logistics Group,85.0,0.74,Intermodal,West
+Peace Country Petroleum Haulers Inc.,99.5,0.35,Truck (Tank),West
+Peace Country Tank Lines Ltd.,92.7,0.42,Truck (Tank),West
+Peace Country Tanker Services,79.0,0.41,Marine,West
+Prairie Express Freight,95.4,1.88,Truck (Flatbed/Van),Prairies
+Prairie Marine Transport,85.0,0.43,Marine,Prairies
+Prairie Petroleum Haulers Inc.,95.5,0.17,Truck (Tank),Prairies
+Prairie Railway,83.5,0.96,Rail,Prairies
+Prairie Tank Lines Ltd.,94.6,0.02,Truck (Tank),Prairies
+Qu'Appelle Flatbed Transport,80.9,1.59,Truck (Flatbed/Van),Prairies
+Qu'Appelle Fuel Haulage Co.,97.6,0.61,Truck (Tank),Prairies
+Qu'Appelle Short Line Railway,76.0,1.28,Rail,Prairies
+Qu'Appelle Tank Lines Ltd.,96.5,0.31,Truck (Tank),Prairies
+Red River 3PL Solutions,92.7,1.14,Intermodal,Prairies
+Red River Fuel Haulage Co.,91.1,0.18,Truck (Tank),Prairies
+Red River Petroleum Haulers Inc.,92.7,0.28,Truck (Tank),Prairies
+Red River Tank Lines Ltd.,89.1,0.43,Truck (Tank),Prairies
+Rocky Ridge Bulk Liquid Transport,92.8,0.43,Truck (Tank),West
+Rocky Ridge Freight Systems Inc.,84.6,0.56,Truck (Flatbed/Van),West
+Rocky Ridge Short Line Railway,80.9,0.89,Rail,West
+Rocky Ridge Tank Lines Ltd.,92.5,0.35,Truck (Tank),West
+Saguenay Bulk Liquid Transport,91.0,0.72,Truck (Tank),East
+Saguenay Fuel Haulage Co.,96.3,0.15,Truck (Tank),East
+Saguenay Railway,89.8,0.47,Rail,East
+Saguenay Tank Lines Ltd.,87.2,0.29,Truck (Tank),East
+Saskatchewan Valley Bulk Liquid Transport,92.7,0.69,Truck (Tank),Prairies
+Saskatchewan Valley Express Freight,93.2,1.72,Truck (Flatbed/Van),Prairies
+Saskatchewan Valley Logistics Group,78.7,0.77,Intermodal,Prairies
+Saskatchewan Valley Shipping Co.,71.5,0.59,Marine,Prairies
+Saskatchewan Valley Tank Lines Ltd.,89.2,0.46,Truck (Tank),Prairies
+St. Lawrence Fuel Haulage Co.,91.4,0.2,Truck (Tank),East
+St. Lawrence Petroleum Haulers Inc.,93.6,0.56,Truck (Tank),East
+St. Lawrence Railway,86.8,0.74,Rail,East
+Summit Bulk Liquid Transport,89.8,0.25,Truck (Tank),West
+Summit Heavy Haul Ltd.,88.2,2.96,Truck (Flatbed/Van),West
+Summit Marine Transport,78.2,0.37,Marine,West
+Summit Petroleum Haulers Inc.,97.6,0.46,Truck (Tank),West
+Summit Rail Services,75.6,0.95,Rail,West
+Summit Shipping Co.,78.5,0.55,Marine,West
+Superior Flatbed Transport,88.4,1.17,Truck (Flatbed/Van),Central
+Superior Fuel Haulage Co.,92.7,0.46,Truck (Tank),Central
+Superior Logistics Group,89.3,1.07,Intermodal,Central
+Superior Tank Lines Ltd.,94.2,0.35,Truck (Tank),Central
+Tidewater Bulk Liquid Transport,92.6,0.48,Truck (Tank),East
+Tidewater Marine Transport,82.3,0.44,Marine,East
+Tidewater Petroleum Haulers Inc.,85.4,0.52,Truck (Tank),East
+Tidewater Tank Lines Ltd.,89.8,0.35,Truck (Tank),East
+Wheatland 3PL Solutions,92.4,1.08,Intermodal,Prairies
+Wheatland Bulk Liquid Transport,94.6,0.36,Truck (Tank),Prairies
+Wheatland Freight Systems Inc.,93.2,1.98,Truck (Flatbed/Van),Prairies
+Wheatland Petroleum Haulers Inc.,97.6,0.12,Truck (Tank),Prairies
+Wheatland Railway,80.3,1.18,Rail,Prairies

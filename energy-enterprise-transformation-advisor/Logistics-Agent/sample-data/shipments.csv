@@ -1,0 +1,1001 @@
+Shipment_ID,Origin,Destination,Mode,Product,Quantity,Unit,Distance_km,Ship_Date
+SHP-000001,G100,C100,Pipeline,Raw NGL Mix Feedstock,11437,kL,355,2026-07-01
+SHP-000002,L100,WH11,Intermodal,Packaged Lubricants,15,TEU,3616,2026-07-01
+SHP-000003,R100,T100,Pipeline,Regular Unleaded 87,6783,kL,16,2026-07-01
+SHP-000004,R200,T500,Rail,Regular Unleaded 87,4744,kL,1297,2026-07-01
+SHP-000005,R200,T500,Rail,Regular Unleaded 87,2361,kL,1297,2026-07-01
+SHP-000006,R300,T700,Marine,Ultra-Low Sulphur Diesel No. 2,37980,kL,1018,2026-07-01
+SHP-000007,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,46,kL,243,2026-07-01
+SHP-000008,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,41,kL,290,2026-07-01
+SHP-000009,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,46,kL,291,2026-07-01
+SHP-000010,T700,EXP-ATL,Marine,Very Low Sulphur Fuel Oil (VLSFO),22831,kL,5,2026-07-01
+SHP-000011,T700,RTL-NS,Truck (Tank),Regular Unleaded 87,31,kL,5,2026-07-01
+SHP-000012,T700,RTL-NS,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,48,kL,5,2026-07-01
+SHP-000013,T700,RTL-NS,Truck (Tank),Regular Unleaded 87,38,kL,5,2026-07-01
+SHP-000014,T700,RTL-NS,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,43,kL,5,2026-07-01
+SHP-000015,G300,C100,Pipeline,Raw NGL Mix Feedstock,6899,kL,616,2026-07-02
+SHP-000016,R100,T200,Rail,Jet A,4062,kL,983,2026-07-02
+SHP-000017,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,16,kL,15,2026-07-02
+SHP-000018,T300,FARM-MB,Truck (Tank),Farm Diesel Bulk Delivery,49,kL,750,2026-07-02
+SHP-000019,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,52,kL,57,2026-07-02
+SHP-000020,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,58,kL,57,2026-07-02
+SHP-000021,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,42,kL,438,2026-07-02
+SHP-000022,U100,R100,Pipeline,Synthetic Crude Oil (SCO),42222,kL,408,2026-07-02
+SHP-000023,WH07,RTL-AB,Truck (Flatbed/Van),Packaged Lubricants,12,tonnes,6,2026-07-02
+SHP-000024,C100,P100,Pipeline,Ethane Feedstock Supply,15519,tonnes,5,2026-07-03
+SHP-000025,G300,C100,Pipeline,Raw NGL Mix Feedstock,13040,kL,616,2026-07-03
+SHP-000026,R100,T200,Rail,Ultra-Low Sulphur Diesel No. 2,4846,kL,983,2026-07-03
+SHP-000027,R300,T600,Rail,Ultra-Low Sulphur Diesel No. 2,5624,kL,266,2026-07-03
+SHP-000028,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,31,kL,167,2026-07-03
+SHP-000029,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,55,kL,14,2026-07-03
+SHP-000030,T300,FARM-MB,Truck (Tank),Farm Diesel Bulk Delivery,50,kL,750,2026-07-03
+SHP-000031,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,45,kL,7,2026-07-03
+SHP-000032,T400,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,51,kL,7,2026-07-03
+SHP-000033,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,22,kL,7,2026-07-03
+SHP-000034,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,48,kL,7,2026-07-03
+SHP-000035,T700,EXP-ATL,Marine,Very Low Sulphur Fuel Oil (VLSFO),33618,kL,5,2026-07-03
+SHP-000036,WH09,R100,Truck (Flatbed/Van),Hydrotreating Catalyst NiMo,7,tonnes,30,2026-07-03
+SHP-000037,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,13,tonnes,5,2026-07-04
+SHP-000038,L100,WH10,Intermodal,Packaged Lubricants,16,TEU,3228,2026-07-04
+SHP-000039,R100,T300,Rail,Ultra-Low Sulphur Diesel No. 2,7950,kL,570,2026-07-04
+SHP-000040,R300,T600,Marine,Jet A,22796,kL,288,2026-07-04
+SHP-000041,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,50,kL,62,2026-07-04
+SHP-000042,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,33,kL,438,2026-07-04
+SHP-000043,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,33,kL,291,2026-07-04
+SHP-000044,T700,RTL-NS,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,45,kL,5,2026-07-04
+SHP-000045,G200,C100,Pipeline,Raw NGL Mix Feedstock,4264,kL,421,2026-07-05
+SHP-000046,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,10,tonnes,5,2026-07-05
+SHP-000047,R100,T300,Pipeline,Ultra-Low Sulphur Diesel No. 2,9801,kL,522,2026-07-05
+SHP-000048,R100,T300,Rail,Winter Diesel No. 1,2619,kL,570,2026-07-05
+SHP-000049,R300,T700,Marine,Ultra-Low Sulphur Diesel No. 2,35960,kL,1018,2026-07-05
+SHP-000050,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,58,kL,14,2026-07-05
+SHP-000051,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,61,kL,57,2026-07-05
+SHP-000052,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,52,kL,57,2026-07-05
+SHP-000053,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,49,kL,57,2026-07-05
+SHP-000054,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,30,kL,293,2026-07-05
+SHP-000055,C100,P100,Pipeline,Ethane Feedstock Supply,8760,tonnes,5,2026-07-06
+SHP-000056,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,35,kL,338,2026-07-06
+SHP-000057,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,61,kL,243,2026-07-06
+SHP-000058,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,59,kL,14,2026-07-06
+SHP-000059,T300,FARM-MB,Truck (Tank),Farm Diesel Bulk Delivery,33,kL,750,2026-07-06
+SHP-000060,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,43,kL,7,2026-07-06
+SHP-000061,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,57,kL,7,2026-07-06
+SHP-000062,WH08,G300,Truck (Flatbed/Van),Production Tubing 2-7/8in J55,19,tonnes,710,2026-07-06
+SHP-000063,L100,WH11,Intermodal,Packaged Lubricants,13,TEU,3616,2026-07-07
+SHP-000064,R300,EXP-ATL,Marine,Naphtha,28666,tonnes,1021,2026-07-07
+SHP-000065,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,48,kL,167,2026-07-07
+SHP-000066,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,41,kL,14,2026-07-07
+SHP-000067,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,45,kL,14,2026-07-07
+SHP-000068,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,54,kL,14,2026-07-07
+SHP-000069,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,35,kL,7,2026-07-07
+SHP-000070,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,50,kL,438,2026-07-07
+SHP-000071,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,41,kL,291,2026-07-07
+SHP-000072,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,35,kL,291,2026-07-07
+SHP-000073,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,32,kL,291,2026-07-07
+SHP-000074,T700,RTL-NS,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,49,kL,5,2026-07-07
+SHP-000075,WH09,R100,Truck (Flatbed/Van),Hydrotreating Catalyst NiMo,13,tonnes,30,2026-07-07
+SHP-000076,G100,C100,Pipeline,Raw NGL Mix Feedstock,5912,kL,355,2026-07-08
+SHP-000077,G200,C100,Pipeline,Raw NGL Mix Feedstock,5343,kL,421,2026-07-08
+SHP-000078,L100,WH10,Intermodal,Packaged Lubricants,4,TEU,3228,2026-07-08
+SHP-000079,P100,PCH-ON,Rail,Polymer-Grade Propylene,2481,tonnes,3049,2026-07-08
+SHP-000080,R100,T400,Rail,Propane-Butane Mix,2947,kL,3227,2026-07-08
+SHP-000081,R100,T400,Rail,Ultra-Low Sulphur Diesel No. 2,4298,kL,3227,2026-07-08
+SHP-000082,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,42,kL,7,2026-07-08
+SHP-000083,U100,EXP-PAC,Rail,Petroleum Coke,9973,tonnes,1354,2026-07-08
+SHP-000084,U100,R100,Pipeline,Synthetic Crude Oil (SCO),46818,kL,408,2026-07-08
+SHP-000085,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,34,tonnes,503,2026-07-08
+SHP-000086,WH09,U100,Truck (Flatbed/Van),Amine Solvent MDEA,19,tonnes,493,2026-07-08
+SHP-000087,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,19,tonnes,5,2026-07-09
+SHP-000088,R100,T100,Pipeline,Premium Unleaded 91,7873,kL,16,2026-07-09
+SHP-000089,R100,T100,Pipeline,Regular Unleaded 87,10139,kL,16,2026-07-09
+SHP-000090,R100,T200,Rail,Ultra-Low Sulphur Diesel No. 2,3090,kL,983,2026-07-09
+SHP-000091,R300,T700,Marine,Ultra-Low Sulphur Diesel No. 2,36415,kL,1018,2026-07-09
+SHP-000092,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,28,kL,15,2026-07-09
+SHP-000093,T100,OFS-AB,Truck (Tank),Dyed Off-Road Diesel,54,kL,495,2026-07-09
+SHP-000094,T100,RTL-AB,Truck (Tank),Regular Unleaded 87,57,kL,338,2026-07-09
+SHP-000095,T100,RTL-AB,Truck (Tank),Regular Unleaded 87,50,kL,338,2026-07-09
+SHP-000096,T400,MINE-ON,Truck (Tank),Mining-Grade Bulk Diesel,42,kL,697,2026-07-09
+SHP-000097,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,50,kL,7,2026-07-09
+SHP-000098,U100,R100,Pipeline,Synthetic Crude Oil (SCO),44987,kL,408,2026-07-09
+SHP-000099,U100,R100,Pipeline,Synthetic Crude Oil (SCO),25934,kL,408,2026-07-09
+SHP-000100,WH05,G300,Truck (Flatbed/Van),MRO Spares Consolidated,7,tonnes,875,2026-07-09
+SHP-000101,A100,PAVE-ON,Rail,Asphalt Cement PG 64-22,3135,tonnes,2446,2026-07-10
+SHP-000102,G100,C100,Pipeline,Raw NGL Mix Feedstock,6821,kL,355,2026-07-10
+SHP-000103,R100,T100,Pipeline,Regular Unleaded 87,21306,kL,16,2026-07-10
+SHP-000104,R100,T300,Rail,Ultra-Low Sulphur Diesel No. 2,6602,kL,570,2026-07-10
+SHP-000105,R200,T500,Rail,Ultra-Low Sulphur Diesel No. 2,2287,kL,1297,2026-07-10
+SHP-000106,R300,T600,Marine,Regular Unleaded 87,28707,kL,288,2026-07-10
+SHP-000107,R300,T600,Rail,Regular Unleaded 87,3981,kL,266,2026-07-10
+SHP-000108,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,39,kL,14,2026-07-10
+SHP-000109,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,25,tonnes,505,2026-07-10
+SHP-000110,C100,P100,Pipeline,Ethane Feedstock Supply,10324,tonnes,5,2026-07-11
+SHP-000111,R200,T500,Rail,Regular Unleaded 87,5746,kL,1297,2026-07-11
+SHP-000112,R300,T600,Marine,Regular Unleaded 87,24127,kL,288,2026-07-11
+SHP-000113,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,26,kL,15,2026-07-11
+SHP-000114,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,45,kL,243,2026-07-11
+SHP-000115,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,40,kL,14,2026-07-11
+SHP-000116,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,42,kL,646,2026-07-11
+SHP-000117,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,44,kL,291,2026-07-11
+SHP-000118,WH07,RTL-AB,Truck (Flatbed/Van),Packaged Lubricants,15,tonnes,6,2026-07-11
+SHP-000119,A100,PAVE-ON,Rail,Asphalt Cement PG 64-22,2145,tonnes,2446,2026-07-12
+SHP-000120,R200,T500,Rail,Regular Unleaded 87,4242,kL,1297,2026-07-12
+SHP-000121,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,43,kL,290,2026-07-12
+SHP-000122,T400,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,34,kL,7,2026-07-12
+SHP-000123,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,31,kL,438,2026-07-12
+SHP-000124,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,44,kL,291,2026-07-12
+SHP-000125,U100,R100,Pipeline,Synthetic Crude Oil (SCO),33782,kL,408,2026-07-12
+SHP-000126,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,1888,tonnes,839,2026-07-13
+SHP-000127,A100,PAVE-ON,Rail,Asphalt Cement PG 64-22,2358,tonnes,2446,2026-07-13
+SHP-000128,G100,C100,Pipeline,Raw NGL Mix Feedstock,19653,kL,355,2026-07-13
+SHP-000129,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,36,kL,167,2026-07-13
+SHP-000130,T300,RTL-MB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,45,kL,885,2026-07-13
+SHP-000131,T300,RTL-MB,Truck (Tank),Regular Unleaded 87,60,kL,885,2026-07-13
+SHP-000132,T300,RTL-SK,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,44,kL,290,2026-07-13
+SHP-000133,T300,RTL-SK,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,41,kL,290,2026-07-13
+SHP-000134,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,44,kL,438,2026-07-13
+SHP-000135,T700,EXP-ATL,Marine,Very Low Sulphur Fuel Oil (VLSFO),35597,kL,5,2026-07-13
+SHP-000136,WH07,RTL-AB,Truck (Flatbed/Van),Packaged Lubricants,16,tonnes,6,2026-07-13
+SHP-000137,WH07,RTL-AB,Truck (Flatbed/Van),Packaged Lubricants,19,tonnes,6,2026-07-13
+SHP-000138,WH09,U100,Truck (Flatbed/Van),Amine Solvent MDEA,17,tonnes,493,2026-07-13
+SHP-000139,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,18,tonnes,5,2026-07-14
+SHP-000140,R100,EXP-PAC,Rail,Granular Sulphur,6357,tonnes,985,2026-07-14
+SHP-000141,R100,T800,Pipeline,Jet A,8951,kL,304,2026-07-14
+SHP-000142,R300,EXP-ATL,Marine,Naphtha,23687,tonnes,1021,2026-07-14
+SHP-000143,R300,T600,Rail,Ultra-Low Sulphur Diesel No. 2,3299,kL,266,2026-07-14
+SHP-000144,T100,FARM-AB,Truck (Tank),Farm Diesel Bulk Delivery,32,kL,167,2026-07-14
+SHP-000145,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,24,kL,15,2026-07-14
+SHP-000146,T100,OFS-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,26,kL,495,2026-07-14
+SHP-000147,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,39,kL,14,2026-07-14
+SHP-000148,T300,RTL-SK,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,50,kL,290,2026-07-14
+SHP-000149,U100,R100,Pipeline,Synthetic Crude Oil (SCO),42806,kL,408,2026-07-14
+SHP-000150,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,2092,tonnes,839,2026-07-15
+SHP-000151,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,21,tonnes,5,2026-07-15
+SHP-000152,R100,T400,Rail,Propane-Butane Mix,3039,kL,3227,2026-07-15
+SHP-000153,R100,T800,Pipeline,Jet A,8389,kL,304,2026-07-15
+SHP-000154,R300,T600,Rail,Ultra-Low Sulphur Diesel No. 2,6766,kL,266,2026-07-15
+SHP-000155,T100,FARM-AB,Truck (Tank),Farm Diesel Bulk Delivery,34,kL,167,2026-07-15
+SHP-000156,T100,FARM-AB,Truck (Tank),Farm Diesel Bulk Delivery,41,kL,167,2026-07-15
+SHP-000157,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,16,kL,15,2026-07-15
+SHP-000158,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,38,kL,62,2026-07-15
+SHP-000159,T300,RTL-SK,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,51,kL,290,2026-07-15
+SHP-000160,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,21,kL,293,2026-07-15
+SHP-000161,T600,T700,Marine,Jet A,19731,kL,827,2026-07-15
+SHP-000162,U100,R100,Pipeline,Synthetic Crude Oil (SCO),55125,kL,408,2026-07-15
+SHP-000163,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,35,tonnes,503,2026-07-15
+SHP-000164,G100,C100,Pipeline,Raw NGL Mix Feedstock,8550,kL,355,2026-07-16
+SHP-000165,G100,C100,Pipeline,Raw NGL Mix Feedstock,8639,kL,355,2026-07-16
+SHP-000166,R100,T800,Pipeline,Jet A,13710,kL,304,2026-07-16
+SHP-000167,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,42,kL,62,2026-07-16
+SHP-000168,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,36,kL,438,2026-07-16
+SHP-000169,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,37,kL,291,2026-07-16
+SHP-000170,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,30,kL,291,2026-07-16
+SHP-000171,WH07,RTL-AB,Truck (Flatbed/Van),Packaged Lubricants,15,tonnes,6,2026-07-16
+SHP-000172,WH09,R100,Truck (Flatbed/Van),Hydrotreating Catalyst NiMo,19,tonnes,30,2026-07-16
+SHP-000173,G300,C100,Pipeline,Raw NGL Mix Feedstock,10255,kL,616,2026-07-17
+SHP-000174,R100,T200,Rail,Ultra-Low Sulphur Diesel No. 2,5974,kL,983,2026-07-17
+SHP-000175,R300,EXP-ATL,Marine,Naphtha,21234,tonnes,1021,2026-07-17
+SHP-000176,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,40,kL,7,2026-07-17
+SHP-000177,T700,EXP-ATL,Marine,Very Low Sulphur Fuel Oil (VLSFO),28133,kL,5,2026-07-17
+SHP-000178,T700,RTL-NS,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,32,kL,5,2026-07-17
+SHP-000179,WH01,WH04,Truck (Flatbed/Van),MRO Spares Consolidated,1,tonnes,463,2026-07-17
+SHP-000180,WH09,R100,Truck (Flatbed/Van),Hydrotreating Catalyst NiMo,13,tonnes,30,2026-07-17
+SHP-000181,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,40,kL,167,2026-07-18
+SHP-000182,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,41,kL,291,2026-07-18
+SHP-000183,U100,R100,Pipeline,Synthetic Crude Oil (SCO),34426,kL,408,2026-07-18
+SHP-000184,R100,T100,Pipeline,Ultra-Low Sulphur Diesel No. 2,6792,kL,16,2026-07-19
+SHP-000185,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,27,kL,15,2026-07-19
+SHP-000186,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,42,kL,338,2026-07-19
+SHP-000187,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,53,kL,243,2026-07-19
+SHP-000188,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,40,kL,7,2026-07-19
+SHP-000189,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,52,kL,646,2026-07-19
+SHP-000190,T700,RTL-NS,Truck (Tank),Regular Unleaded 87,30,kL,5,2026-07-19
+SHP-000191,G100,C100,Pipeline,Raw NGL Mix Feedstock,18922,kL,355,2026-07-20
+SHP-000192,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,12,tonnes,5,2026-07-20
+SHP-000193,R300,EXP-ATL,Marine,Naphtha,25684,tonnes,1021,2026-07-20
+SHP-000194,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,30,kL,7,2026-07-20
+SHP-000195,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,28,kL,293,2026-07-20
+SHP-000196,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,35,kL,293,2026-07-20
+SHP-000197,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,46,kL,646,2026-07-20
+SHP-000198,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,37,tonnes,503,2026-07-20
+SHP-000199,C100,P100,Pipeline,Ethane Feedstock Supply,14104,tonnes,5,2026-07-21
+SHP-000200,P100,PCH-ON,Rail,Polymer-Grade Propylene,2427,tonnes,3049,2026-07-21
+SHP-000201,R200,T500,Rail,Ultra-Low Sulphur Diesel No. 2,5279,kL,1297,2026-07-21
+SHP-000202,T100,FARM-AB,Truck (Tank),Farm Diesel Bulk Delivery,31,kL,167,2026-07-21
+SHP-000203,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,33,kL,14,2026-07-21
+SHP-000204,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,41,kL,14,2026-07-21
+SHP-000205,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,51,kL,57,2026-07-21
+SHP-000206,U100,R100,Pipeline,Synthetic Crude Oil (SCO),41875,kL,408,2026-07-21
+SHP-000207,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,3705,tonnes,839,2026-07-22
+SHP-000208,G100,C100,Pipeline,Raw NGL Mix Feedstock,6519,kL,355,2026-07-22
+SHP-000209,G100,C100,Pipeline,Raw NGL Mix Feedstock,13188,kL,355,2026-07-22
+SHP-000210,R100,EXP-PAC,Rail,Granular Sulphur,4880,tonnes,985,2026-07-22
+SHP-000211,U100,R100,Pipeline,Synthetic Crude Oil (SCO),34369,kL,408,2026-07-22
+SHP-000212,U100,R100,Pipeline,Synthetic Crude Oil (SCO),44762,kL,408,2026-07-22
+SHP-000213,WH05,G300,Truck (Flatbed/Van),MRO Spares Consolidated,5,tonnes,875,2026-07-22
+SHP-000214,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,27,tonnes,503,2026-07-22
+SHP-000215,WH09,U100,Truck (Flatbed/Van),Amine Solvent MDEA,15,tonnes,493,2026-07-22
+SHP-000216,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,5708,tonnes,839,2026-07-23
+SHP-000217,C100,P100,Pipeline,Ethane Feedstock Supply,21813,tonnes,5,2026-07-23
+SHP-000218,C100,P100,Pipeline,Ethane Feedstock Supply,5148,tonnes,5,2026-07-23
+SHP-000219,G200,C100,Pipeline,Raw NGL Mix Feedstock,5833,kL,421,2026-07-23
+SHP-000220,P100,PCH-ON,Rail,Polymer-Grade Propylene,2566,tonnes,3049,2026-07-23
+SHP-000221,T100,FARM-AB,Truck (Tank),Farm Diesel Bulk Delivery,36,kL,167,2026-07-23
+SHP-000222,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,43,kL,243,2026-07-23
+SHP-000223,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,51,kL,57,2026-07-23
+SHP-000224,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,47,kL,57,2026-07-23
+SHP-000225,T700,RTL-NS,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,34,kL,5,2026-07-23
+SHP-000226,R100,T100,Pipeline,Regular Unleaded 87,18781,kL,16,2026-07-24
+SHP-000227,R100,T300,Rail,Winter Diesel No. 1,4419,kL,570,2026-07-24
+SHP-000228,R100,T300,Rail,Regular Unleaded 87,6415,kL,570,2026-07-24
+SHP-000229,R300,T700,Marine,Ultra-Low Sulphur Diesel No. 2,20449,kL,1018,2026-07-24
+SHP-000230,T100,OFS-AB,Truck (Tank),Dyed Off-Road Diesel,42,kL,495,2026-07-24
+SHP-000231,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,62,kL,57,2026-07-24
+SHP-000232,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,44,kL,438,2026-07-24
+SHP-000233,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,51,kL,438,2026-07-24
+SHP-000234,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,44,kL,646,2026-07-24
+SHP-000235,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,52,kL,291,2026-07-24
+SHP-000236,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,33,kL,291,2026-07-24
+SHP-000237,U100,R100,Pipeline,Synthetic Crude Oil (SCO),33026,kL,408,2026-07-24
+SHP-000238,U100,R100,Pipeline,Synthetic Crude Oil (SCO),21828,kL,408,2026-07-24
+SHP-000239,A100,PAVE-ON,Rail,Asphalt Cement PG 64-22,2717,tonnes,2446,2026-07-25
+SHP-000240,C100,P100,Pipeline,Ethane Feedstock Supply,14117,tonnes,5,2026-07-25
+SHP-000241,G300,C100,Pipeline,Raw NGL Mix Feedstock,9734,kL,616,2026-07-25
+SHP-000242,R300,EXP-ATL,Marine,Naphtha,34291,tonnes,1021,2026-07-25
+SHP-000243,T100,FARM-AB,Truck (Tank),Farm Diesel Bulk Delivery,24,kL,167,2026-07-25
+SHP-000244,T100,MINE-NT,Truck (Tank),Arctic Grade Diesel,47,kL,1253,2026-07-25
+SHP-000245,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,40,kL,57,2026-07-25
+SHP-000246,T400,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,53,kL,7,2026-07-25
+SHP-000247,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,46,kL,646,2026-07-25
+SHP-000248,WH12,R100,Truck (Flatbed/Van),Caustic Soda 50% Totes,21,tonnes,22,2026-07-25
+SHP-000249,R100,EXP-PAC,Rail,Granular Sulphur,9563,tonnes,985,2026-07-26
+SHP-000250,R100,T300,Rail,Regular Unleaded 87,7594,kL,570,2026-07-26
+SHP-000251,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,28,kL,15,2026-07-26
+SHP-000252,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,52,kL,338,2026-07-26
+SHP-000253,T100,RTL-AB,Truck (Tank),Premium Unleaded 91,40,kL,338,2026-07-26
+SHP-000254,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,30,kL,14,2026-07-26
+SHP-000255,T400,MINE-ON,Truck (Tank),Mining-Grade Bulk Diesel,56,kL,697,2026-07-26
+SHP-000256,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,33,kL,293,2026-07-26
+SHP-000257,G300,C100,Pipeline,Raw NGL Mix Feedstock,14450,kL,616,2026-07-27
+SHP-000258,P100,PCH-ON,Rail,Polymer-Grade Propylene,2000,tonnes,3049,2026-07-27
+SHP-000259,R100,T300,Pipeline,Ultra-Low Sulphur Diesel No. 2,14452,kL,522,2026-07-27
+SHP-000260,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,54,kL,7,2026-07-27
+SHP-000261,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,41,kL,438,2026-07-27
+SHP-000262,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,59,kL,646,2026-07-27
+SHP-000263,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,17,tonnes,5,2026-07-28
+SHP-000264,R100,T300,Rail,Regular Unleaded 87,4351,kL,570,2026-07-28
+SHP-000265,T100,OFS-AB,Truck (Tank),Dyed Off-Road Diesel,59,kL,495,2026-07-28
+SHP-000266,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,38,kL,14,2026-07-28
+SHP-000267,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,39,kL,7,2026-07-28
+SHP-000268,T700,EXP-ATL,Marine,Very Low Sulphur Fuel Oil (VLSFO),35990,kL,5,2026-07-28
+SHP-000269,T700,RTL-NS,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,41,kL,5,2026-07-28
+SHP-000270,U100,EXP-PAC,Rail,Petroleum Coke,6448,tonnes,1354,2026-07-28
+SHP-000271,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,39,tonnes,505,2026-07-28
+SHP-000272,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,3417,tonnes,839,2026-07-29
+SHP-000273,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,3763,tonnes,839,2026-07-29
+SHP-000274,R100,T400,Rail,Propane-Butane Mix,4287,kL,3227,2026-07-29
+SHP-000275,R300,T600,Rail,Regular Unleaded 87,4411,kL,266,2026-07-29
+SHP-000276,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,39,kL,14,2026-07-29
+SHP-000277,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,44,kL,62,2026-07-29
+SHP-000278,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,40,kL,438,2026-07-29
+SHP-000279,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,36,kL,291,2026-07-29
+SHP-000280,WH05,G300,Truck (Flatbed/Van),MRO Spares Consolidated,5,tonnes,875,2026-07-29
+SHP-000281,WH08,G300,Truck (Flatbed/Van),Production Tubing 2-7/8in J55,28,tonnes,710,2026-07-29
+SHP-000282,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,22,tonnes,503,2026-07-29
+SHP-000283,G300,C100,Pipeline,Raw NGL Mix Feedstock,7222,kL,616,2026-07-30
+SHP-000284,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,10,tonnes,5,2026-07-30
+SHP-000285,R100,T300,Pipeline,Ultra-Low Sulphur Diesel No. 2,8918,kL,522,2026-07-30
+SHP-000286,R300,T600,Marine,Jet A,19132,kL,288,2026-07-30
+SHP-000287,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,27,kL,167,2026-07-30
+SHP-000288,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,16,kL,15,2026-07-30
+SHP-000289,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,21,kL,15,2026-07-30
+SHP-000290,T100,OFS-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,54,kL,495,2026-07-30
+SHP-000291,T100,RTL-AB,Truck (Tank),Premium Unleaded 91,20,kL,338,2026-07-30
+SHP-000292,T100,RTL-AB,Truck (Tank),Regular Unleaded 87,37,kL,338,2026-07-30
+SHP-000293,T300,RTL-MB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,47,kL,885,2026-07-30
+SHP-000294,T300,RTL-MB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,38,kL,885,2026-07-30
+SHP-000295,T400,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,60,kL,7,2026-07-30
+SHP-000296,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,31,kL,293,2026-07-30
+SHP-000297,T700,RTL-NS,Truck (Tank),Regular Unleaded 87,38,kL,5,2026-07-30
+SHP-000298,WH08,G300,Truck (Flatbed/Van),Production Tubing 2-7/8in J55,38,tonnes,710,2026-07-30
+SHP-000299,G200,C100,Pipeline,Raw NGL Mix Feedstock,5464,kL,421,2026-07-31
+SHP-000300,R100,T100,Pipeline,Ultra-Low Sulphur Diesel No. 2,13189,kL,16,2026-07-31
+SHP-000301,R100,T100,Pipeline,Premium Unleaded 91,5409,kL,16,2026-07-31
+SHP-000302,R100,T800,Pipeline,Jet A,8363,kL,304,2026-07-31
+SHP-000303,T100,OFS-AB,Truck (Tank),Dyed Off-Road Diesel,37,kL,495,2026-07-31
+SHP-000304,T100,OFS-AB,Truck (Tank),Dyed Off-Road Diesel,52,kL,495,2026-07-31
+SHP-000305,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,58,kL,338,2026-07-31
+SHP-000306,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,44,kL,14,2026-07-31
+SHP-000307,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,57,kL,57,2026-07-31
+SHP-000308,T400,MINE-ON,Truck (Tank),Mining-Grade Bulk Diesel,52,kL,697,2026-07-31
+SHP-000309,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,46,kL,7,2026-07-31
+SHP-000310,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,31,kL,438,2026-07-31
+SHP-000311,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,21,kL,293,2026-07-31
+SHP-000312,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,21,kL,293,2026-07-31
+SHP-000313,T700,RTL-NS,Truck (Tank),Regular Unleaded 87,40,kL,5,2026-07-31
+SHP-000314,R100,T300,Pipeline,Regular Unleaded 87,8512,kL,522,2026-08-01
+SHP-000315,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,37,kL,14,2026-08-01
+SHP-000316,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,24,kL,62,2026-08-01
+SHP-000317,T300,RTL-MB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,38,kL,885,2026-08-01
+SHP-000318,T300,RTL-MB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,56,kL,885,2026-08-01
+SHP-000319,T300,RTL-SK,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,36,kL,290,2026-08-01
+SHP-000320,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,47,kL,7,2026-08-01
+SHP-000321,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,18,tonnes,505,2026-08-01
+SHP-000322,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,5946,tonnes,839,2026-08-02
+SHP-000323,G100,C100,Pipeline,Raw NGL Mix Feedstock,10455,kL,355,2026-08-02
+SHP-000324,G300,C100,Pipeline,Raw NGL Mix Feedstock,10503,kL,616,2026-08-02
+SHP-000325,R100,T800,Pipeline,Jet A,8008,kL,304,2026-08-02
+SHP-000326,T100,RTL-AB,Truck (Tank),Premium Unleaded 91,34,kL,338,2026-08-02
+SHP-000327,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,58,kL,338,2026-08-02
+SHP-000328,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,37,kL,14,2026-08-02
+SHP-000329,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,33,kL,7,2026-08-02
+SHP-000330,U100,R100,Pipeline,Synthetic Crude Oil (SCO),23056,kL,408,2026-08-02
+SHP-000331,WH01,WH04,Truck (Flatbed/Van),MRO Spares Consolidated,2,tonnes,463,2026-08-02
+SHP-000332,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,20,tonnes,5,2026-08-03
+SHP-000333,R100,T100,Pipeline,Ultra-Low Sulphur Diesel No. 2,10349,kL,16,2026-08-03
+SHP-000334,R100,T200,Rail,Ultra-Low Sulphur Diesel No. 2,6227,kL,983,2026-08-03
+SHP-000335,R100,T300,Rail,Winter Diesel No. 1,3621,kL,570,2026-08-03
+SHP-000336,R300,T600,Rail,Regular Unleaded 87,2172,kL,266,2026-08-03
+SHP-000337,T100,RTL-AB,Truck (Tank),Premium Unleaded 91,34,kL,338,2026-08-03
+SHP-000338,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,49,kL,290,2026-08-03
+SHP-000339,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,42,kL,7,2026-08-03
+SHP-000340,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,25,kL,293,2026-08-03
+SHP-000341,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,57,kL,646,2026-08-03
+SHP-000342,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,4661,tonnes,839,2026-08-04
+SHP-000343,L100,WH11,Intermodal,Packaged Lubricants,10,TEU,3616,2026-08-04
+SHP-000344,P100,PCH-ON,Rail,Polymer-Grade Propylene,1048,tonnes,3049,2026-08-04
+SHP-000345,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,49,kL,167,2026-08-04
+SHP-000346,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,39,kL,14,2026-08-04
+SHP-000347,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,34,kL,62,2026-08-04
+SHP-000348,T300,RTL-MB,Truck (Tank),Regular Unleaded 87,55,kL,885,2026-08-04
+SHP-000349,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,58,kL,7,2026-08-04
+SHP-000350,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,37,kL,293,2026-08-04
+SHP-000351,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,21,kL,293,2026-08-04
+SHP-000352,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,56,kL,291,2026-08-04
+SHP-000353,T700,EXP-ATL,Marine,Very Low Sulphur Fuel Oil (VLSFO),34851,kL,5,2026-08-04
+SHP-000354,U100,R100,Pipeline,Synthetic Crude Oil (SCO),45645,kL,408,2026-08-04
+SHP-000355,WH09,R100,Truck (Flatbed/Van),Hydrotreating Catalyst NiMo,6,tonnes,30,2026-08-04
+SHP-000356,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,2813,tonnes,839,2026-08-05
+SHP-000357,G100,C100,Pipeline,Raw NGL Mix Feedstock,6687,kL,355,2026-08-05
+SHP-000358,G300,C100,Pipeline,Raw NGL Mix Feedstock,10624,kL,616,2026-08-05
+SHP-000359,L100,WH11,Intermodal,Packaged Lubricants,8,TEU,3616,2026-08-05
+SHP-000360,R300,EXP-ATL,Marine,Naphtha,20088,tonnes,1021,2026-08-05
+SHP-000361,R300,T700,Marine,Ultra-Low Sulphur Diesel No. 2,42989,kL,1018,2026-08-05
+SHP-000362,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,51,kL,291,2026-08-05
+SHP-000363,T600,T700,Marine,Jet A,22824,kL,827,2026-08-05
+SHP-000364,T700,EXP-ATL,Marine,Very Low Sulphur Fuel Oil (VLSFO),35606,kL,5,2026-08-05
+SHP-000365,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,39,tonnes,505,2026-08-05
+SHP-000366,WH09,U100,Truck (Flatbed/Van),Amine Solvent MDEA,11,tonnes,493,2026-08-05
+SHP-000367,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,3029,tonnes,839,2026-08-06
+SHP-000368,C100,P100,Pipeline,Ethane Feedstock Supply,19708,tonnes,5,2026-08-06
+SHP-000369,R100,T200,Rail,Ultra-Low Sulphur Diesel No. 2,3219,kL,983,2026-08-06
+SHP-000370,R100,T300,Rail,Regular Unleaded 87,5125,kL,570,2026-08-06
+SHP-000371,R100,T800,Pipeline,Jet A,8250,kL,304,2026-08-06
+SHP-000372,R100,T800,Pipeline,Jet A,10278,kL,304,2026-08-06
+SHP-000373,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,45,kL,338,2026-08-06
+SHP-000374,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,37,kL,62,2026-08-06
+SHP-000375,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,46,kL,57,2026-08-06
+SHP-000376,T300,RTL-MB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,58,kL,885,2026-08-06
+SHP-000377,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,38,kL,291,2026-08-06
+SHP-000378,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,31,tonnes,503,2026-08-06
+SHP-000379,C100,P100,Pipeline,Ethane Feedstock Supply,8242,tonnes,5,2026-08-07
+SHP-000380,L100,WH10,Intermodal,Packaged Lubricants,18,TEU,3228,2026-08-07
+SHP-000381,R100,EXP-PAC,Rail,Granular Sulphur,5453,tonnes,985,2026-08-07
+SHP-000382,R100,T300,Rail,Winter Diesel No. 1,3916,kL,570,2026-08-07
+SHP-000383,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,54,kL,291,2026-08-07
+SHP-000384,WH05,G300,Truck (Flatbed/Van),MRO Spares Consolidated,1,tonnes,875,2026-08-07
+SHP-000385,G100,C100,Pipeline,Raw NGL Mix Feedstock,15574,kL,355,2026-08-08
+SHP-000386,G100,C100,Pipeline,Raw NGL Mix Feedstock,15360,kL,355,2026-08-08
+SHP-000387,G200,C100,Pipeline,Raw NGL Mix Feedstock,3749,kL,421,2026-08-08
+SHP-000388,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,10,tonnes,5,2026-08-08
+SHP-000389,R100,T100,Pipeline,Regular Unleaded 87,7796,kL,16,2026-08-08
+SHP-000390,T100,RTL-AB,Truck (Tank),Premium Unleaded 91,42,kL,338,2026-08-08
+SHP-000391,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,62,kL,243,2026-08-08
+SHP-000392,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,25,kL,62,2026-08-08
+SHP-000393,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,20,kL,62,2026-08-08
+SHP-000394,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,51,kL,57,2026-08-08
+SHP-000395,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,25,tonnes,503,2026-08-08
+SHP-000396,G300,C100,Pipeline,Raw NGL Mix Feedstock,8652,kL,616,2026-08-09
+SHP-000397,R100,T200,Rail,Jet A,4953,kL,983,2026-08-09
+SHP-000398,R100,T300,Rail,Winter Diesel No. 1,5072,kL,570,2026-08-09
+SHP-000399,R300,T600,Rail,Ultra-Low Sulphur Diesel No. 2,4401,kL,266,2026-08-09
+SHP-000400,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,45,kL,167,2026-08-09
+SHP-000401,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,23,kL,15,2026-08-09
+SHP-000402,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,41,kL,243,2026-08-09
+SHP-000403,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,38,kL,62,2026-08-09
+SHP-000404,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,43,kL,57,2026-08-09
+SHP-000405,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,50,kL,57,2026-08-09
+SHP-000406,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,49,kL,57,2026-08-09
+SHP-000407,U100,R100,Pipeline,Synthetic Crude Oil (SCO),43407,kL,408,2026-08-09
+SHP-000408,WH09,U100,Truck (Flatbed/Van),Amine Solvent MDEA,18,tonnes,493,2026-08-09
+SHP-000409,R100,T300,Pipeline,Ultra-Low Sulphur Diesel No. 2,13121,kL,522,2026-08-10
+SHP-000410,R200,T500,Rail,Regular Unleaded 87,3621,kL,1297,2026-08-10
+SHP-000411,R300,T600,Rail,Regular Unleaded 87,4423,kL,266,2026-08-10
+SHP-000412,T300,RTL-SK,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,41,kL,290,2026-08-10
+SHP-000413,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,30,kL,438,2026-08-10
+SHP-000414,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,38,kL,438,2026-08-10
+SHP-000415,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,33,kL,291,2026-08-10
+SHP-000416,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,42,kL,291,2026-08-10
+SHP-000417,WH08,G300,Truck (Flatbed/Van),Production Tubing 2-7/8in J55,37,tonnes,710,2026-08-10
+SHP-000418,A100,PAVE-ON,Rail,Asphalt Cement PG 64-22,4744,tonnes,2446,2026-08-11
+SHP-000419,G100,C100,Pipeline,Raw NGL Mix Feedstock,7800,kL,355,2026-08-11
+SHP-000420,G300,C100,Pipeline,Raw NGL Mix Feedstock,5203,kL,616,2026-08-11
+SHP-000421,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,55,kL,243,2026-08-11
+SHP-000422,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,31,kL,7,2026-08-11
+SHP-000423,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,50,kL,291,2026-08-11
+SHP-000424,U100,R100,Pipeline,Synthetic Crude Oil (SCO),42952,kL,408,2026-08-11
+SHP-000425,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,22,tonnes,5,2026-08-12
+SHP-000426,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,30,kL,15,2026-08-12
+SHP-000427,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,30,kL,62,2026-08-12
+SHP-000428,T300,RTL-MB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,53,kL,885,2026-08-12
+SHP-000429,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,34,kL,291,2026-08-12
+SHP-000430,T600,T700,Marine,Jet A,18139,kL,827,2026-08-12
+SHP-000431,WH08,G300,Truck (Flatbed/Van),Production Tubing 2-7/8in J55,24,tonnes,710,2026-08-12
+SHP-000432,WH09,U100,Truck (Flatbed/Van),Amine Solvent MDEA,20,tonnes,493,2026-08-12
+SHP-000433,L100,WH10,Intermodal,Packaged Lubricants,13,TEU,3228,2026-08-13
+SHP-000434,L100,WH11,Intermodal,Packaged Lubricants,6,TEU,3616,2026-08-13
+SHP-000435,R100,T200,Rail,Ultra-Low Sulphur Diesel No. 2,4042,kL,983,2026-08-13
+SHP-000436,R100,T300,Rail,Winter Diesel No. 1,3838,kL,570,2026-08-13
+SHP-000437,T100,FARM-AB,Truck (Tank),Farm Diesel Bulk Delivery,46,kL,167,2026-08-13
+SHP-000438,T100,OFS-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,44,kL,495,2026-08-13
+SHP-000439,T100,RTL-AB,Truck (Tank),Premium Unleaded 91,42,kL,338,2026-08-13
+SHP-000440,T100,RTL-AB,Truck (Tank),Premium Unleaded 91,45,kL,338,2026-08-13
+SHP-000441,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,33,kL,62,2026-08-13
+SHP-000442,T300,RTL-MB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,47,kL,885,2026-08-13
+SHP-000443,T300,RTL-MB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,42,kL,885,2026-08-13
+SHP-000444,T300,RTL-SK,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,49,kL,290,2026-08-13
+SHP-000445,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,22,kL,7,2026-08-13
+SHP-000446,T400,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,36,kL,7,2026-08-13
+SHP-000447,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,42,kL,438,2026-08-13
+SHP-000448,U100,R100,Pipeline,Synthetic Crude Oil (SCO),30533,kL,408,2026-08-13
+SHP-000449,U100,R100,Pipeline,Synthetic Crude Oil (SCO),38071,kL,408,2026-08-13
+SHP-000450,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,39,tonnes,503,2026-08-13
+SHP-000451,R100,T800,Pipeline,Jet A,10219,kL,304,2026-08-14
+SHP-000452,T100,MINE-NT,Truck (Tank),Arctic Grade Diesel,38,kL,1253,2026-08-14
+SHP-000453,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,46,kL,14,2026-08-14
+SHP-000454,T400,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,43,kL,7,2026-08-14
+SHP-000455,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,44,kL,291,2026-08-14
+SHP-000456,R100,EXP-PAC,Rail,Granular Sulphur,6301,tonnes,985,2026-08-15
+SHP-000457,T100,FARM-AB,Truck (Tank),Farm Diesel Bulk Delivery,27,kL,167,2026-08-15
+SHP-000458,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,57,kL,14,2026-08-15
+SHP-000459,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,37,kL,62,2026-08-15
+SHP-000460,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,38,kL,7,2026-08-15
+SHP-000461,T400,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,44,kL,7,2026-08-15
+SHP-000462,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,39,kL,438,2026-08-15
+SHP-000463,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,53,kL,291,2026-08-15
+SHP-000464,U100,R100,Pipeline,Synthetic Crude Oil (SCO),30937,kL,408,2026-08-15
+SHP-000465,WH08,G300,Truck (Flatbed/Van),Production Tubing 2-7/8in J55,30,tonnes,710,2026-08-15
+SHP-000466,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,2756,tonnes,839,2026-08-16
+SHP-000467,L100,WH11,Intermodal,Packaged Lubricants,4,TEU,3616,2026-08-16
+SHP-000468,R100,T300,Pipeline,Ultra-Low Sulphur Diesel No. 2,9976,kL,522,2026-08-16
+SHP-000469,R100,T400,Rail,Jet A,6953,kL,3227,2026-08-16
+SHP-000470,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,49,kL,57,2026-08-16
+SHP-000471,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,57,kL,57,2026-08-16
+SHP-000472,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,41,kL,438,2026-08-16
+SHP-000473,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,59,kL,291,2026-08-16
+SHP-000474,U100,R100,Pipeline,Synthetic Crude Oil (SCO),45528,kL,408,2026-08-16
+SHP-000475,WH07,RTL-AB,Truck (Flatbed/Van),Packaged Lubricants,21,tonnes,6,2026-08-16
+SHP-000476,A100,PAVE-ON,Rail,Asphalt Cement PG 64-22,3225,tonnes,2446,2026-08-17
+SHP-000477,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,21,tonnes,5,2026-08-17
+SHP-000478,R100,T200,Rail,Winter Diesel No. 1,2879,kL,983,2026-08-17
+SHP-000479,R100,T300,Rail,Winter Diesel No. 1,3321,kL,570,2026-08-17
+SHP-000480,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,33,kL,15,2026-08-17
+SHP-000481,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,24,kL,15,2026-08-17
+SHP-000482,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,48,kL,338,2026-08-17
+SHP-000483,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,32,kL,14,2026-08-17
+SHP-000484,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,34,kL,438,2026-08-17
+SHP-000485,WH01,WH04,Truck (Flatbed/Van),MRO Spares Consolidated,2,tonnes,463,2026-08-17
+SHP-000486,G300,C100,Pipeline,Raw NGL Mix Feedstock,5591,kL,616,2026-08-18
+SHP-000487,G300,C100,Pipeline,Raw NGL Mix Feedstock,7809,kL,616,2026-08-18
+SHP-000488,L100,WH10,Intermodal,Packaged Lubricants,4,TEU,3228,2026-08-18
+SHP-000489,R100,T300,Pipeline,Regular Unleaded 87,10615,kL,522,2026-08-18
+SHP-000490,R100,T800,Pipeline,Jet A,5336,kL,304,2026-08-18
+SHP-000491,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,58,kL,338,2026-08-18
+SHP-000492,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,32,kL,14,2026-08-18
+SHP-000493,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,49,kL,14,2026-08-18
+SHP-000494,T300,RTL-MB,Truck (Tank),Regular Unleaded 87,45,kL,885,2026-08-18
+SHP-000495,U100,EXP-PAC,Rail,Petroleum Coke,6646,tonnes,1354,2026-08-18
+SHP-000496,U100,R100,Pipeline,Synthetic Crude Oil (SCO),56624,kL,408,2026-08-18
+SHP-000497,WH01,WH04,Truck (Flatbed/Van),MRO Spares Consolidated,1,tonnes,463,2026-08-18
+SHP-000498,WH12,R100,Truck (Flatbed/Van),Caustic Soda 50% Totes,10,tonnes,22,2026-08-18
+SHP-000499,A100,PAVE-ON,Rail,Asphalt Cement PG 64-22,2082,tonnes,2446,2026-08-19
+SHP-000500,R100,EXP-PAC,Rail,Granular Sulphur,7082,tonnes,985,2026-08-19
+SHP-000501,R200,T500,Rail,Regular Unleaded 87,2873,kL,1297,2026-08-19
+SHP-000502,R200,T500,Rail,Regular Unleaded 87,2581,kL,1297,2026-08-19
+SHP-000503,T100,FARM-AB,Truck (Tank),Farm Diesel Bulk Delivery,37,kL,167,2026-08-19
+SHP-000504,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,20,kL,15,2026-08-19
+SHP-000505,T100,RTL-AB,Truck (Tank),Premium Unleaded 91,39,kL,338,2026-08-19
+SHP-000506,T100,RTL-AB,Truck (Tank),Regular Unleaded 87,48,kL,338,2026-08-19
+SHP-000507,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,52,kL,290,2026-08-19
+SHP-000508,T400,MINE-ON,Truck (Tank),Mining-Grade Bulk Diesel,45,kL,697,2026-08-19
+SHP-000509,G300,C100,Pipeline,Raw NGL Mix Feedstock,5184,kL,616,2026-08-20
+SHP-000510,L100,WH11,Intermodal,Packaged Lubricants,10,TEU,3616,2026-08-20
+SHP-000511,R100,T200,Rail,Winter Diesel No. 1,2738,kL,983,2026-08-20
+SHP-000512,R100,T200,Rail,Jet A,6577,kL,983,2026-08-20
+SHP-000513,R100,T300,Rail,Ultra-Low Sulphur Diesel No. 2,3599,kL,570,2026-08-20
+SHP-000514,R100,T400,Rail,Propane-Butane Mix,2610,kL,3227,2026-08-20
+SHP-000515,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,18,kL,15,2026-08-20
+SHP-000516,T100,RTL-AB,Truck (Tank),Regular Unleaded 87,52,kL,338,2026-08-20
+SHP-000517,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,53,kL,14,2026-08-20
+SHP-000518,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,46,kL,57,2026-08-20
+SHP-000519,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,50,kL,290,2026-08-20
+SHP-000520,T400,MINE-ON,Truck (Tank),Mining-Grade Bulk Diesel,45,kL,697,2026-08-20
+SHP-000521,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,25,kL,293,2026-08-20
+SHP-000522,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,34,kL,293,2026-08-20
+SHP-000523,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,3446,tonnes,839,2026-08-21
+SHP-000524,C100,P100,Pipeline,Ethane Feedstock Supply,23920,tonnes,5,2026-08-21
+SHP-000525,P100,PCH-ON,Rail,Polymer-Grade Propylene,1489,tonnes,3049,2026-08-21
+SHP-000526,R100,T100,Pipeline,Premium Unleaded 91,9232,kL,16,2026-08-21
+SHP-000527,R100,T100,Pipeline,Premium Unleaded 91,7088,kL,16,2026-08-21
+SHP-000528,R100,T100,Pipeline,Regular Unleaded 87,18386,kL,16,2026-08-21
+SHP-000529,T100,MINE-NT,Truck (Tank),Arctic Grade Diesel,43,kL,1253,2026-08-21
+SHP-000530,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,48,kL,243,2026-08-21
+SHP-000531,T300,RTL-MB,Truck (Tank),Regular Unleaded 87,35,kL,885,2026-08-21
+SHP-000532,WH09,R100,Truck (Flatbed/Van),Hydrotreating Catalyst NiMo,16,tonnes,30,2026-08-21
+SHP-000533,G300,C100,Pipeline,Raw NGL Mix Feedstock,14898,kL,616,2026-08-22
+SHP-000534,G300,C100,Pipeline,Raw NGL Mix Feedstock,8961,kL,616,2026-08-22
+SHP-000535,R100,T400,Rail,Ultra-Low Sulphur Diesel No. 2,6758,kL,3227,2026-08-22
+SHP-000536,R300,T700,Marine,Ultra-Low Sulphur Diesel No. 2,27778,kL,1018,2026-08-22
+SHP-000537,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,49,kL,338,2026-08-22
+SHP-000538,T400,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,36,kL,7,2026-08-22
+SHP-000539,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,33,kL,438,2026-08-22
+SHP-000540,T700,RTL-NS,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,44,kL,5,2026-08-22
+SHP-000541,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,25,tonnes,505,2026-08-22
+SHP-000542,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,24,tonnes,5,2026-08-23
+SHP-000543,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,13,tonnes,5,2026-08-23
+SHP-000544,R100,EXP-PAC,Rail,Granular Sulphur,5661,tonnes,985,2026-08-23
+SHP-000545,R300,T600,Marine,Regular Unleaded 87,30236,kL,288,2026-08-23
+SHP-000546,R300,T700,Marine,Ultra-Low Sulphur Diesel No. 2,36358,kL,1018,2026-08-23
+SHP-000547,T100,MINE-NT,Truck (Tank),Arctic Grade Diesel,37,kL,1253,2026-08-23
+SHP-000548,T300,FARM-MB,Truck (Tank),Farm Diesel Bulk Delivery,47,kL,750,2026-08-23
+SHP-000549,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,45,kL,57,2026-08-23
+SHP-000550,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,49,kL,646,2026-08-23
+SHP-000551,U100,EXP-PAC,Rail,Petroleum Coke,8339,tonnes,1354,2026-08-23
+SHP-000552,WH07,RTL-AB,Truck (Flatbed/Van),Packaged Lubricants,20,tonnes,6,2026-08-23
+SHP-000553,WH09,U100,Truck (Flatbed/Van),Amine Solvent MDEA,14,tonnes,493,2026-08-23
+SHP-000554,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,4396,tonnes,839,2026-08-24
+SHP-000555,C100,P100,Pipeline,Ethane Feedstock Supply,16708,tonnes,5,2026-08-24
+SHP-000556,R100,T400,Rail,Propane-Butane Mix,2466,kL,3227,2026-08-24
+SHP-000557,R200,T500,Rail,Ultra-Low Sulphur Diesel No. 2,5981,kL,1297,2026-08-24
+SHP-000558,R300,EXP-ATL,Marine,Naphtha,28360,tonnes,1021,2026-08-24
+SHP-000559,R300,T700,Marine,Ultra-Low Sulphur Diesel No. 2,31899,kL,1018,2026-08-24
+SHP-000560,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,55,kL,290,2026-08-24
+SHP-000561,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,30,kL,7,2026-08-24
+SHP-000562,C100,P100,Pipeline,Ethane Feedstock Supply,13953,tonnes,5,2026-08-25
+SHP-000563,C100,P100,Pipeline,Ethane Feedstock Supply,20138,tonnes,5,2026-08-25
+SHP-000564,R200,T500,Rail,Ultra-Low Sulphur Diesel No. 2,6058,kL,1297,2026-08-25
+SHP-000565,R300,T600,Marine,Jet A,21673,kL,288,2026-08-25
+SHP-000566,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,48,kL,57,2026-08-25
+SHP-000567,T300,RTL-MB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,52,kL,885,2026-08-25
+SHP-000568,T600,T700,Marine,Jet A,17670,kL,827,2026-08-25
+SHP-000569,G100,C100,Pipeline,Raw NGL Mix Feedstock,15770,kL,355,2026-08-26
+SHP-000570,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,11,tonnes,5,2026-08-26
+SHP-000571,P100,PCH-ON,Rail,Polymer-Grade Propylene,1301,tonnes,3049,2026-08-26
+SHP-000572,R100,T200,Rail,Winter Diesel No. 1,4483,kL,983,2026-08-26
+SHP-000573,R100,T400,Rail,Ultra-Low Sulphur Diesel No. 2,7510,kL,3227,2026-08-26
+SHP-000574,R300,T600,Marine,Jet A,24904,kL,288,2026-08-26
+SHP-000575,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,40,kL,15,2026-08-26
+SHP-000576,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,35,kL,14,2026-08-26
+SHP-000577,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,45,kL,62,2026-08-26
+SHP-000578,T300,RTL-MB,Truck (Tank),Regular Unleaded 87,42,kL,885,2026-08-26
+SHP-000579,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,36,kL,7,2026-08-26
+SHP-000580,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,54,kL,438,2026-08-26
+SHP-000581,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,32,kL,293,2026-08-26
+SHP-000582,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,50,kL,646,2026-08-26
+SHP-000583,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,35,kL,291,2026-08-26
+SHP-000584,T700,EXP-ATL,Marine,Very Low Sulphur Fuel Oil (VLSFO),23631,kL,5,2026-08-26
+SHP-000585,T700,RTL-NS,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,49,kL,5,2026-08-26
+SHP-000586,U100,EXP-PAC,Rail,Petroleum Coke,9815,tonnes,1354,2026-08-26
+SHP-000587,G100,C100,Pipeline,Raw NGL Mix Feedstock,5187,kL,355,2026-08-27
+SHP-000588,G200,C100,Pipeline,Raw NGL Mix Feedstock,4355,kL,421,2026-08-27
+SHP-000589,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,24,tonnes,5,2026-08-27
+SHP-000590,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,14,tonnes,5,2026-08-27
+SHP-000591,P100,PCH-ON,Rail,Polymer-Grade Propylene,3015,tonnes,3049,2026-08-27
+SHP-000592,R100,T800,Pipeline,Jet A,5073,kL,304,2026-08-27
+SHP-000593,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,44,kL,62,2026-08-27
+SHP-000594,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,48,kL,290,2026-08-27
+SHP-000595,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,32,kL,7,2026-08-27
+SHP-000596,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,34,kL,7,2026-08-27
+SHP-000597,U100,R100,Pipeline,Synthetic Crude Oil (SCO),36396,kL,408,2026-08-27
+SHP-000598,R100,T200,Rail,Jet A,5185,kL,983,2026-08-28
+SHP-000599,R300,T700,Marine,Ultra-Low Sulphur Diesel No. 2,29741,kL,1018,2026-08-28
+SHP-000600,R300,T700,Marine,Ultra-Low Sulphur Diesel No. 2,37189,kL,1018,2026-08-28
+SHP-000601,T300,FARM-MB,Truck (Tank),Farm Diesel Bulk Delivery,41,kL,750,2026-08-28
+SHP-000602,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,50,kL,57,2026-08-28
+SHP-000603,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,44,kL,57,2026-08-28
+SHP-000604,T300,RTL-MB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,40,kL,885,2026-08-28
+SHP-000605,T300,RTL-SK,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,44,kL,290,2026-08-28
+SHP-000606,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,29,kL,293,2026-08-28
+SHP-000607,U100,R100,Pipeline,Synthetic Crude Oil (SCO),40745,kL,408,2026-08-28
+SHP-000608,U100,R100,Pipeline,Synthetic Crude Oil (SCO),35900,kL,408,2026-08-28
+SHP-000609,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,5454,tonnes,839,2026-08-29
+SHP-000610,G200,C100,Pipeline,Raw NGL Mix Feedstock,7398,kL,421,2026-08-29
+SHP-000611,R100,T200,Rail,Jet A,6127,kL,983,2026-08-29
+SHP-000612,R100,T300,Pipeline,Ultra-Low Sulphur Diesel No. 2,11812,kL,522,2026-08-29
+SHP-000613,R100,T400,Rail,Ultra-Low Sulphur Diesel No. 2,7169,kL,3227,2026-08-29
+SHP-000614,R100,T400,Rail,Ultra-Low Sulphur Diesel No. 2,8717,kL,3227,2026-08-29
+SHP-000615,R300,T600,Rail,Regular Unleaded 87,5771,kL,266,2026-08-29
+SHP-000616,R300,T600,Marine,Regular Unleaded 87,34065,kL,288,2026-08-29
+SHP-000617,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,44,kL,57,2026-08-29
+SHP-000618,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,56,kL,7,2026-08-29
+SHP-000619,G100,C100,Pipeline,Raw NGL Mix Feedstock,14712,kL,355,2026-08-30
+SHP-000620,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,11,tonnes,5,2026-08-30
+SHP-000621,P100,PCH-ON,Rail,Polymer-Grade Propylene,3128,tonnes,3049,2026-08-30
+SHP-000622,R100,T200,Rail,Winter Diesel No. 1,5119,kL,983,2026-08-30
+SHP-000623,R100,T800,Pipeline,Jet A,12037,kL,304,2026-08-30
+SHP-000624,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,50,kL,338,2026-08-30
+SHP-000625,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,45,kL,7,2026-08-30
+SHP-000626,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,41,kL,646,2026-08-30
+SHP-000627,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,45,kL,291,2026-08-30
+SHP-000628,U100,EXP-PAC,Rail,Petroleum Coke,7401,tonnes,1354,2026-08-30
+SHP-000629,U100,R100,Pipeline,Synthetic Crude Oil (SCO),23593,kL,408,2026-08-30
+SHP-000630,G100,C100,Pipeline,Raw NGL Mix Feedstock,7261,kL,355,2026-08-31
+SHP-000631,P100,PCH-ON,Rail,Polymer-Grade Propylene,2591,tonnes,3049,2026-08-31
+SHP-000632,R100,T100,Pipeline,Regular Unleaded 87,5641,kL,16,2026-08-31
+SHP-000633,R100,T100,Pipeline,Regular Unleaded 87,6150,kL,16,2026-08-31
+SHP-000634,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,51,kL,57,2026-08-31
+SHP-000635,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,50,kL,7,2026-08-31
+SHP-000636,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,58,kL,438,2026-08-31
+SHP-000637,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,55,kL,438,2026-08-31
+SHP-000638,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,40,kL,646,2026-08-31
+SHP-000639,WH08,G300,Truck (Flatbed/Van),Production Tubing 2-7/8in J55,21,tonnes,710,2026-08-31
+SHP-000640,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,26,tonnes,503,2026-08-31
+SHP-000641,C100,P100,Pipeline,Ethane Feedstock Supply,8344,tonnes,5,2026-09-01
+SHP-000642,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,58,kL,338,2026-09-01
+SHP-000643,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,26,kL,7,2026-09-01
+SHP-000644,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,33,kL,7,2026-09-01
+SHP-000645,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,36,kL,7,2026-09-01
+SHP-000646,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,53,kL,291,2026-09-01
+SHP-000647,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,58,kL,291,2026-09-01
+SHP-000648,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,12,tonnes,5,2026-09-02
+SHP-000649,R100,T100,Pipeline,Regular Unleaded 87,9175,kL,16,2026-09-02
+SHP-000650,R100,T100,Pipeline,Regular Unleaded 87,10306,kL,16,2026-09-02
+SHP-000651,R100,T200,Rail,Jet A,3898,kL,983,2026-09-02
+SHP-000652,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,30,kL,338,2026-09-02
+SHP-000653,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,30,kL,62,2026-09-02
+SHP-000654,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,51,kL,57,2026-09-02
+SHP-000655,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,56,kL,57,2026-09-02
+SHP-000656,T400,MINE-ON,Truck (Tank),Mining-Grade Bulk Diesel,50,kL,697,2026-09-02
+SHP-000657,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,36,kL,7,2026-09-02
+SHP-000658,U100,R100,Pipeline,Synthetic Crude Oil (SCO),44115,kL,408,2026-09-02
+SHP-000659,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,22,tonnes,503,2026-09-02
+SHP-000660,WH09,R100,Truck (Flatbed/Van),Hydrotreating Catalyst NiMo,15,tonnes,30,2026-09-02
+SHP-000661,WH09,U100,Truck (Flatbed/Van),Amine Solvent MDEA,18,tonnes,493,2026-09-02
+SHP-000662,WH12,R100,Truck (Flatbed/Van),Caustic Soda 50% Totes,23,tonnes,22,2026-09-02
+SHP-000663,G100,C100,Pipeline,Raw NGL Mix Feedstock,15757,kL,355,2026-09-03
+SHP-000664,G100,C100,Pipeline,Raw NGL Mix Feedstock,13080,kL,355,2026-09-03
+SHP-000665,P100,PCH-ON,Rail,Polymer-Grade Propylene,2044,tonnes,3049,2026-09-03
+SHP-000666,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,19,kL,15,2026-09-03
+SHP-000667,T100,MINE-NT,Truck (Tank),Arctic Grade Diesel,31,kL,1253,2026-09-03
+SHP-000668,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,40,kL,14,2026-09-03
+SHP-000669,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,38,kL,14,2026-09-03
+SHP-000670,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,31,kL,62,2026-09-03
+SHP-000671,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,32,kL,293,2026-09-03
+SHP-000672,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,32,kL,293,2026-09-03
+SHP-000673,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,50,kL,291,2026-09-03
+SHP-000674,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,35,kL,291,2026-09-03
+SHP-000675,T700,RTL-NS,Truck (Tank),Regular Unleaded 87,59,kL,5,2026-09-03
+SHP-000676,U100,R100,Pipeline,Synthetic Crude Oil (SCO),37154,kL,408,2026-09-03
+SHP-000677,C100,P100,Pipeline,Ethane Feedstock Supply,6365,tonnes,5,2026-09-04
+SHP-000678,R100,T800,Pipeline,Jet A,14832,kL,304,2026-09-04
+SHP-000679,R200,T500,Rail,Ultra-Low Sulphur Diesel No. 2,2794,kL,1297,2026-09-04
+SHP-000680,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,26,kL,15,2026-09-04
+SHP-000681,T100,OFS-AB,Truck (Tank),Dyed Off-Road Diesel,37,kL,495,2026-09-04
+SHP-000682,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,52,kL,57,2026-09-04
+SHP-000683,T400,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,38,kL,7,2026-09-04
+SHP-000684,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,58,kL,438,2026-09-04
+SHP-000685,WH07,RTL-AB,Truck (Flatbed/Van),Packaged Lubricants,14,tonnes,6,2026-09-04
+SHP-000686,C100,P100,Pipeline,Ethane Feedstock Supply,8594,tonnes,5,2026-09-05
+SHP-000687,G200,C100,Pipeline,Raw NGL Mix Feedstock,3571,kL,421,2026-09-05
+SHP-000688,G300,C100,Pipeline,Raw NGL Mix Feedstock,4930,kL,616,2026-09-05
+SHP-000689,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,23,tonnes,5,2026-09-05
+SHP-000690,R100,T100,Pipeline,Premium Unleaded 91,11871,kL,16,2026-09-05
+SHP-000691,R100,T100,Pipeline,Premium Unleaded 91,4008,kL,16,2026-09-05
+SHP-000692,R100,T300,Rail,Ultra-Low Sulphur Diesel No. 2,8636,kL,570,2026-09-05
+SHP-000693,T100,RTL-AB,Truck (Tank),Regular Unleaded 87,52,kL,338,2026-09-05
+SHP-000694,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,58,kL,243,2026-09-05
+SHP-000695,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,57,kL,14,2026-09-05
+SHP-000696,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,60,kL,57,2026-09-05
+SHP-000697,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,53,kL,57,2026-09-05
+SHP-000698,T300,RTL-SK,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,35,kL,290,2026-09-05
+SHP-000699,T400,MINE-ON,Truck (Tank),Mining-Grade Bulk Diesel,61,kL,697,2026-09-05
+SHP-000700,T700,RTL-NS,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,45,kL,5,2026-09-05
+SHP-000701,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,3912,tonnes,839,2026-09-06
+SHP-000702,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,19,tonnes,5,2026-09-06
+SHP-000703,R100,T800,Pipeline,Jet A,10439,kL,304,2026-09-06
+SHP-000704,T100,OFS-AB,Truck (Tank),Dyed Off-Road Diesel,46,kL,495,2026-09-06
+SHP-000705,T100,RTL-AB,Truck (Tank),Premium Unleaded 91,31,kL,338,2026-09-06
+SHP-000706,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,41,kL,243,2026-09-06
+SHP-000707,T300,RTL-MB,Truck (Tank),Regular Unleaded 87,46,kL,885,2026-09-06
+SHP-000708,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,51,kL,646,2026-09-06
+SHP-000709,T700,EXP-ATL,Marine,Very Low Sulphur Fuel Oil (VLSFO),21039,kL,5,2026-09-06
+SHP-000710,U100,R100,Pipeline,Synthetic Crude Oil (SCO),21579,kL,408,2026-09-06
+SHP-000711,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,35,tonnes,505,2026-09-06
+SHP-000712,C100,P100,Pipeline,Ethane Feedstock Supply,19201,tonnes,5,2026-09-07
+SHP-000713,G100,C100,Pipeline,Raw NGL Mix Feedstock,15752,kL,355,2026-09-07
+SHP-000714,R300,T600,Rail,Ultra-Low Sulphur Diesel No. 2,5571,kL,266,2026-09-07
+SHP-000715,T100,FARM-AB,Truck (Tank),Farm Diesel Bulk Delivery,31,kL,167,2026-09-07
+SHP-000716,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,35,kL,15,2026-09-07
+SHP-000717,T100,OFS-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,59,kL,495,2026-09-07
+SHP-000718,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,41,kL,14,2026-09-07
+SHP-000719,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,54,kL,57,2026-09-07
+SHP-000720,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,39,kL,290,2026-09-07
+SHP-000721,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,55,kL,438,2026-09-07
+SHP-000722,WH05,G300,Truck (Flatbed/Van),MRO Spares Consolidated,4,tonnes,875,2026-09-07
+SHP-000723,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,40,tonnes,505,2026-09-07
+SHP-000724,WH09,U100,Truck (Flatbed/Van),Amine Solvent MDEA,5,tonnes,493,2026-09-07
+SHP-000725,C100,P100,Pipeline,Ethane Feedstock Supply,13086,tonnes,5,2026-09-08
+SHP-000726,R100,T300,Pipeline,Ultra-Low Sulphur Diesel No. 2,11533,kL,522,2026-09-08
+SHP-000727,R100,T800,Pipeline,Jet A,12070,kL,304,2026-09-08
+SHP-000728,R300,EXP-ATL,Marine,Naphtha,24495,tonnes,1021,2026-09-08
+SHP-000729,R300,T600,Rail,Regular Unleaded 87,4825,kL,266,2026-09-08
+SHP-000730,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,30,kL,15,2026-09-08
+SHP-000731,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,39,kL,338,2026-09-08
+SHP-000732,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,52,kL,290,2026-09-08
+SHP-000733,T400,MINE-ON,Truck (Tank),Mining-Grade Bulk Diesel,46,kL,697,2026-09-08
+SHP-000734,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,35,kL,438,2026-09-08
+SHP-000735,U100,R100,Pipeline,Synthetic Crude Oil (SCO),55543,kL,408,2026-09-08
+SHP-000736,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,35,tonnes,505,2026-09-08
+SHP-000737,WH09,R100,Truck (Flatbed/Van),Hydrotreating Catalyst NiMo,7,tonnes,30,2026-09-08
+SHP-000738,WH09,R100,Truck (Flatbed/Van),Hydrotreating Catalyst NiMo,8,tonnes,30,2026-09-08
+SHP-000739,R100,T100,Pipeline,Ultra-Low Sulphur Diesel No. 2,22154,kL,16,2026-09-09
+SHP-000740,R100,T300,Rail,Winter Diesel No. 1,4627,kL,570,2026-09-09
+SHP-000741,R100,T800,Pipeline,Jet A,9979,kL,304,2026-09-09
+SHP-000742,R300,T600,Marine,Jet A,16317,kL,288,2026-09-09
+SHP-000743,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,58,kL,243,2026-09-09
+SHP-000744,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,56,kL,57,2026-09-09
+SHP-000745,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,2241,tonnes,839,2026-09-10
+SHP-000746,A100,PAVE-ON,Rail,Asphalt Cement PG 64-22,1716,tonnes,2446,2026-09-10
+SHP-000747,R100,T200,Rail,Ultra-Low Sulphur Diesel No. 2,4453,kL,983,2026-09-10
+SHP-000748,R100,T400,Rail,Ultra-Low Sulphur Diesel No. 2,6148,kL,3227,2026-09-10
+SHP-000749,R100,T400,Rail,Jet A,6161,kL,3227,2026-09-10
+SHP-000750,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,25,kL,167,2026-09-10
+SHP-000751,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,41,kL,62,2026-09-10
+SHP-000752,U100,R100,Pipeline,Synthetic Crude Oil (SCO),51536,kL,408,2026-09-10
+SHP-000753,U100,R100,Pipeline,Synthetic Crude Oil (SCO),37501,kL,408,2026-09-10
+SHP-000754,G200,C100,Pipeline,Raw NGL Mix Feedstock,5927,kL,421,2026-09-11
+SHP-000755,G300,C100,Pipeline,Raw NGL Mix Feedstock,8863,kL,616,2026-09-11
+SHP-000756,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,11,tonnes,5,2026-09-11
+SHP-000757,L100,WH11,Intermodal,Packaged Lubricants,13,TEU,3616,2026-09-11
+SHP-000758,L100,WH11,Intermodal,Packaged Lubricants,9,TEU,3616,2026-09-11
+SHP-000759,R100,T100,Pipeline,Regular Unleaded 87,5113,kL,16,2026-09-11
+SHP-000760,T100,OFS-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,34,kL,495,2026-09-11
+SHP-000761,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,50,kL,243,2026-09-11
+SHP-000762,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,42,kL,14,2026-09-11
+SHP-000763,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,21,kL,62,2026-09-11
+SHP-000764,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,50,kL,438,2026-09-11
+SHP-000765,T700,RTL-NS,Truck (Tank),Regular Unleaded 87,40,kL,5,2026-09-11
+SHP-000766,WH07,RTL-AB,Truck (Flatbed/Van),Packaged Lubricants,19,tonnes,6,2026-09-11
+SHP-000767,WH12,R100,Truck (Flatbed/Van),Caustic Soda 50% Totes,12,tonnes,22,2026-09-11
+SHP-000768,A100,PAVE-ON,Rail,Asphalt Cement PG 64-22,1808,tonnes,2446,2026-09-12
+SHP-000769,C100,P100,Pipeline,Ethane Feedstock Supply,21832,tonnes,5,2026-09-12
+SHP-000770,R100,T400,Rail,Propane-Butane Mix,2637,kL,3227,2026-09-12
+SHP-000771,R300,T600,Marine,Regular Unleaded 87,28784,kL,288,2026-09-12
+SHP-000772,T300,FARM-MB,Truck (Tank),Farm Diesel Bulk Delivery,38,kL,750,2026-09-12
+SHP-000773,T600,T700,Marine,Jet A,15147,kL,827,2026-09-12
+SHP-000774,T700,EXP-ATL,Marine,Very Low Sulphur Fuel Oil (VLSFO),20629,kL,5,2026-09-12
+SHP-000775,U100,R100,Pipeline,Synthetic Crude Oil (SCO),28678,kL,408,2026-09-12
+SHP-000776,G300,C100,Pipeline,Raw NGL Mix Feedstock,14112,kL,616,2026-09-13
+SHP-000777,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,30,kL,15,2026-09-13
+SHP-000778,T100,OFS-AB,Truck (Tank),Dyed Off-Road Diesel,34,kL,495,2026-09-13
+SHP-000779,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,35,kL,14,2026-09-13
+SHP-000780,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,40,kL,62,2026-09-13
+SHP-000781,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,54,kL,7,2026-09-13
+SHP-000782,U100,R100,Pipeline,Synthetic Crude Oil (SCO),36566,kL,408,2026-09-13
+SHP-000783,WH09,U100,Truck (Flatbed/Van),Amine Solvent MDEA,14,tonnes,493,2026-09-13
+SHP-000784,R100,EXP-PAC,Rail,Granular Sulphur,7729,tonnes,985,2026-09-14
+SHP-000785,R100,T100,Pipeline,Regular Unleaded 87,23246,kL,16,2026-09-14
+SHP-000786,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,43,kL,167,2026-09-14
+SHP-000787,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,28,kL,15,2026-09-14
+SHP-000788,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,37,kL,338,2026-09-14
+SHP-000789,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,44,kL,14,2026-09-14
+SHP-000790,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,39,kL,14,2026-09-14
+SHP-000791,T300,RTL-MB,Truck (Tank),Regular Unleaded 87,34,kL,885,2026-09-14
+SHP-000792,U100,R100,Pipeline,Synthetic Crude Oil (SCO),29601,kL,408,2026-09-14
+SHP-000793,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,26,tonnes,505,2026-09-14
+SHP-000794,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,27,tonnes,503,2026-09-14
+SHP-000795,L100,WH11,Intermodal,Packaged Lubricants,14,TEU,3616,2026-09-15
+SHP-000796,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,23,kL,15,2026-09-15
+SHP-000797,T100,RTL-AB,Truck (Tank),Regular Unleaded 87,59,kL,338,2026-09-15
+SHP-000798,T400,MINE-ON,Truck (Tank),Mining-Grade Bulk Diesel,43,kL,697,2026-09-15
+SHP-000799,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,60,kL,438,2026-09-15
+SHP-000800,U100,R100,Pipeline,Synthetic Crude Oil (SCO),20913,kL,408,2026-09-15
+SHP-000801,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,20,tonnes,503,2026-09-15
+SHP-000802,WH12,R100,Truck (Flatbed/Van),Caustic Soda 50% Totes,21,tonnes,22,2026-09-15
+SHP-000803,G100,C100,Pipeline,Raw NGL Mix Feedstock,16902,kL,355,2026-09-16
+SHP-000804,P100,PCH-ON,Rail,Polymer-Grade Propylene,2247,tonnes,3049,2026-09-16
+SHP-000805,R100,T100,Pipeline,Regular Unleaded 87,19378,kL,16,2026-09-16
+SHP-000806,T300,RTL-SK,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,56,kL,290,2026-09-16
+SHP-000807,T700,RTL-NS,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,57,kL,5,2026-09-16
+SHP-000808,U100,R100,Pipeline,Synthetic Crude Oil (SCO),45499,kL,408,2026-09-16
+SHP-000809,U100,R100,Pipeline,Synthetic Crude Oil (SCO),41998,kL,408,2026-09-16
+SHP-000810,R100,EXP-PAC,Rail,Granular Sulphur,5737,tonnes,985,2026-09-17
+SHP-000811,R200,T500,Rail,Ultra-Low Sulphur Diesel No. 2,2625,kL,1297,2026-09-17
+SHP-000812,R300,T700,Marine,Ultra-Low Sulphur Diesel No. 2,43589,kL,1018,2026-09-17
+SHP-000813,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,22,kL,62,2026-09-17
+SHP-000814,T700,RTL-NS,Truck (Tank),Regular Unleaded 87,56,kL,5,2026-09-17
+SHP-000815,U100,R100,Pipeline,Synthetic Crude Oil (SCO),37572,kL,408,2026-09-17
+SHP-000816,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,31,tonnes,503,2026-09-17
+SHP-000817,L100,WH11,Intermodal,Packaged Lubricants,19,TEU,3616,2026-09-18
+SHP-000818,R100,T100,Pipeline,Regular Unleaded 87,17862,kL,16,2026-09-18
+SHP-000819,R100,T300,Rail,Ultra-Low Sulphur Diesel No. 2,4039,kL,570,2026-09-18
+SHP-000820,R300,T600,Rail,Regular Unleaded 87,3248,kL,266,2026-09-18
+SHP-000821,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,52,kL,57,2026-09-18
+SHP-000822,T400,MINE-ON,Truck (Tank),Mining-Grade Bulk Diesel,47,kL,697,2026-09-18
+SHP-000823,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,31,kL,293,2026-09-18
+SHP-000824,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,30,kL,293,2026-09-18
+SHP-000825,U100,R100,Pipeline,Synthetic Crude Oil (SCO),46603,kL,408,2026-09-18
+SHP-000826,WH05,G300,Truck (Flatbed/Van),MRO Spares Consolidated,5,tonnes,875,2026-09-18
+SHP-000827,R100,T100,Pipeline,Regular Unleaded 87,10372,kL,16,2026-09-19
+SHP-000828,R100,T800,Pipeline,Jet A,11084,kL,304,2026-09-19
+SHP-000829,R300,T600,Marine,Regular Unleaded 87,30686,kL,288,2026-09-19
+SHP-000830,R300,T600,Rail,Ultra-Low Sulphur Diesel No. 2,6148,kL,266,2026-09-19
+SHP-000831,T100,MINE-NT,Truck (Tank),Arctic Grade Diesel,38,kL,1253,2026-09-19
+SHP-000832,T100,RTL-AB,Truck (Tank),Premium Unleaded 91,25,kL,338,2026-09-19
+SHP-000833,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,51,kL,290,2026-09-19
+SHP-000834,L100,WH11,Intermodal,Packaged Lubricants,11,TEU,3616,2026-09-20
+SHP-000835,P100,PCH-ON,Rail,Polymer-Grade Propylene,2724,tonnes,3049,2026-09-20
+SHP-000836,R100,T100,Pipeline,Premium Unleaded 91,10105,kL,16,2026-09-20
+SHP-000837,R300,T700,Marine,Ultra-Low Sulphur Diesel No. 2,35091,kL,1018,2026-09-20
+SHP-000838,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,59,kL,290,2026-09-20
+SHP-000839,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,28,kL,7,2026-09-20
+SHP-000840,T600,T700,Marine,Jet A,16380,kL,827,2026-09-20
+SHP-000841,U100,R100,Pipeline,Synthetic Crude Oil (SCO),36344,kL,408,2026-09-20
+SHP-000842,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,16,tonnes,505,2026-09-20
+SHP-000843,G100,C100,Pipeline,Raw NGL Mix Feedstock,12436,kL,355,2026-09-21
+SHP-000844,L100,WH07,Truck (Flatbed/Van),Packaged Lubricants,15,tonnes,5,2026-09-21
+SHP-000845,R100,T300,Rail,Ultra-Low Sulphur Diesel No. 2,3692,kL,570,2026-09-21
+SHP-000846,R300,T600,Rail,Ultra-Low Sulphur Diesel No. 2,4959,kL,266,2026-09-21
+SHP-000847,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,32,kL,15,2026-09-21
+SHP-000848,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,55,kL,243,2026-09-21
+SHP-000849,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,45,kL,290,2026-09-21
+SHP-000850,T400,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,35,kL,7,2026-09-21
+SHP-000851,T400,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,40,kL,7,2026-09-21
+SHP-000852,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,40,kL,438,2026-09-21
+SHP-000853,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,44,kL,438,2026-09-21
+SHP-000854,U100,EXP-PAC,Rail,Petroleum Coke,9186,tonnes,1354,2026-09-21
+SHP-000855,U100,R100,Pipeline,Synthetic Crude Oil (SCO),30622,kL,408,2026-09-21
+SHP-000856,C100,P100,Pipeline,Ethane Feedstock Supply,12153,tonnes,5,2026-09-22
+SHP-000857,G300,C100,Pipeline,Raw NGL Mix Feedstock,5004,kL,616,2026-09-22
+SHP-000858,R100,T200,Rail,Jet A,6640,kL,983,2026-09-22
+SHP-000859,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,45,kL,62,2026-09-22
+SHP-000860,T400,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,37,kL,7,2026-09-22
+SHP-000861,T100,OFS-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,38,kL,495,2026-09-23
+SHP-000862,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,58,kL,14,2026-09-23
+SHP-000863,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,33,kL,14,2026-09-23
+SHP-000864,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,41,kL,62,2026-09-23
+SHP-000865,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,45,kL,57,2026-09-23
+SHP-000866,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,45,kL,57,2026-09-23
+SHP-000867,T700,RTL-NS,Truck (Tank),Regular Unleaded 87,35,kL,5,2026-09-23
+SHP-000868,A100,PAVE-AB,Rail,Asphalt Cement PG 58-28,1814,tonnes,839,2026-09-24
+SHP-000869,A100,PAVE-ON,Rail,Asphalt Cement PG 64-22,3095,tonnes,2446,2026-09-24
+SHP-000870,G100,C100,Pipeline,Raw NGL Mix Feedstock,6636,kL,355,2026-09-24
+SHP-000871,R100,T100,Pipeline,Premium Unleaded 91,4100,kL,16,2026-09-24
+SHP-000872,R100,T100,Pipeline,Regular Unleaded 87,16139,kL,16,2026-09-24
+SHP-000873,R100,T400,Rail,Jet A,7441,kL,3227,2026-09-24
+SHP-000874,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,44,kL,167,2026-09-24
+SHP-000875,T100,RTL-AB,Truck (Tank),Regular Unleaded 87,37,kL,338,2026-09-24
+SHP-000876,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,61,kL,57,2026-09-24
+SHP-000877,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,43,kL,7,2026-09-24
+SHP-000878,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,20,kL,293,2026-09-24
+SHP-000879,T600,T700,Marine,Jet A,18389,kL,827,2026-09-24
+SHP-000880,U100,R100,Pipeline,Synthetic Crude Oil (SCO),49666,kL,408,2026-09-24
+SHP-000881,G200,C100,Pipeline,Raw NGL Mix Feedstock,6751,kL,421,2026-09-25
+SHP-000882,R100,T300,Pipeline,Regular Unleaded 87,7700,kL,522,2026-09-25
+SHP-000883,R300,T600,Rail,Regular Unleaded 87,4397,kL,266,2026-09-25
+SHP-000884,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,38,kL,14,2026-09-25
+SHP-000885,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,52,kL,438,2026-09-25
+SHP-000886,T500,RTL-ON,Truck (Tank),Regular Unleaded 87,36,kL,438,2026-09-25
+SHP-000887,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,25,kL,293,2026-09-25
+SHP-000888,WH05,G300,Truck (Flatbed/Van),MRO Spares Consolidated,4,tonnes,875,2026-09-25
+SHP-000889,WH05,G300,Truck (Flatbed/Van),MRO Spares Consolidated,5,tonnes,875,2026-09-25
+SHP-000890,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,20,tonnes,505,2026-09-25
+SHP-000891,L100,WH10,Intermodal,Packaged Lubricants,19,TEU,3228,2026-09-26
+SHP-000892,R100,T300,Pipeline,Ultra-Low Sulphur Diesel No. 2,12536,kL,522,2026-09-26
+SHP-000893,R100,T300,Rail,Regular Unleaded 87,6177,kL,570,2026-09-26
+SHP-000894,R300,T600,Marine,Jet A,18594,kL,288,2026-09-26
+SHP-000895,R300,T700,Marine,Ultra-Low Sulphur Diesel No. 2,30499,kL,1018,2026-09-26
+SHP-000896,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,41,kL,167,2026-09-26
+SHP-000897,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,51,kL,14,2026-09-26
+SHP-000898,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,45,kL,62,2026-09-26
+SHP-000899,T400,MINE-ON,Truck (Tank),Mining-Grade Bulk Diesel,52,kL,697,2026-09-26
+SHP-000900,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,59,kL,438,2026-09-26
+SHP-000901,WH01,WH04,Truck (Flatbed/Van),MRO Spares Consolidated,5,tonnes,463,2026-09-26
+SHP-000902,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,20,tonnes,503,2026-09-26
+SHP-000903,R100,T400,Rail,Ultra-Low Sulphur Diesel No. 2,8967,kL,3227,2026-09-27
+SHP-000904,R300,T600,Rail,Regular Unleaded 87,4802,kL,266,2026-09-27
+SHP-000905,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,44,kL,438,2026-09-27
+SHP-000906,WH09,U100,Truck (Flatbed/Van),Amine Solvent MDEA,10,tonnes,493,2026-09-27
+SHP-000907,G100,C100,Pipeline,Raw NGL Mix Feedstock,7644,kL,355,2026-09-28
+SHP-000908,T100,RTL-AB,Truck (Tank),Premium Unleaded 91,33,kL,338,2026-09-28
+SHP-000909,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,32,kL,7,2026-09-28
+SHP-000910,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,51,kL,646,2026-09-28
+SHP-000911,G100,C100,Pipeline,Raw NGL Mix Feedstock,17083,kL,355,2026-09-29
+SHP-000912,G300,C100,Pipeline,Raw NGL Mix Feedstock,10740,kL,616,2026-09-29
+SHP-000913,R100,T300,Pipeline,Regular Unleaded 87,14034,kL,522,2026-09-29
+SHP-000914,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,57,kL,14,2026-09-29
+SHP-000915,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,35,kL,14,2026-09-29
+SHP-000916,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,34,kL,290,2026-09-29
+SHP-000917,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,46,kL,646,2026-09-29
+SHP-000918,A100,PAVE-ON,Rail,Asphalt Cement PG 64-22,2336,tonnes,2446,2026-09-30
+SHP-000919,G100,C100,Pipeline,Raw NGL Mix Feedstock,18907,kL,355,2026-09-30
+SHP-000920,L100,WH11,Intermodal,Packaged Lubricants,8,TEU,3616,2026-09-30
+SHP-000921,R100,EXP-PAC,Rail,Granular Sulphur,6363,tonnes,985,2026-09-30
+SHP-000922,R200,T500,Rail,Ultra-Low Sulphur Diesel No. 2,3719,kL,1297,2026-09-30
+SHP-000923,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,55,kL,14,2026-09-30
+SHP-000924,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,46,kL,14,2026-09-30
+SHP-000925,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,36,kL,14,2026-09-30
+SHP-000926,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,53,kL,291,2026-09-30
+SHP-000927,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,41,kL,291,2026-09-30
+SHP-000928,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,54,kL,291,2026-09-30
+SHP-000929,T600,T700,Marine,Jet A,12023,kL,827,2026-09-30
+SHP-000930,U100,R100,Pipeline,Synthetic Crude Oil (SCO),46616,kL,408,2026-09-30
+SHP-000931,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,37,tonnes,505,2026-09-30
+SHP-000932,G100,C100,Pipeline,Raw NGL Mix Feedstock,9996,kL,355,2026-10-01
+SHP-000933,P100,PCH-ON,Rail,Polymer-Grade Propylene,2668,tonnes,3049,2026-10-01
+SHP-000934,R100,EXP-PAC,Rail,Granular Sulphur,8711,tonnes,985,2026-10-01
+SHP-000935,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,22,kL,15,2026-10-01
+SHP-000936,T100,RTL-AB,Truck (Tank),Premium Unleaded 91,36,kL,338,2026-10-01
+SHP-000937,T100,RTL-AB,Truck (Tank),Regular Unleaded 87,59,kL,338,2026-10-01
+SHP-000938,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,54,kL,14,2026-10-01
+SHP-000939,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,42,kL,14,2026-10-01
+SHP-000940,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,35,kL,62,2026-10-01
+SHP-000941,T300,MINE-SK,Truck (Tank),Mining-Grade Bulk Diesel,51,kL,57,2026-10-01
+SHP-000942,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,32,kL,7,2026-10-01
+SHP-000943,T600,HEAT-QC,Truck (Tank),Light Heating Oil No. 2,20,kL,293,2026-10-01
+SHP-000944,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,31,kL,291,2026-10-01
+SHP-000945,T600,RTL-QC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,53,kL,291,2026-10-01
+SHP-000946,U100,EXP-PAC,Rail,Petroleum Coke,6135,tonnes,1354,2026-10-01
+SHP-000947,A100,PAVE-ON,Rail,Asphalt Cement PG 64-22,1981,tonnes,2446,2026-10-02
+SHP-000948,L100,WH10,Intermodal,Packaged Lubricants,15,TEU,3228,2026-10-02
+SHP-000949,T100,FARM-AB,Truck (Tank),Farm Diesel Bulk Delivery,28,kL,167,2026-10-02
+SHP-000950,T100,FARM-AB,Truck (Tank),Farm Diesel Bulk Delivery,42,kL,167,2026-10-02
+SHP-000951,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,50,kL,167,2026-10-02
+SHP-000952,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,43,kL,167,2026-10-02
+SHP-000953,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,47,kL,438,2026-10-02
+SHP-000954,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,55,kL,646,2026-10-02
+SHP-000955,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,17,tonnes,505,2026-10-02
+SHP-000956,L100,WH10,Intermodal,Packaged Lubricants,20,TEU,3228,2026-10-03
+SHP-000957,R100,T100,Pipeline,Regular Unleaded 87,20862,kL,16,2026-10-03
+SHP-000958,T300,FARM-SK,Truck (Tank),Farm Diesel Bulk Delivery,20,kL,62,2026-10-03
+SHP-000959,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,60,kL,290,2026-10-03
+SHP-000960,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,55,kL,646,2026-10-03
+SHP-000961,WH08,G200,Truck (Flatbed/Van),Line Pipe 12in X52,40,tonnes,505,2026-10-03
+SHP-000962,C100,P100,Pipeline,Ethane Feedstock Supply,8463,tonnes,5,2026-10-04
+SHP-000963,R300,T600,Marine,Jet A,14664,kL,288,2026-10-04
+SHP-000964,T100,FARM-AB,Truck (Tank),Dyed Off-Road Diesel,50,kL,167,2026-10-04
+SHP-000965,T100,RTL-AB,Truck (Tank),Regular Unleaded 87,38,kL,338,2026-10-04
+SHP-000966,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,52,kL,338,2026-10-04
+SHP-000967,T300,RTL-SK,Truck (Tank),Regular Unleaded 87,30,kL,290,2026-10-04
+SHP-000968,T400,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,42,kL,7,2026-10-04
+SHP-000969,T700,RTL-NS,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,39,kL,5,2026-10-04
+SHP-000970,A100,PAVE-ON,Rail,Asphalt Cement PG 64-22,4527,tonnes,2446,2026-10-05
+SHP-000971,R100,T100,Pipeline,Premium Unleaded 91,11166,kL,16,2026-10-05
+SHP-000972,R100,T100,Pipeline,Regular Unleaded 87,7696,kL,16,2026-10-05
+SHP-000973,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,51,kL,14,2026-10-05
+SHP-000974,T400,RTL-ON,Truck (Tank),Premium Unleaded 91,37,kL,7,2026-10-05
+SHP-000975,T600,RTL-QC,Truck (Tank),Regular Unleaded 87,34,kL,291,2026-10-05
+SHP-000976,T700,EXP-ATL,Marine,Very Low Sulphur Fuel Oil (VLSFO),36618,kL,5,2026-10-05
+SHP-000977,WH07,RTL-AB,Truck (Flatbed/Van),Packaged Lubricants,17,tonnes,6,2026-10-05
+SHP-000978,G200,C100,Pipeline,Raw NGL Mix Feedstock,11404,kL,421,2026-10-06
+SHP-000979,P100,PCH-ON,Rail,Polymer-Grade Propylene,1186,tonnes,3049,2026-10-06
+SHP-000980,R100,T300,Rail,Winter Diesel No. 1,5999,kL,570,2026-10-06
+SHP-000981,R300,T600,Marine,Jet A,12596,kL,288,2026-10-06
+SHP-000982,T100,OFS-AB,Truck (Tank),Dyed Off-Road Diesel,46,kL,495,2026-10-06
+SHP-000983,T200,MINE-BC,Truck (Tank),Mining-Grade Bulk Diesel,58,kL,243,2026-10-06
+SHP-000984,T200,RTL-BC,Truck (Tank),Regular Unleaded 87,57,kL,14,2026-10-06
+SHP-000985,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,38,kL,14,2026-10-06
+SHP-000986,T600,MINE-QC,Truck (Tank),Mining-Grade Bulk Diesel,54,kL,646,2026-10-06
+SHP-000987,U100,R100,Pipeline,Synthetic Crude Oil (SCO),26663,kL,408,2026-10-06
+SHP-000988,U100,R100,Pipeline,Synthetic Crude Oil (SCO),22530,kL,408,2026-10-06
+SHP-000989,WH08,OFS-AB,Truck (Flatbed/Van),Seamless Casing 9-5/8in L80,26,tonnes,503,2026-10-06
+SHP-000990,WH09,U100,Truck (Flatbed/Van),Amine Solvent MDEA,13,tonnes,493,2026-10-06
+SHP-000991,L100,WH10,Intermodal,Packaged Lubricants,11,TEU,3228,2026-10-07
+SHP-000992,L100,WH11,Intermodal,Packaged Lubricants,4,TEU,3616,2026-10-07
+SHP-000993,P100,PCH-ON,Rail,Polymer-Grade Propylene,1056,tonnes,3049,2026-10-07
+SHP-000994,T100,HEAT-AB,Truck (Tank),Bulk Propane Residential,29,kL,15,2026-10-07
+SHP-000995,T100,RTL-AB,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,54,kL,338,2026-10-07
+SHP-000996,T200,RTL-BC,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,60,kL,14,2026-10-07
+SHP-000997,T400,RTL-ON,Truck (Tank),Regular Unleaded 87,51,kL,7,2026-10-07
+SHP-000998,T500,RTL-ON,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,39,kL,438,2026-10-07
+SHP-000999,T700,RTL-NS,Truck (Tank),Ultra-Low Sulphur Diesel No. 2,43,kL,5,2026-10-07
+SHP-001000,WH09,U100,Truck (Flatbed/Van),Amine Solvent MDEA,7,tonnes,493,2026-10-07

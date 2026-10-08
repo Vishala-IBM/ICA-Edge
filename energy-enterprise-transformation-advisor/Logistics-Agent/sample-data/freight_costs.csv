@@ -1,0 +1,501 @@
+Shipment_ID,Carrier,Freight_Cost
+SHP-000002,Red River 3PL Solutions,50312.44
+SHP-000004,Maple Rail Services,255256.51
+SHP-000007,Rocky Ridge Bulk Liquid Transport,1095.67
+SHP-000008,Wheatland Petroleum Haulers Inc.,1161.04
+SHP-000009,St. Lawrence Petroleum Haulers Inc.,1211.24
+SHP-000010,Great Lakes Shipping Co.,89080.83
+SHP-000011,Fundy Petroleum Haulers Inc.,350.00
+SHP-000013,Gaspe Fuel Haulage Co.,350.00
+SHP-000016,Athabasca Railway,186973.39
+SHP-000017,Bow Valley Petroleum Haulers Inc.,350.00
+SHP-000018,Heartland Bulk Liquid Transport,2462.59
+SHP-000019,Badlands Petroleum Haulers Inc.,414.97
+SHP-000020,Prairie Tank Lines Ltd.,350.00
+SHP-000023,Athabasca Express Freight,350.00
+SHP-000026,Rocky Ridge Short Line Railway,220900.49
+SHP-000027,St. Lawrence Railway,101552.17
+SHP-000029,Fraser Fuel Haulage Co.,350.00
+SHP-000031,Superior Fuel Haulage Co.,350.00
+SHP-000033,Lakeshore Tank Lines Ltd.,350.00
+SHP-000036,Summit Heavy Haul Ltd.,350.00
+SHP-000039,Athabasca Railway,237172.70
+SHP-000041,Cascade Tank Lines Ltd.,372.08
+SHP-000043,Saguenay Fuel Haulage Co.,1135.12
+SHP-000044,Saguenay Bulk Liquid Transport,350.00
+SHP-000046,Pacific Heavy Haul Ltd.,350.00
+SHP-000048,Athabasca Railway,73597.63
+SHP-000053,Assiniboine Tank Lines Ltd.,442.86
+SHP-000054,Maritime Bulk Liquid Transport,1122.48
+SHP-000056,Cascade Fuel Haulage Co.,1504.18
+SHP-000057,Athabasca Fuel Haulage Co.,1140.80
+SHP-000058,Fraser Petroleum Haulers Inc.,350.00
+SHP-000059,Great Plains Petroleum Haulers Inc.,2967.13
+SHP-000061,Great Plains Petroleum Haulers Inc.,350.00
+SHP-000062,Coastal Freight Systems Inc.,2013.40
+SHP-000066,Pacific Petroleum Haulers Inc.,350.00
+SHP-000069,Huron Tank Lines Ltd.,350.00
+SHP-000070,Great Lakes Bulk Liquid Transport,1787.77
+SHP-000071,St. Lawrence Fuel Haulage Co.,1150.01
+SHP-000074,Atlantic Tank Lines Ltd.,350.00
+SHP-000080,Bow Valley Rail Services,370639.13
+SHP-000081,Great Plains Railway,479104.75
+SHP-000082,Lakeshore Tank Lines Ltd.,350.00
+SHP-000083,Rocky Ridge Short Line Railway,494209.71
+SHP-000086,Cascade Freight Systems Inc.,1619.27
+SHP-000087,Athabasca Flatbed Transport,350.00
+SHP-000090,Badlands Railway,122571.75
+SHP-000091,Acadian Tanker Services,501628.77
+SHP-000092,Georgian Bulk Liquid Transport,350.00
+SHP-000096,Niagara Fuel Haulage Co.,2574.71
+SHP-000097,Huron Fuel Haulage Co.,350.00
+SHP-000100,Rocky Ridge Freight Systems Inc.,2475.77
+SHP-000104,Summit Rail Services,192238.63
+SHP-000106,Gaspe Barge Lines,204037.06
+SHP-000107,St. Lawrence Railway,68562.24
+SHP-000111,Great Lakes Rail Services,267263.78
+SHP-000112,Acadian Tanker Services,144831.33
+SHP-000113,Coastal Bulk Liquid Transport,350.00
+SHP-000114,Foothills Bulk Liquid Transport,1096.68
+SHP-000115,Fraser Fuel Haulage Co.,350.00
+SHP-000116,Tidewater Tank Lines Ltd.,2294.54
+SHP-000117,Acadian Petroleum Haulers Inc.,1190.52
+SHP-000119,Great Plains Railway,205650.98
+SHP-000123,Great Lakes Tank Lines Ltd.,1647.48
+SHP-000124,Algonquin Tank Lines Ltd.,1109.02
+SHP-000126,Great Plains Railway,67372.65
+SHP-000127,Georgian Rail Services,224058.41
+SHP-000129,Atlantic Tank Lines Ltd.,662.34
+SHP-000130,Athabasca Bulk Liquid Transport,2939.00
+SHP-000131,Heartland Bulk Liquid Transport,2844.27
+SHP-000139,Athabasca Express Freight,350.00
+SHP-000142,Tidewater Marine Transport,296940.03
+SHP-000143,Acadian Railway,56283.59
+SHP-000146,Atlantic Tank Lines Ltd.,1790.15
+SHP-000147,Athabasca Bulk Liquid Transport,350.00
+SHP-000148,Qu'Appelle Fuel Haulage Co.,1087.84
+SHP-000150,Wheatland Railway,81100.80
+SHP-000151,Athabasca Flatbed Transport,350.00
+SHP-000152,Fraser Rail Services,336512.42
+SHP-000154,St. Lawrence Railway,102972.50
+SHP-000155,Fundy Petroleum Haulers Inc.,669.34
+SHP-000156,Algonquin Tank Lines Ltd.,701.06
+SHP-000157,Summit Bulk Liquid Transport,350.00
+SHP-000158,Qu'Appelle Tank Lines Ltd.,431.36
+SHP-000159,Saguenay Fuel Haulage Co.,1087.29
+SHP-000163,Cabot Freight Systems Inc.,1733.39
+SHP-000167,Red River Petroleum Haulers Inc.,406.96
+SHP-000168,Maple Bulk Liquid Transport,1655.87
+SHP-000170,Red River Tank Lines Ltd.,1192.80
+SHP-000171,Capital Express Freight,350.00
+SHP-000172,Cascade Heavy Haul Ltd.,350.00
+SHP-000174,Qu'Appelle Short Line Railway,256468.41
+SHP-000175,Gaspe Barge Lines,296362.04
+SHP-000177,Atlantic Shipping Co.,110575.60
+SHP-000178,Georgian Bulk Liquid Transport,350.00
+SHP-000179,Pacific Express Freight,1472.56
+SHP-000181,Fraser Petroleum Haulers Inc.,761.11
+SHP-000182,Tidewater Tank Lines Ltd.,1087.40
+SHP-000185,Bow Valley Petroleum Haulers Inc.,350.00
+SHP-000186,Peace Country Bulk Liquid Transport,1347.92
+SHP-000187,Fraser Petroleum Haulers Inc.,921.32
+SHP-000189,Wheatland Bulk Liquid Transport,2143.27
+SHP-000193,Atlantic Shipping Co.,304405.38
+SHP-000196,Maple Tank Lines Ltd.,1138.78
+SHP-000198,Pacific Express Freight,1870.78
+SHP-000200,Great Plains Railway,264041.67
+SHP-000205,Qu'Appelle Tank Lines Ltd.,387.16
+SHP-000210,Fraser Rail Services,178118.90
+SHP-000213,Pacific Heavy Haul Ltd.,2682.23
+SHP-000214,Pacific Express Freight,1782.33
+SHP-000215,Coastal Freight Systems Inc.,1696.67
+SHP-000216,Georgian Rail Services,206675.13
+SHP-000220,Rocky Ridge Short Line Railway,289920.82
+SHP-000221,Peace Country Bulk Liquid Transport,702.88
+SHP-000222,Summit Bulk Liquid Transport,944.28
+SHP-000224,Red River Tank Lines Ltd.,350.00
+SHP-000225,Gaspe Petroleum Haulers Inc.,350.00
+SHP-000228,Summit Rail Services,193496.61
+SHP-000230,Cascade Tank Lines Ltd.,1904.23
+SHP-000232,Heartland Bulk Liquid Transport,1591.04
+SHP-000233,Lakehead Petroleum Haulers Inc.,1621.71
+SHP-000234,Saskatchewan Valley Bulk Liquid Transport,2245.31
+SHP-000236,Athabasca Fuel Haulage Co.,1251.30
+SHP-000239,Prairie Railway,259075.10
+SHP-000242,Acadian Marine Transport,439464.99
+SHP-000243,Peace Country Petroleum Haulers Inc.,798.21
+SHP-000244,Cascade Fuel Haulage Co.,4307.88
+SHP-000245,Great Plains Bulk Liquid Transport,350.88
+SHP-000246,Lakeshore Petroleum Haulers Inc.,350.00
+SHP-000248,Pacific Heavy Haul Ltd.,350.00
+SHP-000250,Bow Valley Rail Services,209335.98
+SHP-000251,Fraser Petroleum Haulers Inc.,350.00
+SHP-000252,Summit Petroleum Haulers Inc.,1452.59
+SHP-000255,Capital Fuel Haulage Co.,2877.79
+SHP-000256,Laurentian Petroleum Haulers Inc.,1096.46
+SHP-000258,Cabot Rail Services,245702.72
+SHP-000261,Acadian Fuel Haulage Co.,1604.50
+SHP-000263,Pacific Heavy Haul Ltd.,350.00
+SHP-000267,Tidewater Bulk Liquid Transport,350.00
+SHP-000268,Parkland Tanker Services,145224.44
+SHP-000270,Athabasca Railway,355369.42
+SHP-000272,Great Plains Railway,109559.35
+SHP-000277,Fundy Petroleum Haulers Inc.,389.33
+SHP-000279,Tidewater Bulk Liquid Transport,1100.26
+SHP-000280,Pacific Express Freight,2372.85
+SHP-000281,Great Plains Heavy Haul Ltd.,2347.01
+SHP-000282,Athabasca Flatbed Transport,1799.34
+SHP-000284,Cascade Flatbed Transport,350.00
+SHP-000289,Pacific Petroleum Haulers Inc.,350.00
+SHP-000290,Coastal Fuel Haulage Co.,1826.36
+SHP-000291,Foothills Bulk Liquid Transport,1269.23
+SHP-000293,Great Plains Petroleum Haulers Inc.,2925.90
+SHP-000294,Summit Petroleum Haulers Inc.,2971.05
+SHP-000295,Lakehead Bulk Liquid Transport,350.00
+SHP-000296,Laurentian Fuel Haulage Co.,1035.10
+SHP-000297,Qu'Appelle Tank Lines Ltd.,350.00
+SHP-000298,Athabasca Flatbed Transport,2407.11
+SHP-000303,Tidewater Tank Lines Ltd.,1732.33
+SHP-000304,Wheatland Bulk Liquid Transport,1735.46
+SHP-000306,Fundy Tank Lines Ltd.,350.00
+SHP-000307,Fundy Tank Lines Ltd.,411.70
+SHP-000308,Niagara Tank Lines Ltd.,2361.04
+SHP-000309,Huron Tank Lines Ltd.,350.00
+SHP-000312,Acadian Fuel Haulage Co.,1047.33
+SHP-000313,Saguenay Tank Lines Ltd.,350.00
+SHP-000315,Fraser Fuel Haulage Co.,350.00
+SHP-000317,Heartland Petroleum Haulers Inc.,3143.03
+SHP-000318,Red River Fuel Haulage Co.,3223.08
+SHP-000320,Saskatchewan Valley Bulk Liquid Transport,350.00
+SHP-000322,Wheatland Railway,226473.32
+SHP-000329,Laurentian Fuel Haulage Co.,350.00
+SHP-000332,Athabasca Express Freight,350.00
+SHP-000334,Fraser Rail Services,264963.51
+SHP-000336,Gaspe Rail Services,33148.59
+SHP-000337,Summit Petroleum Haulers Inc.,1233.46
+SHP-000338,Peace Country Petroleum Haulers Inc.,1085.59
+SHP-000339,Huron Fuel Haulage Co.,350.00
+SHP-000340,Gaspe Fuel Haulage Co.,1187.17
+SHP-000341,Saguenay Fuel Haulage Co.,2075.13
+SHP-000342,Rocky Ridge Short Line Railway,173822.82
+SHP-000343,Maritime Logistics Group,33691.98
+SHP-000345,Great Lakes Bulk Liquid Transport,781.26
+SHP-000346,Bow Valley Petroleum Haulers Inc.,350.00
+SHP-000347,Wheatland Petroleum Haulers Inc.,385.97
+SHP-000348,Red River Fuel Haulage Co.,3272.08
+SHP-000352,Saguenay Tank Lines Ltd.,1130.07
+SHP-000355,Parkland Flatbed Transport,350.00
+SHP-000356,Wheatland Railway,96977.82
+SHP-000359,Bow Valley Intermodal Services,28388.94
+SHP-000360,Fundy Tanker Services,255178.81
+SHP-000363,Parkland Marine Transport,285710.46
+SHP-000366,Athabasca Flatbed Transport,1682.79
+SHP-000367,Badlands Railway,99924.03
+SHP-000369,Niagara Railway,144097.80
+SHP-000370,Rocky Ridge Short Line Railway,138474.53
+SHP-000373,Bow Valley Tank Lines Ltd.,1269.63
+SHP-000374,Assiniboine Tank Lines Ltd.,362.97
+SHP-000376,Parkland Fuel Haulage Co.,3103.94
+SHP-000378,Pacific Express Freight,1559.37
+SHP-000380,Athabasca Intermodal Services,56596.50
+SHP-000381,Bow Valley Rail Services,252430.40
+SHP-000382,Summit Rail Services,100650.70
+SHP-000388,Athabasca Express Freight,350.00
+SHP-000391,Cascade Petroleum Haulers Inc.,1078.52
+SHP-000392,Red River Fuel Haulage Co.,388.84
+SHP-000393,Badlands Fuel Haulage Co.,411.81
+SHP-000397,Fraser Rail Services,213874.96
+SHP-000400,Bow Valley Tank Lines Ltd.,698.10
+SHP-000402,Cascade Petroleum Haulers Inc.,995.75
+SHP-000408,Assiniboine Heavy Haul Ltd.,1503.14
+SHP-000411,Cabot Rail Services,72723.73
+SHP-000412,Great Plains Bulk Liquid Transport,1076.38
+SHP-000415,Fundy Petroleum Haulers Inc.,1316.99
+SHP-000416,St. Lawrence Petroleum Haulers Inc.,1030.53
+SHP-000421,Coastal Fuel Haulage Co.,898.13
+SHP-000422,Great Lakes Tank Lines Ltd.,350.00
+SHP-000425,Athabasca Express Freight,350.00
+SHP-000427,Saskatchewan Valley Bulk Liquid Transport,414.64
+SHP-000429,Cabot Tank Lines Ltd.,1199.91
+SHP-000431,Summit Heavy Haul Ltd.,2465.64
+SHP-000432,Assiniboine Express Freight,1505.41
+SHP-000433,Huron 3PL Solutions,38054.65
+SHP-000434,Bow Valley Intermodal Services,20569.82
+SHP-000436,Qu'Appelle Short Line Railway,93714.05
+SHP-000438,Cascade Tank Lines Ltd.,2101.89
+SHP-000442,Parkland Bulk Liquid Transport,3243.32
+SHP-000443,Tidewater Petroleum Haulers Inc.,3368.80
+SHP-000445,Great Lakes Tank Lines Ltd.,350.00
+SHP-000447,Superior Fuel Haulage Co.,1644.83
+SHP-000453,Cabot Bulk Liquid Transport,350.00
+SHP-000454,Maple Tank Lines Ltd.,350.00
+SHP-000456,Fraser Rail Services,290740.09
+SHP-000457,Peace Country Tank Lines Ltd.,755.07
+SHP-000459,St. Lawrence Fuel Haulage Co.,419.77
+SHP-000462,Algonquin Tank Lines Ltd.,1827.02
+SHP-000465,Cabot Freight Systems Inc.,2448.47
+SHP-000466,Badlands Railway,111796.98
+SHP-000467,Fraser Logistics Group,13526.90
+SHP-000470,Saskatchewan Valley Bulk Liquid Transport,402.02
+SHP-000471,Prairie Tank Lines Ltd.,425.77
+SHP-000472,Algonquin Petroleum Haulers Inc.,1780.79
+SHP-000473,Tidewater Bulk Liquid Transport,1173.65
+SHP-000475,Pacific Express Freight,350.00
+SHP-000476,Qu'Appelle Short Line Railway,322484.49
+SHP-000477,Cascade Freight Systems Inc.,350.00
+SHP-000478,Rocky Ridge Short Line Railway,131894.73
+SHP-000480,Parkland Petroleum Haulers Inc.,350.00
+SHP-000481,Pacific Bulk Liquid Transport,350.00
+SHP-000484,Superior Fuel Haulage Co.,1651.88
+SHP-000488,Fraser Logistics Group,13491.88
+SHP-000491,Peace Country Bulk Liquid Transport,1339.88
+SHP-000494,Pacific Petroleum Haulers Inc.,3065.20
+SHP-000497,Pacific Heavy Haul Ltd.,1281.37
+SHP-000498,Athabasca Express Freight,350.00
+SHP-000499,Fraser Rail Services,195102.24
+SHP-000500,Fraser Rail Services,288212.25
+SHP-000501,Niagara Railway,149985.69
+SHP-000503,Saguenay Tank Lines Ltd.,697.50
+SHP-000504,Rocky Ridge Bulk Liquid Transport,350.00
+SHP-000505,Peace Country Tank Lines Ltd.,1168.16
+SHP-000510,Bow Valley Intermodal Services,39307.17
+SHP-000512,Summit Rail Services,283647.84
+SHP-000514,Rocky Ridge Short Line Railway,279212.74
+SHP-000515,Heartland Bulk Liquid Transport,350.00
+SHP-000518,Prairie Petroleum Haulers Inc.,423.87
+SHP-000519,Assiniboine Fuel Haulage Co.,1128.14
+SHP-000520,Georgian Bulk Liquid Transport,2551.55
+SHP-000521,Saguenay Bulk Liquid Transport,1095.52
+SHP-000522,Tidewater Petroleum Haulers Inc.,1141.78
+SHP-000525,St. Lawrence Railway,163122.02
+SHP-000529,Assiniboine Fuel Haulage Co.,4033.55
+SHP-000530,Athabasca Bulk Liquid Transport,998.02
+SHP-000535,Summit Rail Services,732026.33
+SHP-000538,Cabot Tank Lines Ltd.,350.00
+SHP-000540,Laurentian Petroleum Haulers Inc.,350.00
+SHP-000541,Cascade Freight Systems Inc.,1679.22
+SHP-000543,Athabasca Flatbed Transport,350.00
+SHP-000544,Summit Rail Services,262629.57
+SHP-000546,Gaspe Barge Lines,477678.89
+SHP-000547,Peace Country Tank Lines Ltd.,4461.60
+SHP-000548,Qu'Appelle Tank Lines Ltd.,2603.69
+SHP-000551,Gaspe Rail Services,405119.31
+SHP-000553,Pacific Heavy Haul Ltd.,1527.47
+SHP-000554,Badlands Railway,173696.95
+SHP-000556,Prairie Railway,270555.68
+SHP-000557,Lakeshore Rail Services,294091.45
+SHP-000558,Tidewater Marine Transport,430013.74
+SHP-000561,Maple Petroleum Haulers Inc.,350.00
+SHP-000564,Great Lakes Rail Services,327743.84
+SHP-000565,Great Lakes Tanker Services,129717.49
+SHP-000566,Badlands Bulk Liquid Transport,393.40
+SHP-000567,Algonquin Tank Lines Ltd.,3088.79
+SHP-000568,Atlantic Shipping Co.,186083.83
+SHP-000570,Athabasca Flatbed Transport,350.00
+SHP-000571,Athabasca Railway,157659.69
+SHP-000573,Rocky Ridge Short Line Railway,792715.02
+SHP-000575,Summit Petroleum Haulers Inc.,350.00
+SHP-000577,Parkland Bulk Liquid Transport,405.17
+SHP-000578,Pacific Petroleum Haulers Inc.,3425.64
+SHP-000579,Great Plains Petroleum Haulers Inc.,350.00
+SHP-000582,Fundy Petroleum Haulers Inc.,2373.79
+SHP-000583,Saguenay Fuel Haulage Co.,1348.91
+SHP-000585,Georgian Bulk Liquid Transport,350.00
+SHP-000586,Athabasca Railway,471074.04
+SHP-000589,Cascade Freight Systems Inc.,350.00
+SHP-000590,Capital Flatbed Transport,350.00
+SHP-000591,Fraser Rail Services,367153.38
+SHP-000593,Badlands Petroleum Haulers Inc.,375.98
+SHP-000594,Badlands Petroleum Haulers Inc.,1214.53
+SHP-000595,Lakeshore Fuel Haulage Co.,350.00
+SHP-000596,Huron Fuel Haulage Co.,350.00
+SHP-000598,Wheatland Railway,210644.25
+SHP-000601,Prairie Tank Lines Ltd.,2842.25
+SHP-000602,Assiniboine Tank Lines Ltd.,361.98
+SHP-000603,Red River Fuel Haulage Co.,408.47
+SHP-000604,Red River Tank Lines Ltd.,3277.00
+SHP-000606,Gaspe Petroleum Haulers Inc.,1159.14
+SHP-000609,Wheatland Railway,189462.75
+SHP-000611,Athabasca Railway,235505.58
+SHP-000613,Cabot Rail Services,789380.62
+SHP-000614,Great Plains Railway,1136660.81
+SHP-000617,Bow Valley Petroleum Haulers Inc.,415.92
+SHP-000620,Rocky Ridge Freight Systems Inc.,350.00
+SHP-000621,Summit Rail Services,365946.26
+SHP-000624,Rocky Ridge Bulk Liquid Transport,1364.36
+SHP-000627,Maritime Bulk Liquid Transport,1123.55
+SHP-000628,Athabasca Railway,422236.71
+SHP-000635,Huron Fuel Haulage Co.,350.00
+SHP-000636,Huron Tank Lines Ltd.,1689.66
+SHP-000638,Red River Petroleum Haulers Inc.,2339.08
+SHP-000642,Georgian Petroleum Haulers Inc.,1463.73
+SHP-000643,Parkland Bulk Liquid Transport,350.00
+SHP-000645,Algonquin Tank Lines Ltd.,350.00
+SHP-000647,Superior Tank Lines Ltd.,1247.67
+SHP-000652,Rocky Ridge Tank Lines Ltd.,1269.80
+SHP-000656,Superior Fuel Haulage Co.,2525.46
+SHP-000657,Laurentian Fuel Haulage Co.,350.00
+SHP-000659,Athabasca Flatbed Transport,1589.80
+SHP-000666,Pacific Petroleum Haulers Inc.,350.00
+SHP-000667,Huron Tank Lines Ltd.,4369.00
+SHP-000668,Pacific Bulk Liquid Transport,350.00
+SHP-000670,Red River Petroleum Haulers Inc.,428.47
+SHP-000671,Gaspe Fuel Haulage Co.,1014.38
+SHP-000672,Saskatchewan Valley Bulk Liquid Transport,1076.69
+SHP-000674,Saguenay Tank Lines Ltd.,1216.54
+SHP-000679,Fraser Rail Services,128604.18
+SHP-000680,Pacific Fuel Haulage Co.,350.00
+SHP-000684,Lakeshore Petroleum Haulers Inc.,1519.25
+SHP-000685,Rocky Ridge Freight Systems Inc.,350.00
+SHP-000689,Lakeshore Heavy Haul Ltd.,350.00
+SHP-000692,Athabasca Railway,237246.68
+SHP-000694,Cascade Fuel Haulage Co.,962.08
+SHP-000695,Athabasca Tank Lines Ltd.,350.00
+SHP-000699,Saguenay Tank Lines Ltd.,2670.65
+SHP-000700,Laurentian Fuel Haulage Co.,350.00
+SHP-000701,St. Lawrence Railway,158270.85
+SHP-000702,Cascade Flatbed Transport,350.00
+SHP-000704,Rocky Ridge Tank Lines Ltd.,1895.16
+SHP-000705,Cascade Fuel Haulage Co.,1342.90
+SHP-000706,Bow Valley Petroleum Haulers Inc.,1072.76
+SHP-000711,Cascade Heavy Haul Ltd.,1634.90
+SHP-000715,Coastal Bulk Liquid Transport,789.29
+SHP-000718,Foothills Bulk Liquid Transport,350.00
+SHP-000719,Saskatchewan Valley Tank Lines Ltd.,375.28
+SHP-000721,Niagara Tank Lines Ltd.,1879.86
+SHP-000722,Saskatchewan Valley Express Freight,2511.04
+SHP-000723,Cascade Flatbed Transport,1682.03
+SHP-000729,Saguenay Railway,71660.09
+SHP-000730,Athabasca Bulk Liquid Transport,350.00
+SHP-000731,Rocky Ridge Bulk Liquid Transport,1419.56
+SHP-000732,Assiniboine Fuel Haulage Co.,1150.81
+SHP-000734,Great Lakes Bulk Liquid Transport,1544.18
+SHP-000736,Athabasca Express Freight,1789.38
+SHP-000740,Bow Valley Rail Services,127835.89
+SHP-000743,Pacific Fuel Haulage Co.,1106.39
+SHP-000744,Peace Country Bulk Liquid Transport,433.24
+SHP-000746,Badlands Railway,145515.56
+SHP-000747,Fraser Rail Services,188234.12
+SHP-000748,Bow Valley Rail Services,652453.71
+SHP-000749,Athabasca Railway,713628.61
+SHP-000750,Coastal Bulk Liquid Transport,728.58
+SHP-000751,Badlands Petroleum Haulers Inc.,397.86
+SHP-000756,Pacific Heavy Haul Ltd.,350.00
+SHP-000758,Superior Logistics Group,33457.98
+SHP-000762,Coastal Bulk Liquid Transport,350.00
+SHP-000765,Wheatland Petroleum Haulers Inc.,350.00
+SHP-000766,Coastal Freight Systems Inc.,350.00
+SHP-000767,Lakeshore Heavy Haul Ltd.,350.00
+SHP-000768,Acadian Railway,167469.56
+SHP-000774,Atlantic Shipping Co.,96768.72
+SHP-000777,Fraser Fuel Haulage Co.,350.00
+SHP-000779,Cascade Petroleum Haulers Inc.,350.00
+SHP-000780,Superior Tank Lines Ltd.,398.64
+SHP-000781,Great Lakes Tank Lines Ltd.,350.00
+SHP-000784,Fraser Rail Services,351891.49
+SHP-000786,Summit Bulk Liquid Transport,810.98
+SHP-000789,Cascade Tank Lines Ltd.,350.00
+SHP-000790,Athabasca Tank Lines Ltd.,350.00
+SHP-000794,Acadian Express Freight,1800.75
+SHP-000796,Coastal Fuel Haulage Co.,350.00
+SHP-000798,Huron Tank Lines Ltd.,2282.29
+SHP-000801,Capital Flatbed Transport,1477.66
+SHP-000802,Rocky Ridge Freight Systems Inc.,350.00
+SHP-000804,Rocky Ridge Short Line Railway,281697.38
+SHP-000806,Wheatland Petroleum Haulers Inc.,1147.77
+SHP-000807,Algonquin Tank Lines Ltd.,350.00
+SHP-000810,Summit Rail Services,231992.56
+SHP-000811,Niagara Railway,153665.97
+SHP-000814,Gaspe Fuel Haulage Co.,350.00
+SHP-000816,Cascade Heavy Haul Ltd.,1791.22
+SHP-000819,Georgian Rail Services,103056.12
+SHP-000822,Great Lakes Tank Lines Ltd.,2529.13
+SHP-000823,Bow Valley Tank Lines Ltd.,1294.61
+SHP-000826,Acadian Freight Systems Inc.,2623.32
+SHP-000829,Acadian Tanker Services,206960.84
+SHP-000830,Acadian Railway,91162.07
+SHP-000831,Peace Country Tank Lines Ltd.,3971.60
+SHP-000832,Athabasca Fuel Haulage Co.,1284.22
+SHP-000834,Fraser Intermodal Services,42572.10
+SHP-000835,Bow Valley Rail Services,321271.65
+SHP-000838,Parkland Bulk Liquid Transport,1070.83
+SHP-000839,Niagara Tank Lines Ltd.,350.00
+SHP-000840,Tidewater Marine Transport,215183.20
+SHP-000842,Coastal Freight Systems Inc.,1544.39
+SHP-000845,Summit Rail Services,103844.17
+SHP-000847,St. Lawrence Fuel Haulage Co.,350.00
+SHP-000849,Saskatchewan Valley Bulk Liquid Transport,1246.25
+SHP-000851,Fundy Petroleum Haulers Inc.,350.00
+SHP-000852,Algonquin Petroleum Haulers Inc.,1624.58
+SHP-000853,Maple Tank Lines Ltd.,1670.30
+SHP-000858,Rocky Ridge Short Line Railway,280491.56
+SHP-000859,Acadian Bulk Liquid Transport,389.15
+SHP-000861,Georgian Petroleum Haulers Inc.,1893.91
+SHP-000863,Fraser Petroleum Haulers Inc.,350.00
+SHP-000864,Heartland Bulk Liquid Transport,396.11
+SHP-000865,Qu'Appelle Fuel Haulage Co.,377.75
+SHP-000867,Lakehead Petroleum Haulers Inc.,350.00
+SHP-000868,Wheatland Railway,73197.84
+SHP-000869,Prairie Railway,276259.37
+SHP-000873,Fraser Rail Services,932939.90
+SHP-000874,Peace Country Petroleum Haulers Inc.,714.51
+SHP-000877,Superior Fuel Haulage Co.,350.00
+SHP-000878,Red River Fuel Haulage Co.,1168.51
+SHP-000884,Cascade Petroleum Haulers Inc.,350.00
+SHP-000885,Algonquin Tank Lines Ltd.,1601.64
+SHP-000887,Cabot Tank Lines Ltd.,1061.64
+SHP-000888,Cascade Freight Systems Inc.,2667.91
+SHP-000890,Parkland Flatbed Transport,1662.70
+SHP-000891,Peace Country Logistics Group,57230.18
+SHP-000894,Tidewater Marine Transport,126546.46
+SHP-000895,Gaspe Barge Lines,422139.31
+SHP-000899,Lakehead Bulk Liquid Transport,2388.62
+SHP-000901,Pacific Heavy Haul Ltd.,1343.02
+SHP-000903,Summit Rail Services,1184613.31
+SHP-000905,Georgian Petroleum Haulers Inc.,1682.18
+SHP-000906,Cascade Freight Systems Inc.,1585.78
+SHP-000908,Summit Petroleum Haulers Inc.,1370.71
+SHP-000909,Pacific Bulk Liquid Transport,350.00
+SHP-000910,Saguenay Tank Lines Ltd.,2160.88
+SHP-000914,Athabasca Fuel Haulage Co.,350.00
+SHP-000916,Great Plains Petroleum Haulers Inc.,1220.95
+SHP-000920,Athabasca Intermodal Services,29380.69
+SHP-000923,Red River Tank Lines Ltd.,350.00
+SHP-000924,Saguenay Bulk Liquid Transport,350.00
+SHP-000927,Acadian Petroleum Haulers Inc.,1317.71
+SHP-000928,Saguenay Bulk Liquid Transport,1194.86
+SHP-000929,Parkland Marine Transport,156462.97
+SHP-000931,Cabot Flatbed Transport,1842.59
+SHP-000936,Rocky Ridge Bulk Liquid Transport,1372.54
+SHP-000938,Athabasca Tank Lines Ltd.,350.00
+SHP-000940,Parkland Fuel Haulage Co.,392.17
+SHP-000942,Superior Fuel Haulage Co.,350.00
+SHP-000944,Tidewater Tank Lines Ltd.,1158.17
+SHP-000945,Athabasca Tank Lines Ltd.,1094.31
+SHP-000946,Rocky Ridge Short Line Railway,315520.21
+SHP-000947,Great Plains Railway,166444.27
+SHP-000950,Peace Country Petroleum Haulers Inc.,807.38
+SHP-000952,Athabasca Bulk Liquid Transport,655.68
+SHP-000953,Acadian Petroleum Haulers Inc.,1597.37
+SHP-000955,Cascade Freight Systems Inc.,1584.03
+SHP-000956,Pacific Intermodal Services,62514.87
+SHP-000964,Summit Petroleum Haulers Inc.,723.87
+SHP-000965,Pacific Bulk Liquid Transport,1396.86
+SHP-000968,Lakehead Bulk Liquid Transport,350.00
+SHP-000975,Fundy Tank Lines Ltd.,1187.62
+SHP-000976,Acadian Marine Transport,149324.17
+SHP-000977,Athabasca Flatbed Transport,350.00
+SHP-000980,Fraser Rail Services,154558.90
+SHP-000981,Gaspe Barge Lines,86214.62
+SHP-000982,Peace Country Petroleum Haulers Inc.,1807.59
+SHP-000983,Foothills Bulk Liquid Transport,1041.30
+SHP-000984,Huron Bulk Liquid Transport,350.00
+SHP-000989,Laurentian Heavy Haul Ltd.,1584.36
+SHP-000990,Cascade Heavy Haul Ltd.,1487.09
+SHP-000991,Heartland Intermodal Services,34144.54
+SHP-000992,Peace Country Logistics Group,13604.65
+SHP-000993,Summit Rail Services,121050.62
+SHP-000996,Coastal Bulk Liquid Transport,350.00
+SHP-000997,Summit Bulk Liquid Transport,350.00
+SHP-000998,Georgian Petroleum Haulers Inc.,1603.85
+SHP-000999,Gaspe Fuel Haulage Co.,350.00
