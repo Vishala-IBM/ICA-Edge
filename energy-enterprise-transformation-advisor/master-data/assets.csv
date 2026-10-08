@@ -1,0 +1,501 @@
+Asset_ID,Asset_Name,Asset_Type,Asset_Class,Plant_ID,Facility_ID,Business_Unit_ID,Region_ID,Province,Functional_Location,Manufacturer,Install_Date,Criticality,Status,Replacement_Value_CAD,SAP_Maintenance_Plant,Work_Order_Count,Maintenance_Cost_CAD,Failure_Count,Incident_Count,Legacy_Site_Code
+AST-00001,GC-32 Emulsion Transfer Gas Compressor,Gas Compressor (Recip),Rotating Equipment,,FAC-03,BU-UPS,REG-AB,AB,CA-AB-FAC-03-GC032,Sulzer,2014-04-12,A,Active,150000,,5,425871.15,0,1,FAC-03
+AST-00002,P-212 Naphtha Feed Pump,Centrifugal Pump,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-P212,ABB,1988-01-01,A,Active,95000,R200,3,5816.13,0,0,R200
+AST-00003,P-121 Emulsion Transfer Pump,Centrifugal Pump,Rotating Equipment,,FAC-12,BU-UPS,REG-AB,AB,CA-AB-FAC-12-P121,Ingersoll Rand,2019-03-13,C,Active,44000,,0,0,0,0,FAC-12
+AST-00004,P-307 FCC Slurry Pump,Centrifugal Pump,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-P307,Flowserve,2006-04-07,C,Active,36000,R300,2,18782.5,2,0,R300
+AST-00005,ST-103 FCC Slurry Steam Turbine,Steam Turbine,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-ST103,Siemens Energy,2011-04-23,C,Active,94000,R100,2,12153.3,2,0,R100
+AST-00006,WH-101 Condensate Wellhead,Wellhead,Static Equipment,,FAC-10,BU-UPS,REG-AB,AB,CA-AB-FAC-10-WH101,Weatherford,2009-08-27,B,Active,57000,,3,35600.24,0,0,FAC-10
+AST-00007,TK-91 Sales Gas Storage Tank,Storage Tank,Static Equipment,,FAC-09,BU-UPS,REG-AB,AB,CA-AB-FAC-09-TK091,Chart Industries,2007-10-28,A,Active,167000,,0,0,0,0,FAC-09
+AST-00008,E-104 FCC Slurry Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-E104,Flowserve,2008-06-19,B,Active,91000,R100,0,0,0,0,R100
+AST-00009,FV-102 Diesel Hydrotreater Feed Control Valve,Control Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-FV102,Chart Industries,1971-12-03,B,Active,20000,R100,2,29022.06,1,0,R100
+AST-00010,P-401 Rack Supply Pump,Centrifugal Pump,Rotating Equipment,T400,,BU-MID,REG-ON,MB,CA-MB-T400-P401,Cameron,2011-07-07,A,Standby,61000,T400,1,6494.95,0,0,T400
+AST-00011,PT-302 Jet Transfer Transmitter,Process Transmitter,Instrumentation and Metering,T300,,BU-MID,REG-SK,SK,CA-SK-T300-PT302,Nova Pump & Equipment,2013-05-01,C,Active,3000,T300,0,0,0,0,T300
+AST-00012,SEP-252 Steam Header Separator,Separator,Static Equipment,,FAC-25,BU-UPS,REG-SK,SK,CA-SK-FAC-25-SEP252,Alfa Laval,2016-09-04,B,Active,86000,,0,0,0,0,FAC-25
+AST-00013,E-305 Fuel Gas Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-E305,Weatherford,2023-06-02,B,Active,36000,R300,4,20632.04,2,0,R300
+AST-00014,FV-111 Sales Gas Control Valve,Control Valve,Valves and Safety Devices,,FAC-11,BU-UPS,REG-AB,AB,CA-AB-FAC-11-FV111,Ingersoll Rand,2006-12-12,B,Active,27000,,0,0,0,0,FAC-11
+AST-00015,E-101 FCC Slurry Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-E101,Emerson,1977-09-22,C,Active,33000,R100,1,139371.22,0,0,R100
+AST-00016,KC-305 Vacuum Tower Bottoms Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-KC305,WEG,1976-08-25,C,Standby,108000,R300,1,5602.8,0,0,R300
+AST-00017,V-101 Gasoline Blending Vessel,Pressure Vessel,Static Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-V101,Chart Industries,1979-05-08,C,Active,40000,R100,0,0,0,0,R100
+AST-00018,E-103 Cooling Water Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-E103,ABB,2022-05-12,A,Active,144000,R100,2,15276.19,1,0,R100
+AST-00019,P-152 Test Line Pump,Centrifugal Pump,Rotating Equipment,,FAC-15,BU-UPS,REG-AB,AB,CA-AB-FAC-15-P152,Nova Pump & Equipment,2015-01-16,C,Active,39000,,0,0,0,0,FAC-15
+AST-00020,H-203 Fuel Gas Fired Heater,Fired Heater,Fired and Heat Transfer,R200,,BU-REF,REG-ON,ON,CA-ON-R200-H203,Weatherford,2014-11-10,B,Active,173000,R200,0,0,0,0,R200
+AST-00021,TK-801 Ethanol Blend Storage Tank,Storage Tank,Static Equipment,T800,,BU-MID,REG-AB,BC,CA-BC-T800-TK801,Nova Pump & Equipment,2016-08-18,B,Active,130000,T800,1,7724.73,0,0,T800
+AST-00022,M-302 Tank Farm Motor,Electric Motor,Rotating Equipment,T300,,BU-MID,REG-SK,SK,CA-SK-T300-M302,WEG,2007-01-13,C,Active,22000,T300,2,375993.27,1,1,T300
+AST-00023,FV-32 Sales Gas Control Valve,Control Valve,Valves and Safety Devices,,FAC-03,BU-UPS,REG-AB,AB,CA-AB-FAC-03-FV032,Siemens Energy,2013-04-15,B,Active,17000,,3,14388.26,2,0,FAC-03
+AST-00024,M-202 Steam Header Motor,Electric Motor,Rotating Equipment,,FAC-20,BU-UPS,REG-SK,SK,CA-SK-FAC-20-M202,Weatherford,2016-08-18,C,Active,37000,,0,0,0,0,FAC-20
+AST-00025,FV-201 FCC Slurry Control Valve,Control Valve,Valves and Safety Devices,R200,,BU-REF,REG-ON,ON,CA-ON-R200-FV201,ABB,1978-12-12,C,Active,21000,R200,4,254249.12,3,0,R200
+AST-00026,P-116 Vacuum Tower Bottoms Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P116,Sulzer,2006-09-08,C,Active,30000,R100,1,727.21,0,0,R100
+AST-00027,KC-303 Sour Water Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-KC303,Cameron,2003-05-24,B,Active,166000,R300,3,43150.42,1,0,R300
+AST-00028,V-305 Crude Charge Vessel,Pressure Vessel,Static Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-V305,Ingersoll Rand,1984-09-05,B,Active,136000,R300,2,13069.56,0,0,R300
+AST-00029,P-115 Product Transfer Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P115,WEG,1982-11-10,A,Active,78000,R100,7,110514.68,6,0,R100
+AST-00030,KC-101 Fuel Gas Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-KC101,Chart Industries,1987-07-06,B,Active,282000,R100,1,8143.07,0,0,R100
+AST-00031,P-120 Amine Circulation Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P120,Alfa Laval,2016-06-15,C,Active,26000,R100,1,43126.25,1,0,R100
+AST-00032,M-103 Fuel Gas Motor,Electric Motor,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-M103,Sulzer,2019-06-23,C,Active,19000,R100,1,4885.32,0,0,R100
+AST-00033,M-301 Diesel Transfer Motor,Electric Motor,Rotating Equipment,T300,,BU-MID,REG-SK,SK,CA-SK-T300-M301,Baker Hughes,2023-01-14,B,Active,45000,T300,0,0,0,1,T300
+AST-00034,TK-131 Oil Shipping Storage Tank,Storage Tank,Static Equipment,,FAC-13,BU-UPS,REG-AB,AB,CA-AB-FAC-13-TK131,Cameron,2021-04-08,B,Active,149000,,1,7273.35,0,1,FAC-13
+AST-00035,TK-201 Sour Water Storage Tank,Storage Tank,Static Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-TK201,Alfa Laval,1993-02-07,C,Active,98000,R200,1,6819.21,0,0,R200
+AST-00036,P-312 Reflux Pump,Centrifugal Pump,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-P312,Emerson,1969-07-19,B,Active,61000,R300,3,5963.52,0,0,R300
+AST-00037,ESP-81 Inlet ESP Assembly,ESP,Rotating Equipment,,FAC-08,BU-UPS,REG-AB,AB,CA-AB-FAC-08-ESP081,Emerson,2018-03-13,C,Active,86000,,1,6360.94,0,0,FAC-08
+AST-00038,SEP-211 Sales Gas Separator,Separator,Static Equipment,,FAC-21,BU-UPS,REG-SK,SK,CA-SK-FAC-21-SEP211,Flowserve,2023-04-02,A,Active,126000,,8,216024.86,7,2,FAC-21
+AST-00039,PT-202 Ethanol Blend Transmitter,Process Transmitter,Instrumentation and Metering,T200,,BU-MID,REG-BC,AB,CA-AB-T200-PT202,Baker Hughes,2021-04-16,C,Active,4000,T200,1,687.02,0,0,T200
+AST-00040,H-301 Boiler Feedwater Fired Heater,Fired Heater,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-H301,ABB,1970-04-28,A,Active,468000,R300,2,1675145.45,1,0,R300
+AST-00041,TK-201 Gasoline Transfer Storage Tank,Storage Tank,Static Equipment,T200,,BU-MID,REG-BC,AB,CA-AB-T200-TK201,Cameron,2007-04-21,A,Active,124000,T200,0,0,0,0,T200
+AST-00042,K-202 Amine Circulation Recip Compressor,Reciprocating Compressor,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-K202,Chart Industries,1984-03-27,A,Active,225000,R200,8,470501.19,7,2,R200
+AST-00043,ESP-201 Fuel Gas ESP Assembly,ESP,Rotating Equipment,,FAC-20,BU-UPS,REG-SK,SK,CA-SK-FAC-20-ESP201,WEG,2015-11-26,A,Active,108000,,7,72316.3,4,0,FAC-20
+AST-00044,FV-402 Ethanol Blend Control Valve,Control Valve,Valves and Safety Devices,T400,,BU-MID,REG-ON,MB,CA-MB-T400-FV402,Baker Hughes,2020-04-21,B,Active,37000,T400,1,35546.99,1,0,T400
+AST-00045,P-107 Diesel Hydrotreater Feed Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P107,Weatherford,2011-07-28,B,Active,49000,R100,1,116400.99,1,0,R100
+AST-00046,SEP-131 Emulsion Transfer Separator,Separator,Static Equipment,,FAC-13,BU-UPS,REG-AB,AB,CA-AB-FAC-13-SEP131,Weatherford,2006-07-19,A,Active,109000,,2,19601.56,1,0,FAC-13
+AST-00047,P-205 Amine Circulation Pump,Centrifugal Pump,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-P205,Emerson,1981-03-21,B,Active,48000,R200,1,809.75,0,0,R200
+AST-00048,P-201 Sour Water Pump,Centrifugal Pump,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-P201,Ingersoll Rand,2024-02-03,C,Active,25000,R200,1,7602.54,0,0,R200
+AST-00049,FV-304 FCC Slurry Control Valve,Control Valve,Valves and Safety Devices,R300,,BU-REF,REG-QC,QC,CA-QC-R300-FV304,Emerson,1980-07-23,C,Active,10000,R300,1,2029.77,1,0,R300
+AST-00050,A-301 Amine Circulation Air Cooler,Air Cooler,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-A301,Chart Industries,2004-10-11,B,Active,70000,R300,3,336725.83,1,0,R300
+AST-00051,H-101 Naphtha Feed Fired Heater,Fired Heater,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-H101,Emerson,2022-08-10,A,Active,477000,R100,3,2070646.94,2,1,R100
+AST-00052,P-211 FCC Slurry Pump,Centrifugal Pump,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-P211,Sulzer,1970-03-03,A,Decommissioned,116000,R200,0,0,0,0,R200
+AST-00053,PT-201 Diesel Hydrotreater Feed Transmitter,Process Transmitter,Instrumentation and Metering,R200,,BU-REF,REG-ON,ON,CA-ON-R200-PT201,Alfa Laval,2014-06-01,B,Active,10000,R200,2,4168.0,2,0,R200
+AST-00054,E-309 Product Transfer Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-E309,Baker Hughes,1969-12-22,B,Active,78000,R300,1,84691.46,1,0,R300
+AST-00055,P-604 Ethanol Blend Pump,Centrifugal Pump,Rotating Equipment,T600,,BU-MID,REG-QC,QC,CA-QC-T600-P604,Honeywell,2005-11-15,C,Active,41000,T600,0,0,0,0,T600
+AST-00056,M-304 Reflux Motor,Electric Motor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-M304,Baker Hughes,1996-06-14,C,Active,28000,R300,2,19743.97,2,0,R300
+AST-00057,SEP-132 Condensate Separator,Separator,Static Equipment,,FAC-13,BU-UPS,REG-AB,AB,CA-AB-FAC-13-SEP132,Cameron,2022-01-15,C,Active,33000,,1,9471.42,0,1,FAC-13
+AST-00058,WH-231 Steam Header Wellhead,Wellhead,Static Equipment,,FAC-23,BU-UPS,REG-SK,SK,CA-SK-FAC-23-WH231,Cameron,2009-10-18,A,Decommissioned,65000,,0,0,0,0,FAC-23
+AST-00059,KC-302 Sour Water Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-KC302,GE Vernova,1979-10-23,A,Active,381000,R300,2,29564.08,0,0,R300
+AST-00060,P-603 Ethanol Blend Pump,Centrifugal Pump,Rotating Equipment,T600,,BU-MID,REG-QC,QC,CA-QC-T600-P603,ABB,2011-07-01,B,Active,43000,T600,3,19975.6,3,0,T600
+AST-00061,TK-171 Fuel Gas Storage Tank,Storage Tank,Static Equipment,,FAC-17,BU-UPS,REG-AB,AB,CA-AB-FAC-17-TK171,ABB,2009-08-07,A,Active,143000,,3,89902.56,1,1,FAC-17
+AST-00062,ST-102 Hydrogen Make-up Steam Turbine,Steam Turbine,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-ST102,Emerson,1977-05-16,C,Active,68000,R100,0,0,0,0,R100
+AST-00063,V-41 Glycol Circulation Vessel,Pressure Vessel,Static Equipment,,FAC-04,BU-UPS,REG-AB,AB,CA-AB-FAC-04-V041,WEG,2008-11-08,A,Standby,252000,,3,151121.72,2,2,FAC-04
+AST-00064,E-307 Naphtha Feed Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-E307,Weatherford,2005-11-21,C,Active,34000,R300,0,0,0,0,R300
+AST-00065,P-203 Sour Water Pump,Centrifugal Pump,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-P203,Cameron,1977-11-16,B,Active,42000,R200,2,274639.43,1,0,R200
+AST-00066,FV-106 Naphtha Feed Control Valve,Control Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-FV106,Baker Hughes,1993-09-19,C,Active,11000,R100,1,111526.06,1,0,R100
+AST-00067,V-201 Amine Circulation Vessel,Pressure Vessel,Static Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-V201,GE Vernova,1974-12-08,C,Active,79000,R200,0,0,0,0,R200
+AST-00068,V-106 Product Transfer Vessel,Pressure Vessel,Static Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-V106,Alfa Laval,2007-12-10,B,Active,151000,R100,1,5761.6,0,0,R100
+AST-00069,K-101 Naphtha Feed Recip Compressor,Reciprocating Compressor,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-K101,Flowserve,1977-02-27,B,Active,167000,R100,3,106563.32,2,1,R100
+AST-00070,TK-203 Ethanol Blend Storage Tank,Storage Tank,Static Equipment,T200,,BU-MID,REG-BC,AB,CA-AB-T200-TK203,ABB,2015-11-03,B,Active,104000,T200,0,0,0,0,T200
+AST-00071,M-503 Tank Farm Motor,Electric Motor,Rotating Equipment,T500,,BU-MID,REG-ON,ON,CA-ON-T500-M503,Nova Pump & Equipment,2007-01-14,B,Active,45000,T500,3,79868.2,3,1,T500
+AST-00072,SEP-81 Glycol Circulation Separator,Separator,Static Equipment,,FAC-08,BU-UPS,REG-AB,AB,CA-AB-FAC-08-SEP081,Cameron,2020-07-18,C,Active,36000,,1,3053.08,0,0,FAC-08
+AST-00073,PSV-104 Boiler Feedwater Relief Valve,Pressure Relief Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-PSV104,Ingersoll Rand,1988-01-12,A,Active,32000,R100,4,35052.92,2,0,R100
+AST-00074,P-117 Gasoline Blending Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P117,Siemens Energy,1974-11-22,B,Active,58000,R100,5,452866.78,2,1,R100
+AST-00075,GC-51 Produced Water Gas Compressor,Gas Compressor (Recip),Rotating Equipment,,FAC-05,BU-UPS,REG-AB,AB,CA-AB-FAC-05-GC051,ABB,2020-12-24,B,Active,180000,,4,112463.35,3,0,FAC-05
+AST-00076,M-203 Reflux Motor,Electric Motor,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-M203,GE Vernova,2006-06-22,B,Active,64000,R200,3,208105.21,2,0,R200
+AST-00077,A-101 FCC Slurry Air Cooler,Air Cooler,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-A101,Sulzer,2018-03-13,B,Active,49000,R100,1,1806.73,0,0,R100
+AST-00078,TK-301 Tank Farm Storage Tank,Storage Tank,Static Equipment,T300,,BU-MID,REG-SK,SK,CA-SK-T300-TK301,Siemens Energy,2021-03-04,B,Active,167000,T300,1,1072.24,0,1,T300
+AST-00079,FV-201 Receipt Line Control Valve,Control Valve,Valves and Safety Devices,T200,,BU-MID,REG-BC,AB,CA-AB-T200-FV201,Alfa Laval,2024-10-02,B,Active,20000,T200,0,0,0,0,T200
+AST-00080,WH-102 Glycol Circulation Wellhead,Wellhead,Static Equipment,,FAC-10,BU-UPS,REG-AB,AB,CA-AB-FAC-10-WH102,Nova Pump & Equipment,2011-08-06,B,Active,76000,,1,7503.01,0,2,FAC-10
+AST-00081,TK-141 Glycol Circulation Storage Tank,Storage Tank,Static Equipment,,FAC-14,BU-UPS,REG-AB,AB,CA-AB-FAC-14-TK141,Chart Industries,2018-09-14,C,Active,101000,,2,17039.83,0,1,FAC-14
+AST-00082,KC-203 Reflux Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-KC203,Baker Hughes,1985-02-18,C,Active,110000,R200,1,628458.06,1,0,R200
+AST-00083,PT-11 Steam Header Transmitter,Process Transmitter,Instrumentation and Metering,,FAC-01,BU-UPS,REG-BC,BC,CA-BC-FAC-01-PT011,Cameron,2019-09-24,C,Active,4000,,1,238.2,0,0,FAC-01
+AST-00084,P-210 Naphtha Feed Pump,Centrifugal Pump,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-P210,Cameron,1973-07-21,B,Active,52000,R200,0,0,0,0,R200
+AST-00085,FV-104 Gasoline Blending Control Valve,Control Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-FV104,Weatherford,2011-08-22,C,Active,15000,R100,0,0,0,0,R100
+AST-00086,M-202 Reflux Motor,Electric Motor,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-M202,GE Vernova,2021-09-27,B,Active,28000,R200,0,0,0,0,R200
+AST-00087,P-112 Boiler Feedwater Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P112,Chart Industries,2022-12-22,C,Active,22000,R100,1,6845.66,0,0,R100
+AST-00088,WH-91 Steam Header Wellhead,Wellhead,Static Equipment,,FAC-09,BU-UPS,REG-AB,AB,CA-AB-FAC-09-WH091,Alfa Laval,2012-04-22,A,Active,100000,,3,11382.66,0,0,FAC-09
+AST-00089,K-201 Gasoline Blending Recip Compressor,Reciprocating Compressor,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-K201,Baker Hughes,2024-08-03,B,Active,233000,R200,13,350748.36,11,1,R200
+AST-00090,ESP-121 Oil Shipping ESP Assembly,ESP,Rotating Equipment,,FAC-12,BU-UPS,REG-AB,AB,CA-AB-FAC-12-ESP121,WEG,2018-04-11,C,Active,100000,,5,1155500.04,5,0,FAC-12
+AST-00091,FV-21 Produced Water Control Valve,Control Valve,Valves and Safety Devices,,FAC-02,BU-UPS,REG-BC,BC,CA-BC-FAC-02-FV021,Flowserve,2021-04-24,B,Active,37000,,0,0,0,0,FAC-02
+AST-00092,P-301 Diesel Transfer Pump,Centrifugal Pump,Rotating Equipment,T300,,BU-MID,REG-SK,SK,CA-SK-T300-P301,Siemens Energy,2022-01-21,C,Active,28000,T300,0,0,0,0,T300
+AST-00093,V-301 Product Transfer Vessel,Pressure Vessel,Static Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-V301,WEG,1974-05-24,A,Active,121000,R300,3,42358.48,2,0,R300
+AST-00094,E-181 Inlet Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,,FAC-18,BU-UPS,REG-AB,AB,CA-AB-FAC-18-E181,Alfa Laval,2019-04-12,A,Active,71000,,1,615.09,0,0,FAC-18
+AST-00095,ESP-111 Fuel Gas ESP Assembly,ESP,Rotating Equipment,,FAC-11,BU-UPS,REG-AB,AB,CA-AB-FAC-11-ESP111,Chart Industries,2006-07-12,A,Active,277000,,7,156608.31,4,0,FAC-11
+AST-00096,M-91 Sales Gas Motor,Electric Motor,Rotating Equipment,,FAC-09,BU-UPS,REG-AB,AB,CA-AB-FAC-09-M091,Ingersoll Rand,2013-05-22,A,Active,92000,,6,79642.09,5,0,FAC-09
+AST-00097,P-111 Vacuum Tower Bottoms Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P111,WEG,1969-08-19,B,Active,30000,R100,5,102151.7,4,1,R100
+AST-00098,PJ-221 Sales Gas Pumpjack,Pumpjack,Rotating Equipment,,FAC-22,BU-UPS,REG-SK,SK,CA-SK-FAC-22-PJ221,Chart Industries,2015-06-23,C,Active,42000,,1,11991.72,1,0,FAC-22
+AST-00099,M-241 Fuel Gas Motor,Electric Motor,Rotating Equipment,,FAC-24,BU-UPS,REG-SK,SK,CA-SK-FAC-24-M241,Weatherford,2015-12-22,C,Active,21000,,3,23627.09,2,2,FAC-24
+AST-00100,FL-122 Oil Shipping Flare Stack,Flare Stack,Static Equipment,,FAC-12,BU-UPS,REG-AB,AB,CA-AB-FAC-12-FL122,Emerson,2015-10-24,A,Active,77000,,2,21332.95,0,0,FAC-12
+AST-00101,FV-601 Diesel Transfer Control Valve,Control Valve,Valves and Safety Devices,T600,,BU-MID,REG-QC,QC,CA-QC-T600-FV601,ABB,2019-04-22,C,Active,19000,T600,1,3803.35,0,0,T600
+AST-00102,P-81 Fuel Gas Pump,Centrifugal Pump,Rotating Equipment,,FAC-08,BU-UPS,REG-AB,AB,CA-AB-FAC-08-P081,Cameron,2005-06-05,B,Active,67000,,8,104202.99,5,2,FAC-08
+AST-00103,P-605 Gasoline Transfer Pump,Centrifugal Pump,Rotating Equipment,T600,,BU-MID,REG-QC,QC,CA-QC-T600-P605,Baker Hughes,2010-11-09,C,Active,40000,T600,2,72175.14,2,0,T600
+AST-00104,TK-111 Emulsion Transfer Storage Tank,Storage Tank,Static Equipment,,FAC-11,BU-UPS,REG-AB,AB,CA-AB-FAC-11-TK111,Chart Industries,2005-05-15,C,Active,79000,,0,0,0,0,FAC-11
+AST-00105,HT-121 Steam Header Heater Treater,Heater Treater,Fired and Heat Transfer,,FAC-12,BU-UPS,REG-AB,AB,CA-AB-FAC-12-HT121,Emerson,2006-05-27,B,Decommissioned,40000,,0,0,0,0,FAC-12
+AST-00106,KC-304 Amine Circulation Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-KC304,Emerson,2016-08-12,C,Active,155000,R300,1,3992.02,0,0,R300
+AST-00107,FV-202 Diesel Transfer Control Valve,Control Valve,Valves and Safety Devices,T200,,BU-MID,REG-BC,AB,CA-AB-T200-FV202,Flowserve,2024-04-04,C,Active,18000,T200,0,0,0,0,T200
+AST-00108,TK-191 Emulsion Transfer Storage Tank,Storage Tank,Static Equipment,,FAC-19,BU-UPS,REG-AB,AB,CA-AB-FAC-19-TK191,Sulzer,2021-12-03,A,Active,128000,,1,23688.67,0,0,FAC-19
+AST-00109,PT-204 Product Transfer Transmitter,Process Transmitter,Instrumentation and Metering,R200,,BU-REF,REG-ON,ON,CA-ON-R200-PT204,Cameron,2004-05-12,B,Active,11000,R200,4,17796.52,3,1,R200
+AST-00110,P-191 Produced Water Pump,Centrifugal Pump,Rotating Equipment,,FAC-19,BU-UPS,REG-AB,AB,CA-AB-FAC-19-P191,Emerson,2025-07-22,B,Active,33000,,3,4673.57,1,1,FAC-19
+AST-00111,P-71 Test Line Pump,Centrifugal Pump,Rotating Equipment,,FAC-07,BU-UPS,REG-AB,AB,CA-AB-FAC-07-P071,Weatherford,2012-12-21,C,Mothballed,28000,,0,0,0,0,FAC-07
+AST-00112,HT-81 Emulsion Transfer Heater Treater,Heater Treater,Fired and Heat Transfer,,FAC-08,BU-UPS,REG-AB,AB,CA-AB-FAC-08-HT081,Honeywell,2005-09-10,B,Active,59000,,5,166703.1,4,1,FAC-08
+AST-00113,SEP-121 Fuel Gas Separator,Separator,Static Equipment,,FAC-12,BU-UPS,REG-AB,AB,CA-AB-FAC-12-SEP121,Alfa Laval,2009-03-11,B,Active,87000,,2,15571.07,0,0,FAC-12
+AST-00114,P-105 Amine Circulation Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P105,Ingersoll Rand,1986-06-18,C,Active,31000,R100,1,1201.53,0,0,R100
+AST-00115,ESP-241 Fuel Gas ESP Assembly,ESP,Rotating Equipment,,FAC-24,BU-UPS,REG-SK,SK,CA-SK-FAC-24-ESP241,Nova Pump & Equipment,2016-02-13,B,Active,157000,,2,6201.46,0,0,FAC-24
+AST-00116,TK-501 Vapour Header Storage Tank,Storage Tank,Static Equipment,T500,,BU-MID,REG-ON,ON,CA-ON-T500-TK501,Sulzer,2024-08-02,A,Active,257000,T500,2,27831.75,0,0,T500
+AST-00117,PSV-101 Steam Header Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-10,BU-UPS,REG-AB,AB,CA-AB-FAC-10-PSV101,Alfa Laval,2021-04-25,B,Active,14000,,1,2997.47,0,0,FAC-10
+AST-00118,M-501 Rack Supply Motor,Electric Motor,Rotating Equipment,T500,,BU-MID,REG-ON,ON,CA-ON-T500-M501,ABB,2016-04-19,B,Active,46000,T500,1,1208.44,0,0,T500
+AST-00119,PSV-212 Produced Water Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-21,BU-UPS,REG-SK,SK,CA-SK-FAC-21-PSV212,WEG,2016-07-20,A,Active,30000,,1,1602.43,0,0,FAC-21
+AST-00120,V-206 Boiler Feedwater Vessel,Pressure Vessel,Static Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-V206,Honeywell,1973-04-16,C,Active,77000,R200,0,0,0,0,R200
+AST-00121,KC-205 Diesel Hydrotreater Feed Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-KC205,Flowserve,1978-07-25,C,Active,136000,R200,1,26661.45,1,0,R200
+AST-00122,PJ-231 Inlet Pumpjack,Pumpjack,Rotating Equipment,,FAC-23,BU-UPS,REG-SK,SK,CA-SK-FAC-23-PJ231,Chart Industries,2012-03-27,C,Active,27000,,1,8548.42,1,1,FAC-23
+AST-00123,FV-62 Inlet Control Valve,Control Valve,Valves and Safety Devices,,FAC-06,BU-UPS,REG-AB,AB,CA-AB-FAC-06-FV062,Flowserve,2018-04-02,C,Active,15000,,0,0,0,1,FAC-06
+AST-00124,SEP-251 Produced Water Separator,Separator,Static Equipment,,FAC-25,BU-UPS,REG-SK,SK,CA-SK-FAC-25-SEP251,Siemens Energy,2018-11-18,B,Active,102000,,0,0,0,1,FAC-25
+AST-00125,P-209 Amine Circulation Pump,Centrifugal Pump,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-P209,Alfa Laval,1981-09-26,C,Active,29000,R200,1,143999.33,0,1,R200
+AST-00126,HT-92 Oil Shipping Heater Treater,Heater Treater,Fired and Heat Transfer,,FAC-09,BU-UPS,REG-AB,AB,CA-AB-FAC-09-HT092,Baker Hughes,2007-10-21,A,Active,97000,,0,0,0,0,FAC-09
+AST-00127,B-301 Boiler Feedwater Boiler,Boiler,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-B301,Nova Pump & Equipment,2018-08-17,C,Active,151000,R300,0,0,0,1,R300
+AST-00128,PT-202 Naphtha Feed Transmitter,Process Transmitter,Instrumentation and Metering,R200,,BU-REF,REG-ON,ON,CA-ON-R200-PT202,Chart Industries,1978-06-28,A,Active,13000,R200,2,14407.1,2,1,R200
+AST-00129,E-202 Crude Charge Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R200,,BU-REF,REG-ON,ON,CA-ON-R200-E202,Siemens Energy,1990-05-02,A,Active,63000,R200,1,7789.91,0,1,R200
+AST-00130,FV-108 Amine Circulation Control Valve,Control Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-FV108,Weatherford,2017-07-26,C,Active,17000,R100,0,0,0,0,R100
+AST-00131,DH-11 Steam Header Glycol Dehydrator,Glycol Dehydrator,Static Equipment,,FAC-01,BU-UPS,REG-BC,BC,CA-BC-FAC-01-DH011,Weatherford,2020-03-16,A,Active,187000,,1,6595.77,0,0,FAC-01
+AST-00132,FV-403 Tank Farm Control Valve,Control Valve,Valves and Safety Devices,T400,,BU-MID,REG-ON,MB,CA-MB-T400-FV403,Chart Industries,2010-07-04,B,Active,15000,T400,3,5752.07,0,0,T400
+AST-00133,PT-102 Hydrogen Make-up Transmitter,Process Transmitter,Instrumentation and Metering,R100,,BU-REF,REG-AB,AB,CA-AB-R100-PT102,Chart Industries,1985-03-16,B,Active,5000,R100,1,50563.08,0,0,R100
+AST-00134,SEP-61 Sales Gas Separator,Separator,Static Equipment,,FAC-06,BU-UPS,REG-AB,AB,CA-AB-FAC-06-SEP061,Baker Hughes,2023-12-08,B,Standby,98000,,2,335330.6,0,0,FAC-06
+AST-00135,SEP-64 Glycol Circulation Separator,Separator,Static Equipment,,FAC-06,BU-UPS,REG-AB,AB,CA-AB-FAC-06-SEP064,Emerson,2012-08-08,C,Active,41000,,0,0,0,0,FAC-06
+AST-00136,SG-183 Steam Header Steam Generator,Steam Generator (OTSG),Fired and Heat Transfer,,FAC-18,BU-UPS,REG-AB,AB,CA-AB-FAC-18-SG183,Alfa Laval,2019-09-18,A,Active,384000,,3,59152.9,0,0,FAC-18
+AST-00137,FV-208 Gasoline Blending Control Valve,Control Valve,Valves and Safety Devices,R200,,BU-REF,REG-ON,ON,CA-ON-R200-FV208,GE Vernova,2011-09-03,C,Active,10000,R200,2,56234.88,2,1,R200
+AST-00138,V-303 Hydrogen Make-up Vessel,Pressure Vessel,Static Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-V303,Baker Hughes,1976-04-04,C,Active,49000,R300,0,0,0,1,R300
+AST-00139,PSV-42 Steam Header Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-04,BU-UPS,REG-AB,AB,CA-AB-FAC-04-PSV042,Ingersoll Rand,2025-09-03,B,Active,16000,,1,1478.16,0,0,FAC-04
+AST-00140,FV-181 Produced Water Control Valve,Control Valve,Valves and Safety Devices,,FAC-18,BU-UPS,REG-AB,AB,CA-AB-FAC-18-FV181,Cameron,2015-07-20,B,Active,22000,,5,18612.59,3,1,FAC-18
+AST-00141,PSV-106 Fuel Gas Relief Valve,Pressure Relief Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-PSV106,Siemens Energy,1985-05-22,A,Active,35000,R100,6,45702.76,2,1,R100
+AST-00142,WH-234 Steam Header Wellhead,Wellhead,Static Equipment,,FAC-23,BU-UPS,REG-SK,SK,CA-SK-FAC-23-WH234,Alfa Laval,2011-12-15,C,Active,20000,,2,32304.7,0,1,FAC-23
+AST-00143,FV-171 Glycol Circulation Control Valve,Control Valve,Valves and Safety Devices,,FAC-17,BU-UPS,REG-AB,AB,CA-AB-FAC-17-FV171,Flowserve,2008-07-22,C,Active,12000,,0,0,0,0,FAC-17
+AST-00144,V-102 Gasoline Blending Vessel,Pressure Vessel,Static Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-V102,Ingersoll Rand,1996-12-23,A,Active,192000,R100,6,64866.28,0,0,R100
+AST-00145,FV-105 Gasoline Blending Control Valve,Control Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-FV105,Weatherford,2017-03-10,C,Active,11000,R100,2,25334.99,1,0,R100
+AST-00146,E-302 Naphtha Feed Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-E302,Flowserve,1985-09-03,A,Active,65000,R300,1,2384.19,0,0,R300
+AST-00147,V-105 Fuel Gas Vessel,Pressure Vessel,Static Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-V105,Honeywell,1968-03-22,B,Active,141000,R100,2,110469.13,1,0,R100
+AST-00148,SEP-231 Steam Header Separator,Separator,Static Equipment,,FAC-23,BU-UPS,REG-SK,SK,CA-SK-FAC-23-SEP231,Weatherford,2025-02-20,C,Active,53000,,2,64855.67,2,2,FAC-23
+AST-00149,P-251 Emulsion Transfer Pump,Centrifugal Pump,Rotating Equipment,,FAC-25,BU-UPS,REG-SK,SK,CA-SK-FAC-25-P251,Ingersoll Rand,2006-06-24,B,Active,72000,,5,18769.94,2,0,FAC-25
+AST-00150,PSV-701 Tank Farm Relief Valve,Pressure Relief Valve,Valves and Safety Devices,T700,,BU-MID,REG-ATL,NS,CA-NS-T700-PSV701,Emerson,2022-10-25,B,Active,23000,T700,2,4906.53,0,0,T700
+AST-00151,TK-103 Tank Farm Storage Tank,Storage Tank,Static Equipment,T100,,BU-MID,REG-AB,AB,CA-AB-T100-TK103,Weatherford,2016-11-01,C,Active,75000,T100,0,0,0,0,T100
+AST-00152,E-201 Reflux Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R200,,BU-REF,REG-ON,ON,CA-ON-R200-E201,GE Vernova,2017-08-17,C,Active,44000,R200,1,183599.98,0,1,R200
+AST-00153,PSV-102 Fuel Gas Relief Valve,Pressure Relief Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-PSV102,GE Vernova,2016-01-04,A,Active,17000,R100,4,4577.68,1,0,R100
+AST-00154,TK-805 Tank Farm Storage Tank,Storage Tank,Static Equipment,T800,,BU-MID,REG-AB,BC,CA-BC-T800-TK805,Alfa Laval,2025-06-12,A,Active,259000,T800,3,79390.15,1,0,T800
+AST-00155,P-501 Ethanol Blend Pump,Centrifugal Pump,Rotating Equipment,T500,,BU-MID,REG-ON,ON,CA-ON-T500-P501,GE Vernova,2008-04-08,A,Active,127000,T500,6,79251.01,2,0,T500
+AST-00156,V-208 FCC Slurry Vessel,Pressure Vessel,Static Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-V208,WEG,1980-02-21,B,Active,72000,R200,0,0,0,0,R200
+AST-00157,SEP-221 Condensate Separator,Separator,Static Equipment,,FAC-22,BU-UPS,REG-SK,SK,CA-SK-FAC-22-SEP221,Ingersoll Rand,2007-01-04,A,Active,99000,,0,0,0,0,FAC-22
+AST-00158,PJ-252 Emulsion Transfer Pumpjack,Pumpjack,Rotating Equipment,,FAC-25,BU-UPS,REG-SK,SK,CA-SK-FAC-25-PJ252,Chart Industries,2014-06-28,A,Active,107000,,8,94853.25,4,0,FAC-25
+AST-00159,V-202 Diesel Hydrotreater Feed Vessel,Pressure Vessel,Static Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-V202,Baker Hughes,1993-03-12,B,Active,131000,R200,3,230299.85,3,1,R200
+AST-00160,PSV-204 Sour Water Relief Valve,Pressure Relief Valve,Valves and Safety Devices,R200,,BU-REF,REG-ON,ON,CA-ON-R200-PSV204,GE Vernova,1974-03-23,A,Active,32000,R200,0,0,0,0,R200
+AST-00161,P-106 Diesel Hydrotreater Feed Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P106,GE Vernova,2018-05-09,B,Active,74000,R100,3,6140.52,0,0,R100
+AST-00162,SEP-82 Inlet Separator,Separator,Static Equipment,,FAC-08,BU-UPS,REG-AB,AB,CA-AB-FAC-08-SEP082,Emerson,2008-06-09,A,Active,138000,,1,3147.12,0,0,FAC-08
+AST-00163,FV-142 Glycol Circulation Control Valve,Control Valve,Valves and Safety Devices,,FAC-14,BU-UPS,REG-AB,AB,CA-AB-FAC-14-FV142,Alfa Laval,2007-01-12,C,Decommissioned,18000,,0,0,0,0,FAC-14
+AST-00164,M-221 Oil Shipping Motor,Electric Motor,Rotating Equipment,,FAC-22,BU-UPS,REG-SK,SK,CA-SK-FAC-22-M221,Honeywell,2023-09-26,C,Active,28000,,4,26250.93,3,0,FAC-22
+AST-00165,HT-131 Emulsion Transfer Heater Treater,Heater Treater,Fired and Heat Transfer,,FAC-13,BU-UPS,REG-AB,AB,CA-AB-FAC-13-HT131,Honeywell,2013-02-09,C,Active,44000,,0,0,0,0,FAC-13
+AST-00166,PT-702 Ethanol Blend Transmitter,Process Transmitter,Instrumentation and Metering,T700,,BU-MID,REG-ATL,NS,CA-NS-T700-PT702,Siemens Energy,2021-10-27,A,Active,18000,T700,1,1035.99,0,0,T700
+AST-00167,LR-401 Vapour Header Loading Rack,Loading Rack,Terminal Equipment,T400,,BU-MID,REG-ON,MB,CA-MB-T400-LR401,Ingersoll Rand,2017-11-16,B,Active,51000,T400,1,14425.81,0,0,T400
+AST-00168,ESP-202 Condensate ESP Assembly,ESP,Rotating Equipment,,FAC-20,BU-UPS,REG-SK,SK,CA-SK-FAC-20-ESP202,WEG,2012-09-11,C,Active,91000,,3,197896.6,2,1,FAC-20
+AST-00169,K-301 Naphtha Feed Recip Compressor,Reciprocating Compressor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-K301,WEG,1979-01-19,B,Active,228000,R300,1,5685.38,1,0,R300
+AST-00170,SEP-41 Produced Water Separator,Separator,Static Equipment,,FAC-04,BU-UPS,REG-AB,AB,CA-AB-FAC-04-SEP041,GE Vernova,2023-03-08,B,Active,55000,,0,0,0,0,FAC-04
+AST-00171,PSV-41 Glycol Circulation Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-04,BU-UPS,REG-AB,AB,CA-AB-FAC-04-PSV041,Baker Hughes,2017-12-26,A,Active,20000,,0,0,0,0,FAC-04
+AST-00172,E-303 Reflux Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-E303,Nova Pump & Equipment,2022-11-08,A,Active,136000,R300,1,6569.26,0,0,R300
+AST-00173,PT-301 Ethanol Blend Transmitter,Process Transmitter,Instrumentation and Metering,T300,,BU-MID,REG-SK,SK,CA-SK-T300-PT301,Nova Pump & Equipment,2018-03-10,B,Active,9000,T300,0,0,0,0,T300
+AST-00174,FV-193 Condensate Control Valve,Control Valve,Valves and Safety Devices,,FAC-19,BU-UPS,REG-AB,AB,CA-AB-FAC-19-FV193,ABB,2012-06-05,B,Active,31000,,2,21454.41,1,1,FAC-19
+AST-00175,SEP-51 Fuel Gas Separator,Separator,Static Equipment,,FAC-05,BU-UPS,REG-AB,AB,CA-AB-FAC-05-SEP051,Baker Hughes,2011-08-19,B,Active,89000,,20,1410867.88,20,4,FAC-05
+AST-00176,V-172 Steam Header Vessel,Pressure Vessel,Static Equipment,,FAC-17,BU-UPS,REG-AB,AB,CA-AB-FAC-17-V172,ABB,2019-06-25,B,Active,104000,,0,0,0,0,FAC-17
+AST-00177,E-310 Sour Water Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-E310,Cameron,2003-12-09,A,Active,155000,R300,3,13906.05,0,0,R300
+AST-00178,P-208 Diesel Hydrotreater Feed Pump,Centrifugal Pump,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-P208,GE Vernova,2005-09-03,B,Active,66000,R200,13,702310.48,12,0,R200
+AST-00179,PJ-241 Sales Gas Pumpjack,Pumpjack,Rotating Equipment,,FAC-24,BU-UPS,REG-SK,SK,CA-SK-FAC-24-PJ241,Weatherford,2012-12-03,B,Active,43000,,2,4974.32,0,0,FAC-24
+AST-00180,ESP-141 Condensate ESP Assembly,ESP,Rotating Equipment,,FAC-14,BU-UPS,REG-AB,AB,CA-AB-FAC-14-ESP141,Sulzer,2006-06-06,A,Active,169000,,0,0,0,0,FAC-14
+AST-00181,LR-301 Diesel Transfer Loading Rack,Loading Rack,Terminal Equipment,T300,,BU-MID,REG-SK,SK,CA-SK-T300-LR301,Alfa Laval,2007-08-17,C,Active,27000,T300,1,525319.86,1,1,T300
+AST-00182,FV-308 Product Transfer Control Valve,Control Valve,Valves and Safety Devices,R300,,BU-REF,REG-QC,QC,CA-QC-R300-FV308,Alfa Laval,1978-11-13,B,Active,22000,R300,8,368654.27,7,2,R300
+AST-00183,ST-101 FCC Slurry Steam Turbine,Steam Turbine,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-ST101,Chart Industries,1973-02-15,A,Active,202000,R100,1,5599.36,0,0,R100
+AST-00184,TK-803 Ethanol Blend Storage Tank,Storage Tank,Static Equipment,T800,,BU-MID,REG-AB,BC,CA-BC-T800-TK803,Weatherford,2012-07-20,C,Active,81000,T800,0,0,0,0,T800
+AST-00185,TK-72 Sales Gas Storage Tank,Storage Tank,Static Equipment,,FAC-07,BU-UPS,REG-AB,AB,CA-AB-FAC-07-TK072,Emerson,2023-06-08,B,Active,118000,,0,0,0,0,FAC-07
+AST-00186,FV-191 Sales Gas Control Valve,Control Valve,Valves and Safety Devices,,FAC-19,BU-UPS,REG-AB,AB,CA-AB-FAC-19-FV191,GE Vernova,2022-05-20,B,Active,15000,,1,5323.06,1,1,FAC-19
+AST-00187,DH-61 Condensate Glycol Dehydrator,Glycol Dehydrator,Static Equipment,,FAC-06,BU-UPS,REG-AB,AB,CA-AB-FAC-06-DH061,Chart Industries,2012-05-11,C,Active,65000,,0,0,0,1,FAC-06
+AST-00188,FV-143 Fuel Gas Control Valve,Control Valve,Valves and Safety Devices,,FAC-14,BU-UPS,REG-AB,AB,CA-AB-FAC-14-FV143,Nova Pump & Equipment,2017-01-21,B,Active,27000,,2,38650.38,1,0,FAC-14
+AST-00189,TK-211 Emulsion Transfer Storage Tank,Storage Tank,Static Equipment,,FAC-21,BU-UPS,REG-SK,SK,CA-SK-FAC-21-TK211,Honeywell,2009-10-11,A,Active,241000,,2,60765.56,2,1,FAC-21
+AST-00190,P-308 Product Transfer Pump,Centrifugal Pump,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-P308,Emerson,1970-10-20,B,Active,36000,R300,1,2499.54,0,0,R300
+AST-00191,PSV-101 Naphtha Feed Relief Valve,Pressure Relief Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-PSV101,WEG,1970-09-12,A,Active,22000,R100,2,6845.15,1,0,R100
+AST-00192,A-104 Crude Charge Air Cooler,Air Cooler,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-A104,Nova Pump & Equipment,2004-11-13,C,Active,46000,R100,1,8178.25,0,0,R100
+AST-00193,SEP-63 Produced Water Separator,Separator,Static Equipment,,FAC-06,BU-UPS,REG-AB,AB,CA-AB-FAC-06-SEP063,Emerson,2011-09-19,B,Active,42000,,1,340620.59,0,1,FAC-06
+AST-00194,SEP-232 Steam Header Separator,Separator,Static Equipment,,FAC-23,BU-UPS,REG-SK,SK,CA-SK-FAC-23-SEP232,ABB,2020-11-04,B,Active,55000,,1,1760.75,0,0,FAC-23
+AST-00195,SG-181 Emulsion Transfer Steam Generator,Steam Generator (OTSG),Fired and Heat Transfer,,FAC-18,BU-UPS,REG-AB,AB,CA-AB-FAC-18-SG181,Emerson,2008-09-17,B,Active,265000,,0,0,0,0,FAC-18
+AST-00196,TK-132 Steam Header Storage Tank,Storage Tank,Static Equipment,,FAC-13,BU-UPS,REG-AB,AB,CA-AB-FAC-13-TK132,Alfa Laval,2020-12-15,B,Active,80000,,4,30760.17,3,0,FAC-13
+AST-00197,SEP-52 Inlet Separator,Separator,Static Equipment,,FAC-05,BU-UPS,REG-AB,AB,CA-AB-FAC-05-SEP052,Nova Pump & Equipment,2013-03-13,C,Active,41000,,0,0,0,0,FAC-05
+AST-00198,E-102 Boiler Feedwater Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-E102,Cameron,2020-12-01,B,Active,84000,R100,1,190927.89,0,0,R100
+AST-00199,E-306 Naphtha Feed Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-E306,Sulzer,1974-12-03,A,Active,152000,R300,4,277708.32,0,0,R300
+AST-00200,P-310 FCC Slurry Pump,Centrifugal Pump,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-P310,Siemens Energy,2019-03-17,C,Active,35000,R300,1,2582.72,0,0,R300
+AST-00201,P-702 Ethanol Blend Pump,Centrifugal Pump,Rotating Equipment,T700,,BU-MID,REG-ATL,NS,CA-NS-T700-P702,GE Vernova,2007-08-01,C,Active,35000,T700,4,70006.02,2,2,T700
+AST-00202,TK-401 Ethanol Blend Storage Tank,Storage Tank,Static Equipment,T400,,BU-MID,REG-ON,MB,CA-MB-T400-TK401,Chart Industries,2019-07-12,C,Active,41000,T400,1,2149.21,1,1,T400
+AST-00203,FV-202 Sour Water Control Valve,Control Valve,Valves and Safety Devices,R200,,BU-REF,REG-ON,ON,CA-ON-R200-FV202,Chart Industries,1998-10-18,B,Active,37000,R200,3,45386.62,3,0,R200
+AST-00204,TK-105 Ethanol Blend Storage Tank,Storage Tank,Static Equipment,T100,,BU-MID,REG-AB,AB,CA-AB-T100-TK105,Alfa Laval,2021-01-23,B,Active,129000,T100,2,15314.03,0,0,T100
+AST-00205,K-302 Amine Circulation Recip Compressor,Reciprocating Compressor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-K302,Nova Pump & Equipment,2007-03-05,B,Active,165000,R300,2,17136.21,0,0,R300
+AST-00206,PJ-211 Sales Gas Pumpjack,Pumpjack,Rotating Equipment,,FAC-21,BU-UPS,REG-SK,SK,CA-SK-FAC-21-PJ211,GE Vernova,2020-03-10,C,Active,21000,,4,531002.58,4,3,FAC-21
+AST-00207,KC-201 Gasoline Blending Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-KC201,Honeywell,2024-02-28,A,Active,378000,R200,0,0,0,0,R200
+AST-00208,FV-109 Hydrogen Make-up Control Valve,Control Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-FV109,Nova Pump & Equipment,1974-10-25,A,Active,54000,R100,1,3425.41,1,0,R100
+AST-00209,V-203 Diesel Hydrotreater Feed Vessel,Pressure Vessel,Static Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-V203,Sulzer,1990-06-07,B,Active,141000,R200,1,255933.75,0,0,R200
+AST-00210,WH-232 Oil Shipping Wellhead,Wellhead,Static Equipment,,FAC-23,BU-UPS,REG-SK,SK,CA-SK-FAC-23-WH232,Cameron,2024-12-22,C,Active,31000,,3,18070.11,0,0,FAC-23
+AST-00211,P-402 Ethanol Blend Pump,Centrifugal Pump,Rotating Equipment,T400,,BU-MID,REG-ON,MB,CA-MB-T400-P402,Honeywell,2005-08-27,B,Active,63000,T400,0,0,0,0,T400
+AST-00212,MS-801 Gasoline Transfer Metering Skid,Metering Skid,Instrumentation and Metering,T800,,BU-MID,REG-AB,BC,CA-BC-T800-MS801,Honeywell,2019-03-19,C,Active,29000,T800,1,3537.4,1,0,T800
+AST-00213,M-102 Tank Farm Motor,Electric Motor,Rotating Equipment,T100,,BU-MID,REG-AB,AB,CA-AB-T100-M102,Emerson,2008-10-11,C,Active,34000,T100,1,5545.88,0,0,T100
+AST-00214,M-201 Produced Water Motor,Electric Motor,Rotating Equipment,,FAC-20,BU-UPS,REG-SK,SK,CA-SK-FAC-20-M201,Sulzer,2019-05-17,A,Active,70000,,5,363278.67,2,0,FAC-20
+AST-00215,TK-102 Vapour Header Storage Tank,Storage Tank,Static Equipment,T100,,BU-MID,REG-AB,AB,CA-AB-T100-TK102,Flowserve,2017-09-01,A,Active,177000,T100,3,39750.32,0,0,T100
+AST-00216,SEP-201 Produced Water Separator,Separator,Static Equipment,,FAC-20,BU-UPS,REG-SK,SK,CA-SK-FAC-20-SEP201,Ingersoll Rand,2011-01-06,C,Active,61000,,0,0,0,1,FAC-20
+AST-00217,M-502 Jet Transfer Motor,Electric Motor,Rotating Equipment,T500,,BU-MID,REG-ON,ON,CA-ON-T500-M502,Siemens Energy,2020-10-11,B,Active,38000,T500,0,0,0,0,T500
+AST-00218,E-151 Condensate Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,,FAC-15,BU-UPS,REG-AB,AB,CA-AB-FAC-15-E151,Cameron,2024-11-10,C,Standby,29000,,0,0,0,1,FAC-15
+AST-00219,V-307 Reflux Vessel,Pressure Vessel,Static Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-V307,Ingersoll Rand,2023-07-25,B,Active,128000,R300,3,24098.98,1,0,R300
+AST-00220,SEP-151 Oil Shipping Separator,Separator,Static Equipment,,FAC-15,BU-UPS,REG-AB,AB,CA-AB-FAC-15-SEP151,Weatherford,2011-12-02,C,Active,59000,,1,8224.05,0,0,FAC-15
+AST-00221,P-101 Fuel Gas Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P101,Flowserve,1968-06-02,C,Active,33000,R100,1,862.35,0,1,R100
+AST-00222,TK-251 Test Line Storage Tank,Storage Tank,Static Equipment,,FAC-25,BU-UPS,REG-SK,SK,CA-SK-FAC-25-TK251,Siemens Energy,2023-06-19,B,Standby,99000,,1,13270.41,0,0,FAC-25
+AST-00223,KC-206 Crude Charge Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-KC206,Emerson,1994-05-12,C,Active,174000,R200,1,4411.66,0,0,R200
+AST-00224,TK-202 Diesel Transfer Storage Tank,Storage Tank,Static Equipment,T200,,BU-MID,REG-BC,AB,CA-AB-T200-TK202,GE Vernova,2025-07-26,A,Active,169000,T200,3,31053.74,0,0,T200
+AST-00225,P-161 Fuel Gas Pump,Centrifugal Pump,Rotating Equipment,,FAC-16,BU-UPS,REG-AB,AB,CA-AB-FAC-16-P161,ABB,2011-04-05,C,Active,40000,,1,152720.65,0,0,FAC-16
+AST-00226,HT-72 Glycol Circulation Heater Treater,Heater Treater,Fired and Heat Transfer,,FAC-07,BU-UPS,REG-AB,AB,CA-AB-FAC-07-HT072,GE Vernova,2020-02-20,C,Active,35000,,1,6663.67,1,0,FAC-07
+AST-00227,PSV-101 Gasoline Transfer Relief Valve,Pressure Relief Valve,Valves and Safety Devices,T100,,BU-MID,REG-AB,AB,CA-AB-T100-PSV101,Emerson,2021-04-13,A,Active,25000,T100,2,2600.67,0,0,T100
+AST-00228,TK-702 Diesel Transfer Storage Tank,Storage Tank,Static Equipment,T700,,BU-MID,REG-ATL,NS,CA-NS-T700-TK702,Nova Pump & Equipment,2013-07-14,C,Active,62000,T700,0,0,0,0,T700
+AST-00229,PT-701 Jet Transfer Transmitter,Process Transmitter,Instrumentation and Metering,T700,,BU-MID,REG-ATL,NS,CA-NS-T700-PT701,Weatherford,2023-09-23,C,Active,4000,T700,0,0,0,0,T700
+AST-00230,H-103 Vacuum Tower Bottoms Fired Heater,Fired Heater,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-H103,Honeywell,1988-12-05,A,Active,309000,R100,4,644576.65,2,0,R100
+AST-00231,PSV-702 Rack Supply Relief Valve,Pressure Relief Valve,Valves and Safety Devices,T700,,BU-MID,REG-ATL,NS,CA-NS-T700-PSV702,Sulzer,2008-08-27,A,Active,27000,T700,1,699.14,0,0,T700
+AST-00232,FV-192 Condensate Control Valve,Control Valve,Valves and Safety Devices,,FAC-19,BU-UPS,REG-AB,AB,CA-AB-FAC-19-FV192,Baker Hughes,2013-03-18,A,Active,56000,,3,41354.82,2,0,FAC-19
+AST-00233,P-109 Boiler Feedwater Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P109,Sulzer,1977-07-01,C,Active,31000,R100,1,59353.93,1,1,R100
+AST-00234,P-304 Crude Charge Pump,Centrifugal Pump,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-P304,Emerson,1972-09-05,B,Active,36000,R300,6,49742.81,6,0,R300
+AST-00235,FV-201 Emulsion Transfer Control Valve,Control Valve,Valves and Safety Devices,,FAC-20,BU-UPS,REG-SK,SK,CA-SK-FAC-20-FV201,Chart Industries,2025-12-11,B,Active,29000,,3,36284.31,2,1,FAC-20
+AST-00236,P-114 Reflux Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P114,Nova Pump & Equipment,2007-03-16,B,Active,57000,R100,1,347134.09,1,1,R100
+AST-00237,P-118 Sour Water Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P118,Chart Industries,1984-01-25,C,Active,27000,R100,4,383916.35,4,1,R100
+AST-00238,TK-204 Jet Transfer Storage Tank,Storage Tank,Static Equipment,T200,,BU-MID,REG-BC,AB,CA-AB-T200-TK204,Weatherford,2017-08-12,C,Active,100000,T200,0,0,0,0,T200
+AST-00239,PJ-251 Steam Header Pumpjack,Pumpjack,Rotating Equipment,,FAC-25,BU-UPS,REG-SK,SK,CA-SK-FAC-25-PJ251,Chart Industries,2007-06-21,B,Active,69000,,2,7385.97,1,0,FAC-25
+AST-00240,M-101 Product Transfer Motor,Electric Motor,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-M101,ABB,2016-07-26,C,Active,19000,R100,0,0,0,0,R100
+AST-00241,PSV-801 Rack Supply Relief Valve,Pressure Relief Valve,Valves and Safety Devices,T800,,BU-MID,REG-AB,BC,CA-BC-T800-PSV801,Sulzer,2013-08-06,B,Active,16000,T800,1,204.68,0,0,T800
+AST-00242,V-306 Crude Charge Vessel,Pressure Vessel,Static Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-V306,ABB,1992-04-24,B,Active,104000,R300,1,21972.86,0,0,R300
+AST-00243,FV-101 Receipt Line Control Valve,Control Valve,Valves and Safety Devices,T100,,BU-MID,REG-AB,AB,CA-AB-T100-FV101,ABB,2019-05-18,A,Active,36000,T100,3,5355.59,1,0,T100
+AST-00244,FV-205 Fuel Gas Control Valve,Control Valve,Valves and Safety Devices,R200,,BU-REF,REG-ON,ON,CA-ON-R200-FV205,Nova Pump & Equipment,1995-08-12,C,Active,22000,R200,2,25765.2,1,0,R200
+AST-00245,GC-11 Glycol Circulation Gas Compressor,Gas Compressor (Recip),Rotating Equipment,,FAC-01,BU-UPS,REG-BC,BC,CA-BC-FAC-01-GC011,Sulzer,2015-02-23,C,Active,124000,,2,423736.41,0,0,FAC-01
+AST-00246,M-222 Glycol Circulation Motor,Electric Motor,Rotating Equipment,,FAC-22,BU-UPS,REG-SK,SK,CA-SK-FAC-22-M222,Nova Pump & Equipment,2022-09-13,C,Active,36000,,0,0,0,0,FAC-22
+AST-00247,V-51 Condensate Vessel,Pressure Vessel,Static Equipment,,FAC-05,BU-UPS,REG-AB,AB,CA-AB-FAC-05-V051,Alfa Laval,2023-10-21,A,Active,241000,,4,31210.2,0,0,FAC-05
+AST-00248,TK-302 Sour Water Storage Tank,Storage Tank,Static Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-TK302,Siemens Energy,1979-02-27,B,Active,82000,R300,2,27816.2,0,0,R300
+AST-00249,FV-305 Naphtha Feed Control Valve,Control Valve,Valves and Safety Devices,R300,,BU-REF,REG-QC,QC,CA-QC-R300-FV305,Ingersoll Rand,1985-02-07,C,Active,10000,R300,2,182151.61,2,0,R300
+AST-00250,KC-11 Test Line Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,,FAC-01,BU-UPS,REG-BC,BC,CA-BC-FAC-01-KC011,ABB,2022-07-17,B,Active,330000,,0,0,0,0,FAC-01
+AST-00251,PT-301 Hydrogen Make-up Transmitter,Process Transmitter,Instrumentation and Metering,R300,,BU-REF,REG-QC,QC,CA-QC-R300-PT301,Siemens Energy,2024-03-09,B,Active,7000,R300,1,1493.93,0,0,R300
+AST-00252,FV-202 Inlet Control Valve,Control Valve,Valves and Safety Devices,,FAC-20,BU-UPS,REG-SK,SK,CA-SK-FAC-20-FV202,Baker Hughes,2021-04-24,A,Active,34000,,3,48416.19,2,1,FAC-20
+AST-00253,M-201 Diesel Transfer Motor,Electric Motor,Rotating Equipment,T200,,BU-MID,REG-BC,AB,CA-AB-T200-M201,Nova Pump & Equipment,2015-11-18,B,Active,60000,T200,1,1428.63,0,0,T200
+AST-00254,FV-203 Reflux Control Valve,Control Valve,Valves and Safety Devices,R200,,BU-REF,REG-ON,ON,CA-ON-R200-FV203,Alfa Laval,1994-09-25,B,Active,38000,R200,6,59509.82,4,2,R200
+AST-00255,ESP-82 Oil Shipping ESP Assembly,ESP,Rotating Equipment,,FAC-08,BU-UPS,REG-AB,AB,CA-AB-FAC-08-ESP082,Chart Industries,2008-04-24,A,Active,227000,,4,1418906.06,4,1,FAC-08
+AST-00256,TK-502 Ethanol Blend Storage Tank,Storage Tank,Static Equipment,T500,,BU-MID,REG-ON,ON,CA-ON-T500-TK502,Alfa Laval,2005-01-28,C,Active,58000,T500,0,0,0,0,T500
+AST-00257,GC-42 Test Line Gas Compressor,Gas Compressor (Recip),Rotating Equipment,,FAC-04,BU-UPS,REG-AB,AB,CA-AB-FAC-04-GC042,Emerson,2022-08-14,C,Active,125000,,2,1001634.44,1,0,FAC-04
+AST-00258,FV-306 Diesel Hydrotreater Feed Control Valve,Control Valve,Valves and Safety Devices,R300,,BU-REF,REG-QC,QC,CA-QC-R300-FV306,Ingersoll Rand,1988-04-05,A,Active,44000,R300,6,31080.59,4,1,R300
+AST-00259,PSV-61 Inlet Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-06,BU-UPS,REG-AB,AB,CA-AB-FAC-06-PSV061,ABB,2012-05-03,C,Active,14000,,4,84568.2,1,1,FAC-06
+AST-00260,P-303 Fuel Gas Pump,Centrifugal Pump,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-P303,Weatherford,1983-12-08,A,Mothballed,113000,R300,0,0,0,0,R300
+AST-00261,PT-201 Gasoline Transfer Transmitter,Process Transmitter,Instrumentation and Metering,T200,,BU-MID,REG-BC,AB,CA-AB-T200-PT201,Ingersoll Rand,2008-06-06,C,Active,6000,T200,0,0,0,0,T200
+AST-00262,K-306 Gasoline Blending Recip Compressor,Reciprocating Compressor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-K306,Siemens Energy,2021-07-05,C,Active,94000,R300,0,0,0,0,R300
+AST-00263,A-103 Boiler Feedwater Air Cooler,Air Cooler,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-A103,Siemens Energy,1978-12-08,C,Active,22000,R100,4,438825.19,4,2,R100
+AST-00264,V-304 Naphtha Feed Vessel,Pressure Vessel,Static Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-V304,Chart Industries,1968-04-11,C,Active,54000,R300,1,10799.0,0,0,R300
+AST-00265,V-207 Cooling Water Vessel,Pressure Vessel,Static Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-V207,Ingersoll Rand,1981-01-02,B,Active,62000,R200,2,8326.18,0,0,R200
+AST-00266,V-151 Test Line Vessel,Pressure Vessel,Static Equipment,,FAC-15,BU-UPS,REG-AB,AB,CA-AB-FAC-15-V151,ABB,2011-09-05,A,Active,169000,,2,10389.91,0,0,FAC-15
+AST-00267,V-204 Cooling Water Vessel,Pressure Vessel,Static Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-V204,Chart Industries,1973-06-04,B,Active,151000,R200,1,27750.14,0,0,R200
+AST-00268,M-161 Steam Header Motor,Electric Motor,Rotating Equipment,,FAC-16,BU-UPS,REG-AB,AB,CA-AB-FAC-16-M161,Honeywell,2005-08-03,C,Active,31000,,2,24475.54,2,1,FAC-16
+AST-00269,PT-51 Steam Header Transmitter,Process Transmitter,Instrumentation and Metering,,FAC-05,BU-UPS,REG-AB,AB,CA-AB-FAC-05-PT051,Emerson,2007-08-14,C,Active,3000,,0,0,0,1,FAC-05
+AST-00270,PSV-11 Condensate Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-01,BU-UPS,REG-BC,BC,CA-BC-FAC-01-PSV011,Chart Industries,2009-12-26,A,Active,39000,,2,5192.97,0,0,FAC-01
+AST-00271,M-401 Tank Farm Motor,Electric Motor,Rotating Equipment,T400,,BU-MID,REG-ON,MB,CA-MB-T400-M401,Emerson,2013-03-13,B,Active,38000,T400,6,58815.38,3,0,T400
+AST-00272,PSV-201 Diesel Hydrotreater Feed Relief Valve,Pressure Relief Valve,Valves and Safety Devices,R200,,BU-REF,REG-ON,ON,CA-ON-R200-PSV201,Alfa Laval,2010-11-25,B,Active,19000,R200,1,4598.41,1,0,R200
+AST-00273,M-105 Gasoline Blending Motor,Electric Motor,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-M105,Flowserve,1988-06-17,B,Active,35000,R100,1,1258.33,0,0,R100
+AST-00274,P-204 Diesel Hydrotreater Feed Pump,Centrifugal Pump,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-P204,Flowserve,1977-03-20,A,Active,113000,R200,7,152817.34,7,0,R200
+AST-00275,M-107 Naphtha Feed Motor,Electric Motor,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-M107,Chart Industries,2013-01-13,C,Active,24000,R100,2,472951.74,0,0,R100
+AST-00276,LR-601 Gasoline Transfer Loading Rack,Loading Rack,Terminal Equipment,T600,,BU-MID,REG-QC,QC,CA-QC-T600-LR601,GE Vernova,2025-09-01,B,Active,67000,T600,2,24127.43,0,0,T600
+AST-00277,V-161 Condensate Vessel,Pressure Vessel,Static Equipment,,FAC-16,BU-UPS,REG-AB,AB,CA-AB-FAC-16-V161,Sulzer,2020-04-05,B,Active,142000,,3,232230.55,2,1,FAC-16
+AST-00278,PT-302 Hydrogen Make-up Transmitter,Process Transmitter,Instrumentation and Metering,R300,,BU-REF,REG-QC,QC,CA-QC-R300-PT302,Cameron,1987-01-21,C,Active,6000,R300,2,2357.85,2,0,R300
+AST-00279,P-102 FCC Slurry Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P102,Cameron,1976-11-25,B,Standby,41000,R100,4,158453.63,1,0,R100
+AST-00280,TK-703 Diesel Transfer Storage Tank,Storage Tank,Static Equipment,T700,,BU-MID,REG-ATL,NS,CA-NS-T700-TK703,Flowserve,2020-12-28,C,Active,76000,T700,1,6881.82,0,1,T700
+AST-00281,PSV-211 Sales Gas Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-21,BU-UPS,REG-SK,SK,CA-SK-FAC-21-PSV211,Weatherford,2016-10-26,A,Active,35000,,1,582.21,0,0,FAC-21
+AST-00282,V-31 Emulsion Transfer Vessel,Pressure Vessel,Static Equipment,,FAC-03,BU-UPS,REG-AB,AB,CA-AB-FAC-03-V031,Flowserve,2018-07-04,C,Active,45000,,1,18048.96,1,1,FAC-03
+AST-00283,P-502 Gasoline Transfer Pump,Centrifugal Pump,Rotating Equipment,T500,,BU-MID,REG-ON,ON,CA-ON-T500-P502,Chart Industries,2010-04-26,B,Active,67000,T500,1,13625.15,1,0,T500
+AST-00284,WH-111 Emulsion Transfer Wellhead,Wellhead,Static Equipment,,FAC-11,BU-UPS,REG-AB,AB,CA-AB-FAC-11-WH111,Nova Pump & Equipment,2013-10-25,C,Mothballed,17000,,0,0,0,1,FAC-11
+AST-00285,TK-701 Ethanol Blend Storage Tank,Storage Tank,Static Equipment,T700,,BU-MID,REG-ATL,NS,CA-NS-T700-TK701,Siemens Energy,2023-10-11,C,Active,59000,T700,0,0,0,1,T700
+AST-00286,TK-603 Receipt Line Storage Tank,Storage Tank,Static Equipment,T600,,BU-MID,REG-QC,QC,CA-QC-T600-TK603,WEG,2018-06-03,B,Active,124000,T600,1,30891.09,0,0,T600
+AST-00287,PJ-103 Produced Water Pumpjack,Pumpjack,Rotating Equipment,,FAC-10,BU-UPS,REG-AB,AB,CA-AB-FAC-10-PJ103,Sulzer,2025-12-22,C,Active,45000,,0,0,0,1,FAC-10
+AST-00288,P-108 Vacuum Tower Bottoms Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P108,Flowserve,2021-01-20,A,Active,78000,R100,5,657439.8,2,1,R100
+AST-00289,FL-241 Steam Header Flare Stack,Flare Stack,Static Equipment,,FAC-24,BU-UPS,REG-SK,SK,CA-SK-FAC-24-FL241,WEG,2011-12-06,A,Active,72000,,2,11058.49,0,0,FAC-24
+AST-00290,P-211 Inlet Pump,Centrifugal Pump,Rotating Equipment,,FAC-21,BU-UPS,REG-SK,SK,CA-SK-FAC-21-P211,Ingersoll Rand,2009-08-27,A,Active,91000,,4,278757.2,2,1,FAC-21
+AST-00291,M-101 Diesel Transfer Motor,Electric Motor,Rotating Equipment,T100,,BU-MID,REG-AB,AB,CA-AB-T100-M101,WEG,2020-11-03,A,Active,55000,T100,3,11115.6,1,0,T100
+AST-00292,P-207 Product Transfer Pump,Centrifugal Pump,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-P207,Baker Hughes,1973-06-17,C,Active,19000,R200,0,0,0,0,R200
+AST-00293,HT-82 Steam Header Heater Treater,Heater Treater,Fired and Heat Transfer,,FAC-08,BU-UPS,REG-AB,AB,CA-AB-FAC-08-HT082,Ingersoll Rand,2010-01-01,B,Active,78000,,0,0,0,0,FAC-08
+AST-00294,TK-802 Rack Supply Storage Tank,Storage Tank,Static Equipment,T800,,BU-MID,REG-AB,BC,CA-BC-T800-TK802,Sulzer,2021-12-10,B,Active,141000,T800,1,94262.13,1,2,T800
+AST-00295,FV-501 Diesel Transfer Control Valve,Control Valve,Valves and Safety Devices,T500,,BU-MID,REG-ON,ON,CA-ON-T500-FV501,ABB,2023-01-28,C,Active,22000,T500,1,5072.8,1,0,T500
+AST-00296,WH-71 Sales Gas Wellhead,Wellhead,Static Equipment,,FAC-07,BU-UPS,REG-AB,AB,CA-AB-FAC-07-WH071,Alfa Laval,2011-05-26,A,Active,71000,,3,7594.89,0,0,FAC-07
+AST-00297,PSV-161 Condensate Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-16,BU-UPS,REG-AB,AB,CA-AB-FAC-16-PSV161,ABB,2006-04-20,A,Active,31000,,2,12029.76,0,0,FAC-16
+AST-00298,TK-201 Emulsion Transfer Storage Tank,Storage Tank,Static Equipment,,FAC-20,BU-UPS,REG-SK,SK,CA-SK-FAC-20-TK201,Weatherford,2022-03-03,B,Active,66000,,0,0,0,0,FAC-20
+AST-00299,H-204 Amine Circulation Fired Heater,Fired Heater,Fired and Heat Transfer,R200,,BU-REF,REG-ON,ON,CA-ON-R200-H204,ABB,2016-12-03,A,Active,399000,R200,0,0,0,0,R200
+AST-00300,TK-101 Ethanol Blend Storage Tank,Storage Tank,Static Equipment,T100,,BU-MID,REG-AB,AB,CA-AB-T100-TK101,Chart Industries,2016-12-06,A,Active,273000,T100,1,5949.12,0,0,T100
+AST-00301,PT-703 Tank Farm Transmitter,Process Transmitter,Instrumentation and Metering,T700,,BU-MID,REG-ATL,NS,CA-NS-T700-PT703,Honeywell,2006-10-08,B,Active,6000,T700,4,48481.78,3,1,T700
+AST-00302,SEP-192 Fuel Gas Separator,Separator,Static Equipment,,FAC-19,BU-UPS,REG-AB,AB,CA-AB-FAC-19-SEP192,GE Vernova,2015-02-28,A,Active,109000,,1,4239.93,0,0,FAC-19
+AST-00303,PJ-91 Inlet Pumpjack,Pumpjack,Rotating Equipment,,FAC-09,BU-UPS,REG-AB,AB,CA-AB-FAC-09-PJ091,ABB,2019-06-22,B,Active,35000,,2,293068.88,2,0,FAC-09
+AST-00304,H-202 Crude Charge Fired Heater,Fired Heater,Fired and Heat Transfer,R200,,BU-REF,REG-ON,ON,CA-ON-R200-H202,Sulzer,2011-10-20,B,Mothballed,203000,R200,0,0,0,0,R200
+AST-00305,MS-401 Diesel Transfer Metering Skid,Metering Skid,Instrumentation and Metering,T400,,BU-MID,REG-ON,MB,CA-MB-T400-MS401,Ingersoll Rand,2006-05-22,B,Active,37000,T400,2,16098.77,0,0,T400
+AST-00306,PSV-221 Fuel Gas Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-22,BU-UPS,REG-SK,SK,CA-SK-FAC-22-PSV221,Emerson,2025-04-12,A,Active,35000,,2,5594.68,0,0,FAC-22
+AST-00307,KC-301 Sour Water Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-KC301,GE Vernova,1985-01-19,C,Active,193000,R300,2,32391.5,1,0,R300
+AST-00308,K-307 Hydrogen Make-up Recip Compressor,Reciprocating Compressor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-K307,GE Vernova,1987-02-16,C,Active,116000,R300,0,0,0,0,R300
+AST-00309,PJ-112 Steam Header Pumpjack,Pumpjack,Rotating Equipment,,FAC-11,BU-UPS,REG-AB,AB,CA-AB-FAC-11-PJ112,Emerson,2011-03-08,A,Active,72000,,1,69058.06,1,0,FAC-11
+AST-00310,DH-21 Glycol Circulation Glycol Dehydrator,Glycol Dehydrator,Static Equipment,,FAC-02,BU-UPS,REG-BC,BC,CA-BC-FAC-02-DH021,ABB,2019-10-04,B,Active,101000,,0,0,0,0,FAC-02
+AST-00311,FV-307 Fuel Gas Control Valve,Control Valve,Valves and Safety Devices,R300,,BU-REF,REG-QC,QC,CA-QC-R300-FV307,Sulzer,2017-06-10,C,Active,13000,R300,0,0,0,0,R300
+AST-00312,P-701 Receipt Line Pump,Centrifugal Pump,Rotating Equipment,T700,,BU-MID,REG-ATL,NS,CA-NS-T700-P701,Emerson,2009-12-04,C,Active,41000,T700,1,452.81,0,0,T700
+AST-00313,SEP-91 Test Line Separator,Separator,Static Equipment,,FAC-09,BU-UPS,REG-AB,AB,CA-AB-FAC-09-SEP091,Ingersoll Rand,2019-10-15,A,Active,154000,,0,0,0,0,FAC-09
+AST-00314,P-21 Emulsion Transfer Pump,Centrifugal Pump,Rotating Equipment,,FAC-02,BU-UPS,REG-BC,BC,CA-BC-FAC-02-P021,Siemens Energy,2014-09-01,A,Active,66000,,4,9537.66,0,0,FAC-02
+AST-00315,PSV-203 Gasoline Blending Relief Valve,Pressure Relief Valve,Valves and Safety Devices,R200,,BU-REF,REG-ON,ON,CA-ON-R200-PSV203,Alfa Laval,2024-09-27,A,Active,17000,R200,1,2898.24,0,0,R200
+AST-00316,FL-31 Emulsion Transfer Flare Stack,Flare Stack,Static Equipment,,FAC-03,BU-UPS,REG-AB,AB,CA-AB-FAC-03-FL031,ABB,2020-01-21,C,Active,31000,,1,166642.6,0,0,FAC-03
+AST-00317,K-308 Reflux Recip Compressor,Reciprocating Compressor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-K308,Ingersoll Rand,2005-04-03,B,Active,211000,R300,2,3846.95,0,0,R300
+AST-00318,TK-301 Diesel Hydrotreater Feed Storage Tank,Storage Tank,Static Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-TK301,WEG,2008-06-22,A,Active,132000,R300,4,349158.33,0,0,R300
+AST-00319,FL-131 Condensate Flare Stack,Flare Stack,Static Equipment,,FAC-13,BU-UPS,REG-AB,AB,CA-AB-FAC-13-FL131,Chart Industries,2008-06-25,A,Active,90000,,5,20833.7,1,0,FAC-13
+AST-00320,SEP-241 Emulsion Transfer Separator,Separator,Static Equipment,,FAC-24,BU-UPS,REG-SK,SK,CA-SK-FAC-24-SEP241,Sulzer,2023-10-18,A,Active,132000,,1,3234.79,0,1,FAC-24
+AST-00321,B-101 Hydrogen Make-up Boiler,Boiler,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-B101,Flowserve,1979-03-01,A,Active,272000,R100,6,473009.22,2,1,R100
+AST-00322,GC-22 Steam Header Gas Compressor,Gas Compressor (Recip),Rotating Equipment,,FAC-02,BU-UPS,REG-BC,BC,CA-BC-FAC-02-GC022,Weatherford,2024-10-14,A,Active,156000,,9,157678.94,2,0,FAC-02
+AST-00323,HT-111 Emulsion Transfer Heater Treater,Heater Treater,Fired and Heat Transfer,,FAC-11,BU-UPS,REG-AB,AB,CA-AB-FAC-11-HT111,Weatherford,2020-07-28,B,Active,73000,,1,4517.1,0,0,FAC-11
+AST-00324,FV-107 Product Transfer Control Valve,Control Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-FV107,Chart Industries,1974-01-13,B,Active,25000,R100,2,7734.39,2,0,R100
+AST-00325,PT-101 Fuel Gas Transmitter,Process Transmitter,Instrumentation and Metering,R100,,BU-REF,REG-AB,AB,CA-AB-R100-PT101,Ingersoll Rand,2020-07-07,A,Standby,14000,R100,3,1475.5,0,0,R100
+AST-00326,E-304 Reflux Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-E304,Cameron,1994-09-08,B,Active,79000,R300,3,406231.01,3,1,R300
+AST-00327,PSV-105 Reflux Relief Valve,Pressure Relief Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-PSV105,WEG,2008-04-12,B,Active,23000,R100,1,5901.88,0,0,R100
+AST-00328,M-181 Fuel Gas Motor,Electric Motor,Rotating Equipment,,FAC-18,BU-UPS,REG-AB,AB,CA-AB-FAC-18-M181,Sulzer,2013-04-05,C,Active,33000,,1,1354.93,0,1,FAC-18
+AST-00329,FV-301 Cooling Water Control Valve,Control Valve,Valves and Safety Devices,R300,,BU-REF,REG-QC,QC,CA-QC-R300-FV301,GE Vernova,2016-11-14,C,Active,18000,R300,0,0,0,0,R300
+AST-00330,FV-231 Oil Shipping Control Valve,Control Valve,Valves and Safety Devices,,FAC-23,BU-UPS,REG-SK,SK,CA-SK-FAC-23-FV231,Flowserve,2007-06-25,C,Active,13000,,0,0,0,0,FAC-23
+AST-00331,PJ-101 Condensate Pumpjack,Pumpjack,Rotating Equipment,,FAC-10,BU-UPS,REG-AB,AB,CA-AB-FAC-10-PJ101,Chart Industries,2011-11-02,B,Active,42000,,2,5915.47,2,0,FAC-10
+AST-00332,M-701 Ethanol Blend Motor,Electric Motor,Rotating Equipment,T700,,BU-MID,REG-ATL,NS,CA-NS-T700-M701,Sulzer,2022-11-08,A,Active,99000,T700,3,22661.38,1,0,T700
+AST-00333,TK-601 Tank Farm Storage Tank,Storage Tank,Static Equipment,T600,,BU-MID,REG-QC,QC,CA-QC-T600-TK601,Emerson,2012-03-06,C,Active,96000,T600,0,0,0,0,T600
+AST-00334,P-202 Product Transfer Pump,Centrifugal Pump,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-P202,Ingersoll Rand,1988-02-21,A,Active,124000,R200,3,3809.46,0,0,R200
+AST-00335,M-204 Reflux Motor,Electric Motor,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-M204,Baker Hughes,1996-02-08,A,Active,44000,R200,5,273336.35,1,0,R200
+AST-00336,HT-83 Emulsion Transfer Heater Treater,Heater Treater,Fired and Heat Transfer,,FAC-08,BU-UPS,REG-AB,AB,CA-AB-FAC-08-HT083,Emerson,2006-02-10,C,Decommissioned,49000,,0,0,0,0,FAC-08
+AST-00337,HT-91 Emulsion Transfer Heater Treater,Heater Treater,Fired and Heat Transfer,,FAC-09,BU-UPS,REG-AB,AB,CA-AB-FAC-09-HT091,Ingersoll Rand,2024-03-08,A,Active,122000,,2,140822.08,1,1,FAC-09
+AST-00338,GC-41 Condensate Gas Compressor,Gas Compressor (Recip),Rotating Equipment,,FAC-04,BU-UPS,REG-AB,AB,CA-AB-FAC-04-GC041,Chart Industries,2017-12-06,B,Standby,139000,,1,77480.86,1,1,FAC-04
+AST-00339,P-121 Sour Water Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P121,Nova Pump & Equipment,2023-02-13,B,Active,40000,R100,1,934.03,0,1,R100
+AST-00340,MS-402 Tank Farm Metering Skid,Metering Skid,Instrumentation and Metering,T400,,BU-MID,REG-ON,MB,CA-MB-T400-MS402,GE Vernova,2008-05-04,B,Active,35000,T400,1,5353.31,1,0,T400
+AST-00341,P-51 Produced Water Pump,Centrifugal Pump,Rotating Equipment,,FAC-05,BU-UPS,REG-AB,AB,CA-AB-FAC-05-P051,Flowserve,2005-03-28,C,Active,38000,,0,0,0,0,FAC-05
+AST-00342,PJ-111 Test Line Pumpjack,Pumpjack,Rotating Equipment,,FAC-11,BU-UPS,REG-AB,AB,CA-AB-FAC-11-PJ111,Honeywell,2008-05-01,A,Active,55000,,3,67585.25,1,0,FAC-11
+AST-00343,KC-102 Hydrogen Make-up Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-KC102,Siemens Energy,2006-03-20,C,Active,161000,R100,1,3978.06,0,0,R100
+AST-00344,FV-103 Diesel Hydrotreater Feed Control Valve,Control Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-FV103,Emerson,2006-07-20,B,Active,18000,R100,3,87465.01,2,0,R100
+AST-00345,TK-303 Boiler Feedwater Storage Tank,Storage Tank,Static Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-TK303,Sulzer,1994-07-02,A,Active,143000,R300,1,10264.66,1,0,R300
+AST-00346,PT-103 Cooling Water Transmitter,Process Transmitter,Instrumentation and Metering,R100,,BU-REF,REG-AB,AB,CA-AB-R100-PT103,GE Vernova,1984-01-19,B,Active,8000,R100,0,0,0,0,R100
+AST-00347,PSV-103 Gasoline Blending Relief Valve,Pressure Relief Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-PSV103,Chart Industries,2004-11-04,C,Active,6000,R100,2,32401.68,2,1,R100
+AST-00348,DH-41 Oil Shipping Glycol Dehydrator,Glycol Dehydrator,Static Equipment,,FAC-04,BU-UPS,REG-AB,AB,CA-AB-FAC-04-DH041,Chart Industries,2009-02-14,B,Active,94000,,2,6825.98,0,0,FAC-04
+AST-00349,FV-11 Produced Water Control Valve,Control Valve,Valves and Safety Devices,,FAC-01,BU-UPS,REG-BC,BC,CA-BC-FAC-01-FV011,Alfa Laval,2024-10-16,B,Active,18000,,6,42043.48,6,0,FAC-01
+AST-00350,P-313 Naphtha Feed Pump,Centrifugal Pump,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-P313,GE Vernova,2008-09-18,B,Active,59000,R300,4,14913.02,2,0,R300
+AST-00351,E-204 Sour Water Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R200,,BU-REF,REG-ON,ON,CA-ON-R200-E204,Baker Hughes,1976-01-09,B,Active,92000,R200,3,24035.68,2,0,R200
+AST-00352,E-105 Diesel Hydrotreater Feed Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-E105,Flowserve,2003-02-12,C,Active,23000,R100,0,0,0,0,R100
+AST-00353,P-104 Fuel Gas Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P104,GE Vernova,2019-11-23,C,Active,33000,R100,4,128123.16,0,0,R100
+AST-00354,SG-171 Test Line Steam Generator,Steam Generator (OTSG),Fired and Heat Transfer,,FAC-17,BU-UPS,REG-AB,AB,CA-AB-FAC-17-SG171,Nova Pump & Equipment,2016-05-01,A,Active,438000,,2,28891.36,1,0,FAC-17
+AST-00355,M-104 Vacuum Tower Bottoms Motor,Electric Motor,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-M104,Honeywell,1987-02-11,B,Active,58000,R100,16,400993.57,14,1,R100
+AST-00356,V-104 Reflux Vessel,Pressure Vessel,Static Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-V104,Honeywell,2024-10-04,C,Active,79000,R100,2,8015.71,0,0,R100
+AST-00357,V-171 Glycol Circulation Vessel,Pressure Vessel,Static Equipment,,FAC-17,BU-UPS,REG-AB,AB,CA-AB-FAC-17-V171,Sulzer,2010-01-10,A,Mothballed,199000,,0,0,0,0,FAC-17
+AST-00358,PSV-71 Inlet Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-07,BU-UPS,REG-AB,AB,CA-AB-FAC-07-PSV071,Nova Pump & Equipment,2023-08-17,A,Active,39000,,1,7719.23,0,1,FAC-07
+AST-00359,SEP-122 Glycol Circulation Separator,Separator,Static Equipment,,FAC-12,BU-UPS,REG-AB,AB,CA-AB-FAC-12-SEP122,Weatherford,2021-12-14,A,Active,152000,,0,0,0,0,FAC-12
+AST-00360,KC-204 Diesel Hydrotreater Feed Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-KC204,Cameron,1990-09-23,A,Active,434000,R200,10,1574814.74,9,2,R200
+AST-00361,FV-161 Test Line Control Valve,Control Valve,Valves and Safety Devices,,FAC-16,BU-UPS,REG-AB,AB,CA-AB-FAC-16-FV161,Siemens Energy,2013-02-22,B,Active,23000,,1,585.83,0,0,FAC-16
+AST-00362,ST-301 Product Transfer Steam Turbine,Steam Turbine,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-ST301,Flowserve,1991-05-27,C,Active,130000,R300,2,36747.64,1,0,R300
+AST-00363,TK-202 FCC Slurry Storage Tank,Storage Tank,Static Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-TK202,Baker Hughes,2001-07-05,C,Active,97000,R200,0,0,0,0,R200
+AST-00364,TK-503 Ethanol Blend Storage Tank,Storage Tank,Static Equipment,T500,,BU-MID,REG-ON,ON,CA-ON-T500-TK503,Alfa Laval,2018-08-27,B,Active,88000,T500,1,4697.49,1,0,T500
+AST-00365,FV-251 Test Line Control Valve,Control Valve,Valves and Safety Devices,,FAC-25,BU-UPS,REG-SK,SK,CA-SK-FAC-25-FV251,Sulzer,2024-10-25,C,Active,18000,,0,0,0,0,FAC-25
+AST-00366,GC-21 Sales Gas Gas Compressor,Gas Compressor (Recip),Rotating Equipment,,FAC-02,BU-UPS,REG-BC,BC,CA-BC-FAC-02-GC021,Nova Pump & Equipment,2025-02-03,B,Active,181000,,2,393781.59,1,1,FAC-02
+AST-00367,FV-101 Amine Circulation Control Valve,Control Valve,Valves and Safety Devices,R100,,BU-REF,REG-AB,AB,CA-AB-R100-FV101,Siemens Energy,1976-06-20,A,Active,29000,R100,2,1584.6,1,0,R100
+AST-00368,M-102 Naphtha Feed Motor,Electric Motor,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-M102,Cameron,1970-11-26,A,Active,44000,R100,4,115543.83,3,2,R100
+AST-00369,FV-61 Produced Water Control Valve,Control Valve,Valves and Safety Devices,,FAC-06,BU-UPS,REG-AB,AB,CA-AB-FAC-06-FV061,Emerson,2016-11-04,A,Active,56000,,2,8064.44,1,0,FAC-06
+AST-00370,V-32 Steam Header Vessel,Pressure Vessel,Static Equipment,,FAC-03,BU-UPS,REG-AB,AB,CA-AB-FAC-03-V032,Ingersoll Rand,2014-02-28,C,Active,47000,,3,175771.55,2,1,FAC-03
+AST-00371,PT-106 Amine Circulation Transmitter,Process Transmitter,Instrumentation and Metering,R100,,BU-REF,REG-AB,AB,CA-AB-R100-PT106,Nova Pump & Equipment,2009-04-18,B,Active,8000,R100,0,0,0,1,R100
+AST-00372,TK-241 Oil Shipping Storage Tank,Storage Tank,Static Equipment,,FAC-24,BU-UPS,REG-SK,SK,CA-SK-FAC-24-TK241,Sulzer,2015-08-12,B,Active,144000,,0,0,0,0,FAC-24
+AST-00373,ESP-91 Oil Shipping ESP Assembly,ESP,Rotating Equipment,,FAC-09,BU-UPS,REG-AB,AB,CA-AB-FAC-09-ESP091,WEG,2019-10-02,C,Active,70000,,3,24801.96,1,1,FAC-09
+AST-00374,PT-303 Gasoline Blending Transmitter,Process Transmitter,Instrumentation and Metering,R300,,BU-REF,REG-QC,QC,CA-QC-R300-PT303,Honeywell,2024-04-02,B,Active,7000,R300,1,914.05,0,0,R300
+AST-00375,TK-106 Rack Supply Storage Tank,Storage Tank,Static Equipment,T100,,BU-MID,REG-AB,AB,CA-AB-T100-TK106,Honeywell,2015-03-10,B,Active,146000,T100,1,4947.55,0,0,T100
+AST-00376,PSV-202 Vacuum Tower Bottoms Relief Valve,Pressure Relief Valve,Valves and Safety Devices,R200,,BU-REF,REG-ON,ON,CA-ON-R200-PSV202,Emerson,1998-02-06,B,Active,23000,R200,3,7846.99,1,0,R200
+AST-00377,ESP-142 Oil Shipping ESP Assembly,ESP,Rotating Equipment,,FAC-14,BU-UPS,REG-AB,AB,CA-AB-FAC-14-ESP142,Cameron,2005-03-25,A,Active,207000,,1,1478.55,0,1,FAC-14
+AST-00378,M-223 Emulsion Transfer Motor,Electric Motor,Rotating Equipment,,FAC-22,BU-UPS,REG-SK,SK,CA-SK-FAC-22-M223,Alfa Laval,2009-08-06,B,Active,38000,,2,5405.19,1,0,FAC-22
+AST-00379,V-302 Crude Charge Vessel,Pressure Vessel,Static Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-V302,Nova Pump & Equipment,2018-09-16,C,Active,50000,R300,0,0,0,0,R300
+AST-00380,FV-302 Gasoline Blending Control Valve,Control Valve,Valves and Safety Devices,R300,,BU-REF,REG-QC,QC,CA-QC-R300-FV302,Weatherford,2000-08-08,B,Active,26000,R300,12,229663.3,12,5,R300
+AST-00381,M-182 Inlet Motor,Electric Motor,Rotating Equipment,,FAC-18,BU-UPS,REG-AB,AB,CA-AB-FAC-18-M182,Cameron,2010-03-21,A,Active,78000,,3,43524.56,1,1,FAC-18
+AST-00382,KC-202 Naphtha Feed Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-KC202,Emerson,2010-01-11,A,Active,481000,R200,2,13695.87,1,0,R200
+AST-00383,P-206 Sour Water Pump,Centrifugal Pump,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-P206,Weatherford,2014-05-11,B,Active,76000,R200,2,4249.52,0,0,R200
+AST-00384,P-151 Fuel Gas Pump,Centrifugal Pump,Rotating Equipment,,FAC-15,BU-UPS,REG-AB,AB,CA-AB-FAC-15-P151,Baker Hughes,2023-07-23,C,Active,18000,,5,731290.06,4,3,FAC-15
+AST-00385,FV-204 Amine Circulation Control Valve,Control Valve,Valves and Safety Devices,R200,,BU-REF,REG-ON,ON,CA-ON-R200-FV204,GE Vernova,1986-02-10,C,Active,12000,R200,3,186707.35,3,0,R200
+AST-00386,P-302 Rack Supply Pump,Centrifugal Pump,Rotating Equipment,T300,,BU-MID,REG-SK,SK,CA-SK-T300-P302,Siemens Energy,2015-01-10,C,Active,34000,T300,8,404557.58,7,3,T300
+AST-00387,M-108 Cooling Water Motor,Electric Motor,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-M108,Baker Hughes,1978-08-06,C,Active,30000,R100,1,2074.06,0,0,R100
+AST-00388,TK-71 Emulsion Transfer Storage Tank,Storage Tank,Static Equipment,,FAC-07,BU-UPS,REG-AB,AB,CA-AB-FAC-07-TK071,Honeywell,2009-09-21,B,Active,160000,,0,0,0,1,FAC-07
+AST-00389,M-106 Diesel Hydrotreater Feed Motor,Electric Motor,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-M106,Flowserve,2015-11-21,C,Active,15000,R100,0,0,0,1,R100
+AST-00390,TK-205 Tank Farm Storage Tank,Storage Tank,Static Equipment,T200,,BU-MID,REG-BC,AB,CA-AB-T200-TK205,Baker Hughes,2024-03-21,A,Active,117000,T200,3,31102.51,1,0,T200
+AST-00391,KC-41 Produced Water Centrifugal Compressor,Centrifugal Compressor,Rotating Equipment,,FAC-04,BU-UPS,REG-AB,AB,CA-AB-FAC-04-KC041,Alfa Laval,2025-05-23,A,Standby,534000,,2,22029.45,0,1,FAC-04
+AST-00392,TK-101 Boiler Feedwater Storage Tank,Storage Tank,Static Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-TK101,Weatherford,1998-05-28,C,Active,51000,R100,0,0,0,0,R100
+AST-00393,PSV-171 Inlet Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-17,BU-UPS,REG-AB,AB,CA-AB-FAC-17-PSV171,Alfa Laval,2023-01-07,A,Active,38000,,1,7928.61,0,1,FAC-17
+AST-00394,ESP-131 Test Line ESP Assembly,ESP,Rotating Equipment,,FAC-13,BU-UPS,REG-AB,AB,CA-AB-FAC-13-ESP131,Baker Hughes,2023-04-08,B,Active,160000,,1,59795.66,1,0,FAC-13
+AST-00395,PT-101 Jet Transfer Transmitter,Process Transmitter,Instrumentation and Metering,T100,,BU-MID,REG-AB,AB,CA-AB-T100-PT101,Ingersoll Rand,2017-07-12,A,Active,8000,T100,1,573.47,0,0,T100
+AST-00396,P-304 Tank Farm Pump,Centrifugal Pump,Rotating Equipment,T300,,BU-MID,REG-SK,SK,CA-SK-T300-P304,Siemens Energy,2017-10-07,C,Active,43000,T300,1,4204.56,0,0,T300
+AST-00397,PT-304 Fuel Gas Transmitter,Process Transmitter,Instrumentation and Metering,R300,,BU-REF,REG-QC,QC,CA-QC-R300-PT304,Flowserve,2021-10-27,A,Active,18000,R300,1,332.57,0,0,R300
+AST-00398,M-301 Diesel Hydrotreater Feed Motor,Electric Motor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-M301,Honeywell,1998-11-26,B,Active,58000,R300,3,20539.14,3,0,R300
+AST-00399,WH-233 Emulsion Transfer Wellhead,Wellhead,Static Equipment,,FAC-23,BU-UPS,REG-SK,SK,CA-SK-FAC-23-WH233,Alfa Laval,2005-11-16,A,Active,128000,,2,6226.67,2,0,FAC-23
+AST-00400,P-302 Vacuum Tower Bottoms Pump,Centrifugal Pump,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-P302,Emerson,1985-04-09,C,Active,28000,R300,2,5658.73,0,0,R300
+AST-00401,TK-101 Glycol Circulation Storage Tank,Storage Tank,Static Equipment,,FAC-10,BU-UPS,REG-AB,AB,CA-AB-FAC-10-TK101,Siemens Energy,2013-10-04,B,Active,107000,,4,121818.94,3,2,FAC-10
+AST-00402,FV-207 Gasoline Blending Control Valve,Control Valve,Valves and Safety Devices,R200,,BU-REF,REG-ON,ON,CA-ON-R200-FV207,Baker Hughes,2004-10-01,B,Active,22000,R200,0,0,0,0,R200
+AST-00403,SEP-62 Glycol Circulation Separator,Separator,Static Equipment,,FAC-06,BU-UPS,REG-AB,AB,CA-AB-FAC-06-SEP062,ABB,2024-05-19,C,Active,37000,,0,0,0,0,FAC-06
+AST-00404,LR-101 Ethanol Blend Loading Rack,Loading Rack,Terminal Equipment,T100,,BU-MID,REG-AB,AB,CA-AB-T100-LR101,Flowserve,2013-11-25,C,Active,31000,T100,1,9492.14,0,0,T100
+AST-00405,PSV-51 Oil Shipping Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-05,BU-UPS,REG-AB,AB,CA-AB-FAC-05-PSV051,Ingersoll Rand,2008-07-19,A,Active,25000,,6,195769.03,4,2,FAC-05
+AST-00406,HT-71 Glycol Circulation Heater Treater,Heater Treater,Fired and Heat Transfer,,FAC-07,BU-UPS,REG-AB,AB,CA-AB-FAC-07-HT071,Emerson,2009-06-15,B,Active,39000,,4,21822.74,3,0,FAC-07
+AST-00407,M-109 Hydrogen Make-up Motor,Electric Motor,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-M109,Flowserve,1974-08-26,B,Active,63000,R100,4,11211.5,1,0,R100
+AST-00408,PT-104 Crude Charge Transmitter,Process Transmitter,Instrumentation and Metering,R100,,BU-REF,REG-AB,AB,CA-AB-R100-PT104,Sulzer,1970-02-28,B,Active,6000,R100,1,4251.73,1,0,R100
+AST-00409,V-103 Reflux Vessel,Pressure Vessel,Static Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-V103,Sulzer,1993-10-08,C,Active,86000,R100,2,403043.88,1,1,R100
+AST-00410,SEP-191 Fuel Gas Separator,Separator,Static Equipment,,FAC-19,BU-UPS,REG-AB,AB,CA-AB-FAC-19-SEP191,Flowserve,2016-07-21,B,Active,53000,,1,9593.96,0,0,FAC-19
+AST-00411,P-802 Vapour Header Pump,Centrifugal Pump,Rotating Equipment,T800,,BU-MID,REG-AB,BC,CA-BC-T800-P802,Flowserve,2013-05-10,A,Active,108000,T800,4,88922.65,3,0,T800
+AST-00412,V-205 Diesel Hydrotreater Feed Vessel,Pressure Vessel,Static Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-V205,Honeywell,1970-07-21,C,Active,85000,R200,0,0,0,0,R200
+AST-00413,TK-602 Gasoline Transfer Storage Tank,Storage Tank,Static Equipment,T600,,BU-MID,REG-QC,QC,CA-QC-T600-TK602,Siemens Energy,2014-09-16,B,Active,83000,T600,3,45222.21,2,1,T600
+AST-00414,P-301 Product Transfer Pump,Centrifugal Pump,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-P301,Siemens Energy,1986-09-22,A,Active,54000,R300,6,66148.98,4,0,R300
+AST-00415,P-303 Tank Farm Pump,Centrifugal Pump,Rotating Equipment,T300,,BU-MID,REG-SK,SK,CA-SK-T300-P303,GE Vernova,2017-10-12,B,Active,46000,T300,2,12281.15,1,0,T300
+AST-00416,M-251 Condensate Motor,Electric Motor,Rotating Equipment,,FAC-25,BU-UPS,REG-SK,SK,CA-SK-FAC-25-M251,Emerson,2020-10-05,A,Active,63000,,5,60646.66,1,0,FAC-25
+AST-00417,FV-162 Steam Header Control Valve,Control Valve,Valves and Safety Devices,,FAC-16,BU-UPS,REG-AB,AB,CA-AB-FAC-16-FV162,ABB,2005-05-04,B,Active,18000,,8,143546.49,6,0,FAC-16
+AST-00418,TK-151 Test Line Storage Tank,Storage Tank,Static Equipment,,FAC-15,BU-UPS,REG-AB,AB,CA-AB-FAC-15-TK151,Chart Industries,2022-03-01,B,Active,79000,,3,36273.03,1,0,FAC-15
+AST-00419,TK-112 Sales Gas Storage Tank,Storage Tank,Static Equipment,,FAC-11,BU-UPS,REG-AB,AB,CA-AB-FAC-11-TK112,Nova Pump & Equipment,2017-09-16,A,Active,122000,,4,68780.89,1,0,FAC-11
+AST-00420,P-212 Produced Water Pump,Centrifugal Pump,Rotating Equipment,,FAC-21,BU-UPS,REG-SK,SK,CA-SK-FAC-21-P212,Nova Pump & Equipment,2021-03-05,B,Active,55000,,5,25093.17,3,0,FAC-21
+AST-00421,DH-51 Inlet Glycol Dehydrator,Glycol Dehydrator,Static Equipment,,FAC-05,BU-UPS,REG-AB,AB,CA-AB-FAC-05-DH051,Alfa Laval,2018-09-05,C,Active,54000,,0,0,0,0,FAC-05
+AST-00422,TK-104 Gasoline Transfer Storage Tank,Storage Tank,Static Equipment,T100,,BU-MID,REG-AB,AB,CA-AB-T100-TK104,Siemens Energy,2007-05-28,B,Active,98000,T100,1,23810.77,0,1,T100
+AST-00423,P-601 Diesel Transfer Pump,Centrifugal Pump,Rotating Equipment,T600,,BU-MID,REG-QC,QC,CA-QC-T600-P601,Siemens Energy,2017-05-27,C,Decommissioned,35000,T600,0,0,0,0,T600
+AST-00424,H-201 Product Transfer Fired Heater,Fired Heater,Fired and Heat Transfer,R200,,BU-REF,REG-ON,ON,CA-ON-R200-H201,ABB,1984-10-18,B,Active,211000,R200,2,25579.87,0,0,R200
+AST-00425,K-303 FCC Slurry Recip Compressor,Reciprocating Compressor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-K303,Ingersoll Rand,2024-09-23,C,Active,120000,R300,6,379958.84,6,1,R300
+AST-00426,A-102 Vacuum Tower Bottoms Air Cooler,Air Cooler,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-A102,Baker Hughes,2018-01-03,B,Active,67000,R100,4,71558.49,4,1,R100
+AST-00427,ESP-71 Test Line ESP Assembly,ESP,Rotating Equipment,,FAC-07,BU-UPS,REG-AB,AB,CA-AB-FAC-07-ESP071,GE Vernova,2025-06-04,B,Active,150000,,0,0,0,0,FAC-07
+AST-00428,E-203 Crude Charge Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R200,,BU-REF,REG-ON,ON,CA-ON-R200-E203,Siemens Energy,2018-05-05,C,Active,39000,R200,1,1327.2,1,0,R200
+AST-00429,B-201 Cooling Water Boiler,Boiler,Fired and Heat Transfer,R200,,BU-REF,REG-ON,ON,CA-ON-R200-B201,Flowserve,1994-01-13,C,Active,130000,R200,0,0,0,0,R200
+AST-00430,V-191 Inlet Vessel,Pressure Vessel,Static Equipment,,FAC-19,BU-UPS,REG-AB,AB,CA-AB-FAC-19-V191,ABB,2018-02-14,A,Active,179000,,0,0,0,0,FAC-19
+AST-00431,MS-802 Rack Supply Metering Skid,Metering Skid,Instrumentation and Metering,T800,,BU-MID,REG-AB,BC,CA-BC-T800-MS802,Honeywell,2011-01-02,C,Active,24000,T800,0,0,0,0,T800
+AST-00432,P-110 Reflux Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P110,Chart Industries,1986-05-06,C,Active,29000,R100,5,34313.39,3,0,R100
+AST-00433,FV-31 Produced Water Control Valve,Control Valve,Valves and Safety Devices,,FAC-03,BU-UPS,REG-AB,AB,CA-AB-FAC-03-FV031,Baker Hughes,2024-02-22,A,Active,27000,,0,0,0,0,FAC-03
+AST-00434,FL-121 Inlet Flare Stack,Flare Stack,Static Equipment,,FAC-12,BU-UPS,REG-AB,AB,CA-AB-FAC-12-FL121,Nova Pump & Equipment,2012-10-17,A,Active,49000,,2,255178.98,1,0,FAC-12
+AST-00435,E-141 Sales Gas Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,,FAC-14,BU-UPS,REG-AB,AB,CA-AB-FAC-14-E141,Ingersoll Rand,2013-12-05,C,Active,38000,,0,0,0,0,FAC-14
+AST-00436,K-305 Cooling Water Recip Compressor,Reciprocating Compressor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-K305,ABB,2010-11-01,C,Active,79000,R300,0,0,0,0,R300
+AST-00437,TK-242 Fuel Gas Storage Tank,Storage Tank,Static Equipment,,FAC-24,BU-UPS,REG-SK,SK,CA-SK-FAC-24-TK242,Ingersoll Rand,2008-06-23,C,Active,57000,,0,0,0,0,FAC-24
+AST-00438,ST-302 Sour Water Steam Turbine,Steam Turbine,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-ST302,Siemens Energy,1974-03-06,B,Active,299000,R300,1,68922.64,1,0,R300
+AST-00439,PSV-401 Receipt Line Relief Valve,Pressure Relief Valve,Valves and Safety Devices,T400,,BU-MID,REG-ON,MB,CA-MB-T400-PSV401,Emerson,2023-08-27,C,Active,11000,T400,3,16151.94,1,0,T400
+AST-00440,E-161 Test Line Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,,FAC-16,BU-UPS,REG-AB,AB,CA-AB-FAC-16-E161,Flowserve,2024-12-06,B,Active,95000,,1,2419.67,0,1,FAC-16
+AST-00441,GC-12 Emulsion Transfer Gas Compressor,Gas Compressor (Recip),Rotating Equipment,,FAC-01,BU-UPS,REG-BC,BC,CA-BC-FAC-01-GC012,Chart Industries,2015-02-08,A,Active,258000,,2,24217.52,1,0,FAC-01
+AST-00442,P-213 Product Transfer Pump,Centrifugal Pump,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-P213,Nova Pump & Equipment,1988-01-19,A,Active,97000,R200,2,9873.14,0,0,R200
+AST-00443,P-171 Steam Header Pump,Centrifugal Pump,Rotating Equipment,,FAC-17,BU-UPS,REG-AB,AB,CA-AB-FAC-17-P171,Baker Hughes,2021-01-11,C,Active,22000,,1,138989.71,0,1,FAC-17
+AST-00444,P-101 Sales Gas Pump,Centrifugal Pump,Rotating Equipment,,FAC-10,BU-UPS,REG-AB,AB,CA-AB-FAC-10-P101,Flowserve,2018-10-23,A,Active,116000,,2,335632.48,1,0,FAC-10
+AST-00445,WH-221 Sales Gas Wellhead,Wellhead,Static Equipment,,FAC-22,BU-UPS,REG-SK,SK,CA-SK-FAC-22-WH221,GE Vernova,2005-05-23,A,Active,51000,,0,0,0,0,FAC-22
+AST-00446,SEP-21 Condensate Separator,Separator,Static Equipment,,FAC-02,BU-UPS,REG-BC,BC,CA-BC-FAC-02-SEP021,WEG,2020-06-04,A,Active,70000,,2,62648.6,0,0,FAC-02
+AST-00447,P-305 Vacuum Tower Bottoms Pump,Centrifugal Pump,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-P305,Chart Industries,1985-06-22,A,Active,91000,R300,4,45952.55,2,1,R300
+AST-00448,FV-401 Ethanol Blend Control Valve,Control Valve,Valves and Safety Devices,T400,,BU-MID,REG-ON,MB,CA-MB-T400-FV401,Emerson,2006-01-16,C,Active,9000,T400,0,0,0,0,T400
+AST-00449,ESP-221 Glycol Circulation ESP Assembly,ESP,Rotating Equipment,,FAC-22,BU-UPS,REG-SK,SK,CA-SK-FAC-22-ESP221,Flowserve,2008-12-17,A,Active,130000,,0,0,0,0,FAC-22
+AST-00450,FV-182 Sales Gas Control Valve,Control Valve,Valves and Safety Devices,,FAC-18,BU-UPS,REG-AB,AB,CA-AB-FAC-18-FV182,Honeywell,2009-09-22,C,Active,13000,,0,0,0,0,FAC-18
+AST-00451,P-306 Fuel Gas Pump,Centrifugal Pump,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-P306,Honeywell,2013-06-22,B,Active,57000,R300,1,40436.54,0,0,R300
+AST-00452,SG-141 Steam Header Steam Generator,Steam Generator (OTSG),Fired and Heat Transfer,,FAC-14,BU-UPS,REG-AB,AB,CA-AB-FAC-14-SG141,GE Vernova,2018-07-10,C,Active,87000,,0,0,0,1,FAC-14
+AST-00453,PSV-21 Inlet Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-02,BU-UPS,REG-BC,BC,CA-BC-FAC-02-PSV021,ABB,2020-04-20,A,Active,40000,,0,0,0,0,FAC-02
+AST-00454,P-119 Cooling Water Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P119,ABB,1979-03-23,C,Active,27000,R100,5,370706.33,2,1,R100
+AST-00455,P-309 Hydrogen Make-up Pump,Centrifugal Pump,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-P309,Alfa Laval,2015-01-24,B,Active,62000,R300,0,0,0,0,R300
+AST-00456,FV-172 Oil Shipping Control Valve,Control Valve,Valves and Safety Devices,,FAC-17,BU-UPS,REG-AB,AB,CA-AB-FAC-17-FV172,Sulzer,2012-02-23,B,Active,29000,,1,60959.24,0,0,FAC-17
+AST-00457,TK-804 Ethanol Blend Storage Tank,Storage Tank,Static Equipment,T800,,BU-MID,REG-AB,BC,CA-BC-T800-TK804,Alfa Laval,2019-07-06,C,Standby,100000,T800,0,0,0,0,T800
+AST-00458,FV-801 Tank Farm Control Valve,Control Valve,Valves and Safety Devices,T800,,BU-MID,REG-AB,BC,CA-BC-T800-FV801,Ingersoll Rand,2024-05-13,A,Mothballed,59000,T800,0,0,0,0,T800
+AST-00459,PSV-131 Inlet Relief Valve,Pressure Relief Valve,Valves and Safety Devices,,FAC-13,BU-UPS,REG-AB,AB,CA-AB-FAC-13-PSV131,Emerson,2020-10-04,A,Active,31000,,0,0,0,1,FAC-13
+AST-00460,FV-303 Cooling Water Control Valve,Control Valve,Valves and Safety Devices,R300,,BU-REF,REG-QC,QC,CA-QC-R300-FV303,Alfa Laval,2003-02-04,C,Active,13000,R300,0,0,0,0,R300
+AST-00461,M-302 Diesel Hydrotreater Feed Motor,Electric Motor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-M302,Cameron,1981-03-28,B,Active,37000,R300,1,4173.9,0,0,R300
+AST-00462,H-104 Cooling Water Fired Heater,Fired Heater,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-H104,Flowserve,2001-08-04,A,Active,463000,R100,7,535267.87,6,1,R100
+AST-00463,E-308 Crude Charge Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-E308,Ingersoll Rand,2023-02-24,B,Active,37000,R300,1,546101.86,1,1,R300
+AST-00464,P-311 Hydrogen Make-up Pump,Centrifugal Pump,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-P311,WEG,1998-11-03,B,Active,68000,R300,0,0,0,0,R300
+AST-00465,MS-201 Receipt Line Metering Skid,Metering Skid,Instrumentation and Metering,T200,,BU-MID,REG-BC,AB,CA-AB-T200-MS201,Sulzer,2011-02-24,C,Active,27000,T200,0,0,0,0,T200
+AST-00466,PJ-242 Condensate Pumpjack,Pumpjack,Rotating Equipment,,FAC-24,BU-UPS,REG-SK,SK,CA-SK-FAC-24-PJ242,Emerson,2013-12-17,A,Active,131000,,6,26142.67,0,0,FAC-24
+AST-00467,LR-201 Rack Supply Loading Rack,Loading Rack,Terminal Equipment,T200,,BU-MID,REG-BC,AB,CA-AB-T200-LR201,ABB,2022-07-22,C,Active,32000,T200,1,12328.75,0,0,T200
+AST-00468,M-303 Vacuum Tower Bottoms Motor,Electric Motor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-M303,Chart Industries,2012-02-11,B,Active,45000,R300,3,9626.16,0,0,R300
+AST-00469,PSV-301 Gasoline Blending Relief Valve,Pressure Relief Valve,Valves and Safety Devices,R300,,BU-REF,REG-QC,QC,CA-QC-R300-PSV301,Honeywell,1972-09-16,A,Active,24000,R300,3,11114.26,0,0,R300
+AST-00470,P-801 Ethanol Blend Pump,Centrifugal Pump,Rotating Equipment,T800,,BU-MID,REG-AB,BC,CA-BC-T800-P801,Siemens Energy,2008-05-26,C,Active,22000,T800,3,8093.73,0,1,T800
+AST-00471,FV-206 Crude Charge Control Valve,Control Valve,Valves and Safety Devices,R200,,BU-REF,REG-ON,ON,CA-ON-R200-FV206,Sulzer,2019-03-21,B,Active,24000,R200,3,10191.73,1,0,R200
+AST-00472,P-162 Glycol Circulation Pump,Centrifugal Pump,Rotating Equipment,,FAC-16,BU-UPS,REG-AB,AB,CA-AB-FAC-16-P162,Baker Hughes,2023-06-28,A,Active,83000,,4,19302.29,1,0,FAC-16
+AST-00473,PT-105 Product Transfer Transmitter,Process Transmitter,Instrumentation and Metering,R100,,BU-REF,REG-AB,AB,CA-AB-R100-PT105,Chart Industries,1983-03-24,B,Active,11000,R100,3,3515.34,2,0,R100
+AST-00474,M-601 Tank Farm Motor,Electric Motor,Rotating Equipment,T600,,BU-MID,REG-QC,QC,CA-QC-T600-M601,Weatherford,2025-07-28,C,Active,18000,T600,0,0,0,1,T600
+AST-00475,PT-203 FCC Slurry Transmitter,Process Transmitter,Instrumentation and Metering,R200,,BU-REF,REG-ON,ON,CA-ON-R200-PT203,Alfa Laval,2018-08-25,C,Active,4000,R200,1,2697.91,1,0,R200
+AST-00476,M-201 Cooling Water Motor,Electric Motor,Rotating Equipment,R200,,BU-REF,REG-ON,ON,CA-ON-R200-M201,Weatherford,1995-03-04,A,Active,86000,R200,12,307777.07,9,1,R200
+AST-00477,K-304 Reflux Recip Compressor,Reciprocating Compressor,Rotating Equipment,R300,,BU-REF,REG-QC,QC,CA-QC-R300-K304,Honeywell,2017-10-07,B,Active,95000,R300,2,4100.7,0,0,R300
+AST-00478,PSV-301 Gasoline Transfer Relief Valve,Pressure Relief Valve,Valves and Safety Devices,T300,,BU-MID,REG-SK,SK,CA-SK-T300-PSV301,Weatherford,2011-09-11,B,Active,18000,T300,1,5069.02,0,0,T300
+AST-00479,P-103 Hydrogen Make-up Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P103,Chart Industries,1999-12-09,C,Active,17000,R100,0,0,0,0,R100
+AST-00480,B-302 Hydrogen Make-up Boiler,Boiler,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-B302,Weatherford,1990-05-03,A,Active,287000,R300,4,53661.44,1,0,R300
+AST-00481,P-11 Oil Shipping Pump,Centrifugal Pump,Rotating Equipment,,FAC-01,BU-UPS,REG-BC,BC,CA-BC-FAC-01-P011,ABB,2023-02-02,C,Active,43000,,2,25665.8,1,0,FAC-01
+AST-00482,V-21 Steam Header Vessel,Pressure Vessel,Static Equipment,,FAC-02,BU-UPS,REG-BC,BC,CA-BC-FAC-02-V021,Chart Industries,2022-08-02,C,Active,73000,,1,12029.05,1,0,FAC-02
+AST-00483,M-211 Glycol Circulation Motor,Electric Motor,Rotating Equipment,,FAC-21,BU-UPS,REG-SK,SK,CA-SK-FAC-21-M211,Ingersoll Rand,2010-06-03,A,Active,90000,,1,6475.78,0,0,FAC-21
+AST-00484,PT-501 Jet Transfer Transmitter,Process Transmitter,Instrumentation and Metering,T500,,BU-MID,REG-ON,ON,CA-ON-T500-PT501,ABB,2013-03-20,B,Active,9000,T500,2,7439.39,1,1,T500
+AST-00485,E-301 Sour Water Heat Exchanger,Shell & Tube Heat Exchanger,Fired and Heat Transfer,R300,,BU-REF,REG-QC,QC,CA-QC-R300-E301,Weatherford,2021-11-23,B,Active,95000,R300,1,5589.38,0,0,R300
+AST-00486,P-113 Sour Water Pump,Centrifugal Pump,Rotating Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-P113,Baker Hughes,1977-05-18,A,Active,93000,R100,2,4859.87,0,0,R100
+AST-00487,H-102 Gasoline Blending Fired Heater,Fired Heater,Fired and Heat Transfer,R100,,BU-REF,REG-AB,AB,CA-AB-R100-H102,Ingersoll Rand,2017-09-01,A,Active,460000,R100,3,803706.16,0,0,R100
+AST-00488,TK-102 Naphtha Feed Storage Tank,Storage Tank,Static Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-TK102,GE Vernova,2017-12-12,B,Active,148000,R100,3,37387.17,0,0,R100
+AST-00489,SG-182 Condensate Steam Generator,Steam Generator (OTSG),Fired and Heat Transfer,,FAC-18,BU-UPS,REG-AB,AB,CA-AB-FAC-18-SG182,Cameron,2021-06-21,A,Active,324000,,4,474403.68,3,2,FAC-18
+AST-00490,SEP-152 Produced Water Separator,Separator,Static Equipment,,FAC-15,BU-UPS,REG-AB,AB,CA-AB-FAC-15-SEP152,WEG,2009-01-12,A,Active,97000,,0,0,0,0,FAC-15
+AST-00491,P-602 Gasoline Transfer Pump,Centrifugal Pump,Rotating Equipment,T600,,BU-MID,REG-QC,QC,CA-QC-T600-P602,Emerson,2015-02-20,C,Active,25000,T600,1,1919.41,0,0,T600
+AST-00492,DH-31 Fuel Gas Glycol Dehydrator,Glycol Dehydrator,Static Equipment,,FAC-03,BU-UPS,REG-AB,AB,CA-AB-FAC-03-DH031,Sulzer,2017-02-20,C,Active,30000,,0,0,0,0,FAC-03
+AST-00493,FV-141 Condensate Control Valve,Control Valve,Valves and Safety Devices,,FAC-14,BU-UPS,REG-AB,AB,CA-AB-FAC-14-FV141,ABB,2005-11-14,A,Active,41000,,2,4620.94,0,0,FAC-14
+AST-00494,M-504 Receipt Line Motor,Electric Motor,Rotating Equipment,T500,,BU-MID,REG-ON,ON,CA-ON-T500-M504,Alfa Laval,2024-07-18,C,Active,35000,T500,0,0,0,1,T500
+AST-00495,PSV-302 Boiler Feedwater Relief Valve,Pressure Relief Valve,Valves and Safety Devices,R300,,BU-REF,REG-QC,QC,CA-QC-R300-PSV302,Cameron,1977-03-11,C,Active,6000,R300,2,1978.27,1,0,R300
+AST-00496,WH-121 Condensate Wellhead,Wellhead,Static Equipment,,FAC-12,BU-UPS,REG-AB,AB,CA-AB-FAC-12-WH121,GE Vernova,2024-09-27,B,Active,38000,,3,25696.11,1,0,FAC-12
+AST-00497,GC-31 Glycol Circulation Gas Compressor,Gas Compressor (Recip),Rotating Equipment,,FAC-03,BU-UPS,REG-AB,AB,CA-AB-FAC-03-GC031,GE Vernova,2017-12-04,B,Active,206000,,6,338911.25,4,0,FAC-03
+AST-00498,M-151 Test Line Motor,Electric Motor,Rotating Equipment,,FAC-15,BU-UPS,REG-AB,AB,CA-AB-FAC-15-M151,Cameron,2017-05-08,C,Active,34000,,1,60500.04,0,1,FAC-15
+AST-00499,TK-103 FCC Slurry Storage Tank,Storage Tank,Static Equipment,R100,,BU-REF,REG-AB,AB,CA-AB-R100-TK103,Honeywell,2004-12-21,B,Active,173000,R100,4,62433.53,1,0,R100
+AST-00500,PJ-102 Oil Shipping Pumpjack,Pumpjack,Rotating Equipment,,FAC-10,BU-UPS,REG-AB,AB,CA-AB-FAC-10-PJ102,Chart Industries,2010-03-24,C,Active,27000,,1,22207.84,1,0,FAC-10

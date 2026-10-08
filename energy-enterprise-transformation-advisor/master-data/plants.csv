@@ -1,0 +1,21 @@
+Plant_ID,Plant_Name,Plant_Type,Business_Unit_ID,Region_ID,Province,City,Latitude,Longitude,Nameplate_Capacity,Capacity_Unit,Commissioning_Year,Operating_Status,Ownership_Pct,Operator,SAP_Plant_Code,SAP_Company_Code,API_RP754_Applicable,Warehouse_IDs,Asset_Count,Products_Made_Or_Handled
+R100,Prairie Refinery,Refinery,BU-REF,REG-AB,AB,Fort Saskatchewan,53.713,-113.213,22000,m3/day crude,1984,Operating,100,Self-operated,R100,CA20,Y,WH01;WH09;WH12,80,17
+R200,Lakehead Refinery,Refinery,BU-REF,REG-ON,ON,Thunder Bay,48.381,-89.247,14000,m3/day crude,1967,Operating,100,Self-operated,R200,CA20,Y,WH02,60,16
+R300,Saint-Laurent Refinery,Refinery,BU-REF,REG-QC,QC,Montreal-Est,45.633,-73.517,20000,m3/day crude,1955,Operating,100,Self-operated,R300,CA20,Y,WH03,70,17
+U100,Athabasca Upgrader,Upgrader,BU-REF,REG-AB,AB,Fort McMurray,56.727,-111.38,25400,m3/day bitumen,2008,Operating,100,Self-operated,U100,CA20,Y,WH04;WH13,0,4
+G100,Foothills Gas Plant,Gas Plant,BU-UPS,REG-AB,AB,Caroline,52.093,-114.738,8500,e3m3/day raw gas,1992,Operating,100,Self-operated,G100,CA10,Y,WH05,0,5
+G200,Peace Country Gas Plant,Gas Plant,BU-UPS,REG-AB,AB,Grande Prairie,55.171,-118.795,6200,e3m3/day raw gas,2004,Operating,100,Self-operated,G200,CA10,Y,,0,5
+G300,Montney Gas Plant,Gas Plant,BU-UPS,REG-BC,BC,Fort St. John,56.252,-120.847,11000,e3m3/day raw gas,2016,Operating,75,Self-operated,G300,CA10,Y,WH06,0,5
+L100,Western Lubricants Blend Plant,Lubricants Blending,BU-COM,REG-AB,AB,Edmonton,53.546,-113.49,420,m3/day blended product,1998,Operating,100,Self-operated,L100,CA30,N,WH07,0,14
+A100,Prairie Asphalt Plant,Asphalt Plant,BU-COM,REG-SK,SK,Regina,50.445,-104.619,2600,tonnes/day,1981,Operating,100,Self-operated,A100,CA30,N,WH15,0,6
+B100,Renewable Diesel Unit,Renewable Fuels,BU-LCN,REG-AB,AB,Edmonton,53.6,-113.38,3000,m3/day renewable diesel,2024,Operating,100,Self-operated,B100,CA50,Y,,0,3
+P100,Petrochemical Complex,Petrochemicals,BU-REF,REG-AB,AB,Joffre,52.317,-113.583,1200000,tonnes/year,1979,Operating,100,Self-operated,P100,CA20,Y,,0,6
+C100,NGL Fractionation Plant,NGL Fractionation,BU-UPS,REG-AB,AB,Fort Saskatchewan,53.73,-113.15,18000,m3/day NGL,1995,Operating,100,Self-operated,C100,CA10,Y,,0,4
+T100,Western Products Terminal,Terminal,BU-MID,REG-AB,AB,Edmonton,53.585,-113.36,520000,m3 storage,1972,Operating,100,Self-operated,T100,CA10,N,WH08,12,0
+T200,Coastal Marine Terminal,Marine Terminal,BU-MID,REG-BC,BC,Burnaby,49.288,-122.947,640000,m3 storage,1962,Operating,100,Self-operated,T200,CA10,N,,12,0
+T300,Prairie Rail Terminal,Rail Terminal,BU-MID,REG-SK,SK,Saskatoon,52.133,-106.67,180000,m3 storage,1990,Operating,100,Self-operated,T300,CA10,N,,11,0
+T400,Lakeshore Products Terminal,Terminal,BU-MID,REG-ON,ON,Mississauga,43.56,-79.6,410000,m3 storage,1958,Operating,100,Self-operated,T400,CA10,N,WH10,11,0
+T500,Capital Region Terminal,Terminal,BU-MID,REG-ON,ON,Ottawa,45.38,-75.62,150000,m3 storage,1975,Operating,100,Self-operated,T500,CA10,N,,11,0
+T600,St. Lawrence Terminal,Marine Terminal,BU-MID,REG-QC,QC,Levis,46.8,-71.18,560000,m3 storage,1964,Operating,100,Self-operated,T600,CA10,N,WH11,11,0
+T700,Atlantic Marine Terminal,Marine Terminal,BU-MID,REG-ATL,NS,Dartmouth,44.668,-63.568,480000,m3 storage,1970,Operating,100,Self-operated,T700,CA10,N,WH14,11,0
+T800,Western Airport Fuel Facility,Airport Fuel Facility,BU-MID,REG-AB,AB,Calgary,51.131,-114.01,95000,m3 storage,1999,Operating,100,Self-operated,T800,CA10,N,,11,0

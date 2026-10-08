@@ -1,0 +1,34 @@
+Facility_ID,Facility_Name,Facility_Type,Field,Business_Unit_ID,Region_ID,Province,Latitude,Longitude,Operating_Status,Avg_Daily_boe,Wells_Connected,Asset_Count,ESG_Reporting_Boundary,Commissioning_Year,Source
+FAC-01,Montney-Dawson Gas Plant 1,Gas Plant,Montney-Dawson,BU-UPS,REG-BC,BC,55.9412,-120.299,Operating,7538,8,8,Y,2005,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-02,Montney-Dawson Gas Plant 2,Gas Plant,Montney-Dawson,BU-UPS,REG-BC,BC,55.8183,-120.3247,Operating,18732,16,8,Y,2013,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-03,Montney-Kakwa Gas Plant 1,Gas Plant,Montney-Kakwa,BU-UPS,REG-AB,AB,54.2425,-118.9044,Operating,17040,15,8,Y,2020,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-04,Montney-Kakwa Gas Plant 2,Gas Plant,Montney-Kakwa,BU-UPS,REG-AB,AB,54.2287,-118.8483,Operating,16144,15,8,Y,2020,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-05,Deep Basin-Edson Gas Plant 1,Gas Plant,Deep Basin-Edson,BU-UPS,REG-AB,AB,53.39,-116.6913,Operating,8351,11,8,Y,2009,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-06,Deep Basin-Edson Gas Plant 2,Gas Plant,Deep Basin-Edson,BU-UPS,REG-AB,AB,53.4199,-116.6952,Operating,8448,12,8,Y,2012,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-07,Duvernay-Fox Creek Oil Battery 1,Oil Battery,Duvernay-Fox Creek,BU-UPS,REG-AB,AB,54.5818,-116.7512,Operating,12725,12,8,Y,2012,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-08,Duvernay-Fox Creek Oil Battery 2,Oil Battery,Duvernay-Fox Creek,BU-UPS,REG-AB,AB,54.6042,-117.1073,Operating,35123,26,8,Y,2013,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-09,Cardium-Pembina Oil Battery 1,Oil Battery,Cardium-Pembina,BU-UPS,REG-AB,AB,52.9182,-115.7267,Operating,1742,11,8,Y,2010,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-10,Cardium-Pembina Oil Battery 2,Oil Battery,Cardium-Pembina,BU-UPS,REG-AB,AB,53.0084,-115.4795,Operating,7201,15,8,Y,2017,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-11,Swan Hills Oil Battery,Oil Battery,Swan Hills,BU-UPS,REG-AB,AB,54.6718,-115.2332,Operating,2650,14,8,Y,2010,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-12,Clearwater-Marten Hills Oil Battery 1,Oil Battery,Clearwater-Marten Hills,BU-UPS,REG-AB,AB,55.5222,-113.6582,Operating,1642,13,8,N,2013,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-13,Clearwater-Marten Hills Oil Battery 2,Oil Battery,Clearwater-Marten Hills,BU-UPS,REG-AB,AB,55.5703,-113.4833,Operating,3602,16,8,Y,2020,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-14,Cold Lake SAGD CPF 1,SAGD CPF,Cold Lake,BU-UPS,REG-AB,AB,54.3383,-109.8471,Operating,9056,9,8,Y,2010,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-15,Cold Lake SAGD CPF 2,SAGD CPF,Cold Lake,BU-UPS,REG-AB,AB,54.6654,-110.1936,Operating,5960,15,8,Y,2007,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-16,Athabasca SAGD CPF 1,SAGD CPF,Athabasca,BU-UPS,REG-AB,AB,56.9215,-111.2209,Operating,10185,12,8,Y,2018,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-17,Athabasca SAGD CPF 2,SAGD CPF,Athabasca,BU-UPS,REG-AB,AB,56.813,-111.4035,Operating,5323,8,8,Y,2012,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-18,Athabasca SAGD CPF 3,SAGD CPF,Athabasca,BU-UPS,REG-AB,AB,56.7272,-111.6568,Operating,6283,8,8,Y,2019,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-19,Peace River SAGD CPF,SAGD CPF,Peace River,BU-UPS,REG-AB,AB,56.1874,-117.0334,Operating,4961,11,8,Y,2012,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-20,Viking-Kerrobert Oil Battery 1,Oil Battery,Viking-Kerrobert,BU-UPS,REG-SK,SK,52.1059,-109.2245,Operating,1238,5,8,N,2011,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-21,Viking-Kerrobert Oil Battery 2,Oil Battery,Viking-Kerrobert,BU-UPS,REG-SK,SK,51.9344,-109.421,Operating,3391,10,8,Y,2014,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-22,Bakken-Estevan Oil Battery 1,Oil Battery,Bakken-Estevan,BU-UPS,REG-SK,SK,49.3355,-103.2977,Operating,1903,6,8,Y,2011,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-23,Bakken-Estevan Oil Battery 2,Oil Battery,Bakken-Estevan,BU-UPS,REG-SK,SK,48.9406,-103.334,Operating,4514,12,8,Y,2005,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-24,Lloydminster Heavy Oil Battery 1,Oil Battery,Lloydminster Heavy,BU-UPS,REG-SK,SK,53.3987,-110.0496,Operating,1190,12,8,N,2023,Upstream-Operations / ESG / Asset-Reliability / HSE
+FAC-25,Lloydminster Heavy Oil Battery 2,Oil Battery,Lloydminster Heavy,BU-UPS,REG-SK,SK,53.1325,-109.6858,Operating,2012,8,8,Y,2018,Upstream-Operations / ESG / Asset-Reliability / HSE
+PL-01,Oil Sands Gathering Pipelines,Pipeline System,,BU-MID,REG-AB,AB,,,Operating,,0,0,N,2006,HSE-Agent
+PL-02,Peace River Export Line,Pipeline System,,BU-MID,REG-AB,AB,,,Operating,,0,0,N,1988,HSE-Agent
+PL-03,Prairie Trunk Pipeline (SK-MB),Pipeline System,,BU-MID,REG-SK,SK,,,Operating,,0,0,N,2002,HSE-Agent
+PL-04,Montney Gas Gathering System,Pipeline System,,BU-UPS,REG-BC,BC,,,Operating,,0,0,N,1997,HSE-Agent
+PL-05,Ontario Products Pipeline,Pipeline System,,BU-MID,REG-ON,ON,,,Operating,,0,0,N,1990,HSE-Agent
+PL-06,Quebec Products Pipeline,Pipeline System,,BU-MID,REG-QC,QC,,,Operating,,0,0,N,1985,HSE-Agent
+HQ-CAL,Corporate Head Office,Office,,BU-COR,REG-AB,AB,51.0486,-114.0708,Operating,,0,0,N,2011,HSE-Agent
+DC-EDM,Edmonton Distribution Centre,Warehouse,,BU-SCM,REG-AB,AB,53.5461,-113.4938,Operating,,0,0,N,2015,HSE-Agent

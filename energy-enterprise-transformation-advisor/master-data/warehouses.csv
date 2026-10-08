@@ -1,0 +1,16 @@
+Warehouse_ID,Warehouse_Name,Warehouse_Type,Plant_ID,Business_Unit_ID,Region_ID,Province,City,Floor_Area_m2,Pallet_Positions,Hazmat_Rated,Operating_Model,SAP_Plant_Code,SAP_Storage_Location,Status,Referenced_In_Agent_Data,Stock_Lines,Movement_Records,New_In_Master
+WH01,Prairie Refinery Central Stores,MRO Central Stores,R100,BU-SCM,REG-AB,AB,Fort Saskatchewan,14500,6200,Y,Owned and operated,R100,0010,Active,Y,67,130,N
+WH02,Lakehead Refinery Stores,MRO Central Stores,R200,BU-SCM,REG-ON,ON,Thunder Bay,9800,4100,Y,Owned and operated,R200,0020,Active,Y,59,99,N
+WH03,Saint-Laurent Refinery Stores,MRO Central Stores,R300,BU-SCM,REG-QC,QC,Montreal-Est,12800,5400,Y,Owned and operated,R300,0030,Active,Y,54,110,N
+WH04,Athabasca Upgrader Stores,MRO Central Stores,U100,BU-SCM,REG-AB,AB,Fort McMurray,11200,4700,Y,Owned and operated,U100,0040,Active,Y,65,130,N
+WH05,Foothills Gas Plant Warehouse,Plant Warehouse,G100,BU-SCM,REG-AB,AB,Caroline,3600,1400,Y,Owned and operated,G100,0050,Active,Y,62,119,N
+WH06,Montney Field Warehouse,Field Warehouse,G300,BU-SCM,REG-BC,BC,Fort St. John,5200,2100,Y,Owned and operated,G300,0060,Active,Y,52,115,N
+WH07,Western Lubricants Finished Goods DC,Finished Goods DC,L100,BU-SCM,REG-AB,AB,Edmonton,16000,9800,N,Owned and operated,L100,0070,Active,Y,26,58,N
+WH08,Western Pipe Yard,Pipe Yard,T100,BU-SCM,REG-AB,AB,Edmonton,42000,0,N,Owned and operated,T100,0080,Active,Y,26,42,N
+WH09,Chemicals and Catalyst Warehouse,Chemicals Warehouse,R100,BU-SCM,REG-AB,AB,Fort Saskatchewan,6400,2600,Y,Owned and operated,R100,0090,Active,Y,23,42,N
+WH10,Ontario Regional Distribution Centre,Regional DC,T400,BU-SCM,REG-ON,ON,Mississauga,13500,7200,N,Third-party logistics (3PL),T400,0100,Active,Y,24,57,N
+WH11,Quebec Regional Distribution Centre,Regional DC,T600,BU-SCM,REG-QC,QC,Levis,11800,6300,N,Third-party logistics (3PL),T600,0110,Active,Y,23,48,N
+WH12,Dangerous Goods Warehouse,Dangerous Goods,R100,BU-SCM,REG-AB,AB,Fort Saskatchewan,2800,900,Y,Owned and operated,R100,0120,Active,Y,19,50,N
+WH13,Fort McMurray Oil Sands Field Stores,Field Warehouse,U100,BU-SCM,REG-AB,AB,Fort McMurray,7400,3000,Y,Owned and operated,U100,0130,Active,N,0,0,Y
+WH14,Atlantic Regional Distribution Centre,Regional DC,T700,BU-SCM,REG-ATL,NS,Dartmouth,8900,4600,N,Third-party logistics (3PL),T700,0140,Active,N,0,0,Y
+WH15,Prairie Regional Distribution Centre,Regional DC,A100,BU-SCM,REG-SK,SK,Regina,9600,5100,N,Third-party logistics (3PL),A100,0150,Active,N,0,0,Y

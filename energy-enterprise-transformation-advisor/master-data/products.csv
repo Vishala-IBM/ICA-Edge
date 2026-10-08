@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Product_Category,Product_Group,Product_Type,Owning_Business_Unit_ID,Primary_Plant_ID,Producing_Plant_IDs,Observed_Supply_Points,Base_Unit_of_Measure,Density_kg_per_m3,UN_Number,TDG_Class,Packing_Group,SAP_Material_Type,SAP_Product_Hierarchy,Standard_Margin_Pct,Low_Carbon_Flag,Seasonal_Flag,Status,Order_Lines_in_Agent_Data,Price_Records
+PRD-001,Regular Unleaded 87,Gasoline,Light Distillates,Finished Product,BU-RTL,R100,R100;R200;R300,R100;R200;R300,litres,740,UN1203,3,II,FERT,GAS-LIG,6.5,N,N,Active,25,3
+PRD-002,Mid-Grade Unleaded 89,Gasoline,Light Distillates,Finished Product,BU-RTL,R100,R100;R200;R300,R100;R200;R300,litres,740,UN1203,3,II,FERT,GAS-LIG,8.6,N,N,Active,21,3
+PRD-003,Premium Unleaded 91,Gasoline,Light Distillates,Finished Product,BU-RTL,R100,R100;R200;R300,R100;R200;R300,litres,740,UN1203,3,II,FERT,GAS-LIG,4.1,N,N,Active,32,3
+PRD-004,Premium Unleaded 94,Gasoline,Light Distillates,Finished Product,BU-RTL,R100,R100,R100;R200,litres,740,UN1203,3,II,FERT,GAS-LIG,7.4,N,N,Active,5,3
+PRD-005,Regular E10 Ethanol Blend,Gasoline,Light Distillates,Finished Product,BU-RTL,R100,R100,R100;R200;R300,litres,740,UN1203,3,II,FERT,GAS-LIG,4.8,Y,N,Active,18,3
+PRD-006,Winter-Blend Regular 87,Gasoline,Light Distillates,Finished Product,BU-RTL,R100,R100,R100;R200;R300,litres,740,UN1203,3,II,FERT,GAS-LIG,7.3,N,Y,Active,26,3
+PRD-007,Winter-Blend Premium 91,Gasoline,Light Distillates,Finished Product,BU-RTL,R100,R100,R100;R200,litres,740,UN1203,3,II,FERT,GAS-LIG,8.5,N,Y,Active,16,3
+PRD-008,Rack Gasoline 87 (Wholesale),Gasoline,Light Distillates,Finished Product,BU-COM,R100,R100,R100;R200;R300,litres,740,UN1203,3,II,FERT,GAS-LIG,7.3,N,N,Active,17,3
+PRD-009,Racing Fuel 100 Octane,Gasoline,Light Distillates,Finished Product,BU-COM,R100,R100,,litres,740,UN1203,3,II,FERT,GAS-LIG,6.2,N,N,Active,0,3
+PRD-010,Non-Ethanol Recreational Gasoline 91,Gasoline,Light Distillates,Finished Product,BU-RTL,R100,R100,,litres,740,UN1203,3,II,FERT,GAS-LIG,8.6,N,N,Active,0,3
+PRD-011,Ultra-Low Sulphur Diesel No. 2,Diesel,Middle Distillates,Finished Product,BU-COM,R100,R100;R200;R300;U100,R100;R200;R300,litres,840,UN1202,3,III,FERT,DIE-MID,5.5,N,N,Active,58,3
+PRD-012,Winter Diesel No. 1,Diesel,Middle Distillates,Finished Product,BU-COM,R100,R100;R200;R300,R100;R200;R300,litres,840,UN1202,3,III,FERT,DIE-MID,5.3,N,Y,Active,22,3
+PRD-013,Arctic Grade Diesel,Diesel,Middle Distillates,Finished Product,BU-COM,R100,R100,R100;R200,litres,840,UN1202,3,III,FERT,DIE-MID,6.0,N,Y,Active,12,3
+PRD-014,Biodiesel B5 Blend,Diesel,Middle Distillates,Finished Product,BU-COM,R100,R100,R100;R200,litres,845,UN1202,3,III,FERT,DIE-MID,7.4,Y,N,Active,9,3
+PRD-015,Biodiesel B20 Blend,Diesel,Middle Distillates,Finished Product,BU-LCN,B100,B100,R100;R200,litres,850,UN1202,3,III,FERT,DIE-MID,7.8,Y,N,Active,5,3
+PRD-016,Renewable Diesel R99,Diesel,Middle Distillates,Finished Product,BU-LCN,B100,B100,,litres,780,UN1202,3,III,FERT,DIE-MID,4.7,Y,N,Active,0,3
+PRD-017,Dyed Off-Road Diesel,Diesel,Middle Distillates,Finished Product,BU-COM,R100,R100,R100;R200;R300,litres,840,UN1202,3,III,FERT,DIE-MID,5.1,N,N,Active,22,3
+PRD-018,Premium Diesel with Additive,Diesel,Middle Distillates,Finished Product,BU-COM,R100,R100,R100;R200;R300,litres,840,UN1202,3,III,FERT,DIE-MID,5.7,N,N,Active,16,3
+PRD-019,Marine Gas Oil,Diesel,Middle Distillates,Finished Product,BU-COM,R300,R300,R300,litres,860,UN1202,3,III,FERT,DIE-MID,6.0,N,N,Active,4,3
+PRD-020,Locomotive Diesel,Diesel,Middle Distillates,Finished Product,BU-COM,R100,R100,R300,litres,840,UN1202,3,III,FERT,DIE-MID,7.4,N,N,Active,5,3
+PRD-021,Mining-Grade Bulk Diesel,Diesel,Middle Distillates,Finished Product,BU-COM,R100,R100,R100,litres,840,UN1202,3,III,FERT,DIE-MID,5.8,N,N,Active,4,3
+PRD-022,Farm Diesel Bulk Delivery,Diesel,Middle Distillates,Finished Product,BU-COM,R100,R100,R100;R300,litres,840,UN1202,3,III,FERT,DIE-MID,4.1,N,N,Active,6,3
+PRD-023,Jet A,Jet and Marine,Middle Distillates,Finished Product,BU-COM,R100,R100;R200;R300,R100;R200,litres,800,UN1863,3,III,FERT,JET-MID,3.1,N,N,Active,11,3
+PRD-024,Jet A-1,Jet and Marine,Middle Distillates,Finished Product,BU-COM,R100,R100,R100;R200,litres,800,UN1863,3,III,FERT,JET-MID,4.7,N,N,Active,13,3
+PRD-025,Sustainable Aviation Fuel Blend 10%,Jet and Marine,Middle Distillates,Finished Product,BU-COM,R100,R100,R100;R200,litres,800,UN1863,3,III,FERT,JET-MID,5.4,Y,N,Active,11,3
+PRD-026,Sustainable Aviation Fuel Blend 30%,Jet and Marine,Middle Distillates,Finished Product,BU-COM,R100,R100,,litres,800,UN1863,3,III,FERT,JET-MID,3.4,Y,N,Active,0,3
+PRD-027,Avgas 100LL,Jet and Marine,Middle Distillates,Finished Product,BU-COM,R100,R100,R100;R200,litres,720,UN1203,3,III,FERT,JET-MID,3.1,N,N,Active,10,3
+PRD-028,Very Low Sulphur Fuel Oil (VLSFO),Jet and Marine,Middle Distillates,Finished Product,BU-COM,R100,R100,R300,litres,990,Not regulated,,,FERT,JET-MID,3.7,N,N,Active,4,3
+PRD-029,Marine Diesel Oil,Jet and Marine,Middle Distillates,Finished Product,BU-COM,R100,R100,R300,litres,870,UN1202,3,III,FERT,JET-MID,3.1,N,N,Active,7,3
+PRD-030,Ground Support Equipment Diesel,Jet and Marine,Middle Distillates,Finished Product,BU-COM,R100,R100,R100;R200,litres,800,UN1863,3,III,FERT,JET-MID,4.3,N,N,Active,14,3
+PRD-031,Bulk Propane Residential,LPG and NGL,NGL and LPG,Finished Product,BU-COM,C100,C100,R100;R200,litres,510,UN1978,2.1,,FERT,LPG-NGL,14.6,N,N,Active,11,3
+PRD-032,Bulk Propane Commercial,LPG and NGL,NGL and LPG,Finished Product,BU-COM,C100,C100,R100;R200;R300,litres,510,UN1978,2.1,,FERT,LPG-NGL,17.6,N,N,Active,15,3
+PRD-033,Autogas Propane,LPG and NGL,NGL and LPG,Finished Product,BU-COM,C100,C100,R100;R200,litres,510,UN1978,2.1,,FERT,LPG-NGL,10.0,N,N,Active,8,3
+PRD-034,Cylinder Propane Exchange 20 lb,LPG and NGL,NGL and LPG,Finished Product,BU-COM,C100,C100,,EA,510,UN1978,2.1,,FERT,LPG-NGL,8.1,N,N,Active,0,3
+PRD-035,Industrial Propane Cylinders,LPG and NGL,NGL and LPG,Finished Product,BU-COM,C100,C100,,EA,510,UN1978,2.1,,FERT,LPG-NGL,9.8,N,N,Active,0,3
+PRD-036,Butane,LPG and NGL,NGL and LPG,Finished Product,BU-COM,C100,C100;P100,R100;R200,litres,580,UN1011,2.1,,FERT,LPG-NGL,11.5,N,N,Active,6,3
+PRD-037,Propane-Butane Mix,LPG and NGL,NGL and LPG,Finished Product,BU-COM,C100,C100;G100;G200;G300;P100;R100;R200;R300,R100;R200,litres,540,UN1965,2.1,,FERT,LPG-NGL,13.2,N,N,Active,5,3
+PRD-038,Ethane Feedstock Supply,LPG and NGL,NGL and LPG,Finished Product,BU-COM,C100,C100;G100;G200;G300,,litres,370,UN1961,2.1,,FERT,LPG-NGL,11.9,N,N,Active,0,3
+PRD-039,Condensate and Diluent,LPG and NGL,NGL and LPG,Finished Product,BU-COM,C100,C100;G100;G200;G300,R200;R300,tonnes,700,UN1267,2.1,I,FERT,LPG-NGL,8.9,N,N,Active,4,3
+PRD-040,Light Heating Oil No. 2,Heating Oil,Middle Distillates,Finished Product,BU-COM,R100,R100;R200;R300,R200,litres,850,UN1202,3,III,FERT,HEA-MID,10.3,N,Y,Active,1,3
+PRD-041,Bio-Heating Oil B10,Heating Oil,Middle Distillates,Finished Product,BU-COM,R100,R100,,litres,850,UN1202,3,III,FERT,HEA-MID,8.7,Y,Y,Active,0,3
+PRD-042,Commercial Furnace Oil,Heating Oil,Middle Distillates,Finished Product,BU-COM,R100,R100,R100;R200,litres,850,UN1202,3,III,FERT,HEA-MID,11.5,N,Y,Active,4,3
+PRD-043,Kerosene K-1,Heating Oil,Middle Distillates,Finished Product,BU-COM,R100,R100;R200;R300,R100;R200,litres,800,UN1223,3,III,FERT,HEA-MID,9.4,N,Y,Active,5,3
+PRD-044,Synthetic Engine Oil 5W-30,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,,litres,880,Not regulated,,,FERT,LUB-LUB,35.9,N,N,Active,0,3
+PRD-045,Synthetic Engine Oil 0W-20,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,,litres,880,Not regulated,,,FERT,LUB-LUB,29.3,N,N,Active,0,3
+PRD-046,Conventional Engine Oil 10W-30,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,,litres,880,Not regulated,,,FERT,LUB-LUB,24.1,N,N,Active,0,3
+PRD-047,Heavy-Duty Diesel Engine Oil 15W-40,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,R100;R200;R300,litres,880,Not regulated,,,FERT,LUB-LUB,36.4,N,N,Active,13,3
+PRD-048,Full Synthetic Heavy-Duty 10W-30,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,R200,litres,880,Not regulated,,,FERT,LUB-LUB,34.4,N,N,Active,1,3
+PRD-049,Hydraulic Oil AW 32,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,,litres,880,Not regulated,,,FERT,LUB-LUB,38.0,N,N,Active,0,3
+PRD-050,Hydraulic Oil AW 46,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,R100;R300,litres,880,Not regulated,,,FERT,LUB-LUB,39.5,N,N,Active,3,3
+PRD-051,Hydraulic Oil AW 68,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,R100;R200,litres,880,Not regulated,,,FERT,LUB-LUB,35.8,N,N,Active,6,3
+PRD-052,Gear Oil 80W-90,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,R100,litres,880,Not regulated,,,FERT,LUB-LUB,38.2,N,N,Active,1,3
+PRD-053,Industrial Gear Oil ISO 220,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,R100,litres,880,Not regulated,,,FERT,LUB-LUB,27.0,N,N,Active,5,3
+PRD-054,Automatic Transmission Fluid,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,R200,litres,880,Not regulated,,,FERT,LUB-LUB,28.8,N,N,Active,1,3
+PRD-055,Multipurpose Grease NLGI 2,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,,litres,880,Not regulated,,,FERT,LUB-LUB,35.4,N,N,Active,0,3
+PRD-056,High-Temperature Grease,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,,litres,880,Not regulated,,,FERT,LUB-LUB,20.6,N,N,Active,0,3
+PRD-057,Compressor Oil ISO 100,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,R100,litres,880,Not regulated,,,FERT,LUB-LUB,21.3,N,N,Active,2,3
+PRD-058,Turbine Oil ISO 46,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,,litres,880,Not regulated,,,FERT,LUB-LUB,23.5,N,N,Active,0,3
+PRD-059,Transformer Insulating Oil,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,,litres,880,Not regulated,,,FERT,LUB-LUB,35.8,N,N,Active,0,3
+PRD-060,Metalworking Fluid,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,,litres,880,Not regulated,,,FERT,LUB-LUB,23.0,N,N,Active,0,3
+PRD-061,Wind Turbine Gear Oil,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,,litres,880,Not regulated,,,FERT,LUB-LUB,34.5,N,N,Active,0,3
+PRD-062,Natural Gas Engine Oil,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,R100;R300,litres,880,Not regulated,,,FERT,LUB-LUB,33.8,N,N,Active,2,3
+PRD-063,Marine Cylinder Oil,Lubricants,Lubricants and Greases,Finished Product,BU-COM,L100,L100,R300,litres,880,Not regulated,,,FERT,LUB-LUB,29.9,N,N,Active,2,3
+PRD-064,Diesel Exhaust Fluid (DEF),Specialty Fluids,Specialty Fluids,Finished Product,BU-COM,L100,L100,,litres,1000,Not regulated,,,FERT,SPE-SPE,26.7,N,N,Active,0,3
+PRD-065,Engine Coolant 50/50,Specialty Fluids,Specialty Fluids,Finished Product,BU-COM,L100,L100,R100,litres,1070,Not regulated,,,FERT,SPE-SPE,35.5,N,Y,Active,1,3
+PRD-066,Windshield Washer Fluid -40,Specialty Fluids,Specialty Fluids,Finished Product,BU-COM,L100,L100,,litres,950,UN1993,3,III,FERT,SPE-SPE,39.6,N,Y,Active,0,3
+PRD-067,Fuel System Cleaner,Specialty Fluids,Specialty Fluids,Finished Product,BU-COM,L100,L100,,litres,800,UN1993,3,III,FERT,SPE-SPE,35.5,N,N,Active,0,3
+PRD-068,Diesel Anti-Gel Additive,Specialty Fluids,Specialty Fluids,Finished Product,BU-COM,L100,L100,,litres,820,UN1993,3,III,FERT,SPE-SPE,36.2,N,Y,Active,0,3
+PRD-069,Brake Fluid DOT 4,Specialty Fluids,Specialty Fluids,Finished Product,BU-COM,L100,L100,,litres,1050,Not regulated,,,FERT,SPE-SPE,32.6,N,N,Active,0,3
+PRD-070,Industrial Solvent,Specialty Fluids,Specialty Fluids,Finished Product,BU-COM,L100,L100,,litres,850,UN1993,3,II,FERT,SPE-SPE,43.0,N,N,Active,0,3
+PRD-071,Drilling Fluid Base Oil,Specialty Fluids,Specialty Fluids,Finished Product,BU-COM,L100,L100,,litres,820,Not regulated,,,FERT,SPE-SPE,42.0,N,N,Active,0,3
+PRD-072,Asphalt Cement PG 58-28,Asphalt and Bitumen,Heavy Products,Finished Product,BU-COM,A100,A100;R100;R200;R300,R200,tonnes,1020,UN3257,9,III,FERT,ASP-HEA,11.7,N,N,Active,1,3
+PRD-073,Asphalt Cement PG 64-22,Asphalt and Bitumen,Heavy Products,Finished Product,BU-COM,A100,A100,,tonnes,1020,UN3257,9,III,FERT,ASP-HEA,9.4,N,N,Active,0,3
+PRD-074,Asphalt Cement PG 70-28,Asphalt and Bitumen,Heavy Products,Finished Product,BU-COM,A100,A100,,tonnes,1020,UN3257,9,III,FERT,ASP-HEA,11.5,N,N,Active,0,3
+PRD-075,Asphalt Cement PG 52-34,Asphalt and Bitumen,Heavy Products,Finished Product,BU-COM,A100,A100,,tonnes,1020,UN3257,9,III,FERT,ASP-HEA,8.2,N,N,Active,0,3
+PRD-076,Cationic Asphalt Emulsion,Asphalt and Bitumen,Heavy Products,Finished Product,BU-COM,A100,A100,,tonnes,1010,Not regulated,,,FERT,ASP-HEA,11.6,N,N,Active,0,3
+PRD-077,Medium-Cure Cutback Asphalt,Asphalt and Bitumen,Heavy Products,Finished Product,BU-COM,A100,A100,,tonnes,960,UN1999,3,III,FERT,ASP-HEA,13.6,N,N,Active,0,3
+PRD-078,Naphtha,Petrochemical Feedstock,Petrochemicals and Co-products,Feedstock / Co-product,BU-REF,P100,P100;R100;R200;R300,R200;R300,tonnes,700,UN1268,3,II,HALB,PET-PET,8.4,N,N,Active,2,3
+PRD-079,Granular Sulphur,Petrochemical Feedstock,Petrochemicals and Co-products,Feedstock / Co-product,BU-REF,G100,G100;G200;G300;R100;R200;R300;U100,R200,tonnes,2070,UN1350,4.1,III,HALB,PET-PET,5.5,N,N,Active,1,3
+PRD-080,Toluene,Petrochemical Feedstock,Petrochemicals and Co-products,Feedstock / Co-product,BU-REF,P100,P100;R100;R200;R300,,tonnes,867,UN1294,3,II,HALB,PET-PET,7.9,N,N,Active,0,3
+PRD-081,Mixed Xylenes,Petrochemical Feedstock,Petrochemicals and Co-products,Feedstock / Co-product,BU-REF,P100,P100;R100;R200;R300,R300,tonnes,864,UN1307,3,III,HALB,PET-PET,11.5,N,N,Active,4,3
+PRD-082,Polymer-Grade Propylene,Petrochemical Feedstock,Petrochemicals and Co-products,Feedstock / Co-product,BU-REF,P100,P100;R100;R200;R300,R300,tonnes,520,UN1077,2.1,,HALB,PET-PET,8.3,N,N,Active,2,3
+PRD-083,Petroleum Coke,Petrochemical Feedstock,Petrochemicals and Co-products,Feedstock / Co-product,BU-REF,R100,R100;R200;R300;U100,R300,tonnes,1100,Not regulated,,,HALB,PET-PET,8.0,N,N,Active,1,3
+PRD-084,Renewable Natural Gas (RNG) Supply,Low-Carbon Fuels,Low-Carbon Products,Finished Product,BU-LCN,B100,B100,,GJ,,UN1971,2.1,,FERT,LOW-LOW,11.7,Y,N,Active,0,3
+PRD-085,Compressed Hydrogen Supply,Low-Carbon Fuels,Low-Carbon Products,Finished Product,BU-LCN,B100,B100,,kg,,UN1049,2.1,,FERT,LOW-LOW,13.4,Y,N,Active,0,3
+PRD-086,Carbon-Offset Fuel Program,Low-Carbon Fuels,Low-Carbon Products,Environmental Product,BU-LCN,B100,B100,,tonnes CO2e,,Not applicable,,,FERT,LOW-LOW,15.4,Y,N,Active,0,3
+PRD-087,Ethanol E85,Low-Carbon Fuels,Low-Carbon Products,Finished Product,BU-LCN,B100,B100,,litres,785,UN3475,3,II,FERT,LOW-LOW,8.3,Y,N,Active,0,3
+PRD-088,Low-Carbon-Intensity Gasoline,Low-Carbon Fuels,Low-Carbon Products,Finished Product,BU-LCN,B100,B100,,litres,745,UN1203,3,II,FERT,LOW-LOW,14.2,Y,N,Active,0,3
+PRD-089,Renewable Propane,Low-Carbon Fuels,Low-Carbon Products,Finished Product,BU-LCN,B100,B100,,litres,510,UN1978,2.1,,FERT,LOW-LOW,13.4,Y,N,Active,0,3
+PRD-090,Clean Fuel Credit Bundle,Low-Carbon Fuels,Low-Carbon Products,Environmental Product,BU-LCN,B100,B100,,credits,,Not applicable,,,FERT,LOW-LOW,7.5,Y,N,Active,0,3
+PRD-091,DC Fast Charging 150 kW,EV Charging,Energy Services,Service,BU-LCN,,,,kWh,,Not applicable,,,DIEN,EV -ENE,20.0,N,N,Active,0,3
+PRD-092,Level 2 Charging,EV Charging,Energy Services,Service,BU-LCN,,,,kWh,,Not applicable,,,DIEN,EV -ENE,25.6,N,N,Active,0,3
+PRD-093,Fleet Charging Subscription,EV Charging,Energy Services,Service,BU-LCN,,,,Subscription-month,,Not applicable,,,DIEN,EV -ENE,23.3,N,N,Active,0,3
+PRD-094,Home Charging Install Package,EV Charging,Energy Services,Service,BU-LCN,,,,EA,,Not applicable,,,DIEN,EV -ENE,19.1,N,N,Active,0,3
+PRD-095,Charging Membership Plan,EV Charging,Energy Services,Service,BU-LCN,,,,Membership-month,,Not applicable,,,DIEN,EV -ENE,25.6,N,N,Active,0,3
+PRD-096,Loyalty Rewards Points Program,Convenience and Retail Services,Retail Services,Service,BU-RTL,,,,Points,,Not applicable,,,DIEN,CON-RET,42.1,N,N,Active,0,3
+PRD-097,Fleet Fuel Card Program,Convenience and Retail Services,Retail Services,Service,BU-RTL,,,,Card,,Not applicable,,,DIEN,CON-RET,41.2,N,N,Active,0,3
+PRD-098,Car Wash Service,Convenience and Retail Services,Retail Services,Service,BU-RTL,,,,Wash,,Not applicable,,,DIEN,CON-RET,31.3,N,N,Active,0,3
+PRD-099,Propane Cylinder Refill Service,Convenience and Retail Services,Retail Services,Service,BU-RTL,,,,EA,,Not applicable,,,DIEN,CON-RET,45.0,N,N,Active,0,3
+PRD-100,Coffee and Food Service Bundle,Convenience and Retail Services,Retail Services,Service,BU-RTL,,,,EA,,Not applicable,,,DIEN,CON-RET,29.8,N,N,Active,0,3

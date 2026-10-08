@@ -1,0 +1,201 @@
+Customer_ID,Customer_Name,Customer_Type,Segment_Name,Segment_ID,Region_ID,Province,City,Primary_Supply_Plant_ID,Owning_Business_Unit_ID,Payment_Terms,Credit_Limit_CAD,Credit_Rating,Currency,Customer_Since,Status,Contract_Count,Order_Count_in_Agent_Data,Forecast_Lines_in_Agent_Data,Source_Dataset
+CUS-001,Coastal Polymers Inc.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-173,REG-ON,ON,Sudbury,R200,BU-COM,Net 45,1750000,B,CAD,2014-07-02,Active,6,2,0,Sales-Trading-Agent
+CUS-002,Capital Rail Co-operative Ltd.,Railway,Railways,SEG-102,REG-QC,QC,Montreal,R300,BU-COM,Net 15,11000000,A,CAD,2016-06-14,Active,3,2,0,Sales-Trading-Agent
+CUS-003,Heritage Road Materials Ltd.,Paving / Road Builder,Asphalt and Paving Contractors,SEG-164,REG-MB,MB,Brandon,R200,BU-COM,Net 45,750000,B,CAD,2006-07-21,Active,4,1,0,Sales-Trading-Agent
+CUS-004,Keystone Freightways Ltd.,Trucking / Freight,Commercial Trucking Fleets,SEG-048,REG-NOR,NT,Yellowknife,R100,BU-COM,Net 15,2000000,B,CAD,2008-11-22,Active,4,4,0,Sales-Trading-Agent
+CUS-005,Highland Drilling Co-operative Ltd.,Oilfield Services,Oilfield Services Contractors,SEG-094,REG-QC,QC,Quebec City,R300,BU-COM,Net 30,85250000,A,CAD,2016-04-28,Active,6,3,0,Sales-Trading-Agent
+CUS-006,Frontier Drilling Limited Partnership,Oilfield Services,Oilfield Services Contractors,SEG-089,REG-AB,AB,Grande Prairie,R100,BU-COM,Net 15,2000000,A,CAD,2012-02-13,Active,6,2,0,Sales-Trading-Agent
+CUS-007,Laurentian Minerals Corp.,Mining,Mining Operators,SEG-081,REG-AB,AB,Edmonton,R100,BU-COM,Net 45,5000000,C,CAD,2021-05-21,Active,6,3,0,Sales-Trading-Agent
+CUS-008,Silverline Ag Co-op Co-operative Ltd.,Agriculture,Agriculture Producers,SEG-065,REG-AB,AB,Lethbridge,R100,BU-COM,Net 30,1500000,A,CAD,2024-06-21,Active,5,5,0,Sales-Trading-Agent
+CUS-009,Bluewater Airport Fuelling Corp.,Aviation - Airport Fuelling,Airlines and Airports (Jet Fuel),SEG-117,REG-ON,ON,Toronto,R200,BU-COM,Net 30,10000000,B,CAD,2021-08-02,Active,4,7,0,Sales-Trading-Agent
+CUS-010,Evergreen Transport Inc.,Trucking / Freight,Commercial Trucking Fleets,SEG-041,REG-AB,AB,Lethbridge,R100,BU-COM,Net 15,1750000,C,CAD,2015-12-05,Active,5,4,0,Sales-Trading-Agent
+CUS-011,Granite Energy Distribution Co-operative Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Grande Prairie,R100,BU-COM,Net 30,10000000,C,CAD,2011-11-28,Active,6,7,0,Sales-Trading-Agent
+CUS-012,Red River Resources Inc.,Mining,Mining Operators,SEG-081,REG-AB,AB,Lethbridge,R100,BU-COM,Net 30,6750000,C,CAD,2019-09-15,Active,3,3,0,Sales-Trading-Agent
+CUS-013,Pacific Mining Inc.,Mining,Mining Operators,SEG-083,REG-SK,SK,Estevan,R100,BU-COM,Net 30,6750000,C,CAD,2006-05-27,Active,5,1,0,Sales-Trading-Agent
+CUS-014,Canyon Rail Ltd.,Railway,Railways,SEG-102,REG-QC,QC,Sherbrooke,R300,BU-COM,Net 30,12250000,A,CAD,2009-09-11,Active,3,5,0,Sales-Trading-Agent
+CUS-015,Arctic Air Limited Partnership,Aviation - Airline,Airlines and Airports (Jet Fuel),SEG-113,REG-AB,AB,Fort McMurray,R100,BU-COM,Net 30,103500000,C,CAD,2010-12-08,On Hold,5,16,0,Sales-Trading-Agent
+CUS-016,Rocky Chemicals Inc.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-174,REG-QC,QC,Quebec City,R300,BU-COM,Net 30,3000000,B,CAD,2024-10-04,Active,4,3,0,Sales-Trading-Agent
+CUS-017,Northstar Energy Distribution Corp.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-182,REG-QC,QC,Quebec City,R300,BU-COM,Net 45,15500000,B,CAD,2022-07-10,Active,8,7,0,Sales-Trading-Agent
+CUS-018,Pacific Paving Corp.,Paving / Road Builder,Asphalt and Paving Contractors,SEG-168,REG-NOR,NT,Yellowknife,R100,BU-COM,Net 30,750000,B,CAD,2013-02-26,Active,6,0,0,Sales-Trading-Agent
+CUS-019,Frontier Farm Supply Co-operative Ltd.,Agriculture,Agriculture Producers,SEG-070,REG-QC,QC,Montreal,R300,BU-COM,Net 15,2000000,C,CAD,2009-02-24,Active,5,6,0,Sales-Trading-Agent
+CUS-020,Granite Petroleum Inc.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Lethbridge,R100,BU-COM,Net 15,5000000,B,CAD,2006-06-28,Active,6,5,0,Sales-Trading-Agent
+CUS-021,Cascade Petroleum Co-operative Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Grande Prairie,R100,BU-COM,Net 30,1500000,C,CAD,2025-05-07,Active,5,6,0,Sales-Trading-Agent
+CUS-022,Foothills Fuels Corp.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-179,REG-SK,SK,Moose Jaw,R100,BU-COM,Net 30,5750000,C,CAD,2007-12-23,Active,3,2,0,Sales-Trading-Agent
+CUS-023,Northstar Well Services Co-operative Ltd.,Oilfield Services,Oilfield Services Contractors,SEG-089,REG-AB,AB,Calgary,R100,BU-COM,Net 45,1250000,B,CAD,2010-08-01,Active,5,2,0,Sales-Trading-Agent
+CUS-024,Harbour Air Corp.,Aviation - Airline,Airlines and Airports (Jet Fuel),SEG-120,REG-NOR,NU,Iqaluit,R100,BU-COM,Net 30,140750000,A,CAD,2020-08-25,Active,5,19,0,Sales-Trading-Agent
+CUS-025,Highland Fuel Stops Corp.,Retail Fuel Operator,Convenience Store Customers,SEG-021,REG-ON,ON,Toronto,R200,BU-RTL,Net 15,15500000,C,CAD,2006-07-06,Active,3,4,0,Sales-Trading-Agent
+CUS-026,Cedar Propane Inc.,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-141,REG-ON,ON,Ottawa,R200,BU-COM,Net 30,1000000,B,CAD,2007-03-10,Active,5,4,0,Sales-Trading-Agent
+CUS-027,Northern Petro Stations Corp.,Retail Fuel Operator,Convenience Store Customers,SEG-017,REG-AB,AB,Red Deer,R100,BU-RTL,Net 15,28250000,B,CAD,2009-12-13,Active,5,7,0,Sales-Trading-Agent
+CUS-028,Heritage Resources Ltd.,Mining,Mining Operators,SEG-083,REG-SK,SK,Regina,R100,BU-COM,Net 15,11500000,B,CAD,2006-07-13,Active,6,10,0,Sales-Trading-Agent
+CUS-029,Laurentian Airport Fuelling Limited Partnership,Aviation - Airport Fuelling,Airlines and Airports (Jet Fuel),SEG-113,REG-AB,AB,Fort McMurray,R100,BU-COM,Net 15,14500000,A,CAD,2014-06-21,Active,5,7,0,Sales-Trading-Agent
+CUS-030,Highland Fuel Stops Co-operative Ltd.,Retail Fuel Operator,Convenience Store Customers,SEG-021,REG-ON,ON,Toronto,R200,BU-RTL,Net 15,45250000,D,CAD,2021-05-15,Active,7,13,0,Sales-Trading-Agent
+CUS-031,Canyon Minerals Ltd.,Mining,Mining Operators,SEG-083,REG-SK,SK,Saskatoon,R100,BU-COM,Net 30,5000000,B,CAD,2006-02-11,Active,6,5,0,Sales-Trading-Agent
+CUS-032,Evergreen Gas & Go Corp.,Retail Fuel Operator,Convenience Store Customers,SEG-021,REG-ON,ON,Hamilton,R200,BU-RTL,Net 15,24250000,B,CAD,2016-10-07,Active,8,12,0,Sales-Trading-Agent
+CUS-033,Pioneer Ag Co-op Ltd.,Agriculture,Agriculture Producers,SEG-065,REG-AB,AB,Calgary,R100,BU-COM,Net 45,1750000,A,CAD,2011-01-02,Active,5,2,0,Sales-Trading-Agent
+CUS-034,Canyon Freightways Inc.,Trucking / Freight,Commercial Trucking Fleets,SEG-042,REG-BC,BC,Fort St. John,R100,BU-COM,Net 30,1750000,B,CAD,2017-10-13,Active,6,3,0,Sales-Trading-Agent
+CUS-035,Summit Petrochem Ltd.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-174,REG-QC,QC,Quebec City,R300,BU-COM,Net 30,14750000,D,CAD,2010-04-19,Active,6,1,0,Sales-Trading-Agent
+CUS-036,Westcoast Fuels Co-operative Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-178,REG-BC,BC,Surrey,R100,BU-COM,Net 45,5750000,B,CAD,2011-11-14,Active,6,8,0,Sales-Trading-Agent
+CUS-037,Ironwood Propane Ltd.,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-140,REG-MB,MB,Winnipeg,R200,BU-COM,Net 30,1500000,A,CAD,2025-02-15,Active,4,6,0,Sales-Trading-Agent
+CUS-038,Coastal Minerals Ltd.,Mining,Mining Operators,SEG-082,REG-BC,BC,Kelowna,R100,BU-COM,Net 30,5500000,A,CAD,2008-09-07,Active,5,4,0,Sales-Trading-Agent
+CUS-039,Frontier Shipping Corp.,Marine,Marine and Ports,SEG-110,REG-QC,QC,Montreal,R300,BU-COM,Net 45,8750000,B,CAD,2016-05-01,Active,4,10,0,Sales-Trading-Agent
+CUS-040,Bow Valley Farm Supply Ltd.,Agriculture,Agriculture Producers,SEG-065,REG-AB,AB,Edmonton,R100,BU-COM,Net 30,1000000,C,CAD,2020-03-06,Active,4,2,0,Sales-Trading-Agent
+CUS-041,Atlantic Home Energy Inc.,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-138,REG-BC,BC,Prince George,R100,BU-COM,Net 45,1500000,D,CAD,2024-05-09,Active,3,2,0,Sales-Trading-Agent
+CUS-042,Northstar Energy Distribution Limited Partnership,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-181,REG-ON,ON,Mississauga,R200,BU-COM,Net 30,10000000,C,CAD,2024-05-19,Active,5,12,0,Sales-Trading-Agent
+CUS-043,Redcliff Energy Distribution Co-operative Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-181,REG-ON,ON,Hamilton,R200,BU-COM,Net 15,3000000,C,CAD,2025-06-19,Active,4,7,0,Sales-Trading-Agent
+CUS-044,Ironwood Chemicals Inc.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-173,REG-ON,ON,Toronto,R200,BU-COM,Net 15,3250000,D,CAD,2021-04-15,Active,5,3,0,Sales-Trading-Agent
+CUS-045,Bow Valley Petroleum Corp.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-182,REG-QC,QC,Sherbrooke,R300,BU-COM,Net 30,2000000,B,CAD,2019-03-08,On Hold,4,4,0,Sales-Trading-Agent
+CUS-046,Prairie Petro Stations Inc.,Retail Fuel Operator,Convenience Store Customers,SEG-022,REG-QC,QC,Montreal,R300,BU-RTL,Net 15,27500000,A,CAD,2023-07-23,Active,7,12,0,Sales-Trading-Agent
+CUS-047,Red River Petroleum Limited Partnership,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Grande Prairie,R100,BU-COM,Net 45,3250000,B,CAD,2017-02-01,Active,6,6,0,Sales-Trading-Agent
+CUS-048,Granite Freightways Corp.,Trucking / Freight,Commercial Trucking Fleets,SEG-046,REG-QC,QC,Montreal,R300,BU-COM,Net 30,750000,C,CAD,2018-01-09,Active,7,2,0,Sales-Trading-Agent
+CUS-049,Lakeshore Home Energy Ltd.,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-139,REG-SK,SK,Estevan,R100,BU-COM,Net 15,2000000,B,CAD,2014-03-09,Active,5,7,0,Sales-Trading-Agent
+CUS-050,Arctic Home Heating Limited Partnership,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-140,REG-MB,MB,Thompson,R200,BU-COM,Net 30,1000000,B,CAD,2022-10-07,Active,3,1,0,Sales-Trading-Agent
+CUS-051,Boreal Oilfield Services Limited Partnership,Oilfield Services,Oilfield Services Contractors,SEG-092,REG-MB,MB,Winnipeg,R200,BU-COM,Net 45,750000,C,CAD,2022-01-20,Active,6,2,0,Sales-Trading-Agent
+CUS-052,Evergreen Transport Ltd.,Trucking / Freight,Commercial Trucking Fleets,SEG-041,REG-AB,AB,Lethbridge,R100,BU-COM,Net 30,2500000,C,CAD,2023-11-24,Active,5,8,0,Sales-Trading-Agent
+CUS-053,Great Lakes Mining Co-operative Ltd.,Mining,Mining Operators,SEG-088,REG-NOR,YT,Whitehorse,R100,BU-COM,Net 45,4750000,D,CAD,2015-03-19,Active,3,2,0,Sales-Trading-Agent
+CUS-054,Bow Valley Transport Inc.,Trucking / Freight,Commercial Trucking Fleets,SEG-045,REG-ON,ON,Ottawa,R200,BU-COM,Net 15,1000000,B,CAD,2010-12-31,Active,6,5,0,Sales-Trading-Agent
+CUS-055,Foothills Petroleum Inc.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-182,REG-QC,QC,Trois-Rivieres,R300,BU-COM,Net 30,3500000,A,CAD,2013-10-12,Active,6,3,0,Sales-Trading-Agent
+CUS-056,Coastal Petro Stations Limited Partnership,Retail Fuel Operator,Convenience Store Customers,SEG-022,REG-QC,QC,Laval,R300,BU-RTL,Net 15,1000000,C,CAD,2010-01-27,Active,3,2,0,Sales-Trading-Agent
+CUS-057,Frontier Industrial Supply Co-operative Ltd.,Lubricant Distributor,Lubricant Distributors,SEG-149,REG-ON,ON,Thunder Bay,R200,BU-COM,Net 30,1250000,B,CAD,2023-02-24,Active,8,2,0,Sales-Trading-Agent
+CUS-058,Lakeshore Energy Distribution Inc.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-181,REG-ON,ON,Sarnia,R200,BU-COM,Net 15,2500000,B,CAD,2011-09-24,Active,5,3,0,Sales-Trading-Agent
+CUS-059,Pioneer Petro Stations Limited Partnership,Retail Fuel Operator,Convenience Store Customers,SEG-017,REG-AB,AB,Calgary,R100,BU-RTL,Net 15,26000000,C,CAD,2024-08-13,Active,4,11,0,Sales-Trading-Agent
+CUS-060,Granite Propane Inc.,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-141,REG-ON,ON,Thunder Bay,R200,BU-COM,Net 15,1750000,B,CAD,2024-06-15,Active,5,5,0,Sales-Trading-Agent
+CUS-061,Atlantic Lubricants Co-operative Ltd.,Lubricant Distributor,Lubricant Distributors,SEG-146,REG-BC,BC,Vancouver,R100,BU-COM,Net 45,1250000,B,CAD,2015-01-10,Active,3,1,0,Sales-Trading-Agent
+CUS-062,Northstar Petroleum Corp.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Calgary,R100,BU-COM,Net 15,5000000,A,CAD,2018-02-05,Active,7,10,0,Sales-Trading-Agent
+CUS-063,Foothills Oil & Filter Co-operative Ltd.,Lubricant Distributor,Lubricant Distributors,SEG-149,REG-ON,ON,Hamilton,R200,BU-COM,Net 30,750000,B,CAD,2013-07-08,Active,6,2,0,Sales-Trading-Agent
+CUS-064,Pioneer Fuel Stops Limited Partnership,Retail Fuel Operator,Convenience Store Customers,SEG-019,REG-SK,SK,Estevan,R100,BU-RTL,Net 15,26000000,C,CAD,2014-02-14,Active,3,8,0,Sales-Trading-Agent
+CUS-065,Great Lakes Haulage Corp.,Trucking / Freight,Commercial Trucking Fleets,SEG-046,REG-QC,QC,Trois-Rivieres,R300,BU-COM,Net 30,1500000,B,CAD,2006-04-04,Active,4,1,0,Sales-Trading-Agent
+CUS-066,Athabasca Home Energy Limited Partnership,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-137,REG-AB,AB,Calgary,R100,BU-COM,Net 30,1000000,C,CAD,2016-04-21,Active,4,1,0,Sales-Trading-Agent
+CUS-067,Ironwood Petro Stations Inc.,Retail Fuel Operator,Convenience Store Customers,SEG-018,REG-BC,BC,Surrey,R100,BU-RTL,Net 15,7000000,C,CAD,2021-06-18,Active,4,6,0,Sales-Trading-Agent
+CUS-068,Bluewater Minerals Limited Partnership,Mining,Mining Operators,SEG-081,REG-AB,AB,Fort McMurray,R100,BU-COM,Net 15,4750000,A,CAD,2014-05-13,Active,6,5,0,Sales-Trading-Agent
+CUS-069,Capital Petroleum Inc.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-183,REG-ATL,NS,Halifax,R300,BU-COM,Net 15,2500000,B,CAD,2020-10-28,Active,4,5,0,Sales-Trading-Agent
+CUS-070,Harbour Aviation Services Corp.,Aviation - Airline,Airlines and Airports (Jet Fuel),SEG-113,REG-AB,AB,Grande Prairie,R100,BU-COM,Net 45,11750000,B,CAD,2012-08-16,Active,3,10,0,Sales-Trading-Agent
+CUS-071,Cascade Energy Services Co-operative Ltd.,Oilfield Services,Oilfield Services Contractors,SEG-093,REG-ON,ON,Hamilton,R200,BU-COM,Net 45,750000,A,CAD,2009-10-24,Active,3,0,0,Sales-Trading-Agent
+CUS-072,Granite Fuels Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-178,REG-BC,BC,Prince George,R100,BU-COM,Net 30,3000000,A,CAD,2024-05-11,Active,6,6,0,Sales-Trading-Agent
+CUS-073,Harbour Petro Stations Ltd.,Retail Fuel Operator,Convenience Store Customers,SEG-021,REG-ON,ON,Toronto,R200,BU-RTL,Net 15,5250000,C,CAD,2023-12-04,Active,3,7,0,Sales-Trading-Agent
+CUS-074,Red River Chemicals Inc.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-174,REG-QC,QC,Sherbrooke,R300,BU-COM,Net 30,750000,C,CAD,2019-03-29,Active,5,1,0,Sales-Trading-Agent
+CUS-075,Redcliff Propane Ltd.,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-141,REG-ON,ON,Sudbury,R200,BU-COM,Net 30,750000,D,CAD,2012-09-05,Active,5,5,0,Sales-Trading-Agent
+CUS-076,Ironwood Energy Distribution Co-operative Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-183,REG-ATL,PE,Charlottetown,R300,BU-COM,Net 30,9500000,A,CAD,2018-05-17,Active,5,8,0,Sales-Trading-Agent
+CUS-077,Tidewater Agri Services Ltd.,Agriculture,Agriculture Producers,SEG-070,REG-QC,QC,Montreal,R300,BU-COM,Net 30,1000000,B,CAD,2017-06-03,Active,5,4,0,Sales-Trading-Agent
+CUS-078,Atlantic Gas Services Limited Partnership,Retail Fuel Operator,Convenience Store Customers,SEG-017,REG-AB,AB,Calgary,R100,BU-RTL,Net 15,2250000,B,CAD,2009-08-28,Active,5,8,0,Sales-Trading-Agent
+CUS-079,Redcliff Ports & Bunkering Ltd.,Marine,Marine and Ports,SEG-110,REG-QC,QC,Montreal,R300,BU-COM,Net 30,2500000,B,CAD,2020-10-25,Active,3,7,0,Sales-Trading-Agent
+CUS-080,Bow Valley Chemicals Corp.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-174,REG-QC,QC,Quebec City,R300,BU-COM,Net 30,5750000,B,CAD,2024-10-02,Active,5,3,0,Sales-Trading-Agent
+CUS-081,Maple Propane Co-operative Ltd.,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-141,REG-ON,ON,Thunder Bay,R200,BU-COM,Net 30,1000000,A,CAD,2020-10-11,Active,3,2,0,Sales-Trading-Agent
+CUS-082,Cascade Energy Services Ltd.,Oilfield Services,Oilfield Services Contractors,SEG-092,REG-MB,MB,Winnipeg,R200,BU-COM,Net 30,1500000,C,CAD,2022-09-30,Active,3,5,0,Sales-Trading-Agent
+CUS-083,Rocky Energy Distribution Inc.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-182,REG-QC,QC,Montreal,R300,BU-COM,Net 30,3000000,B,CAD,2011-01-23,Active,3,4,0,Sales-Trading-Agent
+CUS-084,Summit Petroleum Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Medicine Hat,R100,BU-COM,Net 30,4500000,B,CAD,2016-03-17,Active,7,5,0,Sales-Trading-Agent
+CUS-085,Great Lakes Fuels Co-operative Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-183,REG-ATL,PE,Charlottetown,R300,BU-COM,Net 30,2750000,B,CAD,2022-10-17,Active,7,10,0,Sales-Trading-Agent
+CUS-086,Coastal Energy Distribution Inc.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-182,REG-QC,QC,Sherbrooke,R300,BU-COM,Net 30,6500000,B,CAD,2020-02-17,Active,6,9,0,Sales-Trading-Agent
+CUS-087,Rocky Energy Services Ltd.,Oilfield Services,Oilfield Services Contractors,SEG-089,REG-AB,AB,Fort McMurray,R100,BU-COM,Net 30,750000,A,CAD,2020-03-05,Active,4,5,0,Sales-Trading-Agent
+CUS-088,Highland Ag Co-op Ltd.,Agriculture,Agriculture Producers,SEG-067,REG-SK,SK,Lloydminster,R100,BU-COM,Net 30,2000000,A,CAD,2020-05-04,Active,3,3,0,Sales-Trading-Agent
+CUS-089,Capital Freightways Corp.,Trucking / Freight,Commercial Trucking Fleets,SEG-045,REG-ON,ON,Sudbury,R200,BU-COM,Net 45,1750000,A,CAD,2006-07-20,Active,6,10,0,Sales-Trading-Agent
+CUS-090,Keystone Resources Limited Partnership,Mining,Mining Operators,SEG-081,REG-AB,AB,Fort McMurray,R100,BU-COM,Net 30,2250000,B,CAD,2014-08-01,Active,5,2,0,Sales-Trading-Agent
+CUS-091,Keystone Fuels Limited Partnership,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-181,REG-ON,ON,Mississauga,R200,BU-COM,Net 30,12750000,C,CAD,2016-08-11,Active,5,4,0,Sales-Trading-Agent
+CUS-092,Evergreen Petroleum Limited Partnership,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-181,REG-ON,ON,Ottawa,R200,BU-COM,Net 30,3500000,B,CAD,2018-03-11,Active,5,6,0,Sales-Trading-Agent
+CUS-093,Evergreen Drilling Corp.,Oilfield Services,Oilfield Services Contractors,SEG-094,REG-QC,QC,Quebec City,R300,BU-COM,Net 30,1500000,A,CAD,2019-12-30,Active,6,0,0,Sales-Trading-Agent
+CUS-094,Peace Freightways Ltd.,Trucking / Freight,Commercial Trucking Fleets,SEG-041,REG-AB,AB,Edmonton,R100,BU-COM,Net 30,1750000,D,CAD,2021-12-18,Active,5,2,0,Sales-Trading-Agent
+CUS-095,Bow Valley Fuels Co-operative Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-181,REG-ON,ON,Toronto,R200,BU-COM,Net 30,4250000,A,CAD,2017-04-03,Active,7,6,0,Sales-Trading-Agent
+CUS-096,Lakeshore Freightways Limited Partnership,Trucking / Freight,Commercial Trucking Fleets,SEG-044,REG-MB,MB,Winnipeg,R200,BU-COM,Net 15,2000000,B,CAD,2019-01-26,Active,5,7,0,Sales-Trading-Agent
+CUS-097,Bluewater Industrial Supply Ltd.,Lubricant Distributor,Lubricant Distributors,SEG-145,REG-AB,AB,Fort McMurray,R100,BU-COM,Net 30,500000,B,CAD,2023-01-30,Active,9,2,0,Sales-Trading-Agent
+CUS-098,Canyon Polymers Ltd.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-174,REG-QC,QC,Sherbrooke,R300,BU-COM,Net 30,2000000,C,CAD,2008-08-09,Active,6,0,0,Sales-Trading-Agent
+CUS-099,Capital Oil & Filter Corp.,Lubricant Distributor,Lubricant Distributors,SEG-149,REG-ON,ON,Hamilton,R200,BU-COM,Net 30,1750000,B,CAD,2013-01-20,Active,6,1,0,Sales-Trading-Agent
+CUS-100,Maple Energy Distribution Co-operative Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Calgary,R100,BU-COM,Net 30,8500000,A,CAD,2019-08-14,Active,7,7,0,Sales-Trading-Agent
+CUS-101,Boreal Polymers Inc.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-169,REG-AB,AB,Edmonton,R100,BU-COM,Net 30,750000,D,CAD,2015-04-23,Active,0,0,5,Demand-Planning-Agent
+CUS-102,Cascade Agri Supply Co-op,Agriculture,Agriculture Producers,SEG-068,REG-MB,MB,Thompson,R200,BU-COM,Net 30,1000000,D,CAD,2014-04-19,Active,0,0,7,Demand-Planning-Agent
+CUS-103,Cascade Haulage Inc.,Trucking / Freight,Commercial Trucking Fleets,SEG-041,REG-AB,AB,Fort McMurray,R100,BU-COM,Net 15,1000000,B,CAD,2009-06-05,Active,0,0,7,Demand-Planning-Agent
+CUS-104,Cascade Lubricants Ltd.,Lubricant Distributor,Lubricant Distributors,SEG-149,REG-ON,ON,Hamilton,R200,BU-COM,Net 30,1250000,B,CAD,2015-01-22,Active,0,0,7,Demand-Planning-Agent
+CUS-105,Cascade Municipal Fleet Services,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-178,REG-BC,BC,Vancouver,R100,BU-COM,Net 30,2000000,B,CAD,2024-05-17,Active,0,0,6,Demand-Planning-Agent
+CUS-106,Cascade Public Transit Commission,Municipal Transit,Municipal Transit Fleets,SEG-053,REG-ON,ON,Thunder Bay,R200,BU-COM,Net 30,1500000,A,CAD,2019-09-24,Active,0,0,6,Demand-Planning-Agent
+CUS-107,Cascade Resources Ltd.,Mining,Mining Operators,SEG-085,REG-ON,ON,Mississauga,R200,BU-COM,Net 45,6250000,C,CAD,2010-01-30,Active,0,0,7,Demand-Planning-Agent
+CUS-108,Cascade Specialty Chemicals,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-170,REG-BC,BC,Fort St. John,R100,BU-COM,Net 30,2000000,A,CAD,2009-08-07,Active,0,0,7,Demand-Planning-Agent
+CUS-109,Cedar Valley Logistics Ltd.,Trucking / Freight,Commercial Trucking Fleets,SEG-042,REG-BC,BC,Fort St. John,R100,BU-COM,Net 30,1250000,B,CAD,2008-09-01,Active,0,0,7,Demand-Planning-Agent
+CUS-110,Cedar Valley Petrochemicals Ltd.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-169,REG-AB,AB,Calgary,R100,BU-COM,Net 30,2000000,B,CAD,2015-03-15,Active,0,0,7,Demand-Planning-Agent
+CUS-111,Cedar Valley Propane and Heat,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-141,REG-ON,ON,Sudbury,R200,BU-COM,Net 30,1000000,B,CAD,2009-08-01,Active,0,0,6,Demand-Planning-Agent
+CUS-112,Cedar Valley Transit Authority,Municipal Transit,Municipal Transit Fleets,SEG-053,REG-ON,ON,Mississauga,R200,BU-COM,Net 30,1750000,A,CAD,2019-01-11,Active,0,0,6,Demand-Planning-Agent
+CUS-113,Coastal Marine Services,Marine,Marine and Ports,SEG-105,REG-AB,AB,Medicine Hat,R100,BU-COM,Net 30,4000000,B,CAD,2006-02-12,Active,0,0,5,Demand-Planning-Agent
+CUS-114,Coastal Municipal Public Works,Government,Government and Defence,SEG-193,REG-AB,AB,Red Deer,R100,BU-COM,Net 30,1750000,A,CAD,2020-06-28,Active,0,0,7,Demand-Planning-Agent
+CUS-115,Coastal Railway Co.,Railway,Railways,SEG-097,REG-AB,AB,Lethbridge,R100,BU-COM,Net 30,10500000,A,CAD,2019-09-17,On Hold,0,0,5,Demand-Planning-Agent
+CUS-116,Evergreen Air Services,Aviation - Airline,Airlines and Airports (Jet Fuel),SEG-113,REG-AB,AB,Lethbridge,R100,BU-COM,Net 45,4500000,B,CAD,2021-06-11,Active,0,0,6,Demand-Planning-Agent
+CUS-117,Evergreen Industrial Lubricants Inc.,Lubricant Distributor,Lubricant Distributors,SEG-149,REG-ON,ON,Toronto,R200,BU-COM,Net 30,1750000,C,CAD,2013-10-23,Active,0,0,8,Demand-Planning-Agent
+CUS-118,Evergreen Petrochemicals Ltd.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-174,REG-QC,QC,Trois-Rivieres,R300,BU-COM,Net 45,1500000,C,CAD,2017-08-05,Active,0,0,5,Demand-Planning-Agent
+CUS-119,Foothills Airways,Aviation - Airline,Airlines and Airports (Jet Fuel),SEG-114,REG-BC,BC,Vancouver,R100,BU-COM,Net 30,4750000,A,CAD,2010-02-01,Active,0,0,6,Demand-Planning-Agent
+CUS-120,Foothills Automotive Fluids Distributors,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-182,REG-QC,QC,Montreal,R300,BU-COM,Net 30,1750000,A,CAD,2023-03-07,Active,0,0,6,Demand-Planning-Agent
+CUS-121,Foothills Parks and Highways Department,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-182,REG-QC,QC,Laval,R300,BU-COM,Net 45,1000000,D,CAD,2022-12-30,Active,0,0,6,Demand-Planning-Agent
+CUS-122,Foothills Well Servicing Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-183,REG-ATL,PE,Charlottetown,R300,BU-COM,Net 30,1250000,C,CAD,2011-06-18,Active,0,0,7,Demand-Planning-Agent
+CUS-123,Granite Automotive Fluids Distributors,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-181,REG-ON,ON,Hamilton,R200,BU-COM,Net 45,1500000,C,CAD,2006-12-23,Active,0,0,7,Demand-Planning-Agent
+CUS-124,Granite Polymers Inc.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-169,REG-AB,AB,Red Deer,R100,BU-COM,Net 30,1750000,B,CAD,2010-04-27,Active,0,0,8,Demand-Planning-Agent
+CUS-125,Great Plains Agri Supply Co-op,Agriculture,Agriculture Producers,SEG-065,REG-AB,AB,Medicine Hat,R100,BU-COM,Net 30,1500000,A,CAD,2024-11-16,Active,0,0,7,Demand-Planning-Agent
+CUS-126,Great Plains Chemicals,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-173,REG-ON,ON,Ottawa,R200,BU-COM,Net 15,2000000,B,CAD,2014-07-24,Active,0,0,8,Demand-Planning-Agent
+CUS-127,Great Plains Pressure Pumping Inc.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Calgary,R100,BU-COM,Net 45,1250000,B,CAD,2024-11-20,On Hold,0,0,8,Demand-Planning-Agent
+CUS-128,Harbourfront Agri Supply Co-op,Agriculture,Agriculture Producers,SEG-069,REG-ON,ON,Hamilton,R200,BU-COM,Net 30,1500000,B,CAD,2015-09-07,Active,0,0,7,Demand-Planning-Agent
+CUS-129,Harbourfront Airport Fuel Services,Aviation - Airport Fuelling,Airlines and Airports (Jet Fuel),SEG-118,REG-QC,QC,Sherbrooke,R300,BU-COM,Net 45,1250000,A,CAD,2007-09-09,Active,0,0,5,Demand-Planning-Agent
+CUS-130,Harbourfront Energy Co-op,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-178,REG-BC,BC,Vancouver,R100,BU-COM,Net 30,1250000,B,CAD,2016-08-26,Active,0,0,6,Demand-Planning-Agent
+CUS-131,Harbourfront Energy Distribution Inc.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-179,REG-SK,SK,Saskatoon,R100,BU-COM,Net 30,750000,C,CAD,2014-10-06,Active,0,0,5,Demand-Planning-Agent
+CUS-132,Harbourfront Resources Ltd.,Mining,Mining Operators,SEG-087,REG-ATL,NS,Halifax,R300,BU-COM,Net 30,6250000,A,CAD,2021-06-27,Active,0,0,8,Demand-Planning-Agent
+CUS-133,Highland Air Services,Aviation - Airline,Airlines and Airports (Jet Fuel),SEG-115,REG-SK,SK,Lloydminster,R100,BU-COM,Net 30,7250000,A,CAD,2018-02-18,Active,0,0,5,Demand-Planning-Agent
+CUS-134,Highland Airways,Aviation - Airline,Airlines and Airports (Jet Fuel),SEG-118,REG-QC,QC,Quebec City,R300,BU-COM,Net 15,7750000,B,CAD,2024-08-06,Active,0,0,6,Demand-Planning-Agent
+CUS-135,Highland Energy Services,Oilfield Services,Oilfield Services Contractors,SEG-089,REG-AB,AB,Red Deer,R100,BU-COM,Net 45,1750000,B,CAD,2024-12-17,Active,0,0,6,Demand-Planning-Agent
+CUS-136,Highland Minerals Inc.,Mining,Mining Operators,SEG-083,REG-SK,SK,Estevan,R100,BU-COM,Net 30,4000000,B,CAD,2008-01-18,Active,0,0,8,Demand-Planning-Agent
+CUS-137,Highland Oil and Filter Supply,Lubricant Distributor,Lubricant Distributors,SEG-145,REG-AB,AB,Edmonton,R100,BU-COM,Net 15,1750000,C,CAD,2009-01-18,Active,0,0,6,Demand-Planning-Agent
+CUS-138,Highland Paving Co.,Paving / Road Builder,Asphalt and Paving Contractors,SEG-166,REG-QC,QC,Sherbrooke,R300,BU-COM,Net 15,1750000,B,CAD,2014-10-10,On Hold,0,0,5,Demand-Planning-Agent
+CUS-139,Highland Public Transit Commission,Municipal Transit,Municipal Transit Fleets,SEG-055,REG-ATL,NB,Saint John,R300,BU-COM,Net 30,1250000,A,CAD,2013-01-02,Active,0,0,6,Demand-Planning-Agent
+CUS-140,Highland Rail Services,Railway,Railways,SEG-100,REG-MB,MB,Winnipeg,R200,BU-COM,Net 15,9500000,A,CAD,2014-12-26,Active,0,0,5,Demand-Planning-Agent
+CUS-141,Ironwood Trucking Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-179,REG-SK,SK,Regina,R100,BU-COM,Net 45,1750000,C,CAD,2020-06-16,Active,0,0,6,Demand-Planning-Agent
+CUS-142,Kestrel Agri Supply Co-op,Agriculture,Agriculture Producers,SEG-069,REG-ON,ON,Ottawa,R200,BU-COM,Net 30,1250000,C,CAD,2018-10-07,Active,0,0,7,Demand-Planning-Agent
+CUS-143,Kestrel Drilling Services,Oilfield Services,Oilfield Services Contractors,SEG-092,REG-MB,MB,Brandon,R200,BU-COM,Net 30,1250000,B,CAD,2024-08-12,Active,0,0,6,Demand-Planning-Agent
+CUS-144,Kestrel Fuels Wholesale Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-183,REG-ATL,PE,Charlottetown,R300,BU-COM,Net 45,1000000,B,CAD,2019-07-24,Active,0,0,7,Demand-Planning-Agent
+CUS-145,Kestrel Minerals Inc.,Mining,Mining Operators,SEG-083,REG-SK,SK,Lloydminster,R100,BU-COM,Net 30,3250000,C,CAD,2011-01-15,Active,0,0,7,Demand-Planning-Agent
+CUS-146,Kestrel Polymers Inc.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-169,REG-AB,AB,Calgary,R100,BU-COM,Net 30,1750000,B,CAD,2021-04-13,Active,0,0,8,Demand-Planning-Agent
+CUS-147,Kestrel Rail Services,Railway,Railways,SEG-102,REG-QC,QC,Quebec City,R300,BU-COM,Net 15,12750000,A,CAD,2011-09-20,Active,0,0,5,Demand-Planning-Agent
+CUS-148,Kestrel Transit Authority,Municipal Transit,Municipal Transit Fleets,SEG-054,REG-QC,QC,Montreal,R300,BU-COM,Net 45,2000000,A,CAD,2020-04-06,Active,0,0,6,Demand-Planning-Agent
+CUS-149,Lakeland Ag Services Ltd.,Agriculture,Agriculture Producers,SEG-069,REG-ON,ON,Thunder Bay,R200,BU-COM,Net 45,1750000,C,CAD,2015-08-02,Active,0,0,6,Demand-Planning-Agent
+CUS-150,Lakeland Air Services,Aviation - Airline,Airlines and Airports (Jet Fuel),SEG-117,REG-ON,ON,Mississauga,R200,BU-COM,Net 30,3250000,C,CAD,2018-10-12,Active,0,0,6,Demand-Planning-Agent
+CUS-151,Lakeland Electric Utility,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Calgary,R100,BU-COM,Net 30,750000,A,CAD,2011-04-12,Active,0,0,6,Demand-Planning-Agent
+CUS-152,Lakeland Trucking Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-181,REG-ON,ON,Thunder Bay,R200,BU-COM,Net 15,1500000,C,CAD,2015-05-21,Active,0,0,7,Demand-Planning-Agent
+CUS-153,Lakeshore Drilling Services,Oilfield Services,Oilfield Services Contractors,SEG-096,REG-NOR,YT,Whitehorse,R100,BU-COM,Net 15,1750000,A,CAD,2012-01-25,Active,0,0,8,Demand-Planning-Agent
+CUS-154,Lakeshore Port Services Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-181,REG-ON,ON,Mississauga,R200,BU-COM,Net 15,1750000,C,CAD,2008-09-10,Active,0,0,5,Demand-Planning-Agent
+CUS-155,Lakeshore Provincial Fleet Services,Government,Government and Defence,SEG-196,REG-MB,MB,Brandon,R200,BU-COM,Net 30,3000000,A,CAD,2006-10-23,Active,0,0,7,Demand-Planning-Agent
+CUS-156,Maple Energy Distribution Inc.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Edmonton,R100,BU-COM,Net 15,750000,B,CAD,2014-12-05,Active,0,0,5,Demand-Planning-Agent
+CUS-157,Maple Pressure Pumping Inc.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Grande Prairie,R100,BU-COM,Net 30,2000000,B,CAD,2008-07-14,Active,0,0,8,Demand-Planning-Agent
+CUS-158,Maple Road Builders Ltd.,Paving / Road Builder,Asphalt and Paving Contractors,SEG-166,REG-QC,QC,Quebec City,R300,BU-COM,Net 45,1500000,B,CAD,2021-08-08,Active,0,0,7,Demand-Planning-Agent
+CUS-159,Northern Growers Association,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Lethbridge,R100,BU-COM,Net 45,2000000,B,CAD,2020-05-16,Active,0,0,6,Demand-Planning-Agent
+CUS-160,Northern Haulage Inc.,Trucking / Freight,Commercial Trucking Fleets,SEG-046,REG-QC,QC,Laval,R300,BU-COM,Net 30,2000000,B,CAD,2021-10-01,Active,0,0,8,Demand-Planning-Agent
+CUS-161,Northern Oil and Filter Supply,Lubricant Distributor,Lubricant Distributors,SEG-145,REG-AB,AB,Lethbridge,R100,BU-COM,Net 15,1250000,B,CAD,2023-06-26,Active,0,0,8,Demand-Planning-Agent
+CUS-162,Northern Petrochemicals Ltd.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-169,REG-AB,AB,Red Deer,R100,BU-COM,Net 30,2000000,D,CAD,2009-08-21,Active,0,0,8,Demand-Planning-Agent
+CUS-163,Northern Public Transit Commission,Municipal Transit,Municipal Transit Fleets,SEG-054,REG-QC,QC,Quebec City,R300,BU-COM,Net 45,1500000,A,CAD,2012-10-21,Active,0,0,6,Demand-Planning-Agent
+CUS-164,Northgate Haulage Inc.,Trucking / Freight,Commercial Trucking Fleets,SEG-041,REG-AB,AB,Fort McMurray,R100,BU-COM,Net 30,1750000,C,CAD,2006-08-12,Active,0,0,6,Demand-Planning-Agent
+CUS-165,Northgate Road Builders Ltd.,Paving / Road Builder,Asphalt and Paving Contractors,SEG-165,REG-ON,ON,Thunder Bay,R200,BU-COM,Net 45,500000,B,CAD,2008-01-05,Active,0,0,7,Demand-Planning-Agent
+CUS-166,Pinecrest Aggregates and Asphalt,Paving / Road Builder,Asphalt and Paving Contractors,SEG-166,REG-QC,QC,Laval,R300,BU-COM,Net 15,1000000,B,CAD,2012-10-22,Active,0,0,7,Demand-Planning-Agent
+CUS-167,Pinecrest Transit Authority,Municipal Transit,Municipal Transit Fleets,SEG-053,REG-ON,ON,Thunder Bay,R200,BU-COM,Net 45,1250000,A,CAD,2022-11-18,Active,0,0,6,Demand-Planning-Agent
+CUS-168,Prairie Construction Group,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-178,REG-BC,BC,Kelowna,R100,BU-COM,Net 30,500000,D,CAD,2009-08-11,Active,0,0,6,Demand-Planning-Agent
+CUS-169,Prairie Fuel Distributors,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Medicine Hat,R100,BU-COM,Net 30,750000,B,CAD,2012-01-18,Active,0,0,6,Demand-Planning-Agent
+CUS-170,Prairie Home Heating Ltd.,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-141,REG-ON,ON,Sarnia,R200,BU-COM,Net 30,1500000,B,CAD,2022-08-16,Active,0,0,6,Demand-Planning-Agent
+CUS-171,Prairie Paving Co.,Paving / Road Builder,Asphalt and Paving Contractors,SEG-165,REG-ON,ON,Ottawa,R200,BU-COM,Net 30,1500000,C,CAD,2008-10-13,Active,0,0,7,Demand-Planning-Agent
+CUS-172,Prairie Potash Operations,Mining,Mining Operators,SEG-085,REG-ON,ON,Ottawa,R200,BU-COM,Net 30,2250000,C,CAD,2014-03-06,Active,0,0,7,Demand-Planning-Agent
+CUS-173,Riverbend Ag Services Ltd.,Agriculture,Agriculture Producers,SEG-070,REG-QC,QC,Sherbrooke,R300,BU-COM,Net 30,1750000,B,CAD,2024-04-10,Active,0,0,6,Demand-Planning-Agent
+CUS-174,Rocky Ridge Aggregates and Asphalt,Paving / Road Builder,Asphalt and Paving Contractors,SEG-161,REG-AB,AB,Fort McMurray,R100,BU-COM,Net 30,750000,B,CAD,2015-05-28,Active,0,0,7,Demand-Planning-Agent
+CUS-175,Rocky Ridge Airways,Aviation - Airline,Airlines and Airports (Jet Fuel),SEG-119,REG-ATL,NB,Saint John,R300,BU-COM,Net 30,5250000,D,CAD,2015-01-02,On Hold,0,0,6,Demand-Planning-Agent
+CUS-176,Rocky Ridge Chemicals,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-169,REG-AB,AB,Medicine Hat,R100,BU-COM,Net 30,1500000,C,CAD,2024-11-04,Active,0,0,7,Demand-Planning-Agent
+CUS-177,Rocky Ridge Fuel Distributors,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-178,REG-BC,BC,Prince George,R100,BU-COM,Net 45,1500000,B,CAD,2022-08-11,Active,0,0,5,Demand-Planning-Agent
+CUS-178,Silverton Aviation Ltd.,Aviation - Airline,Airlines and Airports (Jet Fuel),SEG-115,REG-SK,SK,Moose Jaw,R100,BU-COM,Net 30,9000000,B,CAD,2007-01-06,Active,0,0,5,Demand-Planning-Agent
+CUS-179,Silverton Petroleum Marketers,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Red Deer,R100,BU-COM,Net 30,2000000,A,CAD,2014-05-20,Active,0,0,5,Demand-Planning-Agent
+CUS-180,Silverton Trucking Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Lethbridge,R100,BU-COM,Net 30,1500000,B,CAD,2014-08-11,Active,0,0,8,Demand-Planning-Agent
+CUS-181,Stonebridge Freight Lines,Trucking / Freight,Commercial Trucking Fleets,SEG-044,REG-MB,MB,Brandon,R200,BU-COM,Net 30,1250000,B,CAD,2019-07-21,Active,0,0,6,Demand-Planning-Agent
+CUS-182,Stonebridge Fuel Distributors,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-181,REG-ON,ON,Sarnia,R200,BU-COM,Net 15,500000,B,CAD,2008-09-12,Active,0,0,7,Demand-Planning-Agent
+CUS-183,Stonebridge Heating Fuels Co-op,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-141,REG-ON,ON,Toronto,R200,BU-COM,Net 30,1750000,B,CAD,2010-01-05,Active,0,0,6,Demand-Planning-Agent
+CUS-184,Stonebridge Well Servicing Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-177,REG-AB,AB,Edmonton,R100,BU-COM,Net 45,750000,B,CAD,2011-08-04,On Hold,0,0,8,Demand-Planning-Agent
+CUS-185,Summit Ferries Corp.,Marine,Marine and Ports,SEG-109,REG-ON,ON,Mississauga,R200,BU-COM,Net 30,2250000,B,CAD,2014-09-03,Active,0,0,5,Demand-Planning-Agent
+CUS-186,Summit Fuels Wholesale Ltd.,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-184,REG-NOR,NU,Iqaluit,R100,BU-COM,Net 30,1250000,B,CAD,2013-12-29,Active,0,0,7,Demand-Planning-Agent
+CUS-187,Summit Polymers Inc.,Petrochemical / Chemicals,Petrochemical Feedstock Buyers,SEG-173,REG-ON,ON,Sarnia,R200,BU-COM,Net 30,750000,C,CAD,2023-09-25,Inactive,0,0,5,Demand-Planning-Agent
+CUS-188,Summit Resources Ltd.,Mining,Mining Operators,SEG-082,REG-BC,BC,Surrey,R100,BU-COM,Net 15,7500000,B,CAD,2021-05-20,Active,0,0,7,Demand-Planning-Agent
+CUS-189,Summit Shipping Co.,Marine,Marine and Ports,SEG-107,REG-SK,SK,Lloydminster,R100,BU-COM,Net 30,4750000,B,CAD,2017-08-27,Active,0,0,5,Demand-Planning-Agent
+CUS-190,Tidewater Parks and Highways Department,Wholesale Fuel Distributor,Wholesale Fuel Distributors and Jobbers,SEG-183,REG-ATL,NB,Moncton,R300,BU-COM,Net 30,750000,B,CAD,2012-01-13,Active,0,0,7,Demand-Planning-Agent
+CUS-191,Tidewater Propane Services Inc.,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-141,REG-ON,ON,Toronto,R200,BU-COM,Net 30,1000000,D,CAD,2016-08-26,Active,0,0,6,Demand-Planning-Agent
+CUS-192,Tidewater Provincial Fleet Services,Government,Government and Defence,SEG-193,REG-AB,AB,Lethbridge,R100,BU-COM,Net 45,2000000,A,CAD,2013-07-02,Active,0,0,7,Demand-Planning-Agent
+CUS-193,Timberline Airport Fuel Services,Aviation - Airport Fuelling,Airlines and Airports (Jet Fuel),SEG-113,REG-AB,AB,Edmonton,R100,BU-COM,Net 30,2000000,A,CAD,2009-04-27,Active,0,0,5,Demand-Planning-Agent
+CUS-194,Timberline Aviation Ltd.,Aviation - Airline,Airlines and Airports (Jet Fuel),SEG-119,REG-ATL,NB,Saint John,R300,BU-COM,Net 30,3500000,B,CAD,2023-09-16,Active,0,0,6,Demand-Planning-Agent
+CUS-195,Timberline Energy Services,Oilfield Services,Oilfield Services Contractors,SEG-089,REG-AB,AB,Grande Prairie,R100,BU-COM,Net 30,1000000,C,CAD,2025-03-23,Active,0,0,7,Demand-Planning-Agent
+CUS-196,Timberline Farm Co-op,Agriculture,Agriculture Producers,SEG-066,REG-BC,BC,Kelowna,R100,BU-COM,Net 30,2000000,B,CAD,2019-08-01,Active,0,0,7,Demand-Planning-Agent
+CUS-197,Timberline Paving Co.,Paving / Road Builder,Asphalt and Paving Contractors,SEG-161,REG-AB,AB,Calgary,R100,BU-COM,Net 45,2000000,B,CAD,2014-02-10,Active,0,0,6,Demand-Planning-Agent
+CUS-198,Westgate Airways,Aviation - Airline,Airlines and Airports (Jet Fuel),SEG-116,REG-MB,MB,Thompson,R200,BU-COM,Net 30,3750000,B,CAD,2021-02-20,Active,0,0,5,Demand-Planning-Agent
+CUS-199,Westgate Potash Operations,Mining,Mining Operators,SEG-085,REG-ON,ON,Thunder Bay,R200,BU-COM,Net 15,3000000,C,CAD,2024-11-04,Active,0,0,6,Demand-Planning-Agent
+CUS-200,Westgate Propane and Heat,Heating and Propane Distributor,Residential Propane and Heating Oil,SEG-141,REG-ON,ON,Ottawa,R200,BU-COM,Net 30,1500000,A,CAD,2011-10-23,Active,0,0,6,Demand-Planning-Agent
