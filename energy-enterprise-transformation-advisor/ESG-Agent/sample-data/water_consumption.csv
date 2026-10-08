@@ -1,0 +1,501 @@
+Facility,Water_Used,Period,Facility_Name,Facility_Type,Province,Fresh_Water_Withdrawn_m3,Saline_Water_m3,Recycled_Water_m3,Recycle_Rate_Pct,Primary_Water_Source,Activity_Volume,Activity_Unit,Fresh_Water_Intensity_m3_per_unit
+R100,1035189,2025-01,Prairie Refinery,Refinery,AB,351501,0,683688,66.0,Surface water - river,641020,m3 crude,0.54835
+R200,778330,2025-01,Lakehead Refinery,Refinery,ON,336050,0,442280,56.8,Surface water - lake,410180,m3 crude,0.81927
+R300,1102355,2025-01,Saint-Laurent Refinery,Refinery,QC,472681,0,629674,57.1,Municipal supply,581480,m3 crude,0.81289
+FAC-01,1221,2025-01,Montney-Dawson Gas Plant,Gas Plant,BC,409,0,812,66.5,Groundwater - non-saline,249160,boe,0.00164
+FAC-02,3126,2025-01,Montney-Dawson Gas Plant,Gas Plant,BC,857,48,2221,71.0,Surface water - river,603867,boe,0.00142
+FAC-03,3874,2025-01,Montney-Kakwa Gas Plant,Gas Plant,AB,1827,30,2017,52.1,Groundwater - non-saline,564765,boe,0.00323
+FAC-04,2197,2025-01,Montney-Kakwa Gas Plant,Gas Plant,AB,613,60,1524,69.4,Surface water - river,542998,boe,0.00113
+FAC-05,1907,2025-01,Deep Basin-Edson Gas Plant,Gas Plant,AB,917,42,948,49.7,Surface water - river,268205,boe,0.00342
+FAC-06,1565,2025-01,Deep Basin-Edson Gas Plant,Gas Plant,AB,715,33,817,52.2,Surface water - river,273391,boe,0.00262
+FAC-07,1567,2025-01,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1135,57,375,23.9,Groundwater - non-saline,428890,boe,0.00265
+FAC-08,4203,2025-01,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,3040,170,993,23.6,Groundwater - non-saline,1125217,boe,0.0027
+FAC-09,515,2025-01,Cardium-Pembina Oil Battery,Oil Battery,AB,294,9,212,41.2,Groundwater - non-saline,60627,boe,0.00485
+FAC-10,2095,2025-01,Cardium-Pembina Oil Battery,Oil Battery,AB,1011,75,1009,48.2,Surface water - river,246743,boe,0.0041
+FAC-11,910,2025-01,Swan Hills Oil Battery,Oil Battery,AB,660,40,210,23.1,Saline groundwater,93654,boe,0.00705
+FAC-13,1201,2025-01,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,702,52,447,37.2,Groundwater - non-saline,112585,boe,0.00624
+FAC-14,126602,2025-01,Cold Lake SAGD CPF,SAGD CPF,AB,3799,10801,112002,88.5,Saline groundwater,302123,boe,0.01257
+FAC-15,97354,2025-01,Cold Lake SAGD CPF,SAGD CPF,AB,9656,5501,82197,84.4,Groundwater - non-saline,200844,boe,0.04808
+FAC-16,123653,2025-01,Athabasca SAGD CPF,SAGD CPF,AB,11274,7640,104739,84.7,Groundwater - non-saline,319438,boe,0.03529
+FAC-17,70621,2025-01,Athabasca SAGD CPF,SAGD CPF,AB,4908,4350,61363,86.9,Saline groundwater,167962,boe,0.02922
+FAC-18,81907,2025-01,Athabasca SAGD CPF,SAGD CPF,AB,2458,7316,72133,88.1,Saline groundwater,203235,boe,0.01209
+FAC-19,71049,2025-01,Peace River SAGD CPF,SAGD CPF,AB,5972,4152,60925,85.8,Groundwater - non-saline,159820,boe,0.03737
+FAC-21,723,2025-01,Viking-Kerrobert Oil Battery,Oil Battery,SK,430,16,277,38.3,Saline groundwater,117583,boe,0.00366
+FAC-22,310,2025-01,Bakken-Estevan Oil Battery,Oil Battery,SK,149,16,145,46.8,Groundwater - non-saline,63812,boe,0.00233
+FAC-23,1566,2025-01,Bakken-Estevan Oil Battery,Oil Battery,SK,971,73,522,33.3,Groundwater - non-saline,149213,boe,0.00651
+FAC-25,657,2025-01,Lloydminster Heavy Oil Battery,Oil Battery,SK,329,4,324,49.3,Surface water - lake,67844,boe,0.00485
+R100,964358,2025-02,Prairie Refinery,Refinery,AB,321943,0,642415,66.6,Surface water - river,581474,m3 crude,0.55367
+R200,721235,2025-02,Lakehead Refinery,Refinery,ON,299201,0,422034,58.5,Surface water - lake,354555,m3 crude,0.84388
+R300,972966,2025-02,Saint-Laurent Refinery,Refinery,QC,390418,0,582548,59.9,Municipal supply,511333,m3 crude,0.76353
+FAC-01,1134,2025-02,Montney-Dawson Gas Plant,Gas Plant,BC,356,0,778,68.6,Groundwater - non-saline,229649,boe,0.00155
+FAC-02,2973,2025-02,Montney-Dawson Gas Plant,Gas Plant,BC,817,45,2111,71.0,Surface water - river,566237,boe,0.00144
+FAC-03,3439,2025-02,Montney-Kakwa Gas Plant,Gas Plant,AB,1636,26,1777,51.7,Groundwater - non-saline,505149,boe,0.00324
+FAC-04,2014,2025-02,Montney-Kakwa Gas Plant,Gas Plant,AB,557,57,1400,69.5,Surface water - river,485558,boe,0.00115
+FAC-05,1712,2025-02,Deep Basin-Edson Gas Plant,Gas Plant,AB,814,37,861,50.3,Surface water - river,244621,boe,0.00333
+FAC-06,1379,2025-02,Deep Basin-Edson Gas Plant,Gas Plant,AB,591,31,757,54.9,Surface water - river,249009,boe,0.00237
+FAC-07,1089,2025-02,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,775,37,277,25.4,Groundwater - non-saline,296011,boe,0.00262
+FAC-08,3784,2025-02,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2844,161,779,20.6,Groundwater - non-saline,1098366,boe,0.00259
+FAC-09,415,2025-02,Cardium-Pembina Oil Battery,Oil Battery,AB,244,7,164,39.5,Groundwater - non-saline,53766,boe,0.00454
+FAC-10,2008,2025-02,Cardium-Pembina Oil Battery,Oil Battery,AB,963,73,972,48.4,Surface water - river,222858,boe,0.00432
+FAC-11,695,2025-02,Swan Hills Oil Battery,Oil Battery,AB,497,32,166,23.9,Saline groundwater,79188,boe,0.00628
+FAC-13,1180,2025-02,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,726,52,402,34.1,Groundwater - non-saline,111810,boe,0.00649
+FAC-14,104028,2025-02,Cold Lake SAGD CPF,SAGD CPF,AB,3121,9188,91719,88.2,Saline groundwater,242367,boe,0.01288
+FAC-15,85304,2025-02,Cold Lake SAGD CPF,SAGD CPF,AB,5745,4260,75299,88.3,Groundwater - non-saline,180283,boe,0.03187
+FAC-16,102660,2025-02,Athabasca SAGD CPF,SAGD CPF,AB,5955,6340,90365,88.0,Groundwater - non-saline,273631,boe,0.02176
+FAC-17,60012,2025-02,Athabasca SAGD CPF,SAGD CPF,AB,6019,3884,50109,83.5,Saline groundwater,152463,boe,0.03948
+FAC-18,72722,2025-02,Athabasca SAGD CPF,SAGD CPF,AB,2182,7019,63521,87.3,Saline groundwater,181387,boe,0.01203
+FAC-19,57274,2025-02,Peace River SAGD CPF,SAGD CPF,AB,3362,3071,50841,88.8,Groundwater - non-saline,143597,boe,0.02341
+FAC-21,450,2025-02,Viking-Kerrobert Oil Battery,Oil Battery,SK,249,11,190,42.2,Saline groundwater,76303,boe,0.00326
+FAC-22,286,2025-02,Bakken-Estevan Oil Battery,Oil Battery,SK,130,14,142,49.7,Groundwater - non-saline,57158,boe,0.00227
+FAC-23,1281,2025-02,Bakken-Estevan Oil Battery,Oil Battery,SK,783,65,433,33.8,Groundwater - non-saline,134980,boe,0.0058
+FAC-25,594,2025-02,Lloydminster Heavy Oil Battery,Oil Battery,SK,316,3,275,46.3,Surface water - lake,61490,boe,0.00514
+R100,1013630,2025-03,Prairie Refinery,Refinery,AB,346593,0,667037,65.8,Surface water - river,610939,m3 crude,0.56731
+R200,739379,2025-03,Lakehead Refinery,Refinery,ON,298569,0,440810,59.6,Surface water - lake,377225,m3 crude,0.79149
+R300,1019197,2025-03,Saint-Laurent Refinery,Refinery,QC,405515,0,613682,60.2,Municipal supply,534858,m3 crude,0.75817
+FAC-01,787,2025-03,Montney-Dawson Gas Plant,Gas Plant,BC,256,0,531,67.5,Groundwater - non-saline,169200,boe,0.00151
+FAC-02,3136,2025-03,Montney-Dawson Gas Plant,Gas Plant,BC,934,49,2153,68.7,Surface water - river,633573,boe,0.00147
+FAC-03,3761,2025-03,Montney-Kakwa Gas Plant,Gas Plant,AB,1891,30,1840,48.9,Groundwater - non-saline,559971,boe,0.00338
+FAC-04,2156,2025-03,Montney-Kakwa Gas Plant,Gas Plant,AB,658,57,1441,66.8,Surface water - river,542505,boe,0.00121
+FAC-05,1751,2025-03,Deep Basin-Edson Gas Plant,Gas Plant,AB,819,40,892,50.9,Surface water - river,279104,boe,0.00293
+FAC-06,1452,2025-03,Deep Basin-Edson Gas Plant,Gas Plant,AB,636,31,785,54.1,Surface water - river,256857,boe,0.00248
+FAC-07,1537,2025-03,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1063,53,421,27.4,Groundwater - non-saline,429078,boe,0.00248
+FAC-08,4121,2025-03,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2951,172,998,24.2,Groundwater - non-saline,1143612,boe,0.00258
+FAC-09,411,2025-03,Cardium-Pembina Oil Battery,Oil Battery,AB,240,7,164,39.9,Groundwater - non-saline,55210,boe,0.00435
+FAC-10,2046,2025-03,Cardium-Pembina Oil Battery,Oil Battery,AB,954,68,1024,50.0,Surface water - river,232718,boe,0.0041
+FAC-11,920,2025-03,Swan Hills Oil Battery,Oil Battery,AB,683,46,191,20.8,Saline groundwater,92772,boe,0.00736
+FAC-13,858,2025-03,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,510,39,309,36.0,Groundwater - non-saline,80883,boe,0.00631
+FAC-14,138642,2025-03,Cold Lake SAGD CPF,SAGD CPF,AB,4160,12247,122235,88.2,Saline groundwater,294176,boe,0.01414
+FAC-15,91802,2025-03,Cold Lake SAGD CPF,SAGD CPF,AB,10036,4811,76955,83.8,Groundwater - non-saline,191229,boe,0.05248
+FAC-16,143519,2025-03,Athabasca SAGD CPF,SAGD CPF,AB,11968,8764,122787,85.6,Groundwater - non-saline,339743,boe,0.03523
+FAC-17,67382,2025-03,Athabasca SAGD CPF,SAGD CPF,AB,3391,4479,59512,88.3,Saline groundwater,173918,boe,0.0195
+FAC-18,91240,2025-03,Athabasca SAGD CPF,SAGD CPF,AB,2738,7854,80648,88.4,Saline groundwater,205241,boe,0.01334
+FAC-19,78830,2025-03,Peace River SAGD CPF,SAGD CPF,AB,4264,4318,70248,89.1,Groundwater - non-saline,170464,boe,0.02501
+FAC-21,777,2025-03,Viking-Kerrobert Oil Battery,Oil Battery,SK,441,20,316,40.7,Saline groundwater,116496,boe,0.00379
+FAC-22,303,2025-03,Bakken-Estevan Oil Battery,Oil Battery,SK,144,16,143,47.2,Groundwater - non-saline,62823,boe,0.00229
+FAC-23,1501,2025-03,Bakken-Estevan Oil Battery,Oil Battery,SK,906,72,523,34.8,Groundwater - non-saline,149119,boe,0.00608
+FAC-25,719,2025-03,Lloydminster Heavy Oil Battery,Oil Battery,SK,373,4,342,47.6,Surface water - lake,69449,boe,0.00537
+R100,976661,2025-04,Prairie Refinery,Refinery,AB,323860,0,652801,66.8,Surface water - river,569288,m3 crude,0.56889
+R200,637715,2025-04,Lakehead Refinery,Refinery,ON,260723,0,376992,59.1,Surface water - lake,336276,m3 crude,0.77532
+R300,1117831,2025-04,Saint-Laurent Refinery,Refinery,QC,462389,0,655442,58.6,Municipal supply,568693,m3 crude,0.81307
+FAC-01,1123,2025-04,Montney-Dawson Gas Plant,Gas Plant,BC,356,0,767,68.3,Groundwater - non-saline,238783,boe,0.00149
+FAC-02,3257,2025-04,Montney-Dawson Gas Plant,Gas Plant,BC,940,52,2265,69.5,Surface water - river,601459,boe,0.00156
+FAC-03,3525,2025-04,Montney-Kakwa Gas Plant,Gas Plant,AB,1677,27,1821,51.7,Groundwater - non-saline,537121,boe,0.00312
+FAC-04,1921,2025-04,Montney-Kakwa Gas Plant,Gas Plant,AB,584,58,1279,66.6,Surface water - river,511536,boe,0.00114
+FAC-05,1806,2025-04,Deep Basin-Edson Gas Plant,Gas Plant,AB,900,35,871,48.2,Surface water - river,253147,boe,0.00356
+FAC-06,1307,2025-04,Deep Basin-Edson Gas Plant,Gas Plant,AB,593,27,687,52.6,Surface water - river,259559,boe,0.00228
+FAC-07,1369,2025-04,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1004,44,321,23.4,Groundwater - non-saline,398716,boe,0.00252
+FAC-08,3835,2025-04,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2818,162,855,22.3,Groundwater - non-saline,1087035,boe,0.00259
+FAC-09,451,2025-04,Cardium-Pembina Oil Battery,Oil Battery,AB,277,7,167,37.0,Groundwater - non-saline,54076,boe,0.00512
+FAC-10,2077,2025-04,Cardium-Pembina Oil Battery,Oil Battery,AB,966,79,1032,49.7,Surface water - river,220566,boe,0.00438
+FAC-11,822,2025-04,Swan Hills Oil Battery,Oil Battery,AB,593,37,192,23.4,Saline groundwater,87120,boe,0.00681
+FAC-13,1210,2025-04,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,710,57,443,36.6,Groundwater - non-saline,113164,boe,0.00627
+FAC-14,137241,2025-04,Cold Lake SAGD CPF,SAGD CPF,AB,4118,11639,121484,88.5,Saline groundwater,298210,boe,0.01381
+FAC-15,90556,2025-04,Cold Lake SAGD CPF,SAGD CPF,AB,7403,4631,78522,86.7,Groundwater - non-saline,191550,boe,0.03865
+FAC-16,128900,2025-04,Athabasca SAGD CPF,SAGD CPF,AB,12823,7581,108496,84.2,Groundwater - non-saline,326655,boe,0.03926
+FAC-17,74852,2025-04,Athabasca SAGD CPF,SAGD CPF,AB,4081,5214,65557,87.6,Saline groundwater,170520,boe,0.02393
+FAC-18,90842,2025-04,Athabasca SAGD CPF,SAGD CPF,AB,2726,8668,79448,87.5,Saline groundwater,205877,boe,0.01324
+FAC-19,64755,2025-04,Peace River SAGD CPF,SAGD CPF,AB,5326,3524,55905,86.3,Groundwater - non-saline,152363,boe,0.03496
+FAC-21,680,2025-04,Viking-Kerrobert Oil Battery,Oil Battery,SK,390,16,274,40.3,Saline groundwater,107337,boe,0.00363
+FAC-22,323,2025-04,Bakken-Estevan Oil Battery,Oil Battery,SK,157,16,150,46.4,Groundwater - non-saline,60393,boe,0.0026
+FAC-23,1432,2025-04,Bakken-Estevan Oil Battery,Oil Battery,SK,863,69,500,34.9,Groundwater - non-saline,145497,boe,0.00593
+FAC-25,573,2025-04,Lloydminster Heavy Oil Battery,Oil Battery,SK,306,3,264,46.1,Surface water - lake,63943,boe,0.00479
+R100,1054678,2025-05,Prairie Refinery,Refinery,AB,358742,0,695936,66.0,Surface water - river,599750,m3 crude,0.59815
+R200,741080,2025-05,Lakehead Refinery,Refinery,ON,327118,0,413962,55.9,Surface water - lake,416631,m3 crude,0.78515
+R300,1081698,2025-05,Saint-Laurent Refinery,Refinery,QC,476801,0,604897,55.9,Municipal supply,538692,m3 crude,0.88511
+FAC-01,1245,2025-05,Montney-Dawson Gas Plant,Gas Plant,BC,404,0,841,67.6,Groundwater - non-saline,239499,boe,0.00169
+FAC-02,3234,2025-05,Montney-Dawson Gas Plant,Gas Plant,BC,984,49,2201,68.1,Surface water - river,632244,boe,0.00156
+FAC-03,3276,2025-05,Montney-Kakwa Gas Plant,Gas Plant,AB,1447,24,1805,55.1,Groundwater - non-saline,469963,boe,0.00308
+FAC-04,1384,2025-05,Montney-Kakwa Gas Plant,Gas Plant,AB,392,39,953,68.9,Surface water - river,361501,boe,0.00108
+FAC-05,1881,2025-05,Deep Basin-Edson Gas Plant,Gas Plant,AB,895,41,945,50.2,Surface water - river,277207,boe,0.00323
+FAC-06,1549,2025-05,Deep Basin-Edson Gas Plant,Gas Plant,AB,693,35,821,53.0,Surface water - river,271762,boe,0.00255
+FAC-07,1451,2025-05,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1090,50,311,21.4,Groundwater - non-saline,398746,boe,0.00273
+FAC-08,4241,2025-05,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,3036,190,1015,23.9,Groundwater - non-saline,1139117,boe,0.00267
+FAC-09,451,2025-05,Cardium-Pembina Oil Battery,Oil Battery,AB,275,7,169,37.5,Groundwater - non-saline,56812,boe,0.00484
+FAC-10,2152,2025-05,Cardium-Pembina Oil Battery,Oil Battery,AB,1047,77,1028,47.8,Surface water - river,229488,boe,0.00456
+FAC-11,711,2025-05,Swan Hills Oil Battery,Oil Battery,AB,491,36,184,25.9,Saline groundwater,73859,boe,0.00665
+FAC-13,1310,2025-05,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,780,61,469,35.8,Groundwater - non-saline,123157,boe,0.00633
+FAC-14,138474,2025-05,Cold Lake SAGD CPF,SAGD CPF,AB,4155,12246,122073,88.2,Saline groundwater,293648,boe,0.01415
+FAC-15,98093,2025-05,Cold Lake SAGD CPF,SAGD CPF,AB,8176,5752,84165,85.8,Groundwater - non-saline,204019,boe,0.04007
+FAC-16,134823,2025-05,Athabasca SAGD CPF,SAGD CPF,AB,7294,7451,120078,89.1,Groundwater - non-saline,337370,boe,0.02162
+FAC-17,70315,2025-05,Athabasca SAGD CPF,SAGD CPF,AB,4394,4561,61360,87.3,Saline groundwater,162722,boe,0.027
+FAC-18,91365,2025-05,Athabasca SAGD CPF,SAGD CPF,AB,3296,7723,80346,87.9,Saline groundwater,209054,boe,0.01577
+FAC-19,66478,2025-05,Peace River SAGD CPF,SAGD CPF,AB,4216,3412,58850,88.5,Groundwater - non-saline,162833,boe,0.02589
+FAC-21,666,2025-05,Viking-Kerrobert Oil Battery,Oil Battery,SK,376,16,274,41.1,Saline groundwater,112992,boe,0.00333
+FAC-22,342,2025-05,Bakken-Estevan Oil Battery,Oil Battery,SK,154,17,171,50.0,Groundwater - non-saline,61555,boe,0.0025
+FAC-23,1460,2025-05,Bakken-Estevan Oil Battery,Oil Battery,SK,895,65,500,34.2,Groundwater - non-saline,144574,boe,0.00619
+FAC-25,623,2025-05,Lloydminster Heavy Oil Battery,Oil Battery,SK,323,4,296,47.5,Surface water - lake,67251,boe,0.0048
+R100,899980,2025-06,Prairie Refinery,Refinery,AB,312733,0,587247,65.3,Surface water - river,571358,m3 crude,0.54735
+R200,720396,2025-06,Lakehead Refinery,Refinery,ON,289391,0,431005,59.8,Surface water - lake,387406,m3 crude,0.747
+R300,1055438,2025-06,Saint-Laurent Refinery,Refinery,QC,449211,0,606227,57.4,Municipal supply,524929,m3 crude,0.85576
+FAC-01,1174,2025-06,Montney-Dawson Gas Plant,Gas Plant,BC,389,0,785,66.9,Groundwater - non-saline,239249,boe,0.00163
+FAC-02,2871,2025-06,Montney-Dawson Gas Plant,Gas Plant,BC,816,44,2011,70.0,Surface water - river,591294,boe,0.00138
+FAC-03,3521,2025-06,Montney-Kakwa Gas Plant,Gas Plant,AB,1622,26,1873,53.2,Groundwater - non-saline,548373,boe,0.00296
+FAC-04,2189,2025-06,Montney-Kakwa Gas Plant,Gas Plant,AB,632,56,1501,68.6,Surface water - river,521663,boe,0.00121
+FAC-05,1838,2025-06,Deep Basin-Edson Gas Plant,Gas Plant,AB,862,41,935,50.9,Surface water - river,266067,boe,0.00324
+FAC-06,1353,2025-06,Deep Basin-Edson Gas Plant,Gas Plant,AB,594,30,729,53.9,Surface water - river,263924,boe,0.00225
+FAC-07,1387,2025-06,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1034,48,305,22.0,Groundwater - non-saline,388572,boe,0.00266
+FAC-08,4029,2025-06,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2866,183,980,24.3,Groundwater - non-saline,1082462,boe,0.00265
+FAC-09,420,2025-06,Cardium-Pembina Oil Battery,Oil Battery,AB,238,6,176,41.9,Groundwater - non-saline,54501,boe,0.00437
+FAC-10,1975,2025-06,Cardium-Pembina Oil Battery,Oil Battery,AB,964,75,936,47.4,Surface water - river,222003,boe,0.00434
+FAC-11,752,2025-06,Swan Hills Oil Battery,Oil Battery,AB,528,35,189,25.1,Saline groundwater,85586,boe,0.00617
+FAC-13,1152,2025-06,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,677,53,422,36.6,Groundwater - non-saline,117013,boe,0.00579
+FAC-14,109281,2025-06,Cold Lake SAGD CPF,SAGD CPF,AB,3279,9275,96727,88.5,Saline groundwater,253017,boe,0.01296
+FAC-15,94391,2025-06,Cold Lake SAGD CPF,SAGD CPF,AB,7750,5584,81057,85.9,Groundwater - non-saline,184733,boe,0.04195
+FAC-16,138434,2025-06,Athabasca SAGD CPF,SAGD CPF,AB,11631,8149,118654,85.7,Groundwater - non-saline,325489,boe,0.03573
+FAC-17,74817,2025-06,Athabasca SAGD CPF,SAGD CPF,AB,6361,4742,63714,85.2,Saline groundwater,168780,boe,0.03769
+FAC-18,86008,2025-06,Athabasca SAGD CPF,SAGD CPF,AB,4293,7310,74405,86.5,Saline groundwater,193299,boe,0.02221
+FAC-19,63731,2025-06,Peace River SAGD CPF,SAGD CPF,AB,6772,3452,53507,84.0,Groundwater - non-saline,158267,boe,0.04279
+FAC-21,616,2025-06,Viking-Kerrobert Oil Battery,Oil Battery,SK,343,15,258,41.9,Saline groundwater,103032,boe,0.00333
+FAC-22,285,2025-06,Bakken-Estevan Oil Battery,Oil Battery,SK,127,16,142,49.8,Groundwater - non-saline,57189,boe,0.00222
+FAC-23,1524,2025-06,Bakken-Estevan Oil Battery,Oil Battery,SK,964,75,485,31.8,Groundwater - non-saline,139867,boe,0.00689
+FAC-25,646,2025-06,Lloydminster Heavy Oil Battery,Oil Battery,SK,330,4,312,48.3,Surface water - lake,65418,boe,0.00504
+R100,1077964,2025-07,Prairie Refinery,Refinery,AB,357543,0,720421,66.8,Surface water - river,641584,m3 crude,0.55728
+R200,741952,2025-07,Lakehead Refinery,Refinery,ON,314516,0,427436,57.6,Surface water - lake,404261,m3 crude,0.778
+R300,1151009,2025-07,Saint-Laurent Refinery,Refinery,QC,455889,0,695120,60.4,Municipal supply,557171,m3 crude,0.81822
+FAC-01,1078,2025-07,Montney-Dawson Gas Plant,Gas Plant,BC,352,0,726,67.3,Groundwater - non-saline,223511,boe,0.00157
+FAC-02,2757,2025-07,Montney-Dawson Gas Plant,Gas Plant,BC,782,45,1930,70.0,Surface water - river,598089,boe,0.00131
+FAC-03,3409,2025-07,Montney-Kakwa Gas Plant,Gas Plant,AB,1605,27,1777,52.1,Groundwater - non-saline,540184,boe,0.00297
+FAC-04,1971,2025-07,Montney-Kakwa Gas Plant,Gas Plant,AB,557,55,1359,68.9,Surface water - river,472887,boe,0.00118
+FAC-05,1944,2025-07,Deep Basin-Edson Gas Plant,Gas Plant,AB,960,43,941,48.4,Surface water - river,258853,boe,0.00371
+FAC-06,1630,2025-07,Deep Basin-Edson Gas Plant,Gas Plant,AB,743,38,849,52.1,Surface water - river,285789,boe,0.0026
+FAC-07,1457,2025-07,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1087,47,323,22.2,Groundwater - non-saline,406190,boe,0.00268
+FAC-08,3085,2025-07,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2230,120,735,23.8,Groundwater - non-saline,810794,boe,0.00275
+FAC-09,469,2025-07,Cardium-Pembina Oil Battery,Oil Battery,AB,290,7,172,36.7,Groundwater - non-saline,57338,boe,0.00506
+FAC-10,2124,2025-07,Cardium-Pembina Oil Battery,Oil Battery,AB,968,78,1078,50.8,Surface water - river,239656,boe,0.00404
+FAC-11,756,2025-07,Swan Hills Oil Battery,Oil Battery,AB,536,33,187,24.7,Saline groundwater,78944,boe,0.00679
+FAC-13,1227,2025-07,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,721,54,452,36.8,Groundwater - non-saline,120548,boe,0.00598
+FAC-14,129447,2025-07,Cold Lake SAGD CPF,SAGD CPF,AB,3884,11908,113655,87.8,Saline groundwater,294072,boe,0.01321
+FAC-15,81201,2025-07,Cold Lake SAGD CPF,SAGD CPF,AB,7056,4131,70014,86.2,Groundwater - non-saline,194689,boe,0.03624
+FAC-16,141847,2025-07,Athabasca SAGD CPF,SAGD CPF,AB,10109,7437,124301,87.6,Groundwater - non-saline,337196,boe,0.02998
+FAC-17,75488,2025-07,Athabasca SAGD CPF,SAGD CPF,AB,5797,4956,64735,85.8,Saline groundwater,177634,boe,0.03263
+FAC-18,93870,2025-07,Athabasca SAGD CPF,SAGD CPF,AB,2817,8111,82942,88.4,Saline groundwater,205261,boe,0.01372
+FAC-19,64142,2025-07,Peace River SAGD CPF,SAGD CPF,AB,5330,3234,55578,86.6,Groundwater - non-saline,156962,boe,0.03396
+FAC-21,663,2025-07,Viking-Kerrobert Oil Battery,Oil Battery,SK,377,15,271,40.9,Saline groundwater,111612,boe,0.00338
+FAC-22,323,2025-07,Bakken-Estevan Oil Battery,Oil Battery,SK,150,16,157,48.6,Groundwater - non-saline,61687,boe,0.00243
+FAC-23,1509,2025-07,Bakken-Estevan Oil Battery,Oil Battery,SK,953,72,484,32.1,Groundwater - non-saline,146317,boe,0.00651
+FAC-25,585,2025-07,Lloydminster Heavy Oil Battery,Oil Battery,SK,304,3,278,47.5,Surface water - lake,63599,boe,0.00478
+R100,1035531,2025-08,Prairie Refinery,Refinery,AB,335858,0,699673,67.6,Surface water - river,609680,m3 crude,0.55088
+R200,738403,2025-08,Lakehead Refinery,Refinery,ON,312906,0,425497,57.6,Surface water - lake,396101,m3 crude,0.78997
+R300,1056682,2025-08,Saint-Laurent Refinery,Refinery,QC,433090,0,623592,59.0,Municipal supply,551544,m3 crude,0.78523
+FAC-01,1168,2025-08,Montney-Dawson Gas Plant,Gas Plant,BC,398,0,770,65.9,Groundwater - non-saline,236008,boe,0.00169
+FAC-02,2929,2025-08,Montney-Dawson Gas Plant,Gas Plant,BC,862,44,2023,69.1,Surface water - river,575953,boe,0.0015
+FAC-03,3451,2025-08,Montney-Kakwa Gas Plant,Gas Plant,AB,1547,26,1878,54.4,Groundwater - non-saline,515986,boe,0.003
+FAC-04,2091,2025-08,Montney-Kakwa Gas Plant,Gas Plant,AB,564,59,1468,70.2,Surface water - river,516110,boe,0.00109
+FAC-05,1937,2025-08,Deep Basin-Edson Gas Plant,Gas Plant,AB,972,37,928,47.9,Surface water - river,271910,boe,0.00357
+FAC-06,1531,2025-08,Deep Basin-Edson Gas Plant,Gas Plant,AB,643,32,856,55.9,Surface water - river,272731,boe,0.00236
+FAC-07,1398,2025-08,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1027,48,323,23.1,Groundwater - non-saline,406265,boe,0.00253
+FAC-08,4148,2025-08,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2951,181,1016,24.5,Groundwater - non-saline,1184255,boe,0.00249
+FAC-09,445,2025-08,Cardium-Pembina Oil Battery,Oil Battery,AB,252,6,187,42.0,Groundwater - non-saline,54902,boe,0.00459
+FAC-10,2046,2025-08,Cardium-Pembina Oil Battery,Oil Battery,AB,1029,77,940,45.9,Surface water - river,221217,boe,0.00465
+FAC-11,812,2025-08,Swan Hills Oil Battery,Oil Battery,AB,581,37,194,23.9,Saline groundwater,84087,boe,0.00691
+FAC-13,1239,2025-08,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,699,58,482,38.9,Groundwater - non-saline,117484,boe,0.00595
+FAC-14,91379,2025-08,Cold Lake SAGD CPF,SAGD CPF,AB,2742,8490,80147,87.7,Saline groundwater,212494,boe,0.0129
+FAC-15,91430,2025-08,Cold Lake SAGD CPF,SAGD CPF,AB,9061,4700,77669,84.9,Groundwater - non-saline,189034,boe,0.04793
+FAC-16,142991,2025-08,Athabasca SAGD CPF,SAGD CPF,AB,9341,8669,124981,87.4,Groundwater - non-saline,331967,boe,0.02814
+FAC-17,70676,2025-08,Athabasca SAGD CPF,SAGD CPF,AB,3492,5127,62057,87.8,Saline groundwater,169673,boe,0.02058
+FAC-18,80268,2025-08,Athabasca SAGD CPF,SAGD CPF,AB,2785,6711,70772,88.2,Saline groundwater,205307,boe,0.01357
+FAC-19,50858,2025-08,Peace River SAGD CPF,SAGD CPF,AB,5144,2415,43299,85.1,Groundwater - non-saline,123173,boe,0.04176
+FAC-21,697,2025-08,Viking-Kerrobert Oil Battery,Oil Battery,SK,407,17,273,39.2,Saline groundwater,111728,boe,0.00364
+FAC-22,289,2025-08,Bakken-Estevan Oil Battery,Oil Battery,SK,140,15,134,46.4,Groundwater - non-saline,57619,boe,0.00243
+FAC-23,1429,2025-08,Bakken-Estevan Oil Battery,Oil Battery,SK,870,68,491,34.4,Groundwater - non-saline,138961,boe,0.00626
+FAC-25,608,2025-08,Lloydminster Heavy Oil Battery,Oil Battery,SK,312,3,293,48.2,Surface water - lake,63970,boe,0.00488
+R100,900632,2025-09,Prairie Refinery,Refinery,AB,292051,0,608581,67.6,Surface water - river,598800,m3 crude,0.48773
+R200,716182,2025-09,Lakehead Refinery,Refinery,ON,292128,0,424054,59.2,Surface water - lake,365574,m3 crude,0.79909
+R300,1083604,2025-09,Saint-Laurent Refinery,Refinery,QC,482089,0,601515,55.5,Municipal supply,525930,m3 crude,0.91664
+FAC-01,1170,2025-09,Montney-Dawson Gas Plant,Gas Plant,BC,396,0,774,66.2,Groundwater - non-saline,242671,boe,0.00163
+FAC-02,2852,2025-09,Montney-Dawson Gas Plant,Gas Plant,BC,727,45,2080,72.9,Surface water - river,571491,boe,0.00127
+FAC-03,3287,2025-09,Montney-Kakwa Gas Plant,Gas Plant,AB,1520,22,1745,53.1,Groundwater - non-saline,500010,boe,0.00304
+FAC-04,2044,2025-09,Montney-Kakwa Gas Plant,Gas Plant,AB,522,60,1462,71.5,Surface water - river,487921,boe,0.00107
+FAC-05,1765,2025-09,Deep Basin-Edson Gas Plant,Gas Plant,AB,878,39,848,48.0,Surface water - river,262329,boe,0.00335
+FAC-06,1364,2025-09,Deep Basin-Edson Gas Plant,Gas Plant,AB,589,31,744,54.5,Surface water - river,248885,boe,0.00237
+FAC-07,1387,2025-09,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1003,45,339,24.4,Groundwater - non-saline,400814,boe,0.0025
+FAC-08,4160,2025-09,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2965,181,1014,24.4,Groundwater - non-saline,1124649,boe,0.00264
+FAC-09,324,2025-09,Cardium-Pembina Oil Battery,Oil Battery,AB,189,5,130,40.1,Groundwater - non-saline,40906,boe,0.00462
+FAC-10,1996,2025-09,Cardium-Pembina Oil Battery,Oil Battery,AB,881,70,1045,52.4,Surface water - river,218258,boe,0.00404
+FAC-11,724,2025-09,Swan Hills Oil Battery,Oil Battery,AB,535,34,155,21.4,Saline groundwater,78252,boe,0.00684
+FAC-13,1110,2025-09,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,631,46,433,39.0,Groundwater - non-saline,109188,boe,0.00578
+FAC-14,125202,2025-09,Cold Lake SAGD CPF,SAGD CPF,AB,3757,11533,109912,87.8,Saline groundwater,277610,boe,0.01353
+FAC-15,90911,2025-09,Cold Lake SAGD CPF,SAGD CPF,AB,9281,4857,76773,84.4,Groundwater - non-saline,186925,boe,0.04965
+FAC-16,121135,2025-09,Athabasca SAGD CPF,SAGD CPF,AB,6781,7562,106792,88.2,Groundwater - non-saline,312509,boe,0.0217
+FAC-17,68447,2025-09,Athabasca SAGD CPF,SAGD CPF,AB,2896,4232,61319,89.6,Saline groundwater,163939,boe,0.01767
+FAC-18,86800,2025-09,Athabasca SAGD CPF,SAGD CPF,AB,2604,7648,76548,88.2,Saline groundwater,197308,boe,0.0132
+FAC-19,64231,2025-09,Peace River SAGD CPF,SAGD CPF,AB,5839,3514,54878,85.4,Groundwater - non-saline,154325,boe,0.03784
+FAC-21,619,2025-09,Viking-Kerrobert Oil Battery,Oil Battery,SK,375,14,230,37.2,Saline groundwater,102805,boe,0.00365
+FAC-22,314,2025-09,Bakken-Estevan Oil Battery,Oil Battery,SK,146,16,152,48.4,Groundwater - non-saline,58886,boe,0.00248
+FAC-23,1302,2025-09,Bakken-Estevan Oil Battery,Oil Battery,SK,845,64,393,30.2,Groundwater - non-saline,136892,boe,0.00617
+FAC-25,563,2025-09,Lloydminster Heavy Oil Battery,Oil Battery,SK,289,3,271,48.1,Surface water - lake,59218,boe,0.00488
+R100,981299,2025-10,Prairie Refinery,Refinery,AB,336959,0,644340,65.7,Surface water - river,626651,m3 crude,0.53771
+R200,798458,2025-10,Lakehead Refinery,Refinery,ON,328321,0,470137,58.9,Surface water - lake,404734,m3 crude,0.8112
+R300,1167703,2025-10,Saint-Laurent Refinery,Refinery,QC,524580,0,643123,55.1,Municipal supply,568935,m3 crude,0.92204
+FAC-01,1113,2025-10,Montney-Dawson Gas Plant,Gas Plant,BC,362,0,751,67.5,Groundwater - non-saline,248615,boe,0.00146
+FAC-02,2860,2025-10,Montney-Dawson Gas Plant,Gas Plant,BC,813,47,2000,69.9,Surface water - river,576395,boe,0.00141
+FAC-03,3643,2025-10,Montney-Kakwa Gas Plant,Gas Plant,AB,1581,26,2036,55.9,Groundwater - non-saline,542359,boe,0.00292
+FAC-04,2045,2025-10,Montney-Kakwa Gas Plant,Gas Plant,AB,555,58,1432,70.0,Surface water - river,512024,boe,0.00108
+FAC-05,1748,2025-10,Deep Basin-Edson Gas Plant,Gas Plant,AB,889,37,822,47.0,Surface water - river,261145,boe,0.0034
+FAC-06,1495,2025-10,Deep Basin-Edson Gas Plant,Gas Plant,AB,660,30,805,53.8,Surface water - river,267414,boe,0.00247
+FAC-07,1400,2025-10,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1049,45,306,21.9,Groundwater - non-saline,401395,boe,0.00261
+FAC-08,3771,2025-10,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2744,150,877,23.3,Groundwater - non-saline,1073349,boe,0.00256
+FAC-09,442,2025-10,Cardium-Pembina Oil Battery,Oil Battery,AB,265,8,169,38.2,Groundwater - non-saline,55105,boe,0.00481
+FAC-10,2240,2025-10,Cardium-Pembina Oil Battery,Oil Battery,AB,1019,79,1142,51.0,Surface water - river,237037,boe,0.0043
+FAC-11,788,2025-10,Swan Hills Oil Battery,Oil Battery,AB,586,36,166,21.1,Saline groundwater,85793,boe,0.00683
+FAC-13,1157,2025-10,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,678,50,429,37.1,Groundwater - non-saline,114303,boe,0.00593
+FAC-14,131312,2025-10,Cold Lake SAGD CPF,SAGD CPF,AB,3940,11295,116077,88.4,Saline groundwater,295339,boe,0.01334
+FAC-15,99730,2025-10,Cold Lake SAGD CPF,SAGD CPF,AB,7408,5285,87037,87.3,Groundwater - non-saline,185911,boe,0.03985
+FAC-16,129147,2025-10,Athabasca SAGD CPF,SAGD CPF,AB,10035,7901,111211,86.1,Groundwater - non-saline,312013,boe,0.03216
+FAC-17,74121,2025-10,Athabasca SAGD CPF,SAGD CPF,AB,5820,4883,63418,85.6,Saline groundwater,164595,boe,0.03536
+FAC-18,85831,2025-10,Athabasca SAGD CPF,SAGD CPF,AB,2575,7804,75452,87.9,Saline groundwater,197905,boe,0.01301
+FAC-19,64949,2025-10,Peace River SAGD CPF,SAGD CPF,AB,4947,3300,56702,87.3,Groundwater - non-saline,158199,boe,0.03127
+FAC-21,699,2025-10,Viking-Kerrobert Oil Battery,Oil Battery,SK,396,18,285,40.8,Saline groundwater,105290,boe,0.00376
+FAC-22,241,2025-10,Bakken-Estevan Oil Battery,Oil Battery,SK,113,13,115,47.7,Groundwater - non-saline,46901,boe,0.00241
+FAC-23,1460,2025-10,Bakken-Estevan Oil Battery,Oil Battery,SK,924,64,472,32.3,Groundwater - non-saline,143597,boe,0.00643
+FAC-25,597,2025-10,Lloydminster Heavy Oil Battery,Oil Battery,SK,301,3,293,49.1,Surface water - lake,65149,boe,0.00462
+R100,982941,2025-11,Prairie Refinery,Refinery,AB,331248,0,651693,66.3,Surface water - river,609736,m3 crude,0.54326
+R200,733845,2025-11,Lakehead Refinery,Refinery,ON,281452,0,452393,61.6,Surface water - lake,382068,m3 crude,0.73665
+R300,1059420,2025-11,Saint-Laurent Refinery,Refinery,QC,456287,0,603133,56.9,Municipal supply,518646,m3 crude,0.87977
+FAC-01,1052,2025-11,Montney-Dawson Gas Plant,Gas Plant,BC,330,0,722,68.6,Groundwater - non-saline,224577,boe,0.00147
+FAC-02,2879,2025-11,Montney-Dawson Gas Plant,Gas Plant,BC,766,45,2068,71.8,Surface water - river,586200,boe,0.00131
+FAC-03,3386,2025-11,Montney-Kakwa Gas Plant,Gas Plant,AB,1580,26,1780,52.6,Groundwater - non-saline,508844,boe,0.00311
+FAC-04,2038,2025-11,Montney-Kakwa Gas Plant,Gas Plant,AB,538,56,1444,70.9,Surface water - river,494658,boe,0.00109
+FAC-05,1850,2025-11,Deep Basin-Edson Gas Plant,Gas Plant,AB,862,39,949,51.3,Surface water - river,259969,boe,0.00332
+FAC-06,1495,2025-11,Deep Basin-Edson Gas Plant,Gas Plant,AB,674,33,788,52.7,Surface water - river,268566,boe,0.00251
+FAC-07,1333,2025-11,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,984,42,307,23.0,Groundwater - non-saline,396963,boe,0.00248
+FAC-08,3767,2025-11,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2716,156,895,23.8,Groundwater - non-saline,1071125,boe,0.00254
+FAC-09,427,2025-11,Cardium-Pembina Oil Battery,Oil Battery,AB,261,7,159,37.2,Groundwater - non-saline,53501,boe,0.00488
+FAC-10,2065,2025-11,Cardium-Pembina Oil Battery,Oil Battery,AB,999,73,993,48.1,Surface water - river,225252,boe,0.00444
+FAC-11,823,2025-11,Swan Hills Oil Battery,Oil Battery,AB,575,41,207,25.2,Saline groundwater,82245,boe,0.00699
+FAC-13,1207,2025-11,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,732,58,417,34.5,Groundwater - non-saline,112482,boe,0.00651
+FAC-14,119124,2025-11,Cold Lake SAGD CPF,SAGD CPF,AB,3574,10345,105205,88.3,Saline groundwater,271563,boe,0.01316
+FAC-15,85176,2025-11,Cold Lake SAGD CPF,SAGD CPF,AB,8984,4233,71959,84.5,Groundwater - non-saline,177454,boe,0.05063
+FAC-16,125608,2025-11,Athabasca SAGD CPF,SAGD CPF,AB,11020,6974,107614,85.7,Groundwater - non-saline,325127,boe,0.03389
+FAC-17,57536,2025-11,Athabasca SAGD CPF,SAGD CPF,AB,3786,3518,50232,87.3,Saline groundwater,127592,boe,0.02967
+FAC-18,83377,2025-11,Athabasca SAGD CPF,SAGD CPF,AB,2502,7107,73768,88.5,Saline groundwater,190908,boe,0.01311
+FAC-19,70806,2025-11,Peace River SAGD CPF,SAGD CPF,AB,6630,3777,60399,85.3,Groundwater - non-saline,155088,boe,0.04275
+FAC-21,659,2025-11,Viking-Kerrobert Oil Battery,Oil Battery,SK,371,16,272,41.3,Saline groundwater,107666,boe,0.00345
+FAC-22,328,2025-11,Bakken-Estevan Oil Battery,Oil Battery,SK,144,16,168,51.2,Groundwater - non-saline,59350,boe,0.00243
+FAC-23,1324,2025-11,Bakken-Estevan Oil Battery,Oil Battery,SK,843,61,420,31.7,Groundwater - non-saline,135540,boe,0.00622
+FAC-25,588,2025-11,Lloydminster Heavy Oil Battery,Oil Battery,SK,313,4,271,46.1,Surface water - lake,59820,boe,0.00523
+R100,998301,2025-12,Prairie Refinery,Refinery,AB,332222,0,666079,66.7,Surface water - river,653604,m3 crude,0.50829
+R200,827631,2025-12,Lakehead Refinery,Refinery,ON,319180,0,508451,61.4,Surface water - lake,414421,m3 crude,0.77018
+R300,1159463,2025-12,Saint-Laurent Refinery,Refinery,QC,515819,0,643644,55.5,Municipal supply,562214,m3 crude,0.91748
+FAC-01,1119,2025-12,Montney-Dawson Gas Plant,Gas Plant,BC,364,0,755,67.5,Groundwater - non-saline,233330,boe,0.00156
+FAC-02,2731,2025-12,Montney-Dawson Gas Plant,Gas Plant,BC,818,43,1870,68.5,Surface water - river,590676,boe,0.00138
+FAC-03,3497,2025-12,Montney-Kakwa Gas Plant,Gas Plant,AB,1568,25,1904,54.4,Groundwater - non-saline,511525,boe,0.00307
+FAC-04,2039,2025-12,Montney-Kakwa Gas Plant,Gas Plant,AB,579,52,1408,69.1,Surface water - river,466604,boe,0.00124
+FAC-05,1831,2025-12,Deep Basin-Edson Gas Plant,Gas Plant,AB,907,38,886,48.4,Surface water - river,259307,boe,0.0035
+FAC-06,1590,2025-12,Deep Basin-Edson Gas Plant,Gas Plant,AB,669,35,886,55.7,Surface water - river,278870,boe,0.0024
+FAC-07,1377,2025-12,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,992,47,338,24.5,Groundwater - non-saline,388415,boe,0.00255
+FAC-08,3429,2025-12,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2576,152,701,20.4,Groundwater - non-saline,986883,boe,0.00261
+FAC-09,440,2025-12,Cardium-Pembina Oil Battery,Oil Battery,AB,270,6,164,37.3,Groundwater - non-saline,53164,boe,0.00508
+FAC-10,1891,2025-12,Cardium-Pembina Oil Battery,Oil Battery,AB,897,65,929,49.1,Surface water - river,214198,boe,0.00419
+FAC-11,823,2025-12,Swan Hills Oil Battery,Oil Battery,AB,615,38,170,20.7,Saline groundwater,83081,boe,0.0074
+FAC-13,1155,2025-12,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,665,54,436,37.7,Groundwater - non-saline,108863,boe,0.00611
+FAC-14,131449,2025-12,Cold Lake SAGD CPF,SAGD CPF,AB,3944,11426,116079,88.3,Saline groundwater,300896,boe,0.01311
+FAC-15,86530,2025-12,Cold Lake SAGD CPF,SAGD CPF,AB,5830,4724,75976,87.8,Groundwater - non-saline,176069,boe,0.03311
+FAC-16,120411,2025-12,Athabasca SAGD CPF,SAGD CPF,AB,12440,6857,101114,84.0,Groundwater - non-saline,307188,boe,0.0405
+FAC-17,75038,2025-12,Athabasca SAGD CPF,SAGD CPF,AB,6275,4652,64111,85.4,Saline groundwater,176226,boe,0.03561
+FAC-18,93208,2025-12,Athabasca SAGD CPF,SAGD CPF,AB,2797,8346,82065,88.0,Saline groundwater,200487,boe,0.01395
+FAC-19,65960,2025-12,Peace River SAGD CPF,SAGD CPF,AB,5384,3286,57290,86.9,Groundwater - non-saline,151737,boe,0.03548
+FAC-21,629,2025-12,Viking-Kerrobert Oil Battery,Oil Battery,SK,363,15,251,39.9,Saline groundwater,101907,boe,0.00356
+FAC-22,290,2025-12,Bakken-Estevan Oil Battery,Oil Battery,SK,139,14,137,47.2,Groundwater - non-saline,59918,boe,0.00232
+FAC-23,1396,2025-12,Bakken-Estevan Oil Battery,Oil Battery,SK,845,74,477,34.2,Groundwater - non-saline,137248,boe,0.00616
+FAC-25,550,2025-12,Lloydminster Heavy Oil Battery,Oil Battery,SK,282,3,265,48.2,Surface water - lake,59186,boe,0.00476
+R100,1051550,2026-01,Prairie Refinery,Refinery,AB,358495,0,693055,65.9,Surface water - river,652106,m3 crude,0.54975
+R200,719569,2026-01,Lakehead Refinery,Refinery,ON,280876,0,438693,61.0,Surface water - lake,373905,m3 crude,0.7512
+R300,1136406,2026-01,Saint-Laurent Refinery,Refinery,QC,497860,0,638546,56.2,Municipal supply,575413,m3 crude,0.86522
+FAC-01,1164,2026-01,Montney-Dawson Gas Plant,Gas Plant,BC,376,0,788,67.7,Groundwater - non-saline,231108,boe,0.00163
+FAC-02,1893,2026-01,Montney-Dawson Gas Plant,Gas Plant,BC,557,29,1307,69.0,Surface water - river,397745,boe,0.0014
+FAC-03,3408,2026-01,Montney-Kakwa Gas Plant,Gas Plant,AB,1617,27,1764,51.8,Groundwater - non-saline,538048,boe,0.00301
+FAC-04,2029,2026-01,Montney-Kakwa Gas Plant,Gas Plant,AB,547,59,1423,70.1,Surface water - river,515985,boe,0.00106
+FAC-05,1865,2026-01,Deep Basin-Edson Gas Plant,Gas Plant,AB,913,39,913,49.0,Surface water - river,260117,boe,0.00351
+FAC-06,1431,2026-01,Deep Basin-Edson Gas Plant,Gas Plant,AB,613,36,782,54.6,Surface water - river,257394,boe,0.00238
+FAC-07,1479,2026-01,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1069,49,361,24.4,Groundwater - non-saline,386183,boe,0.00277
+FAC-08,3681,2026-01,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2674,145,862,23.4,Groundwater - non-saline,1060653,boe,0.00252
+FAC-09,376,2026-01,Cardium-Pembina Oil Battery,Oil Battery,AB,222,6,148,39.4,Groundwater - non-saline,49001,boe,0.00453
+FAC-10,2100,2026-01,Cardium-Pembina Oil Battery,Oil Battery,AB,987,77,1036,49.3,Surface water - river,219008,boe,0.00451
+FAC-11,804,2026-01,Swan Hills Oil Battery,Oil Battery,AB,575,35,194,24.1,Saline groundwater,81983,boe,0.00701
+FAC-13,1165,2026-01,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,676,54,435,37.3,Groundwater - non-saline,104786,boe,0.00645
+FAC-14,123813,2026-01,Cold Lake SAGD CPF,SAGD CPF,AB,3715,11623,108475,87.6,Saline groundwater,276702,boe,0.01343
+FAC-15,86616,2026-01,Cold Lake SAGD CPF,SAGD CPF,AB,6471,5053,75092,86.7,Groundwater - non-saline,177718,boe,0.03641
+FAC-16,128263,2026-01,Athabasca SAGD CPF,SAGD CPF,AB,13269,8100,106894,83.3,Groundwater - non-saline,303437,boe,0.04373
+FAC-17,66943,2026-01,Athabasca SAGD CPF,SAGD CPF,AB,4982,4561,57400,85.7,Saline groundwater,154238,boe,0.0323
+FAC-18,81315,2026-01,Athabasca SAGD CPF,SAGD CPF,AB,2440,8049,70826,87.1,Saline groundwater,183272,boe,0.01331
+FAC-19,59750,2026-01,Peace River SAGD CPF,SAGD CPF,AB,4902,3241,51607,86.4,Groundwater - non-saline,149970,boe,0.03269
+FAC-21,599,2026-01,Viking-Kerrobert Oil Battery,Oil Battery,SK,350,15,234,39.1,Saline groundwater,102043,boe,0.00343
+FAC-22,304,2026-01,Bakken-Estevan Oil Battery,Oil Battery,SK,139,15,150,49.3,Groundwater - non-saline,58128,boe,0.00239
+FAC-23,1324,2026-01,Bakken-Estevan Oil Battery,Oil Battery,SK,783,65,476,36.0,Groundwater - non-saline,136307,boe,0.00574
+FAC-25,529,2026-01,Lloydminster Heavy Oil Battery,Oil Battery,SK,271,3,255,48.2,Surface water - lake,58084,boe,0.00467
+R100,994833,2026-02,Prairie Refinery,Refinery,AB,336869,0,657964,66.1,Surface water - river,586451,m3 crude,0.57442
+R200,666064,2026-02,Lakehead Refinery,Refinery,ON,280494,0,385570,57.9,Surface water - lake,338132,m3 crude,0.82954
+R300,1109442,2026-02,Saint-Laurent Refinery,Refinery,QC,466387,0,643055,58.0,Municipal supply,527009,m3 crude,0.88497
+FAC-01,1073,2026-02,Montney-Dawson Gas Plant,Gas Plant,BC,353,0,720,67.1,Groundwater - non-saline,215752,boe,0.00164
+FAC-02,2425,2026-02,Montney-Dawson Gas Plant,Gas Plant,BC,678,36,1711,70.6,Surface water - river,514616,boe,0.00132
+FAC-03,2805,2026-02,Montney-Kakwa Gas Plant,Gas Plant,AB,1303,21,1481,52.8,Groundwater - non-saline,407894,boe,0.00319
+FAC-04,1903,2026-02,Montney-Kakwa Gas Plant,Gas Plant,AB,602,59,1242,65.3,Surface water - river,449283,boe,0.00134
+FAC-05,1605,2026-02,Deep Basin-Edson Gas Plant,Gas Plant,AB,791,34,780,48.6,Surface water - river,229978,boe,0.00344
+FAC-06,1410,2026-02,Deep Basin-Edson Gas Plant,Gas Plant,AB,652,30,728,51.6,Surface water - river,243766,boe,0.00267
+FAC-07,1131,2026-02,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,794,37,300,26.5,Groundwater - non-saline,316887,boe,0.00251
+FAC-08,3118,2026-02,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2262,136,720,23.1,Groundwater - non-saline,918273,boe,0.00246
+FAC-09,377,2026-02,Cardium-Pembina Oil Battery,Oil Battery,AB,225,6,146,38.7,Groundwater - non-saline,49144,boe,0.00458
+FAC-10,1794,2026-02,Cardium-Pembina Oil Battery,Oil Battery,AB,859,61,874,48.7,Surface water - river,202029,boe,0.00425
+FAC-11,662,2026-02,Swan Hills Oil Battery,Oil Battery,AB,467,31,164,24.8,Saline groundwater,71430,boe,0.00654
+FAC-13,983,2026-02,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,578,44,361,36.7,Groundwater - non-saline,99490,boe,0.00581
+FAC-14,110695,2026-02,Cold Lake SAGD CPF,SAGD CPF,AB,3321,9472,97902,88.4,Saline groundwater,253366,boe,0.01311
+FAC-15,78020,2026-02,Cold Lake SAGD CPF,SAGD CPF,AB,5147,3998,68875,88.3,Groundwater - non-saline,158317,boe,0.03251
+FAC-16,113570,2026-02,Athabasca SAGD CPF,SAGD CPF,AB,7448,6995,99127,87.3,Groundwater - non-saline,273224,boe,0.02726
+FAC-17,61579,2026-02,Athabasca SAGD CPF,SAGD CPF,AB,5079,3844,52656,85.5,Saline groundwater,143208,boe,0.03547
+FAC-18,63347,2026-02,Athabasca SAGD CPF,SAGD CPF,AB,1901,5421,56025,88.4,Saline groundwater,152308,boe,0.01248
+FAC-19,52563,2026-02,Peace River SAGD CPF,SAGD CPF,AB,5533,2751,44279,84.2,Groundwater - non-saline,125766,boe,0.04399
+FAC-21,609,2026-02,Viking-Kerrobert Oil Battery,Oil Battery,SK,342,16,251,41.2,Saline groundwater,98281,boe,0.00348
+FAC-22,261,2026-02,Bakken-Estevan Oil Battery,Oil Battery,SK,126,14,121,46.4,Groundwater - non-saline,50334,boe,0.0025
+FAC-23,1312,2026-02,Bakken-Estevan Oil Battery,Oil Battery,SK,833,72,407,31.0,Groundwater - non-saline,128308,boe,0.00649
+FAC-25,478,2026-02,Lloydminster Heavy Oil Battery,Oil Battery,SK,237,3,238,49.8,Surface water - lake,58210,boe,0.00407
+R100,983775,2026-03,Prairie Refinery,Refinery,AB,322996,0,660779,67.2,Surface water - river,628942,m3 crude,0.51355
+R200,699926,2026-03,Lakehead Refinery,Refinery,ON,280738,0,419188,59.9,Surface water - lake,379892,m3 crude,0.73899
+R300,1049422,2026-03,Saint-Laurent Refinery,Refinery,QC,445861,0,603561,57.5,Municipal supply,551492,m3 crude,0.80846
+FAC-01,1155,2026-03,Montney-Dawson Gas Plant,Gas Plant,BC,374,0,781,67.6,Groundwater - non-saline,244969,boe,0.00153
+FAC-02,3019,2026-03,Montney-Dawson Gas Plant,Gas Plant,BC,824,47,2148,71.1,Surface water - river,605663,boe,0.00136
+FAC-03,3950,2026-03,Montney-Kakwa Gas Plant,Gas Plant,AB,1892,30,2028,51.3,Groundwater - non-saline,535771,boe,0.00353
+FAC-04,2115,2026-03,Montney-Kakwa Gas Plant,Gas Plant,AB,638,61,1416,67.0,Surface water - river,524413,boe,0.00122
+FAC-05,1696,2026-03,Deep Basin-Edson Gas Plant,Gas Plant,AB,840,34,822,48.5,Surface water - river,258461,boe,0.00325
+FAC-06,1422,2026-03,Deep Basin-Edson Gas Plant,Gas Plant,AB,603,29,790,55.6,Surface water - river,266663,boe,0.00226
+FAC-07,1532,2026-03,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1087,57,388,25.3,Groundwater - non-saline,402824,boe,0.0027
+FAC-08,4088,2026-03,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2946,173,969,23.7,Groundwater - non-saline,1082195,boe,0.00272
+FAC-09,391,2026-03,Cardium-Pembina Oil Battery,Oil Battery,AB,234,6,151,38.6,Groundwater - non-saline,50102,boe,0.00467
+FAC-10,1658,2026-03,Cardium-Pembina Oil Battery,Oil Battery,AB,787,59,812,49.0,Surface water - river,175485,boe,0.00448
+FAC-11,816,2026-03,Swan Hills Oil Battery,Oil Battery,AB,589,39,188,23.0,Saline groundwater,83439,boe,0.00706
+FAC-13,1122,2026-03,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,683,49,390,34.8,Groundwater - non-saline,110043,boe,0.00621
+FAC-14,123388,2026-03,Cold Lake SAGD CPF,SAGD CPF,AB,3702,10459,109227,88.5,Saline groundwater,279782,boe,0.01323
+FAC-15,93863,2026-03,Cold Lake SAGD CPF,SAGD CPF,AB,6054,5124,82685,88.1,Groundwater - non-saline,192760,boe,0.03141
+FAC-16,90916,2026-03,Athabasca SAGD CPF,SAGD CPF,AB,7716,5057,78143,86.0,Groundwater - non-saline,234102,boe,0.03296
+FAC-17,65007,2026-03,Athabasca SAGD CPF,SAGD CPF,AB,6445,4053,54509,83.9,Saline groundwater,163395,boe,0.03944
+FAC-18,79766,2026-03,Athabasca SAGD CPF,SAGD CPF,AB,3187,6548,70031,87.8,Saline groundwater,196230,boe,0.01624
+FAC-19,62662,2026-03,Peace River SAGD CPF,SAGD CPF,AB,5915,2957,53790,85.8,Groundwater - non-saline,156602,boe,0.03777
+FAC-21,596,2026-03,Viking-Kerrobert Oil Battery,Oil Battery,SK,352,14,230,38.6,Saline groundwater,97516,boe,0.00361
+FAC-22,289,2026-03,Bakken-Estevan Oil Battery,Oil Battery,SK,131,16,142,49.1,Groundwater - non-saline,56136,boe,0.00233
+FAC-23,952,2026-03,Bakken-Estevan Oil Battery,Oil Battery,SK,594,49,309,32.5,Groundwater - non-saline,96987,boe,0.00612
+FAC-25,542,2026-03,Lloydminster Heavy Oil Battery,Oil Battery,SK,279,3,260,48.0,Surface water - lake,59904,boe,0.00466
+R100,924360,2026-04,Prairie Refinery,Refinery,AB,342012,0,582348,63.0,Surface water - river,612387,m3 crude,0.55849
+R200,626854,2026-04,Lakehead Refinery,Refinery,ON,262358,0,364496,58.1,Surface water - lake,316307,m3 crude,0.82944
+R300,1143014,2026-04,Saint-Laurent Refinery,Refinery,QC,440836,0,702178,61.4,Municipal supply,545850,m3 crude,0.80761
+FAC-01,1057,2026-04,Montney-Dawson Gas Plant,Gas Plant,BC,347,0,710,67.2,Groundwater - non-saline,221649,boe,0.00157
+FAC-02,2545,2026-04,Montney-Dawson Gas Plant,Gas Plant,BC,692,40,1813,71.2,Surface water - river,540695,boe,0.00128
+FAC-03,3456,2026-04,Montney-Kakwa Gas Plant,Gas Plant,AB,1648,25,1783,51.6,Groundwater - non-saline,511900,boe,0.00322
+FAC-04,1895,2026-04,Montney-Kakwa Gas Plant,Gas Plant,AB,524,53,1318,69.6,Surface water - river,432983,boe,0.00121
+FAC-05,1637,2026-04,Deep Basin-Edson Gas Plant,Gas Plant,AB,847,31,759,46.4,Surface water - river,237245,boe,0.00357
+FAC-06,1321,2026-04,Deep Basin-Edson Gas Plant,Gas Plant,AB,610,29,682,51.6,Surface water - river,251285,boe,0.00243
+FAC-07,1331,2026-04,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,971,43,317,23.8,Groundwater - non-saline,375322,boe,0.00259
+FAC-08,4005,2026-04,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2850,164,991,24.7,Groundwater - non-saline,1039659,boe,0.00274
+FAC-09,421,2026-04,Cardium-Pembina Oil Battery,Oil Battery,AB,258,6,157,37.3,Groundwater - non-saline,51908,boe,0.00497
+FAC-10,1941,2026-04,Cardium-Pembina Oil Battery,Oil Battery,AB,921,72,948,48.8,Surface water - river,204810,boe,0.0045
+FAC-11,761,2026-04,Swan Hills Oil Battery,Oil Battery,AB,559,34,168,22.1,Saline groundwater,78716,boe,0.0071
+FAC-13,1128,2026-04,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,656,56,416,36.9,Groundwater - non-saline,105493,boe,0.00622
+FAC-14,117625,2026-04,Cold Lake SAGD CPF,SAGD CPF,AB,3992,10559,103074,87.6,Saline groundwater,263019,boe,0.01518
+FAC-15,53224,2026-04,Cold Lake SAGD CPF,SAGD CPF,AB,5221,2887,45116,84.8,Groundwater - non-saline,111139,boe,0.04698
+FAC-16,125560,2026-04,Athabasca SAGD CPF,SAGD CPF,AB,12007,7665,105888,84.3,Groundwater - non-saline,312803,boe,0.03839
+FAC-17,66701,2026-04,Athabasca SAGD CPF,SAGD CPF,AB,6423,4288,55990,83.9,Saline groundwater,154306,boe,0.04163
+FAC-18,81303,2026-04,Athabasca SAGD CPF,SAGD CPF,AB,2440,7349,71514,88.0,Saline groundwater,191736,boe,0.01273
+FAC-19,62049,2026-04,Peace River SAGD CPF,SAGD CPF,AB,2732,3502,55815,90.0,Groundwater - non-saline,149285,boe,0.0183
+FAC-21,569,2026-04,Viking-Kerrobert Oil Battery,Oil Battery,SK,326,14,229,40.2,Saline groundwater,98668,boe,0.0033
+FAC-22,291,2026-04,Bakken-Estevan Oil Battery,Oil Battery,SK,138,15,138,47.4,Groundwater - non-saline,54691,boe,0.00252
+FAC-23,1377,2026-04,Bakken-Estevan Oil Battery,Oil Battery,SK,859,70,448,32.5,Groundwater - non-saline,132457,boe,0.00649
+FAC-25,366,2026-04,Lloydminster Heavy Oil Battery,Oil Battery,SK,192,2,172,47.0,Surface water - lake,41069,boe,0.00468
+R100,937304,2026-05,Prairie Refinery,Refinery,AB,305959,0,631345,67.4,Surface water - river,602683,m3 crude,0.50766
+R200,666443,2026-05,Lakehead Refinery,Refinery,ON,293203,0,373240,56.0,Surface water - lake,363378,m3 crude,0.80688
+R300,1262618,2026-05,Saint-Laurent Refinery,Refinery,QC,545496,0,717122,56.8,Municipal supply,593408,m3 crude,0.91926
+FAC-01,1067,2026-05,Montney-Dawson Gas Plant,Gas Plant,BC,340,0,727,68.1,Groundwater - non-saline,226270,boe,0.0015
+FAC-02,2910,2026-05,Montney-Dawson Gas Plant,Gas Plant,BC,893,46,1971,67.7,Surface water - river,569651,boe,0.00157
+FAC-03,3619,2026-05,Montney-Kakwa Gas Plant,Gas Plant,AB,1593,24,2002,55.3,Groundwater - non-saline,535572,boe,0.00297
+FAC-04,2008,2026-05,Montney-Kakwa Gas Plant,Gas Plant,AB,578,51,1379,68.7,Surface water - river,498281,boe,0.00116
+FAC-05,1320,2026-05,Deep Basin-Edson Gas Plant,Gas Plant,AB,676,25,619,46.9,Surface water - river,200679,boe,0.00337
+FAC-06,1481,2026-05,Deep Basin-Edson Gas Plant,Gas Plant,AB,650,34,797,53.8,Surface water - river,254649,boe,0.00255
+FAC-07,1321,2026-05,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,942,37,342,25.9,Groundwater - non-saline,385663,boe,0.00244
+FAC-08,3902,2026-05,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2849,163,890,22.8,Groundwater - non-saline,1071871,boe,0.00266
+FAC-09,427,2026-05,Cardium-Pembina Oil Battery,Oil Battery,AB,247,6,174,40.7,Groundwater - non-saline,55976,boe,0.00441
+FAC-10,2012,2026-05,Cardium-Pembina Oil Battery,Oil Battery,AB,1009,73,930,46.2,Surface water - river,219729,boe,0.00459
+FAC-11,753,2026-05,Swan Hills Oil Battery,Oil Battery,AB,557,36,160,21.2,Saline groundwater,81618,boe,0.00682
+FAC-13,1112,2026-05,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,637,53,422,37.9,Groundwater - non-saline,111865,boe,0.00569
+FAC-14,116757,2026-05,Cold Lake SAGD CPF,SAGD CPF,AB,3503,10445,102809,88.1,Saline groundwater,288838,boe,0.01213
+FAC-15,94420,2026-05,Cold Lake SAGD CPF,SAGD CPF,AB,8312,4941,81167,86.0,Groundwater - non-saline,185119,boe,0.0449
+FAC-16,124896,2026-05,Athabasca SAGD CPF,SAGD CPF,AB,9568,7718,107610,86.2,Groundwater - non-saline,312534,boe,0.03061
+FAC-17,68828,2026-05,Athabasca SAGD CPF,SAGD CPF,AB,5195,4316,59317,86.2,Saline groundwater,167138,boe,0.03108
+FAC-18,82281,2026-05,Athabasca SAGD CPF,SAGD CPF,AB,3125,7532,71624,87.0,Saline groundwater,194454,boe,0.01607
+FAC-19,65209,2026-05,Peace River SAGD CPF,SAGD CPF,AB,3264,3756,58189,89.2,Groundwater - non-saline,146959,boe,0.02221
+FAC-21,581,2026-05,Viking-Kerrobert Oil Battery,Oil Battery,SK,336,14,231,39.8,Saline groundwater,97804,boe,0.00344
+FAC-22,312,2026-05,Bakken-Estevan Oil Battery,Oil Battery,SK,146,17,149,47.8,Groundwater - non-saline,58982,boe,0.00248
+FAC-23,1459,2026-05,Bakken-Estevan Oil Battery,Oil Battery,SK,929,70,460,31.5,Groundwater - non-saline,139532,boe,0.00666
+FAC-25,603,2026-05,Lloydminster Heavy Oil Battery,Oil Battery,SK,314,3,286,47.4,Surface water - lake,61571,boe,0.0051
+R100,919529,2026-06,Prairie Refinery,Refinery,AB,314335,0,605194,65.8,Surface water - river,571199,m3 crude,0.55031
+R200,719115,2026-06,Lakehead Refinery,Refinery,ON,294147,0,424968,59.1,Surface water - lake,376037,m3 crude,0.78223
+R300,1227477,2026-06,Saint-Laurent Refinery,Refinery,QC,507383,0,720094,58.7,Municipal supply,564395,m3 crude,0.89899
+FAC-01,1073,2026-06,Montney-Dawson Gas Plant,Gas Plant,BC,367,0,706,65.8,Groundwater - non-saline,220243,boe,0.00167
+FAC-02,3056,2026-06,Montney-Dawson Gas Plant,Gas Plant,BC,916,51,2089,68.4,Surface water - river,552245,boe,0.00166
+FAC-03,3355,2026-06,Montney-Kakwa Gas Plant,Gas Plant,AB,1617,26,1712,51.0,Groundwater - non-saline,496309,boe,0.00326
+FAC-04,1970,2026-06,Montney-Kakwa Gas Plant,Gas Plant,AB,543,57,1370,69.5,Surface water - river,477962,boe,0.00114
+FAC-05,1634,2026-06,Deep Basin-Edson Gas Plant,Gas Plant,AB,797,35,802,49.1,Surface water - river,238349,boe,0.00334
+FAC-06,1284,2026-06,Deep Basin-Edson Gas Plant,Gas Plant,AB,555,27,702,54.7,Surface water - river,244920,boe,0.00227
+FAC-07,1390,2026-06,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1014,45,331,23.8,Groundwater - non-saline,379671,boe,0.00267
+FAC-08,3893,2026-06,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2815,160,918,23.6,Groundwater - non-saline,1078133,boe,0.00261
+FAC-09,383,2026-06,Cardium-Pembina Oil Battery,Oil Battery,AB,235,6,142,37.1,Groundwater - non-saline,49103,boe,0.00479
+FAC-10,1891,2026-06,Cardium-Pembina Oil Battery,Oil Battery,AB,924,65,902,47.7,Surface water - river,217157,boe,0.00425
+FAC-11,713,2026-06,Swan Hills Oil Battery,Oil Battery,AB,522,30,161,22.6,Saline groundwater,76472,boe,0.00683
+FAC-13,1054,2026-06,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,612,48,394,37.4,Groundwater - non-saline,102665,boe,0.00596
+FAC-14,118238,2026-06,Cold Lake SAGD CPF,SAGD CPF,AB,3548,10709,103981,87.9,Saline groundwater,273033,boe,0.01299
+FAC-15,91690,2026-06,Cold Lake SAGD CPF,SAGD CPF,AB,10869,4878,75943,82.8,Groundwater - non-saline,179546,boe,0.06054
+FAC-16,125709,2026-06,Athabasca SAGD CPF,SAGD CPF,AB,8274,7778,109657,87.2,Groundwater - non-saline,311087,boe,0.0266
+FAC-17,62992,2026-06,Athabasca SAGD CPF,SAGD CPF,AB,4348,3774,54870,87.1,Saline groundwater,157407,boe,0.02762
+FAC-18,79183,2026-06,Athabasca SAGD CPF,SAGD CPF,AB,2376,6479,70328,88.8,Saline groundwater,172149,boe,0.0138
+FAC-19,64389,2026-06,Peace River SAGD CPF,SAGD CPF,AB,5644,3454,55291,85.9,Groundwater - non-saline,142612,boe,0.03958
+FAC-21,616,2026-06,Viking-Kerrobert Oil Battery,Oil Battery,SK,353,16,247,40.1,Saline groundwater,96453,boe,0.00366
+FAC-22,314,2026-06,Bakken-Estevan Oil Battery,Oil Battery,SK,137,16,161,51.3,Groundwater - non-saline,54057,boe,0.00253
+FAC-23,1288,2026-06,Bakken-Estevan Oil Battery,Oil Battery,SK,831,64,393,30.5,Groundwater - non-saline,130957,boe,0.00635
+FAC-25,535,2026-06,Lloydminster Heavy Oil Battery,Oil Battery,SK,268,3,264,49.3,Surface water - lake,58123,boe,0.00461
+R100,1015307,2026-07,Prairie Refinery,Refinery,AB,350689,0,664618,65.5,Surface water - river,631268,m3 crude,0.55553
+R200,783068,2026-07,Lakehead Refinery,Refinery,ON,310319,0,472749,60.4,Surface water - lake,393735,m3 crude,0.78814
+R300,1209728,2026-07,Saint-Laurent Refinery,Refinery,QC,481234,0,728494,60.2,Municipal supply,591606,m3 crude,0.81344
+FAC-01,1173,2026-07,Montney-Dawson Gas Plant,Gas Plant,BC,361,0,812,69.2,Groundwater - non-saline,219590,boe,0.00164
+FAC-02,2739,2026-07,Montney-Dawson Gas Plant,Gas Plant,BC,769,45,1925,70.3,Surface water - river,552092,boe,0.00139
+FAC-03,3361,2026-07,Montney-Kakwa Gas Plant,Gas Plant,AB,1518,25,1818,54.1,Groundwater - non-saline,514193,boe,0.00295
+FAC-04,2140,2026-07,Montney-Kakwa Gas Plant,Gas Plant,AB,622,60,1458,68.1,Surface water - river,507688,boe,0.00123
+FAC-05,1667,2026-07,Deep Basin-Edson Gas Plant,Gas Plant,AB,835,37,795,47.7,Surface water - river,240678,boe,0.00347
+FAC-06,1374,2026-07,Deep Basin-Edson Gas Plant,Gas Plant,AB,628,28,718,52.3,Surface water - river,249706,boe,0.00251
+FAC-07,1396,2026-07,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,964,51,381,27.3,Groundwater - non-saline,377715,boe,0.00255
+FAC-08,4098,2026-07,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,3008,168,922,22.5,Groundwater - non-saline,1126335,boe,0.00267
+FAC-09,409,2026-07,Cardium-Pembina Oil Battery,Oil Battery,AB,235,6,168,41.1,Groundwater - non-saline,52769,boe,0.00445
+FAC-10,1992,2026-07,Cardium-Pembina Oil Battery,Oil Battery,AB,1017,69,906,45.5,Surface water - river,210714,boe,0.00483
+FAC-11,497,2026-07,Swan Hills Oil Battery,Oil Battery,AB,362,24,111,22.3,Saline groundwater,53464,boe,0.00677
+FAC-13,1110,2026-07,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,660,50,400,36.0,Groundwater - non-saline,108302,boe,0.00609
+FAC-14,124380,2026-07,Cold Lake SAGD CPF,SAGD CPF,AB,4690,11355,108335,87.1,Saline groundwater,283307,boe,0.01655
+FAC-15,88141,2026-07,Cold Lake SAGD CPF,SAGD CPF,AB,9276,4586,74279,84.3,Groundwater - non-saline,175718,boe,0.05279
+FAC-16,120284,2026-07,Athabasca SAGD CPF,SAGD CPF,AB,12147,6960,101177,84.1,Groundwater - non-saline,289938,boe,0.0419
+FAC-17,65338,2026-07,Athabasca SAGD CPF,SAGD CPF,AB,4900,4164,56274,86.1,Saline groundwater,153763,boe,0.03187
+FAC-18,83216,2026-07,Athabasca SAGD CPF,SAGD CPF,AB,2497,7763,72956,87.7,Saline groundwater,185388,boe,0.01347
+FAC-19,62938,2026-07,Peace River SAGD CPF,SAGD CPF,AB,5102,3377,54459,86.5,Groundwater - non-saline,153187,boe,0.03331
+FAC-21,617,2026-07,Viking-Kerrobert Oil Battery,Oil Battery,SK,354,15,248,40.2,Saline groundwater,99259,boe,0.00357
+FAC-22,314,2026-07,Bakken-Estevan Oil Battery,Oil Battery,SK,150,16,148,47.1,Groundwater - non-saline,58572,boe,0.00256
+FAC-23,1488,2026-07,Bakken-Estevan Oil Battery,Oil Battery,SK,918,79,491,33.0,Groundwater - non-saline,140922,boe,0.00651
+FAC-25,562,2026-07,Lloydminster Heavy Oil Battery,Oil Battery,SK,291,3,268,47.7,Surface water - lake,59480,boe,0.00489
+R100,1009421,2026-08,Prairie Refinery,Refinery,AB,367986,0,641435,63.5,Surface water - river,594282,m3 crude,0.61921
+R200,746400,2026-08,Lakehead Refinery,Refinery,ON,315706,0,430694,57.7,Surface water - lake,375189,m3 crude,0.84146
+R300,1177750,2026-08,Saint-Laurent Refinery,Refinery,QC,508377,0,669373,56.8,Municipal supply,552857,m3 crude,0.91955
+FAC-01,1051,2026-08,Montney-Dawson Gas Plant,Gas Plant,BC,364,0,687,65.4,Groundwater - non-saline,225604,boe,0.00161
+FAC-02,2726,2026-08,Montney-Dawson Gas Plant,Gas Plant,BC,756,40,1930,70.8,Surface water - river,523027,boe,0.00145
+FAC-03,3562,2026-08,Montney-Kakwa Gas Plant,Gas Plant,AB,1716,28,1818,51.0,Groundwater - non-saline,519913,boe,0.0033
+FAC-04,2069,2026-08,Montney-Kakwa Gas Plant,Gas Plant,AB,593,61,1415,68.4,Surface water - river,489022,boe,0.00121
+FAC-05,1768,2026-08,Deep Basin-Edson Gas Plant,Gas Plant,AB,861,40,867,49.0,Surface water - river,248666,boe,0.00346
+FAC-06,947,2026-08,Deep Basin-Edson Gas Plant,Gas Plant,AB,409,22,516,54.5,Surface water - river,168861,boe,0.00242
+FAC-07,1346,2026-08,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,971,49,326,24.2,Groundwater - non-saline,381636,boe,0.00254
+FAC-08,3771,2026-08,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,2778,152,841,22.3,Groundwater - non-saline,1040186,boe,0.00267
+FAC-09,403,2026-08,Cardium-Pembina Oil Battery,Oil Battery,AB,245,6,152,37.7,Groundwater - non-saline,50769,boe,0.00483
+FAC-10,1883,2026-08,Cardium-Pembina Oil Battery,Oil Battery,AB,851,67,965,51.2,Surface water - river,196760,boe,0.00433
+FAC-11,745,2026-08,Swan Hills Oil Battery,Oil Battery,AB,512,36,197,26.4,Saline groundwater,78942,boe,0.00649
+FAC-13,1051,2026-08,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,625,47,379,36.1,Groundwater - non-saline,104602,boe,0.00598
+FAC-14,114633,2026-08,Cold Lake SAGD CPF,SAGD CPF,AB,3439,10663,100531,87.7,Saline groundwater,253632,boe,0.01356
+FAC-15,82578,2026-08,Cold Lake SAGD CPF,SAGD CPF,AB,7696,4657,70225,85.0,Groundwater - non-saline,181190,boe,0.04247
+FAC-16,116094,2026-08,Athabasca SAGD CPF,SAGD CPF,AB,14805,6909,94380,81.3,Groundwater - non-saline,306814,boe,0.04825
+FAC-17,75493,2026-08,Athabasca SAGD CPF,SAGD CPF,AB,8280,4669,62544,82.8,Saline groundwater,167681,boe,0.04938
+FAC-18,65200,2026-08,Athabasca SAGD CPF,SAGD CPF,AB,1956,6176,57068,87.5,Saline groundwater,150299,boe,0.01301
+FAC-19,60314,2026-08,Peace River SAGD CPF,SAGD CPF,AB,4355,3415,52544,87.1,Groundwater - non-saline,145298,boe,0.02997
+FAC-21,598,2026-08,Viking-Kerrobert Oil Battery,Oil Battery,SK,329,15,254,42.5,Saline groundwater,98284,boe,0.00335
+FAC-22,323,2026-08,Bakken-Estevan Oil Battery,Oil Battery,SK,148,18,157,48.6,Groundwater - non-saline,58479,boe,0.00253
+FAC-23,1445,2026-08,Bakken-Estevan Oil Battery,Oil Battery,SK,880,75,490,33.9,Groundwater - non-saline,135994,boe,0.00647
+FAC-25,578,2026-08,Lloydminster Heavy Oil Battery,Oil Battery,SK,308,3,267,46.2,Surface water - lake,60254,boe,0.00511

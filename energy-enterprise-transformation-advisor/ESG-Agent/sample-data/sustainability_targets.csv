@@ -1,0 +1,101 @@
+KPI,Target_Value,Actual_Value,KPI_ID,Category,Unit,Better_When,Baseline_Value,Baseline_Year,Target_Year,Progress_Pct,Status,Framework,Scope,Reporting_Period,Data_Source
+Scope 1 GHG emissions (reporting boundary),7840,8671.6,ESG-KPI-001,Climate,kt CO2e,Lower,11200,2019,2030,75.2,On track,GHG Protocol / ISSB S2,Enterprise,LTM 2025-09 to 2026-08,emissions.csv
+Methane emissions,17.3,38.1,ESG-KPI-002,Climate,kt CH4,Lower,69.2,2019,2030,59.9,On track,OGMP 2.0 / Canada Methane Regs,Enterprise,LTM 2025-09 to 2026-08,emissions.csv
+Upstream GHG intensity,45,58.4,ESG-KPI-003,Climate,kg CO2e/boe,Lower,62,2019,2030,21.2,Off track,ISSB S2,Upstream,LTM 2025-09 to 2026-08,emissions.csv
+Upstream methane intensity,0.3,0.535,ESG-KPI-004,Climate,kg CH4/boe,Lower,1.1,2019,2030,70.6,On track,OGMP 2.0,Upstream,LTM 2025-09 to 2026-08,emissions.csv
+Refining GHG intensity,240,250.7,ESG-KPI-005,Climate,kg CO2e/m3 crude,Lower,275,2019,2030,69.4,On track,ISSB S2,Refining,LTM 2025-09 to 2026-08,emissions.csv
+Freshwater withdrawn (reporting boundary),12.22,13.97,ESG-KPI-006,Water,million m3,Lower,17.46,2019,2030,66.6,On track,GRI 303,Enterprise,LTM 2025-09 to 2026-08,water_consumption.csv
+Upstream freshwater intensity,0.007,0.0082,ESG-KPI-007,Water,m3/boe,Lower,0.0115,2019,2030,73.3,On track,GRI 303,Upstream,LTM 2025-09 to 2026-08,water_consumption.csv
+Refining freshwater intensity,0.6,0.723,ESG-KPI-008,Water,m3/m3 crude,Lower,0.85,2019,2030,50.8,At risk,GRI 303,Refining,LTM 2025-09 to 2026-08,water_consumption.csv
+Water recycle rate (enterprise),80,64.8,ESG-KPI-009,Water,%,Higher,60,2019,2030,24.0,At risk,GRI 303,Enterprise,LTM 2025-09 to 2026-08,water_consumption.csv
+Prairie Refinery GHG intensity,222.8,262.1,ESG-KPI-010,Climate,kg CO2e/m3 crude,Lower,293.5,2019,2030,44.4,At risk,ISSB S2,R100,LTM 2025-09 to 2026-08,emissions.csv
+Prairie Refinery methane emissions,278,464,ESG-KPI-011,Climate,t CH4,Lower,603,2019,2030,42.8,At risk,OGMP 2.0,R100,LTM 2025-09 to 2026-08,emissions.csv
+Prairie Refinery freshwater intensity,0.433,0.542,ESG-KPI-012,Water,m3/m3 crude,Lower,0.65,2019,2030,49.8,At risk,GRI 303,R100,LTM 2025-09 to 2026-08,water_consumption.csv
+Lakehead Refinery GHG intensity,221.1,260.2,ESG-KPI-013,Climate,kg CO2e/m3 crude,Lower,291.4,2019,2030,44.4,At risk,ISSB S2,R200,LTM 2025-09 to 2026-08,emissions.csv
+Lakehead Refinery methane emissions,164,273,ESG-KPI-014,Climate,t CH4,Lower,354,2019,2030,42.6,At risk,OGMP 2.0,R200,LTM 2025-09 to 2026-08,emissions.csv
+Lakehead Refinery freshwater intensity,0.631,0.789,ESG-KPI-015,Water,m3/m3 crude,Lower,0.947,2019,2030,50.0,At risk,GRI 303,R200,LTM 2025-09 to 2026-08,water_consumption.csv
+Saint-Laurent Refinery GHG intensity,196.9,231.6,ESG-KPI-016,Climate,kg CO2e/m3 crude,Lower,259.4,2019,2030,44.5,At risk,ISSB S2,R300,LTM 2025-09 to 2026-08,emissions.csv
+Saint-Laurent Refinery methane emissions,271,452,ESG-KPI-017,Climate,t CH4,Lower,587,2019,2030,42.7,At risk,OGMP 2.0,R300,LTM 2025-09 to 2026-08,emissions.csv
+Saint-Laurent Refinery freshwater intensity,0.703,0.879,ESG-KPI-018,Water,m3/m3 crude,Lower,1.055,2019,2030,50.0,At risk,GRI 303,R300,LTM 2025-09 to 2026-08,water_consumption.csv
+Gas Plant GHG intensity,45.9,57.4,ESG-KPI-019,Climate,kg CO2e/boe,Lower,66,2019,2030,42.8,At risk,ISSB S2,Gas Plant,LTM 2025-09 to 2026-08,emissions.csv
+Gas Plant methane intensity,0.227,0.504,ESG-KPI-020,Climate,kg CH4/boe,Lower,0.756,2019,2030,47.6,At risk,OGMP 2.0,Gas Plant,LTM 2025-09 to 2026-08,emissions.csv
+Gas Plant freshwater intensity,0.0016,0.0021,ESG-KPI-021,Water,m3/boe,Lower,0.0025,2019,2030,44.4,At risk,GRI 303,Gas Plant,LTM 2025-09 to 2026-08,water_consumption.csv
+Oil Battery GHG intensity,38.2,47.7,ESG-KPI-022,Climate,kg CO2e/boe,Lower,54.9,2019,2030,43.1,At risk,ISSB S2,Oil Battery,LTM 2025-09 to 2026-08,emissions.csv
+Oil Battery methane intensity,0.346,0.769,ESG-KPI-023,Climate,kg CH4/boe,Lower,1.153,2019,2030,47.6,At risk,OGMP 2.0,Oil Battery,LTM 2025-09 to 2026-08,emissions.csv
+Oil Battery freshwater intensity,0.0026,0.0035,ESG-KPI-024,Water,m3/boe,Lower,0.0041,2019,2030,40.0,At risk,GRI 303,Oil Battery,LTM 2025-09 to 2026-08,water_consumption.csv
+SAGD CPF GHG intensity,63.4,79.3,ESG-KPI-025,Climate,kg CO2e/boe,Lower,91.2,2019,2030,42.8,At risk,ISSB S2,SAGD CPF,LTM 2025-09 to 2026-08,emissions.csv
+SAGD CPF methane intensity,0.076,0.169,ESG-KPI-026,Climate,kg CH4/boe,Lower,0.254,2019,2030,47.8,At risk,OGMP 2.0,SAGD CPF,LTM 2025-09 to 2026-08,emissions.csv
+SAGD CPF freshwater intensity,0.021,0.0279,ESG-KPI-027,Water,m3/boe,Lower,0.0335,2019,2030,44.8,At risk,GRI 303,SAGD CPF,LTM 2025-09 to 2026-08,water_consumption.csv
+Upstream methane intensity - AB,0.244,0.543,ESG-KPI-028,Climate,kg CH4/boe,Lower,0.761,2019,2030,42.2,At risk,OGMP 2.0 / provincial regs,AB,LTM 2025-09 to 2026-08,emissions.csv
+Upstream GHG intensity - AB,48.2,60.2,ESG-KPI-029,Climate,kg CO2e/boe,Lower,67.5,2019,2030,37.8,At risk,ISSB S2,AB,LTM 2025-09 to 2026-08,emissions.csv
+Upstream methane intensity - BC,0.184,0.41,ESG-KPI-030,Climate,kg CH4/boe,Lower,0.573,2019,2030,41.9,At risk,OGMP 2.0 / provincial regs,BC,LTM 2025-09 to 2026-08,emissions.csv
+Upstream GHG intensity - BC,42,52.6,ESG-KPI-031,Climate,kg CO2e/boe,Lower,58.9,2019,2030,37.3,At risk,ISSB S2,BC,LTM 2025-09 to 2026-08,emissions.csv
+Upstream methane intensity - SK,0.314,0.699,ESG-KPI-032,Climate,kg CH4/boe,Lower,0.978,2019,2030,42.0,At risk,OGMP 2.0 / provincial regs,SK,LTM 2025-09 to 2026-08,emissions.csv
+Upstream GHG intensity - SK,37.1,46.4,ESG-KPI-033,Climate,kg CO2e/boe,Lower,52,2019,2030,37.6,At risk,ISSB S2,SK,LTM 2025-09 to 2026-08,emissions.csv
+Scope 2 GHG emissions (location-based),520,705,ESG-KPI-034,Climate,kt CO2e,Lower,940,2019,2030,56.0,On track,GHG Protocol,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Scope 3 GHG emissions - use of sold products,52,57.8,ESG-KPI-035,Climate,Mt CO2e,Lower,62,2019,2035,42.0,On track,GHG Protocol / ISSB S2,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Routine flaring volume,160,262,ESG-KPI-036,Climate,million m3,Lower,410,2019,2030,59.2,On track,World Bank ZRF / AER Directive 060,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Venting reduction vs 2012 baseline,75,58,ESG-KPI-037,Climate,%,Higher,0,2012,2030,77.3,On track,AER Directive 060,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Energy intensity - refining,2.25,2.36,ESG-KPI-038,Climate,GJ/m3 crude,Lower,2.62,2019,2030,70.3,On track,ISO 50001,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Renewable electricity share,40,23,ESG-KPI-039,Climate,%,Higher,8,2019,2030,46.9,At risk,ISSB S2,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Low-carbon capital as share of capex,15,8.5,ESG-KPI-040,Climate,%,Higher,2,2019,2030,50.0,At risk,ISSB S2 / TCFD,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+CO2 captured and stored (CCUS),3,0.9,ESG-KPI-041,Climate,Mt CO2/yr,Higher,0,2019,2030,30.0,At risk,ISSB S2,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Hydrogen production capacity,150,38,ESG-KPI-042,Climate,kt/yr,Higher,0,2019,2030,25.3,At risk,ISSB S2,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Renewable diesel and biofuel blending volume,600,245,ESG-KPI-043,Climate,ML/yr,Higher,0,2019,2030,40.8,At risk,Clean Fuel Regulations,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Sustainable aviation fuel supply,100,12,ESG-KPI-044,Climate,ML/yr,Higher,0,2019,2030,12.0,Off track,ICAO CORSIA,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+EV fast chargers installed,1200,410,ESG-KPI-045,Climate,count,Higher,0,2019,2030,34.2,At risk,Internal strategy,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Carbon credits retired vs compliance obligation,60,78,ESG-KPI-046,Climate,%,Lower,100,2019,2030,55.0,On track,Alberta TIER / Federal CFR,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Internal carbon price applied in investment decisions,170,130,ESG-KPI-047,Climate,CAD/t,Higher,50,2019,2030,66.7,On track,TCFD,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Total recordable injury frequency (TRIF),0.45,0.52,ESG-KPI-048,Safety,per 200k hrs,Lower,0.78,2019,2028,78.8,On track,OSHA / API RP 754,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Lost-time injury frequency,0.1,0.13,ESG-KPI-049,Safety,per 200k hrs,Lower,0.21,2019,2028,72.7,On track,OSHA,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Contractor TRIF,0.6,0.71,ESG-KPI-050,Safety,per 200k hrs,Lower,1.05,2019,2028,75.6,On track,OSHA,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Process safety events - Tier 1,8,11,ESG-KPI-051,Safety,count,Lower,22,2019,2028,78.6,On track,API RP 754,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Process safety events - Tier 2,30,38,ESG-KPI-052,Safety,count,Lower,61,2019,2028,74.2,On track,API RP 754,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Fatalities (employees and contractors),0,0,ESG-KPI-053,Safety,count,Lower,1,2019,2028,100.0,Achieved,OSHA,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Loss of primary containment incidents,35,46,ESG-KPI-054,Safety,count,Lower,74,2019,2028,71.8,On track,API RP 754,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Safety critical equipment tests on schedule,99,97.2,ESG-KPI-055,Safety,%,Higher,91,2019,2028,77.5,On track,ISO 55001,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Emergency response drills completed vs plan,100,96,ESG-KPI-056,Safety,%,Higher,88,2019,2028,66.7,On track,CSA Z731,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Safety action item closure within due date,95,87,ESG-KPI-057,Safety,%,Higher,74,2019,2028,61.9,At risk,Internal,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Disturbed land reclaimed,900,640,ESG-KPI-058,Environment,hectares/yr,Higher,380,2019,2030,50.0,At risk,AER Directive 067,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Reportable hydrocarbon spills,25,34,ESG-KPI-059,Environment,count,Lower,58,2019,2028,72.7,On track,AER Directive 019,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Volume of liquid spills to environment,200,310,ESG-KPI-060,Environment,m3,Lower,640,2019,2028,75.0,On track,AER Directive 019,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Waste diverted from landfill,70,56,ESG-KPI-061,Environment,%,Higher,41,2019,2030,51.7,On track,GRI 306,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Sulphur recovery efficiency,99.2,98.8,ESG-KPI-062,Environment,%,Higher,98.1,2019,2030,63.6,On track,AER Directive 060,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+SO2 emissions,30,37,ESG-KPI-063,Environment,kt,Lower,48,2019,2030,61.1,On track,NPRI,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+NOx emissions,25,29,ESG-KPI-064,Environment,kt,Lower,36,2019,2030,63.6,On track,NPRI,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+VOC emissions,14,17,ESG-KPI-065,Environment,kt,Lower,22,2019,2030,62.5,On track,NPRI,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Wildlife and biodiversity offset programs funded,20,13,ESG-KPI-066,Environment,CAD million,Higher,4,2019,2030,56.2,On track,GRI 304,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Women in workforce,30,25.4,ESG-KPI-067,Social,%,Higher,21,2019,2030,48.9,At risk,GRI 405,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Women in leadership roles,35,29.1,ESG-KPI-068,Social,%,Higher,24,2019,2030,46.4,At risk,GRI 405,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Indigenous employment,8,5.9,ESG-KPI-069,Social,%,Higher,4.2,2019,2030,44.7,At risk,GRI 411,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Indigenous procurement spend,400,262,ESG-KPI-070,Social,CAD million,Higher,120,2019,2030,50.7,At risk,GRI 204,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Community investment,60,44,ESG-KPI-071,Social,CAD million,Higher,30,2019,2030,46.7,At risk,GRI 413,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Employee engagement score,82,78,ESG-KPI-072,Social,index,Higher,71,2019,2028,63.6,At risk,Internal survey,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Training hours per employee,40,33,ESG-KPI-073,Social,hours,Higher,24,2019,2028,56.2,At risk,GRI 404,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Voluntary employee turnover,6,7.4,ESG-KPI-074,Social,%,Lower,9.5,2019,2028,60.0,At risk,GRI 401,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Gender pay equity ratio,1,0.96,ESG-KPI-075,Social,ratio,Higher,0.91,2019,2030,55.6,On track,GRI 405,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Local hire share at remote sites,55,47,ESG-KPI-076,Social,%,Higher,38,2019,2030,52.9,On track,Internal,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Independent directors on board,85,82,ESG-KPI-077,Governance,%,Higher,75,2019,2028,70.0,On track,CSA NP 58-101,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Women on board,40,36,ESG-KPI-078,Governance,%,Higher,30,2019,2028,60.0,At risk,CSA NP 58-101,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Code of Conduct training completion,100,99,ESG-KPI-079,Governance,%,Higher,94,2019,2028,83.3,On track,Internal,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Whistleblower cases closed within 60 days,95,86,ESG-KPI-080,Governance,%,Higher,71,2019,2028,62.5,At risk,Internal,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Cybersecurity awareness training completion,100,97,ESG-KPI-081,Governance,%,Higher,90,2019,2028,70.0,On track,NIST CSF,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Executive pay linked to ESG metrics,25,20,ESG-KPI-082,Governance,%,Higher,10,2019,2028,66.7,On track,TCFD,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Tier 1 suppliers assessed for ESG risk,90,62,ESG-KPI-083,Supply Chain,%,Higher,20,2019,2030,60.0,On track,GRI 308,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Suppliers with human rights due diligence,80,48,ESG-KPI-084,Supply Chain,%,Higher,15,2019,2030,50.8,At risk,Fighting Against Forced Labour Act,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Supplier code of conduct acknowledgement,100,91,ESG-KPI-085,Supply Chain,%,Higher,60,2019,2028,77.5,On track,Internal,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Low-carbon procurement spend,500,245,ESG-KPI-086,Supply Chain,CAD million,Higher,80,2019,2030,39.3,At risk,Internal,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Freight emissions per tonne-km (logistics),55,63,ESG-KPI-087,Supply Chain,g CO2e/t-km,Lower,72,2019,2030,52.9,On track,GLEC Framework,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Product spills in transit (logistics),4,7,ESG-KPI-088,Supply Chain,count,Lower,12,2019,2028,62.5,At risk,TDG Regulations,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Pipeline integrity digs completed vs plan,100,96,ESG-KPI-089,Safety,%,Higher,85,2019,2028,73.3,On track,CSA Z662,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Overdue inspections on pressure equipment,0,18,ESG-KPI-090,Safety,count,Lower,140,2019,2028,87.1,On track,API 510 / 570 / 653,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Plant reliability - unplanned downtime,3.5,4.4,ESG-KPI-091,Climate,%,Lower,6.2,2019,2028,66.7,On track,ISO 55001,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Digital methane detection coverage of facilities,100,72,ESG-KPI-092,Climate,%,Higher,10,2019,2028,68.9,On track,OGMP 2.0,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+LDAR survey frequency compliance,100,97,ESG-KPI-093,Climate,%,Higher,90,2019,2028,70.0,On track,Canada Methane Regs,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Produced water reuse rate (non-SAGD),60,41,ESG-KPI-094,Water,%,Higher,25,2019,2030,45.7,At risk,AER Directive 081,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Facilities with water risk assessment completed,100,82,ESG-KPI-095,Water,%,Higher,30,2019,2028,74.3,On track,CDP Water,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Energy management certified sites,20,11,ESG-KPI-096,Climate,count,Higher,2,2019,2030,50.0,At risk,ISO 50001,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Employee volunteer hours,40000,31000,ESG-KPI-097,Social,hours,Higher,18000,2019,2030,59.1,On track,Internal,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Apprenticeship and trades positions,300,205,ESG-KPI-098,Social,count,Higher,120,2019,2030,47.2,At risk,Internal,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Near-miss reporting rate,6,4.9,ESG-KPI-099,Safety,per 200k hrs,Higher,3.1,2019,2028,62.1,At risk,Internal,Enterprise,LTM 2025-09 to 2026-08,Synthetic
+Supply chain disruptions due to ESG events,3,5,ESG-KPI-100,Supply Chain,count,Lower,9,2019,2028,66.7,On track,Internal,Enterprise,LTM 2025-09 to 2026-08,Synthetic

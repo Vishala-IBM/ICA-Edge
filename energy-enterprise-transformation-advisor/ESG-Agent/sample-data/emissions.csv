@@ -1,0 +1,501 @@
+Facility,CO2,Methane,Period,Facility_Name,Facility_Type,Province,Activity_Volume,Activity_Unit,CO2e_Total,GHG_Intensity_kgCO2e_per_unit,Primary_Methane_Source
+R100,172086.7,41.65,2025-01,Prairie Refinery,Refinery,AB,641020,m3 crude,173252.9,270.28,Fugitive
+R200,113094.7,27.32,2025-01,Lakehead Refinery,Refinery,ON,410180,m3 crude,113859.7,277.58,Flaring
+R300,132900.1,43.14,2025-01,Saint-Laurent Refinery,Refinery,QC,581480,m3 crude,134108.0,230.63,Flaring
+FAC-01,11644.6,164.5,2025-01,Montney-Dawson Gas Plant,Gas Plant,BC,249160,boe,16250.6,65.22,Venting
+FAC-02,25605.3,249.75,2025-01,Montney-Dawson Gas Plant,Gas Plant,BC,603867,boe,32598.3,53.98,Fugitive
+FAC-03,27431.7,342.64,2025-01,Montney-Kakwa Gas Plant,Gas Plant,AB,564765,boe,37025.6,65.56,Venting
+FAC-04,25100.8,391.54,2025-01,Montney-Kakwa Gas Plant,Gas Plant,AB,542998,boe,36063.9,66.42,Fugitive
+FAC-05,11515.5,117.86,2025-01,Deep Basin-Edson Gas Plant,Gas Plant,AB,268205,boe,14815.6,55.24,Venting
+FAC-06,14111.4,188.79,2025-01,Deep Basin-Edson Gas Plant,Gas Plant,AB,273391,boe,19397.5,70.95,Fugitive
+FAC-07,14010.7,352.81,2025-01,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,428890,boe,23889.4,55.7,Venting
+FAC-08,28559.1,1026.44,2025-01,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1125217,boe,57299.4,50.92,Combustion slip
+FAC-09,1860.1,60.27,2025-01,Cardium-Pembina Oil Battery,Oil Battery,AB,60627,boe,3547.7,58.52,Combustion slip
+FAC-10,7413.0,289.91,2025-01,Cardium-Pembina Oil Battery,Oil Battery,AB,246743,boe,15530.5,62.94,Fugitive
+FAC-11,2490.4,65.79,2025-01,Swan Hills Oil Battery,Oil Battery,AB,93654,boe,4332.5,46.26,Flaring
+FAC-13,3715.6,118.91,2025-01,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,112585,boe,7045.1,62.58,Fugitive
+FAC-14,20014.8,48.99,2025-01,Cold Lake SAGD CPF,SAGD CPF,AB,302123,boe,21386.5,70.79,Combustion slip
+FAC-15,13966.6,58.9,2025-01,Cold Lake SAGD CPF,SAGD CPF,AB,200844,boe,15615.8,77.75,Fugitive
+FAC-16,28055.0,56.79,2025-01,Athabasca SAGD CPF,SAGD CPF,AB,319438,boe,29645.1,92.8,Flaring
+FAC-17,12698.6,33.34,2025-01,Athabasca SAGD CPF,SAGD CPF,AB,167962,boe,13632.1,81.16,Fugitive
+FAC-18,16275.3,31.96,2025-01,Athabasca SAGD CPF,SAGD CPF,AB,203235,boe,17170.2,84.48,Flaring
+FAC-19,13156.2,34.81,2025-01,Peace River SAGD CPF,SAGD CPF,AB,159820,boe,14130.9,88.42,Fugitive
+FAC-21,2884.9,113.01,2025-01,Viking-Kerrobert Oil Battery,Oil Battery,SK,117583,boe,6049.2,51.45,Venting
+FAC-22,1747.9,32.33,2025-01,Bakken-Estevan Oil Battery,Oil Battery,SK,63812,boe,2653.1,41.58,Venting
+FAC-23,5209.8,109.08,2025-01,Bakken-Estevan Oil Battery,Oil Battery,SK,149213,boe,8264.0,55.38,Flaring
+FAC-25,1604.1,92.1,2025-01,Lloydminster Heavy Oil Battery,Oil Battery,SK,67844,boe,4182.9,61.65,Fugitive
+R100,158680.1,38.84,2025-02,Prairie Refinery,Refinery,AB,581474,m3 crude,159767.6,274.76,Flaring
+R200,95917.0,25.15,2025-02,Lakehead Refinery,Refinery,ON,354555,m3 crude,96621.2,272.51,Fugitive
+R300,119802.4,36.99,2025-02,Saint-Laurent Refinery,Refinery,QC,511333,m3 crude,120838.1,236.32,Flaring
+FAC-01,10052.2,97.46,2025-02,Montney-Dawson Gas Plant,Gas Plant,BC,229649,boe,12781.1,55.65,Flaring
+FAC-02,23393.1,279.09,2025-02,Montney-Dawson Gas Plant,Gas Plant,BC,566237,boe,31207.6,55.11,Venting
+FAC-03,24416.3,357.77,2025-02,Montney-Kakwa Gas Plant,Gas Plant,AB,505149,boe,34433.9,68.17,Fugitive
+FAC-04,22666.7,391.2,2025-02,Montney-Kakwa Gas Plant,Gas Plant,AB,485558,boe,33620.3,69.24,Fugitive
+FAC-05,10179.9,102.7,2025-02,Deep Basin-Edson Gas Plant,Gas Plant,AB,244621,boe,13055.5,53.37,Venting
+FAC-06,12323.8,142.14,2025-02,Deep Basin-Edson Gas Plant,Gas Plant,AB,249009,boe,16303.7,65.47,Venting
+FAC-07,10413.9,304.99,2025-02,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,296011,boe,18953.6,64.03,Venting
+FAC-08,26166.3,978.16,2025-02,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1098366,boe,53554.8,48.76,Combustion slip
+FAC-09,1623.7,48.41,2025-02,Cardium-Pembina Oil Battery,Oil Battery,AB,53766,boe,2979.2,55.41,Venting
+FAC-10,6390.4,246.41,2025-02,Cardium-Pembina Oil Battery,Oil Battery,AB,222858,boe,13289.9,59.63,Fugitive
+FAC-11,2174.1,45.1,2025-02,Swan Hills Oil Battery,Oil Battery,AB,79188,boe,3436.9,43.4,Fugitive
+FAC-13,3703.0,114.34,2025-02,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,111810,boe,6904.5,61.75,Venting
+FAC-14,17533.6,46.54,2025-02,Cold Lake SAGD CPF,SAGD CPF,AB,242367,boe,18836.7,77.72,Venting
+FAC-15,12116.6,43.67,2025-02,Cold Lake SAGD CPF,SAGD CPF,AB,180283,boe,13339.4,73.99,Combustion slip
+FAC-16,25026.7,48.36,2025-02,Athabasca SAGD CPF,SAGD CPF,AB,273631,boe,26380.8,96.41,Combustion slip
+FAC-17,11173.8,38.54,2025-02,Athabasca SAGD CPF,SAGD CPF,AB,152463,boe,12252.9,80.37,Fugitive
+FAC-18,15301.3,25.07,2025-02,Athabasca SAGD CPF,SAGD CPF,AB,181387,boe,16003.3,88.23,Fugitive
+FAC-19,12014.0,28.71,2025-02,Peace River SAGD CPF,SAGD CPF,AB,143597,boe,12817.9,89.26,Fugitive
+FAC-21,1936.7,85.7,2025-02,Viking-Kerrobert Oil Battery,Oil Battery,SK,76303,boe,4336.3,56.83,Venting
+FAC-22,1561.7,28.53,2025-02,Bakken-Estevan Oil Battery,Oil Battery,SK,57158,boe,2360.5,41.3,Fugitive
+FAC-23,4601.1,100.95,2025-02,Bakken-Estevan Oil Battery,Oil Battery,SK,134980,boe,7427.7,55.03,Venting
+FAC-25,1485.1,68.17,2025-02,Lloydminster Heavy Oil Battery,Oil Battery,SK,61490,boe,3393.9,55.19,Venting
+R100,169939.9,35.35,2025-03,Prairie Refinery,Refinery,AB,610939,m3 crude,170929.7,279.78,Fugitive
+R200,98055.6,22.11,2025-03,Lakehead Refinery,Refinery,ON,377225,m3 crude,98674.7,261.58,Fugitive
+R300,126487.6,34.3,2025-03,Saint-Laurent Refinery,Refinery,QC,534858,m3 crude,127448.0,238.28,Combustion slip
+FAC-01,7653.4,139.85,2025-03,Montney-Dawson Gas Plant,Gas Plant,BC,169200,boe,11569.2,68.38,Fugitive
+FAC-02,26649.9,225.73,2025-03,Montney-Dawson Gas Plant,Gas Plant,BC,633573,boe,32970.3,52.04,Venting
+FAC-03,26752.3,351.2,2025-03,Montney-Kakwa Gas Plant,Gas Plant,AB,559971,boe,36585.9,65.34,Fugitive
+FAC-04,23752.9,449.34,2025-03,Montney-Kakwa Gas Plant,Gas Plant,AB,542505,boe,36334.4,66.98,Venting
+FAC-05,11538.0,128.64,2025-03,Deep Basin-Edson Gas Plant,Gas Plant,AB,279104,boe,15139.9,54.24,Venting
+FAC-06,12903.7,178.46,2025-03,Deep Basin-Edson Gas Plant,Gas Plant,AB,256857,boe,17900.6,69.69,Fugitive
+FAC-07,13710.7,384.9,2025-03,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,429078,boe,24487.9,57.07,Venting
+FAC-08,26696.7,981.15,2025-03,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1143612,boe,54168.9,47.37,Venting
+FAC-09,1598.3,48.91,2025-03,Cardium-Pembina Oil Battery,Oil Battery,AB,55210,boe,2967.8,53.75,Venting
+FAC-10,6539.3,223.99,2025-03,Cardium-Pembina Oil Battery,Oil Battery,AB,232718,boe,12811.0,55.05,Flaring
+FAC-11,2355.6,58.19,2025-03,Swan Hills Oil Battery,Oil Battery,AB,92772,boe,3984.9,42.95,Fugitive
+FAC-13,2770.0,112.83,2025-03,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,80883,boe,5929.2,73.31,Flaring
+FAC-14,20667.0,50.1,2025-03,Cold Lake SAGD CPF,SAGD CPF,AB,294176,boe,22069.8,75.02,Flaring
+FAC-15,12506.5,54.36,2025-03,Cold Lake SAGD CPF,SAGD CPF,AB,191229,boe,14028.6,73.36,Fugitive
+FAC-16,27651.0,61.57,2025-03,Athabasca SAGD CPF,SAGD CPF,AB,339743,boe,29375.0,86.46,Fugitive
+FAC-17,12758.7,42.87,2025-03,Athabasca SAGD CPF,SAGD CPF,AB,173918,boe,13959.1,80.26,Combustion slip
+FAC-18,16144.4,36.02,2025-03,Athabasca SAGD CPF,SAGD CPF,AB,205241,boe,17153.0,83.57,Flaring
+FAC-19,14534.5,36.28,2025-03,Peace River SAGD CPF,SAGD CPF,AB,170464,boe,15550.3,91.22,Fugitive
+FAC-21,2669.7,99.51,2025-03,Viking-Kerrobert Oil Battery,Oil Battery,SK,116496,boe,5456.0,46.83,Fugitive
+FAC-22,1486.8,28.22,2025-03,Bakken-Estevan Oil Battery,Oil Battery,SK,62823,boe,2277.0,36.24,Venting
+FAC-23,4665.1,106.48,2025-03,Bakken-Estevan Oil Battery,Oil Battery,SK,149119,boe,7646.5,51.28,Combustion slip
+FAC-25,1649.8,87.75,2025-03,Lloydminster Heavy Oil Battery,Oil Battery,SK,69449,boe,4106.8,59.13,Venting
+R100,149138.3,37.6,2025-04,Prairie Refinery,Refinery,AB,569288,m3 crude,150191.1,263.82,Fugitive
+R200,93766.5,24.87,2025-04,Lakehead Refinery,Refinery,ON,336276,m3 crude,94462.9,280.91,Fugitive
+R300,125359.0,37.7,2025-04,Saint-Laurent Refinery,Refinery,QC,568693,m3 crude,126414.6,222.29,Fugitive
+FAC-01,9375.5,155.32,2025-04,Montney-Dawson Gas Plant,Gas Plant,BC,238783,boe,13724.5,57.48,Fugitive
+FAC-02,24685.5,224.64,2025-04,Montney-Dawson Gas Plant,Gas Plant,BC,601459,boe,30975.4,51.5,Venting
+FAC-03,23963.8,336.2,2025-04,Montney-Kakwa Gas Plant,Gas Plant,AB,537121,boe,33377.4,62.14,Venting
+FAC-04,21419.9,348.31,2025-04,Montney-Kakwa Gas Plant,Gas Plant,AB,511536,boe,31172.6,60.94,Fugitive
+FAC-05,9959.7,119.42,2025-04,Deep Basin-Edson Gas Plant,Gas Plant,AB,253147,boe,13303.5,52.55,Fugitive
+FAC-06,12718.6,186.53,2025-04,Deep Basin-Edson Gas Plant,Gas Plant,AB,259559,boe,17941.4,69.12,Fugitive
+FAC-07,12056.3,369.61,2025-04,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,398716,boe,22405.4,56.19,Fugitive
+FAC-08,26215.2,862.9,2025-04,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1087035,boe,50376.4,46.34,Venting
+FAC-09,1620.1,56.68,2025-04,Cardium-Pembina Oil Battery,Oil Battery,AB,54076,boe,3207.1,59.31,Fugitive
+FAC-10,6002.8,220.52,2025-04,Cardium-Pembina Oil Battery,Oil Battery,AB,220566,boe,12177.4,55.21,Fugitive
+FAC-11,2309.9,54.06,2025-04,Swan Hills Oil Battery,Oil Battery,AB,87120,boe,3823.6,43.89,Fugitive
+FAC-13,3554.4,131.78,2025-04,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,113164,boe,7244.2,64.02,Venting
+FAC-14,21225.2,52.05,2025-04,Cold Lake SAGD CPF,SAGD CPF,AB,298210,boe,22682.6,76.06,Combustion slip
+FAC-15,12511.0,52.96,2025-04,Cold Lake SAGD CPF,SAGD CPF,AB,191550,boe,13993.9,73.06,Combustion slip
+FAC-16,27342.6,56.73,2025-04,Athabasca SAGD CPF,SAGD CPF,AB,326655,boe,28931.0,88.57,Combustion slip
+FAC-17,12211.2,41.25,2025-04,Athabasca SAGD CPF,SAGD CPF,AB,170520,boe,13366.2,78.38,Combustion slip
+FAC-18,15131.1,36.66,2025-04,Athabasca SAGD CPF,SAGD CPF,AB,205877,boe,16157.6,78.48,Combustion slip
+FAC-19,11493.2,29.75,2025-04,Peace River SAGD CPF,SAGD CPF,AB,152363,boe,12326.2,80.9,Combustion slip
+FAC-21,2528.8,86.01,2025-04,Viking-Kerrobert Oil Battery,Oil Battery,SK,107337,boe,4937.1,46.0,Venting
+FAC-22,1487.3,27.19,2025-04,Bakken-Estevan Oil Battery,Oil Battery,SK,60393,boe,2248.6,37.23,Fugitive
+FAC-23,4565.8,93.96,2025-04,Bakken-Estevan Oil Battery,Oil Battery,SK,145497,boe,7196.7,49.46,Fugitive
+FAC-25,1557.9,76.6,2025-04,Lloydminster Heavy Oil Battery,Oil Battery,SK,63943,boe,3702.7,57.91,Venting
+R100,154646.6,41.22,2025-05,Prairie Refinery,Refinery,AB,599750,m3 crude,155800.8,259.78,Fugitive
+R200,112302.7,23.25,2025-05,Lakehead Refinery,Refinery,ON,416631,m3 crude,112953.7,271.11,Fugitive
+R300,119328.5,32.56,2025-05,Saint-Laurent Refinery,Refinery,QC,538692,m3 crude,120240.2,223.21,Fugitive
+FAC-01,9393.3,151.86,2025-05,Montney-Dawson Gas Plant,Gas Plant,BC,239499,boe,13645.4,56.97,Venting
+FAC-02,24323.3,282.9,2025-05,Montney-Dawson Gas Plant,Gas Plant,BC,632244,boe,32244.5,51.0,Fugitive
+FAC-03,21867.4,324.13,2025-05,Montney-Kakwa Gas Plant,Gas Plant,AB,469963,boe,30943.0,65.84,Flaring
+FAC-04,16606.6,275.42,2025-05,Montney-Kakwa Gas Plant,Gas Plant,AB,361501,boe,24318.4,67.27,Fugitive
+FAC-05,10709.9,119.45,2025-05,Deep Basin-Edson Gas Plant,Gas Plant,AB,277207,boe,14054.5,50.7,Flaring
+FAC-06,13328.4,175.99,2025-05,Deep Basin-Edson Gas Plant,Gas Plant,AB,271762,boe,18256.1,67.18,Venting
+FAC-07,11387.0,361.52,2025-05,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,398746,boe,21509.6,53.94,Fugitive
+FAC-08,26445.2,995.91,2025-05,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1139117,boe,54330.7,47.7,Fugitive
+FAC-09,1653.7,49.93,2025-05,Cardium-Pembina Oil Battery,Oil Battery,AB,56812,boe,3051.7,53.72,Fugitive
+FAC-10,6053.0,268.25,2025-05,Cardium-Pembina Oil Battery,Oil Battery,AB,229488,boe,13564.0,59.11,Fugitive
+FAC-11,1927.4,41.42,2025-05,Swan Hills Oil Battery,Oil Battery,AB,73859,boe,3087.2,41.8,Fugitive
+FAC-13,3724.8,121.85,2025-05,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,123157,boe,7136.6,57.95,Venting
+FAC-14,18805.1,48.06,2025-05,Cold Lake SAGD CPF,SAGD CPF,AB,293648,boe,20150.8,68.62,Fugitive
+FAC-15,13696.0,52.05,2025-05,Cold Lake SAGD CPF,SAGD CPF,AB,204019,boe,15153.4,74.27,Fugitive
+FAC-16,27209.9,64.55,2025-05,Athabasca SAGD CPF,SAGD CPF,AB,337370,boe,29017.3,86.01,Fugitive
+FAC-17,11522.1,33.56,2025-05,Athabasca SAGD CPF,SAGD CPF,AB,162722,boe,12461.8,76.58,Venting
+FAC-18,16198.0,28.9,2025-05,Athabasca SAGD CPF,SAGD CPF,AB,209054,boe,17007.2,81.35,Flaring
+FAC-19,12254.4,31.46,2025-05,Peace River SAGD CPF,SAGD CPF,AB,162833,boe,13135.3,80.67,Combustion slip
+FAC-21,2764.7,103.38,2025-05,Viking-Kerrobert Oil Battery,Oil Battery,SK,112992,boe,5659.3,50.09,Venting
+FAC-22,1480.2,26.13,2025-05,Bakken-Estevan Oil Battery,Oil Battery,SK,61555,boe,2211.8,35.93,Venting
+FAC-23,4398.3,91.75,2025-05,Bakken-Estevan Oil Battery,Oil Battery,SK,144574,boe,6967.3,48.19,Venting
+FAC-25,1622.7,76.4,2025-05,Lloydminster Heavy Oil Battery,Oil Battery,SK,67251,boe,3761.9,55.94,Venting
+R100,145736.6,38.14,2025-06,Prairie Refinery,Refinery,AB,571358,m3 crude,146804.5,256.94,Fugitive
+R200,100444.6,19.96,2025-06,Lakehead Refinery,Refinery,ON,387406,m3 crude,101003.5,260.72,Fugitive
+R300,111558.0,37.48,2025-06,Saint-Laurent Refinery,Refinery,QC,524929,m3 crude,112607.4,214.52,Combustion slip
+FAC-01,9504.0,118.91,2025-06,Montney-Dawson Gas Plant,Gas Plant,BC,239249,boe,12833.5,53.64,Fugitive
+FAC-02,22496.9,261.84,2025-06,Montney-Dawson Gas Plant,Gas Plant,BC,591294,boe,29828.4,50.45,Combustion slip
+FAC-03,23849.9,332.28,2025-06,Montney-Kakwa Gas Plant,Gas Plant,AB,548373,boe,33153.7,60.46,Fugitive
+FAC-04,21393.9,347.35,2025-06,Montney-Kakwa Gas Plant,Gas Plant,AB,521663,boe,31119.7,59.65,Venting
+FAC-05,9965.3,117.36,2025-06,Deep Basin-Edson Gas Plant,Gas Plant,AB,266067,boe,13251.4,49.8,Fugitive
+FAC-06,12077.9,192.9,2025-06,Deep Basin-Edson Gas Plant,Gas Plant,AB,263924,boe,17479.1,66.23,Fugitive
+FAC-07,11161.9,357.59,2025-06,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,388572,boe,21174.4,54.49,Venting
+FAC-08,24046.2,903.54,2025-06,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1082462,boe,49345.3,45.59,Fugitive
+FAC-09,1564.2,51.41,2025-06,Cardium-Pembina Oil Battery,Oil Battery,AB,54501,boe,3003.7,55.11,Fugitive
+FAC-10,6082.4,208.57,2025-06,Cardium-Pembina Oil Battery,Oil Battery,AB,222003,boe,11922.4,53.7,Venting
+FAC-11,2137.2,52.9,2025-06,Swan Hills Oil Battery,Oil Battery,AB,85586,boe,3618.4,42.28,Flaring
+FAC-13,3418.4,119.35,2025-06,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,117013,boe,6760.2,57.77,Venting
+FAC-14,16553.6,45.89,2025-06,Cold Lake SAGD CPF,SAGD CPF,AB,253017,boe,17838.5,70.5,Combustion slip
+FAC-15,11248.1,49.0,2025-06,Cold Lake SAGD CPF,SAGD CPF,AB,184733,boe,12620.1,68.32,Fugitive
+FAC-16,26096.7,48.54,2025-06,Athabasca SAGD CPF,SAGD CPF,AB,325489,boe,27455.8,84.35,Fugitive
+FAC-17,11967.1,37.87,2025-06,Athabasca SAGD CPF,SAGD CPF,AB,168780,boe,13027.5,77.19,Flaring
+FAC-18,13550.1,30.32,2025-06,Athabasca SAGD CPF,SAGD CPF,AB,193299,boe,14399.1,74.49,Combustion slip
+FAC-19,11840.2,37.28,2025-06,Peace River SAGD CPF,SAGD CPF,AB,158267,boe,12884.0,81.41,Venting
+FAC-21,2094.9,100.69,2025-06,Viking-Kerrobert Oil Battery,Oil Battery,SK,103032,boe,4914.2,47.7,Fugitive
+FAC-22,1331.1,27.85,2025-06,Bakken-Estevan Oil Battery,Oil Battery,SK,57189,boe,2110.9,36.91,Venting
+FAC-23,4185.7,102.64,2025-06,Bakken-Estevan Oil Battery,Oil Battery,SK,139867,boe,7059.6,50.47,Fugitive
+FAC-25,1379.5,73.43,2025-06,Lloydminster Heavy Oil Battery,Oil Battery,SK,65418,boe,3435.5,52.52,Venting
+R100,160394.3,41.21,2025-07,Prairie Refinery,Refinery,AB,641584,m3 crude,161548.2,251.8,Fugitive
+R200,103905.1,20.63,2025-07,Lakehead Refinery,Refinery,ON,404261,m3 crude,104482.7,258.45,Flaring
+R300,123946.4,43.97,2025-07,Saint-Laurent Refinery,Refinery,QC,557171,m3 crude,125177.6,224.67,Flaring
+FAC-01,8262.5,141.61,2025-07,Montney-Dawson Gas Plant,Gas Plant,BC,223511,boe,12227.6,54.71,Fugitive
+FAC-02,22683.5,263.48,2025-07,Montney-Dawson Gas Plant,Gas Plant,BC,598089,boe,30060.9,50.26,Fugitive
+FAC-03,22247.1,318.34,2025-07,Montney-Kakwa Gas Plant,Gas Plant,AB,540184,boe,31160.6,57.69,Fugitive
+FAC-04,19711.8,379.21,2025-07,Montney-Kakwa Gas Plant,Gas Plant,AB,472887,boe,30329.7,64.14,Venting
+FAC-05,10012.3,98.16,2025-07,Deep Basin-Edson Gas Plant,Gas Plant,AB,258853,boe,12760.8,49.3,Fugitive
+FAC-06,12838.6,180.16,2025-07,Deep Basin-Edson Gas Plant,Gas Plant,AB,285789,boe,17883.1,62.57,Combustion slip
+FAC-07,10740.3,277.18,2025-07,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,406190,boe,18501.3,45.55,Flaring
+FAC-08,18150.9,820.03,2025-07,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,810794,boe,41111.7,50.71,Fugitive
+FAC-09,1555.4,47.75,2025-07,Cardium-Pembina Oil Battery,Oil Battery,AB,57338,boe,2892.4,50.44,Venting
+FAC-10,6735.7,283.38,2025-07,Cardium-Pembina Oil Battery,Oil Battery,AB,239656,boe,14670.3,61.21,Fugitive
+FAC-11,1877.5,45.22,2025-07,Swan Hills Oil Battery,Oil Battery,AB,78944,boe,3143.7,39.82,Fugitive
+FAC-13,3562.1,124.59,2025-07,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,120548,boe,7050.6,58.49,Flaring
+FAC-14,17972.2,48.71,2025-07,Cold Lake SAGD CPF,SAGD CPF,AB,294072,boe,19336.1,65.75,Venting
+FAC-15,11953.5,52.86,2025-07,Cold Lake SAGD CPF,SAGD CPF,AB,194689,boe,13433.6,69.0,Venting
+FAC-16,27177.0,65.8,2025-07,Athabasca SAGD CPF,SAGD CPF,AB,337196,boe,29019.4,86.06,Combustion slip
+FAC-17,12148.6,33.27,2025-07,Athabasca SAGD CPF,SAGD CPF,AB,177634,boe,13080.2,73.64,Flaring
+FAC-18,15166.6,35.21,2025-07,Athabasca SAGD CPF,SAGD CPF,AB,205261,boe,16152.5,78.69,Combustion slip
+FAC-19,12165.5,30.07,2025-07,Peace River SAGD CPF,SAGD CPF,AB,156962,boe,13007.5,82.87,Venting
+FAC-21,2571.3,88.03,2025-07,Viking-Kerrobert Oil Battery,Oil Battery,SK,111612,boe,5036.1,45.12,Fugitive
+FAC-22,1415.1,31.52,2025-07,Bakken-Estevan Oil Battery,Oil Battery,SK,61687,boe,2297.7,37.25,Fugitive
+FAC-23,4410.8,116.55,2025-07,Bakken-Estevan Oil Battery,Oil Battery,SK,146317,boe,7674.2,52.45,Fugitive
+FAC-25,1409.3,73.69,2025-07,Lloydminster Heavy Oil Battery,Oil Battery,SK,63599,boe,3472.6,54.6,Venting
+R100,160375.8,35.68,2025-08,Prairie Refinery,Refinery,AB,609680,m3 crude,161374.8,264.69,Fugitive
+R200,101966.9,20.76,2025-08,Lakehead Refinery,Refinery,ON,396101,m3 crude,102548.2,258.89,Fugitive
+R300,117586.8,42.98,2025-08,Saint-Laurent Refinery,Refinery,QC,551544,m3 crude,118790.2,215.38,Fugitive
+FAC-01,9008.5,127.06,2025-08,Montney-Dawson Gas Plant,Gas Plant,BC,236008,boe,12566.2,53.24,Fugitive
+FAC-02,23137.7,273.52,2025-08,Montney-Dawson Gas Plant,Gas Plant,BC,575953,boe,30796.3,53.47,Fugitive
+FAC-03,20577.8,323.75,2025-08,Montney-Kakwa Gas Plant,Gas Plant,AB,515986,boe,29642.8,57.45,Fugitive
+FAC-04,21295.3,290.45,2025-08,Montney-Kakwa Gas Plant,Gas Plant,AB,516110,boe,29427.9,57.02,Venting
+FAC-05,10089.1,116.01,2025-08,Deep Basin-Edson Gas Plant,Gas Plant,AB,271910,boe,13337.4,49.05,Fugitive
+FAC-06,12308.1,171.04,2025-08,Deep Basin-Edson Gas Plant,Gas Plant,AB,272731,boe,17097.2,62.69,Venting
+FAC-07,11578.6,357.54,2025-08,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,406265,boe,21589.7,53.14,Flaring
+FAC-08,26446.8,957.31,2025-08,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1184255,boe,53251.5,44.97,Fugitive
+FAC-09,1544.4,48.46,2025-08,Cardium-Pembina Oil Battery,Oil Battery,AB,54902,boe,2901.3,52.85,Venting
+FAC-10,6481.5,183.42,2025-08,Cardium-Pembina Oil Battery,Oil Battery,AB,221217,boe,11617.3,52.52,Venting
+FAC-11,2020.8,50.09,2025-08,Swan Hills Oil Battery,Oil Battery,AB,84087,boe,3423.3,40.71,Venting
+FAC-13,3508.7,124.54,2025-08,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,117484,boe,6995.8,59.55,Combustion slip
+FAC-14,14460.1,37.67,2025-08,Cold Lake SAGD CPF,SAGD CPF,AB,212494,boe,15514.9,73.01,Venting
+FAC-15,11555.5,51.13,2025-08,Cold Lake SAGD CPF,SAGD CPF,AB,189034,boe,12987.1,68.7,Fugitive
+FAC-16,26183.8,48.02,2025-08,Athabasca SAGD CPF,SAGD CPF,AB,331967,boe,27528.4,82.93,Fugitive
+FAC-17,12310.5,43.13,2025-08,Athabasca SAGD CPF,SAGD CPF,AB,169673,boe,13518.1,79.67,Venting
+FAC-18,14750.5,28.34,2025-08,Athabasca SAGD CPF,SAGD CPF,AB,205307,boe,15544.0,75.71,Flaring
+FAC-19,10022.9,22.77,2025-08,Peace River SAGD CPF,SAGD CPF,AB,123173,boe,10660.5,86.55,Venting
+FAC-21,2462.8,88.79,2025-08,Viking-Kerrobert Oil Battery,Oil Battery,SK,111728,boe,4948.9,44.29,Venting
+FAC-22,1346.6,27.99,2025-08,Bakken-Estevan Oil Battery,Oil Battery,SK,57619,boe,2130.3,36.97,Venting
+FAC-23,4140.6,102.21,2025-08,Bakken-Estevan Oil Battery,Oil Battery,SK,138961,boe,7002.5,50.39,Flaring
+FAC-25,1297.7,73.29,2025-08,Lloydminster Heavy Oil Battery,Oil Battery,SK,63970,boe,3349.8,52.37,Flaring
+R100,154608.3,37.9,2025-09,Prairie Refinery,Refinery,AB,598800,m3 crude,155669.5,259.97,Flaring
+R200,91155.7,24.27,2025-09,Lakehead Refinery,Refinery,ON,365574,m3 crude,91835.3,251.21,Fugitive
+R300,117953.9,32.35,2025-09,Saint-Laurent Refinery,Refinery,QC,525930,m3 crude,118859.7,226.0,Fugitive
+FAC-01,9176.5,123.21,2025-09,Montney-Dawson Gas Plant,Gas Plant,BC,242671,boe,12626.4,52.03,Fugitive
+FAC-02,23009.0,233.79,2025-09,Montney-Dawson Gas Plant,Gas Plant,BC,571491,boe,29555.1,51.72,Fugitive
+FAC-03,22072.4,297.34,2025-09,Montney-Kakwa Gas Plant,Gas Plant,AB,500010,boe,30397.9,60.79,Venting
+FAC-04,19683.5,281.62,2025-09,Montney-Kakwa Gas Plant,Gas Plant,AB,487921,boe,27568.9,56.5,Venting
+FAC-05,10556.1,101.8,2025-09,Deep Basin-Edson Gas Plant,Gas Plant,AB,262329,boe,13406.5,51.11,Flaring
+FAC-06,11731.7,184.53,2025-09,Deep Basin-Edson Gas Plant,Gas Plant,AB,248885,boe,16898.5,67.9,Fugitive
+FAC-07,11934.5,286.94,2025-09,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,400814,boe,19968.8,49.82,Flaring
+FAC-08,25805.3,831.52,2025-09,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1124649,boe,49087.9,43.65,Venting
+FAC-09,1145.3,45.78,2025-09,Cardium-Pembina Oil Battery,Oil Battery,AB,40906,boe,2427.1,59.33,Venting
+FAC-10,5976.1,204.89,2025-09,Cardium-Pembina Oil Battery,Oil Battery,AB,218258,boe,11713.0,53.67,Fugitive
+FAC-11,1952.6,50.6,2025-09,Swan Hills Oil Battery,Oil Battery,AB,78252,boe,3369.4,43.06,Flaring
+FAC-13,3324.5,105.97,2025-09,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,109188,boe,6291.7,57.62,Flaring
+FAC-14,18199.1,43.47,2025-09,Cold Lake SAGD CPF,SAGD CPF,AB,277610,boe,19416.3,69.94,Fugitive
+FAC-15,12526.2,56.9,2025-09,Cold Lake SAGD CPF,SAGD CPF,AB,186925,boe,14119.4,75.54,Flaring
+FAC-16,26035.7,64.16,2025-09,Athabasca SAGD CPF,SAGD CPF,AB,312509,boe,27832.2,89.06,Fugitive
+FAC-17,11866.5,29.76,2025-09,Athabasca SAGD CPF,SAGD CPF,AB,163939,boe,12699.8,77.47,Combustion slip
+FAC-18,15414.0,32.0,2025-09,Athabasca SAGD CPF,SAGD CPF,AB,197308,boe,16310.0,82.66,Fugitive
+FAC-19,11793.9,24.83,2025-09,Peace River SAGD CPF,SAGD CPF,AB,154325,boe,12489.1,80.93,Combustion slip
+FAC-21,2270.3,75.5,2025-09,Viking-Kerrobert Oil Battery,Oil Battery,SK,102805,boe,4384.3,42.65,Combustion slip
+FAC-22,1469.3,28.21,2025-09,Bakken-Estevan Oil Battery,Oil Battery,SK,58886,boe,2259.2,38.37,Flaring
+FAC-23,4102.1,94.63,2025-09,Bakken-Estevan Oil Battery,Oil Battery,SK,136892,boe,6751.7,49.32,Fugitive
+FAC-25,1301.8,62.43,2025-09,Lloydminster Heavy Oil Battery,Oil Battery,SK,59218,boe,3049.8,51.5,Venting
+R100,154115.7,39.8,2025-10,Prairie Refinery,Refinery,AB,626651,m3 crude,155230.1,247.71,Fugitive
+R200,102846.0,26.65,2025-10,Lakehead Refinery,Refinery,ON,404734,m3 crude,103592.2,255.95,Fugitive
+R300,133523.3,37.27,2025-10,Saint-Laurent Refinery,Refinery,QC,568935,m3 crude,134566.9,236.52,Combustion slip
+FAC-01,10101.8,124.83,2025-10,Montney-Dawson Gas Plant,Gas Plant,BC,248615,boe,13597.0,54.69,Flaring
+FAC-02,23722.1,207.9,2025-10,Montney-Dawson Gas Plant,Gas Plant,BC,576395,boe,29543.3,51.26,Fugitive
+FAC-03,22889.4,297.45,2025-10,Montney-Kakwa Gas Plant,Gas Plant,AB,542359,boe,31218.0,57.56,Fugitive
+FAC-04,22921.3,312.71,2025-10,Montney-Kakwa Gas Plant,Gas Plant,AB,512024,boe,31677.2,61.87,Flaring
+FAC-05,10571.0,98.76,2025-10,Deep Basin-Edson Gas Plant,Gas Plant,AB,261145,boe,13336.3,51.07,Fugitive
+FAC-06,13062.7,172.3,2025-10,Deep Basin-Edson Gas Plant,Gas Plant,AB,267414,boe,17887.1,66.89,Venting
+FAC-07,11765.7,335.54,2025-10,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,401395,boe,21160.8,52.72,Venting
+FAC-08,24287.4,870.24,2025-10,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1073349,boe,48654.1,45.33,Combustion slip
+FAC-09,1662.8,53.34,2025-10,Cardium-Pembina Oil Battery,Oil Battery,AB,55105,boe,3156.3,57.28,Venting
+FAC-10,6656.9,238.72,2025-10,Cardium-Pembina Oil Battery,Oil Battery,AB,237037,boe,13341.1,56.28,Venting
+FAC-11,2114.6,51.59,2025-10,Swan Hills Oil Battery,Oil Battery,AB,85793,boe,3559.1,41.48,Flaring
+FAC-13,3615.4,99.27,2025-10,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,114303,boe,6395.0,55.95,Combustion slip
+FAC-14,20265.3,47.79,2025-10,Cold Lake SAGD CPF,SAGD CPF,AB,295339,boe,21603.4,73.15,Venting
+FAC-15,12430.7,43.16,2025-10,Cold Lake SAGD CPF,SAGD CPF,AB,185911,boe,13639.2,73.36,Combustion slip
+FAC-16,25895.6,43.22,2025-10,Athabasca SAGD CPF,SAGD CPF,AB,312013,boe,27105.8,86.87,Combustion slip
+FAC-17,11556.5,28.92,2025-10,Athabasca SAGD CPF,SAGD CPF,AB,164595,boe,12366.3,75.13,Venting
+FAC-18,15200.7,33.62,2025-10,Athabasca SAGD CPF,SAGD CPF,AB,197905,boe,16142.1,81.56,Combustion slip
+FAC-19,12431.7,27.07,2025-10,Peace River SAGD CPF,SAGD CPF,AB,158199,boe,13189.7,83.37,Combustion slip
+FAC-21,2562.8,91.59,2025-10,Viking-Kerrobert Oil Battery,Oil Battery,SK,105290,boe,5127.3,48.7,Fugitive
+FAC-22,1221.0,24.13,2025-10,Bakken-Estevan Oil Battery,Oil Battery,SK,46901,boe,1896.6,40.44,Fugitive
+FAC-23,4448.9,90.27,2025-10,Bakken-Estevan Oil Battery,Oil Battery,SK,143597,boe,6976.5,48.58,Fugitive
+FAC-25,1438.0,67.41,2025-10,Lloydminster Heavy Oil Battery,Oil Battery,SK,65149,boe,3325.5,51.04,Flaring
+R100,165063.8,42.23,2025-11,Prairie Refinery,Refinery,AB,609736,m3 crude,166246.2,272.65,Combustion slip
+R200,99731.5,27.59,2025-11,Lakehead Refinery,Refinery,ON,382068,m3 crude,100504.0,263.05,Fugitive
+R300,123851.5,34.39,2025-11,Saint-Laurent Refinery,Refinery,QC,518646,m3 crude,124814.4,240.65,Fugitive
+FAC-01,9799.8,138.8,2025-11,Montney-Dawson Gas Plant,Gas Plant,BC,224577,boe,13686.2,60.94,Flaring
+FAC-02,24605.0,199.03,2025-11,Montney-Dawson Gas Plant,Gas Plant,BC,586200,boe,30177.8,51.48,Venting
+FAC-03,23810.3,290.32,2025-11,Montney-Kakwa Gas Plant,Gas Plant,AB,508844,boe,31939.3,62.77,Venting
+FAC-04,22607.5,296.61,2025-11,Montney-Kakwa Gas Plant,Gas Plant,AB,494658,boe,30912.6,62.49,Venting
+FAC-05,10682.3,107.15,2025-11,Deep Basin-Edson Gas Plant,Gas Plant,AB,259969,boe,13682.5,52.63,Venting
+FAC-06,13259.3,177.3,2025-11,Deep Basin-Edson Gas Plant,Gas Plant,AB,268566,boe,18223.7,67.86,Venting
+FAC-07,12255.0,378.6,2025-11,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,396963,boe,22855.8,57.58,Venting
+FAC-08,25662.9,867.09,2025-11,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1071125,boe,49941.4,46.63,Fugitive
+FAC-09,1618.7,43.8,2025-11,Cardium-Pembina Oil Battery,Oil Battery,AB,53501,boe,2845.1,53.18,Venting
+FAC-10,6545.7,196.01,2025-11,Cardium-Pembina Oil Battery,Oil Battery,AB,225252,boe,12034.0,53.42,Venting
+FAC-11,2192.4,43.8,2025-11,Swan Hills Oil Battery,Oil Battery,AB,82245,boe,3418.8,41.57,Flaring
+FAC-13,3556.9,125.83,2025-11,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,112482,boe,7080.1,62.94,Flaring
+FAC-14,18766.4,39.37,2025-11,Cold Lake SAGD CPF,SAGD CPF,AB,271563,boe,19868.8,73.16,Fugitive
+FAC-15,12139.8,34.58,2025-11,Cold Lake SAGD CPF,SAGD CPF,AB,177454,boe,13108.0,73.87,Venting
+FAC-16,28342.2,52.71,2025-11,Athabasca SAGD CPF,SAGD CPF,AB,325127,boe,29818.1,91.71,Venting
+FAC-17,9938.4,30.44,2025-11,Athabasca SAGD CPF,SAGD CPF,AB,127592,boe,10790.7,84.57,Fugitive
+FAC-18,13990.3,29.63,2025-11,Athabasca SAGD CPF,SAGD CPF,AB,190908,boe,14819.9,77.63,Venting
+FAC-19,12297.4,22.34,2025-11,Peace River SAGD CPF,SAGD CPF,AB,155088,boe,12922.9,83.33,Fugitive
+FAC-21,2656.9,75.93,2025-11,Viking-Kerrobert Oil Battery,Oil Battery,SK,107666,boe,4782.9,44.42,Fugitive
+FAC-22,1499.3,28.13,2025-11,Bakken-Estevan Oil Battery,Oil Battery,SK,59350,boe,2286.9,38.53,Combustion slip
+FAC-23,4489.7,90.99,2025-11,Bakken-Estevan Oil Battery,Oil Battery,SK,135540,boe,7037.4,51.92,Fugitive
+FAC-25,1455.9,66.72,2025-11,Lloydminster Heavy Oil Battery,Oil Battery,SK,59820,boe,3324.1,55.57,Venting
+R100,177195.6,43.96,2025-12,Prairie Refinery,Refinery,AB,653604,m3 crude,178426.5,272.99,Combustion slip
+R200,110240.0,26.24,2025-12,Lakehead Refinery,Refinery,ON,414421,m3 crude,110974.7,267.78,Combustion slip
+R300,134714.4,34.03,2025-12,Saint-Laurent Refinery,Refinery,QC,562214,m3 crude,135667.2,241.31,Fugitive
+FAC-01,10056.8,134.79,2025-12,Montney-Dawson Gas Plant,Gas Plant,BC,233330,boe,13830.9,59.28,Fugitive
+FAC-02,26388.9,217.67,2025-12,Montney-Dawson Gas Plant,Gas Plant,BC,590676,boe,32483.7,54.99,Fugitive
+FAC-03,24984.7,288.51,2025-12,Montney-Kakwa Gas Plant,Gas Plant,AB,511525,boe,33063.0,64.64,Fugitive
+FAC-04,22990.7,322.59,2025-12,Montney-Kakwa Gas Plant,Gas Plant,AB,466604,boe,32023.2,68.63,Flaring
+FAC-05,11481.5,94.76,2025-12,Deep Basin-Edson Gas Plant,Gas Plant,AB,259307,boe,14134.8,54.51,Venting
+FAC-06,14573.1,158.21,2025-12,Deep Basin-Edson Gas Plant,Gas Plant,AB,278870,boe,19003.0,68.14,Fugitive
+FAC-07,12373.1,261.36,2025-12,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,388415,boe,19691.2,50.7,Combustion slip
+FAC-08,25223.9,815.65,2025-12,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,986883,boe,48062.1,48.7,Flaring
+FAC-09,1576.3,50.34,2025-12,Cardium-Pembina Oil Battery,Oil Battery,AB,53164,boe,2985.8,56.16,Fugitive
+FAC-10,6361.6,197.56,2025-12,Cardium-Pembina Oil Battery,Oil Battery,AB,214198,boe,11893.3,55.52,Fugitive
+FAC-11,2246.9,46.25,2025-12,Swan Hills Oil Battery,Oil Battery,AB,83081,boe,3541.9,42.63,Fugitive
+FAC-13,3567.4,105.63,2025-12,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,108863,boe,6525.0,59.94,Venting
+FAC-14,20362.9,43.6,2025-12,Cold Lake SAGD CPF,SAGD CPF,AB,300896,boe,21583.7,71.73,Fugitive
+FAC-15,12365.8,47.24,2025-12,Cold Lake SAGD CPF,SAGD CPF,AB,176069,boe,13688.5,77.75,Venting
+FAC-16,27367.8,44.22,2025-12,Athabasca SAGD CPF,SAGD CPF,AB,307188,boe,28606.0,93.12,Combustion slip
+FAC-17,13274.9,29.82,2025-12,Athabasca SAGD CPF,SAGD CPF,AB,176226,boe,14109.9,80.07,Fugitive
+FAC-18,16019.0,31.86,2025-12,Athabasca SAGD CPF,SAGD CPF,AB,200487,boe,16911.1,84.35,Flaring
+FAC-19,12388.2,30.29,2025-12,Peace River SAGD CPF,SAGD CPF,AB,151737,boe,13236.3,87.23,Fugitive
+FAC-21,2688.0,92.5,2025-12,Viking-Kerrobert Oil Battery,Oil Battery,SK,101907,boe,5278.0,51.79,Fugitive
+FAC-22,1581.0,26.75,2025-12,Bakken-Estevan Oil Battery,Oil Battery,SK,59918,boe,2330.0,38.89,Fugitive
+FAC-23,4619.2,102.3,2025-12,Bakken-Estevan Oil Battery,Oil Battery,SK,137248,boe,7483.6,54.53,Venting
+FAC-25,1483.8,74.37,2025-12,Lloydminster Heavy Oil Battery,Oil Battery,SK,59186,boe,3566.2,60.25,Fugitive
+R100,173414.8,43.49,2026-01,Prairie Refinery,Refinery,AB,652106,m3 crude,174632.5,267.8,Fugitive
+R200,96429.7,21.25,2026-01,Lakehead Refinery,Refinery,ON,373905,m3 crude,97024.7,259.49,Fugitive
+R300,131112.6,38.37,2026-01,Saint-Laurent Refinery,Refinery,QC,575413,m3 crude,132187.0,229.73,Flaring
+FAC-01,11098.9,139.46,2026-01,Montney-Dawson Gas Plant,Gas Plant,BC,231108,boe,15003.8,64.92,Venting
+FAC-02,17758.5,162.57,2026-01,Montney-Dawson Gas Plant,Gas Plant,BC,397745,boe,22310.5,56.09,Flaring
+FAC-03,24385.7,272.58,2026-01,Montney-Kakwa Gas Plant,Gas Plant,AB,538048,boe,32017.9,59.51,Venting
+FAC-04,24503.3,320.52,2026-01,Montney-Kakwa Gas Plant,Gas Plant,AB,515985,boe,33477.9,64.88,Fugitive
+FAC-05,11130.7,98.41,2026-01,Deep Basin-Edson Gas Plant,Gas Plant,AB,260117,boe,13886.2,53.38,Venting
+FAC-06,12832.4,137.36,2026-01,Deep Basin-Edson Gas Plant,Gas Plant,AB,257394,boe,16678.5,64.8,Fugitive
+FAC-07,11880.1,258.07,2026-01,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,386183,boe,19106.1,49.47,Combustion slip
+FAC-08,27069.3,781.75,2026-01,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1060653,boe,48958.3,46.16,Combustion slip
+FAC-09,1612.8,47.24,2026-01,Cardium-Pembina Oil Battery,Oil Battery,AB,49001,boe,2935.5,59.91,Venting
+FAC-10,6708.0,198.6,2026-01,Cardium-Pembina Oil Battery,Oil Battery,AB,219008,boe,12268.8,56.02,Flaring
+FAC-11,2241.3,43.89,2026-01,Swan Hills Oil Battery,Oil Battery,AB,81983,boe,3470.2,42.33,Venting
+FAC-13,3540.0,95.76,2026-01,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,104786,boe,6221.3,59.37,Fugitive
+FAC-14,19503.7,46.07,2026-01,Cold Lake SAGD CPF,SAGD CPF,AB,276702,boe,20793.7,75.15,Fugitive
+FAC-15,12462.6,43.38,2026-01,Cold Lake SAGD CPF,SAGD CPF,AB,177718,boe,13677.2,76.96,Fugitive
+FAC-16,26639.6,47.29,2026-01,Athabasca SAGD CPF,SAGD CPF,AB,303437,boe,27963.7,92.16,Venting
+FAC-17,11604.3,27.01,2026-01,Athabasca SAGD CPF,SAGD CPF,AB,154238,boe,12360.6,80.14,Fugitive
+FAC-18,14603.4,20.87,2026-01,Athabasca SAGD CPF,SAGD CPF,AB,183272,boe,15187.8,82.87,Venting
+FAC-19,12413.3,26.06,2026-01,Peace River SAGD CPF,SAGD CPF,AB,149970,boe,13143.0,87.64,Fugitive
+FAC-21,2482.8,79.57,2026-01,Viking-Kerrobert Oil Battery,Oil Battery,SK,102043,boe,4710.8,46.16,Flaring
+FAC-22,1488.6,28.49,2026-01,Bakken-Estevan Oil Battery,Oil Battery,SK,58128,boe,2286.3,39.33,Venting
+FAC-23,4562.0,77.97,2026-01,Bakken-Estevan Oil Battery,Oil Battery,SK,136307,boe,6745.2,49.49,Flaring
+FAC-25,1496.3,67.69,2026-01,Lloydminster Heavy Oil Battery,Oil Battery,SK,58084,boe,3391.6,58.39,Flaring
+R100,157067.8,38.82,2026-02,Prairie Refinery,Refinery,AB,586451,m3 crude,158154.8,269.68,Flaring
+R200,89672.7,20.05,2026-02,Lakehead Refinery,Refinery,ON,338132,m3 crude,90234.1,266.86,Combustion slip
+R300,122965.0,39.31,2026-02,Saint-Laurent Refinery,Refinery,QC,527009,m3 crude,124065.7,235.41,Combustion slip
+FAC-01,9462.6,116.95,2026-02,Montney-Dawson Gas Plant,Gas Plant,BC,215752,boe,12737.2,59.04,Venting
+FAC-02,21487.2,188.05,2026-02,Montney-Dawson Gas Plant,Gas Plant,BC,514616,boe,26752.6,51.99,Venting
+FAC-03,18745.7,257.45,2026-02,Montney-Kakwa Gas Plant,Gas Plant,AB,407894,boe,25954.3,63.63,Venting
+FAC-04,21465.2,295.49,2026-02,Montney-Kakwa Gas Plant,Gas Plant,AB,449283,boe,29738.9,66.19,Combustion slip
+FAC-05,9506.9,82.44,2026-02,Deep Basin-Edson Gas Plant,Gas Plant,AB,229978,boe,11815.2,51.38,Combustion slip
+FAC-06,12257.0,141.18,2026-02,Deep Basin-Edson Gas Plant,Gas Plant,AB,243766,boe,16210.0,66.5,Venting
+FAC-07,10246.3,247.19,2026-02,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,316887,boe,17167.6,54.18,Flaring
+FAC-08,23049.7,642.16,2026-02,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,918273,boe,41030.2,44.68,Venting
+FAC-09,1497.5,42.27,2026-02,Cardium-Pembina Oil Battery,Oil Battery,AB,49144,boe,2681.1,54.56,Fugitive
+FAC-10,5871.8,187.78,2026-02,Cardium-Pembina Oil Battery,Oil Battery,AB,202029,boe,11129.6,55.09,Venting
+FAC-11,1872.1,34.88,2026-02,Swan Hills Oil Battery,Oil Battery,AB,71430,boe,2848.7,39.88,Venting
+FAC-13,3315.5,84.2,2026-02,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,99490,boe,5673.1,57.02,Fugitive
+FAC-14,18069.5,39.5,2026-02,Cold Lake SAGD CPF,SAGD CPF,AB,253366,boe,19175.5,75.68,Combustion slip
+FAC-15,10908.1,44.97,2026-02,Cold Lake SAGD CPF,SAGD CPF,AB,158317,boe,12167.3,76.85,Venting
+FAC-16,23667.6,43.42,2026-02,Athabasca SAGD CPF,SAGD CPF,AB,273224,boe,24883.4,91.07,Combustion slip
+FAC-17,10574.8,30.38,2026-02,Athabasca SAGD CPF,SAGD CPF,AB,143208,boe,11425.4,79.78,Fugitive
+FAC-18,12875.8,23.82,2026-02,Athabasca SAGD CPF,SAGD CPF,AB,152308,boe,13542.8,88.92,Flaring
+FAC-19,10651.2,22.63,2026-02,Peace River SAGD CPF,SAGD CPF,AB,125766,boe,11284.8,89.73,Flaring
+FAC-21,2452.4,75.8,2026-02,Viking-Kerrobert Oil Battery,Oil Battery,SK,98281,boe,4574.8,46.55,Venting
+FAC-22,1339.9,21.52,2026-02,Bakken-Estevan Oil Battery,Oil Battery,SK,50334,boe,1942.5,38.59,Combustion slip
+FAC-23,4313.0,86.25,2026-02,Bakken-Estevan Oil Battery,Oil Battery,SK,128308,boe,6728.0,52.44,Fugitive
+FAC-25,1458.9,48.67,2026-02,Lloydminster Heavy Oil Battery,Oil Battery,SK,58210,boe,2821.7,48.47,Flaring
+R100,167387.4,41.56,2026-03,Prairie Refinery,Refinery,AB,628942,m3 crude,168551.1,267.99,Fugitive
+R200,98020.5,21.67,2026-03,Lakehead Refinery,Refinery,ON,379892,m3 crude,98627.3,259.62,Fugitive
+R300,128430.3,39.96,2026-03,Saint-Laurent Refinery,Refinery,QC,551492,m3 crude,129549.2,234.91,Fugitive
+FAC-01,10423.1,113.6,2026-03,Montney-Dawson Gas Plant,Gas Plant,BC,244969,boe,13603.9,55.53,Combustion slip
+FAC-02,25176.0,205.82,2026-03,Montney-Dawson Gas Plant,Gas Plant,BC,605663,boe,30939.0,51.08,Venting
+FAC-03,25713.9,268.42,2026-03,Montney-Kakwa Gas Plant,Gas Plant,AB,535771,boe,33229.7,62.02,Venting
+FAC-04,23259.2,420.4,2026-03,Montney-Kakwa Gas Plant,Gas Plant,AB,524413,boe,35030.4,66.8,Fugitive
+FAC-05,11024.5,108.56,2026-03,Deep Basin-Edson Gas Plant,Gas Plant,AB,258461,boe,14064.2,54.42,Venting
+FAC-06,13596.8,154.53,2026-03,Deep Basin-Edson Gas Plant,Gas Plant,AB,266663,boe,17923.6,67.21,Venting
+FAC-07,12877.2,278.99,2026-03,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,402824,boe,20688.9,51.36,Fugitive
+FAC-08,26071.0,849.46,2026-03,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1082195,boe,49855.9,46.07,Flaring
+FAC-09,1589.8,39.37,2026-03,Cardium-Pembina Oil Battery,Oil Battery,AB,50102,boe,2692.2,53.73,Venting
+FAC-10,5523.1,161.13,2026-03,Cardium-Pembina Oil Battery,Oil Battery,AB,175485,boe,10034.7,57.18,Venting
+FAC-11,2227.6,41.01,2026-03,Swan Hills Oil Battery,Oil Battery,AB,83439,boe,3375.9,40.46,Flaring
+FAC-13,3658.8,116.68,2026-03,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,110043,boe,6925.8,62.94,Venting
+FAC-14,19014.4,42.65,2026-03,Cold Lake SAGD CPF,SAGD CPF,AB,279782,boe,20208.6,72.23,Combustion slip
+FAC-15,13207.6,49.09,2026-03,Cold Lake SAGD CPF,SAGD CPF,AB,192760,boe,14582.1,75.65,Combustion slip
+FAC-16,21774.9,40.58,2026-03,Athabasca SAGD CPF,SAGD CPF,AB,234102,boe,22911.1,97.87,Combustion slip
+FAC-17,12618.3,29.77,2026-03,Athabasca SAGD CPF,SAGD CPF,AB,163395,boe,13451.9,82.33,Venting
+FAC-18,15036.5,28.33,2026-03,Athabasca SAGD CPF,SAGD CPF,AB,196230,boe,15829.7,80.67,Flaring
+FAC-19,12729.4,27.98,2026-03,Peace River SAGD CPF,SAGD CPF,AB,156602,boe,13512.8,86.29,Combustion slip
+FAC-21,2410.1,72.44,2026-03,Viking-Kerrobert Oil Battery,Oil Battery,SK,97516,boe,4438.4,45.51,Venting
+FAC-22,1337.0,21.32,2026-03,Bakken-Estevan Oil Battery,Oil Battery,SK,56136,boe,1934.0,34.45,Venting
+FAC-23,3366.3,63.07,2026-03,Bakken-Estevan Oil Battery,Oil Battery,SK,96987,boe,5132.3,52.92,Venting
+FAC-25,1422.1,53.93,2026-03,Lloydminster Heavy Oil Battery,Oil Battery,SK,59904,boe,2932.1,48.95,Venting
+R100,160765.6,37.33,2026-04,Prairie Refinery,Refinery,AB,612387,m3 crude,161810.8,264.23,Flaring
+R200,86637.8,15.97,2026-04,Lakehead Refinery,Refinery,ON,316307,m3 crude,87085.0,275.32,Combustion slip
+R300,125298.1,40.07,2026-04,Saint-Laurent Refinery,Refinery,QC,545850,m3 crude,126420.1,231.6,Fugitive
+FAC-01,9265.3,116.39,2026-04,Montney-Dawson Gas Plant,Gas Plant,BC,221649,boe,12524.2,56.5,Fugitive
+FAC-02,21937.7,188.55,2026-04,Montney-Dawson Gas Plant,Gas Plant,BC,540695,boe,27217.1,50.34,Fugitive
+FAC-03,22834.9,216.91,2026-04,Montney-Kakwa Gas Plant,Gas Plant,AB,511900,boe,28908.4,56.47,Fugitive
+FAC-04,19745.5,297.47,2026-04,Montney-Kakwa Gas Plant,Gas Plant,AB,432983,boe,28074.7,64.84,Venting
+FAC-05,9178.2,89.96,2026-04,Deep Basin-Edson Gas Plant,Gas Plant,AB,237245,boe,11697.1,49.3,Fugitive
+FAC-06,12000.2,153.59,2026-04,Deep Basin-Edson Gas Plant,Gas Plant,AB,251285,boe,16300.7,64.87,Fugitive
+FAC-07,10716.9,325.51,2026-04,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,375322,boe,19831.2,52.84,Venting
+FAC-08,23282.3,778.22,2026-04,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1039659,boe,45072.5,43.35,Venting
+FAC-09,1562.7,41.49,2026-04,Cardium-Pembina Oil Battery,Oil Battery,AB,51908,boe,2724.4,52.49,Venting
+FAC-10,5499.4,201.8,2026-04,Cardium-Pembina Oil Battery,Oil Battery,AB,204810,boe,11149.8,54.44,Flaring
+FAC-11,2096.9,38.02,2026-04,Swan Hills Oil Battery,Oil Battery,AB,78716,boe,3161.5,40.16,Venting
+FAC-13,3387.6,100.16,2026-04,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,105493,boe,6192.1,58.7,Fugitive
+FAC-14,17252.0,38.28,2026-04,Cold Lake SAGD CPF,SAGD CPF,AB,263019,boe,18323.8,69.67,Combustion slip
+FAC-15,7405.8,29.33,2026-04,Cold Lake SAGD CPF,SAGD CPF,AB,111139,boe,8227.0,74.02,Fugitive
+FAC-16,25976.2,54.37,2026-04,Athabasca SAGD CPF,SAGD CPF,AB,312803,boe,27498.6,87.91,Combustion slip
+FAC-17,11015.3,32.29,2026-04,Athabasca SAGD CPF,SAGD CPF,AB,154306,boe,11919.4,77.25,Flaring
+FAC-18,14682.8,28.46,2026-04,Athabasca SAGD CPF,SAGD CPF,AB,191736,boe,15479.7,80.73,Venting
+FAC-19,11742.6,26.03,2026-04,Peace River SAGD CPF,SAGD CPF,AB,149285,boe,12471.4,83.54,Fugitive
+FAC-21,2357.5,68.05,2026-04,Viking-Kerrobert Oil Battery,Oil Battery,SK,98668,boe,4262.9,43.2,Fugitive
+FAC-22,1240.5,21.36,2026-04,Bakken-Estevan Oil Battery,Oil Battery,SK,54691,boe,1838.6,33.62,Venting
+FAC-23,4013.0,76.29,2026-04,Bakken-Estevan Oil Battery,Oil Battery,SK,132457,boe,6149.1,46.42,Fugitive
+FAC-25,1016.2,58.13,2026-04,Lloydminster Heavy Oil Battery,Oil Battery,SK,41069,boe,2643.8,64.37,Venting
+R100,152829.4,34.56,2026-05,Prairie Refinery,Refinery,AB,602683,m3 crude,153797.1,255.19,Fugitive
+R200,95494.6,22.22,2026-05,Lakehead Refinery,Refinery,ON,363378,m3 crude,96116.8,264.51,Fugitive
+R300,133671.8,40.95,2026-05,Saint-Laurent Refinery,Refinery,QC,593408,m3 crude,134818.4,227.19,Flaring
+FAC-01,8541.8,107.0,2026-05,Montney-Dawson Gas Plant,Gas Plant,BC,226270,boe,11537.8,50.99,Flaring
+FAC-02,22485.5,206.71,2026-05,Montney-Dawson Gas Plant,Gas Plant,BC,569651,boe,28273.4,49.63,Combustion slip
+FAC-03,22892.2,286.95,2026-05,Montney-Kakwa Gas Plant,Gas Plant,AB,535572,boe,30926.8,57.75,Venting
+FAC-04,21163.7,339.25,2026-05,Montney-Kakwa Gas Plant,Gas Plant,AB,498281,boe,30662.7,61.54,Fugitive
+FAC-05,8314.3,80.86,2026-05,Deep Basin-Edson Gas Plant,Gas Plant,AB,200679,boe,10578.4,52.71,Venting
+FAC-06,11571.5,162.35,2026-05,Deep Basin-Edson Gas Plant,Gas Plant,AB,254649,boe,16117.3,63.29,Venting
+FAC-07,11015.3,281.59,2026-05,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,385663,boe,18899.8,49.01,Fugitive
+FAC-08,24659.0,806.88,2026-05,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1071871,boe,47251.6,44.08,Fugitive
+FAC-09,1513.3,41.93,2026-05,Cardium-Pembina Oil Battery,Oil Battery,AB,55976,boe,2687.3,48.01,Fugitive
+FAC-10,6366.8,196.5,2026-05,Cardium-Pembina Oil Battery,Oil Battery,AB,219729,boe,11868.8,54.02,Fugitive
+FAC-11,2055.9,40.87,2026-05,Swan Hills Oil Battery,Oil Battery,AB,81618,boe,3200.3,39.21,Fugitive
+FAC-13,3436.1,104.68,2026-05,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,111865,boe,6367.1,56.92,Fugitive
+FAC-14,19531.7,34.54,2026-05,Cold Lake SAGD CPF,SAGD CPF,AB,288838,boe,20498.8,70.97,Combustion slip
+FAC-15,11904.9,37.9,2026-05,Cold Lake SAGD CPF,SAGD CPF,AB,185119,boe,12966.1,70.04,Fugitive
+FAC-16,24425.7,46.14,2026-05,Athabasca SAGD CPF,SAGD CPF,AB,312534,boe,25717.6,82.29,Fugitive
+FAC-17,11938.7,31.32,2026-05,Athabasca SAGD CPF,SAGD CPF,AB,167138,boe,12815.7,76.68,Combustion slip
+FAC-18,14832.0,27.87,2026-05,Athabasca SAGD CPF,SAGD CPF,AB,194454,boe,15612.4,80.29,Venting
+FAC-19,11334.2,25.54,2026-05,Peace River SAGD CPF,SAGD CPF,AB,146959,boe,12049.3,81.99,Fugitive
+FAC-21,2220.9,71.73,2026-05,Viking-Kerrobert Oil Battery,Oil Battery,SK,97804,boe,4229.3,43.24,Flaring
+FAC-22,1370.0,23.57,2026-05,Bakken-Estevan Oil Battery,Oil Battery,SK,58982,boe,2030.0,34.42,Venting
+FAC-23,4392.8,69.21,2026-05,Bakken-Estevan Oil Battery,Oil Battery,SK,139532,boe,6330.7,45.37,Venting
+FAC-25,1362.6,63.71,2026-05,Lloydminster Heavy Oil Battery,Oil Battery,SK,61571,boe,3146.5,51.1,Venting
+R100,145024.1,33.96,2026-06,Prairie Refinery,Refinery,AB,571199,m3 crude,145975.0,255.56,Flaring
+R200,95494.6,21.95,2026-06,Lakehead Refinery,Refinery,ON,376037,m3 crude,96109.2,255.58,Fugitive
+R300,127153.3,36.8,2026-06,Saint-Laurent Refinery,Refinery,QC,564395,m3 crude,128183.7,227.12,Combustion slip
+FAC-01,8280.8,106.69,2026-06,Montney-Dawson Gas Plant,Gas Plant,BC,220243,boe,11268.1,51.16,Fugitive
+FAC-02,21336.0,192.07,2026-06,Montney-Dawson Gas Plant,Gas Plant,BC,552245,boe,26714.0,48.37,Flaring
+FAC-03,21751.9,263.18,2026-06,Montney-Kakwa Gas Plant,Gas Plant,AB,496309,boe,29120.9,58.67,Venting
+FAC-04,19052.8,275.82,2026-06,Montney-Kakwa Gas Plant,Gas Plant,AB,477962,boe,26775.8,56.02,Fugitive
+FAC-05,8907.3,94.57,2026-06,Deep Basin-Edson Gas Plant,Gas Plant,AB,238349,boe,11555.3,48.48,Fugitive
+FAC-06,10634.1,141.08,2026-06,Deep Basin-Edson Gas Plant,Gas Plant,AB,244920,boe,14584.3,59.55,Flaring
+FAC-07,10902.3,249.21,2026-06,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,379671,boe,17880.2,47.09,Venting
+FAC-08,24963.5,759.28,2026-06,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1078133,boe,46223.3,42.87,Venting
+FAC-09,1362.0,39.52,2026-06,Cardium-Pembina Oil Battery,Oil Battery,AB,49103,boe,2468.6,50.27,Flaring
+FAC-10,5933.0,201.11,2026-06,Cardium-Pembina Oil Battery,Oil Battery,AB,217157,boe,11564.1,53.25,Fugitive
+FAC-11,1825.0,43.21,2026-06,Swan Hills Oil Battery,Oil Battery,AB,76472,boe,3034.9,39.69,Fugitive
+FAC-13,3041.1,91.7,2026-06,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,102665,boe,5608.7,54.63,Fugitive
+FAC-14,17773.7,29.4,2026-06,Cold Lake SAGD CPF,SAGD CPF,AB,273033,boe,18596.9,68.11,Fugitive
+FAC-15,10620.6,34.48,2026-06,Cold Lake SAGD CPF,SAGD CPF,AB,179546,boe,11586.0,64.53,Flaring
+FAC-16,25386.4,42.89,2026-06,Athabasca SAGD CPF,SAGD CPF,AB,311087,boe,26587.3,85.47,Flaring
+FAC-17,10653.6,28.04,2026-06,Athabasca SAGD CPF,SAGD CPF,AB,157407,boe,11438.7,72.67,Fugitive
+FAC-18,12713.9,26.33,2026-06,Athabasca SAGD CPF,SAGD CPF,AB,172149,boe,13451.1,78.14,Venting
+FAC-19,10818.6,20.27,2026-06,Peace River SAGD CPF,SAGD CPF,AB,142612,boe,11386.2,79.84,Combustion slip
+FAC-21,2117.6,49.12,2026-06,Viking-Kerrobert Oil Battery,Oil Battery,SK,96453,boe,3493.0,36.21,Fugitive
+FAC-22,1320.0,23.13,2026-06,Bakken-Estevan Oil Battery,Oil Battery,SK,54057,boe,1967.6,36.4,Flaring
+FAC-23,4079.5,72.31,2026-06,Bakken-Estevan Oil Battery,Oil Battery,SK,130957,boe,6104.2,46.61,Combustion slip
+FAC-25,1314.8,51.09,2026-06,Lloydminster Heavy Oil Battery,Oil Battery,SK,58123,boe,2745.3,47.23,Flaring
+R100,156054.8,38.67,2026-07,Prairie Refinery,Refinery,AB,631268,m3 crude,157137.6,248.92,Combustion slip
+R200,99474.9,23.3,2026-07,Lakehead Refinery,Refinery,ON,393735,m3 crude,100127.3,254.3,Combustion slip
+R300,130933.9,37.21,2026-07,Saint-Laurent Refinery,Refinery,QC,591606,m3 crude,131975.8,223.08,Fugitive
+FAC-01,8440.8,89.61,2026-07,Montney-Dawson Gas Plant,Gas Plant,BC,219590,boe,10949.9,49.87,Fugitive
+FAC-02,20882.6,209.27,2026-07,Montney-Dawson Gas Plant,Gas Plant,BC,552092,boe,26742.2,48.44,Combustion slip
+FAC-03,21088.2,283.16,2026-07,Montney-Kakwa Gas Plant,Gas Plant,AB,514193,boe,29016.7,56.43,Flaring
+FAC-04,20844.7,280.45,2026-07,Montney-Kakwa Gas Plant,Gas Plant,AB,507688,boe,28697.3,56.53,Fugitive
+FAC-05,9201.8,84.02,2026-07,Deep Basin-Edson Gas Plant,Gas Plant,AB,240678,boe,11554.4,48.01,Fugitive
+FAC-06,10861.7,130.25,2026-07,Deep Basin-Edson Gas Plant,Gas Plant,AB,249706,boe,14508.7,58.1,Fugitive
+FAC-07,10857.8,285.02,2026-07,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,377715,boe,18838.4,49.87,Venting
+FAC-08,24583.8,765.25,2026-07,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1126335,boe,46010.8,40.85,Flaring
+FAC-09,1475.0,40.73,2026-07,Cardium-Pembina Oil Battery,Oil Battery,AB,52769,boe,2615.4,49.56,Fugitive
+FAC-10,5653.4,212.79,2026-07,Cardium-Pembina Oil Battery,Oil Battery,AB,210714,boe,11611.5,55.11,Flaring
+FAC-11,1367.1,37.65,2026-07,Swan Hills Oil Battery,Oil Battery,AB,53464,boe,2421.3,45.29,Venting
+FAC-13,3313.4,89.5,2026-07,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,108302,boe,5819.4,53.73,Fugitive
+FAC-14,17085.7,35.72,2026-07,Cold Lake SAGD CPF,SAGD CPF,AB,283307,boe,18085.9,63.84,Venting
+FAC-15,10628.2,43.73,2026-07,Cold Lake SAGD CPF,SAGD CPF,AB,175718,boe,11852.6,67.45,Flaring
+FAC-16,22814.8,33.21,2026-07,Athabasca SAGD CPF,SAGD CPF,AB,289938,boe,23744.7,81.9,Combustion slip
+FAC-17,10745.6,29.62,2026-07,Athabasca SAGD CPF,SAGD CPF,AB,153763,boe,11575.0,75.28,Combustion slip
+FAC-18,13527.5,23.76,2026-07,Athabasca SAGD CPF,SAGD CPF,AB,185388,boe,14192.8,76.56,Fugitive
+FAC-19,11514.5,25.61,2026-07,Peace River SAGD CPF,SAGD CPF,AB,153187,boe,12231.6,79.85,Combustion slip
+FAC-21,2016.0,66.44,2026-07,Viking-Kerrobert Oil Battery,Oil Battery,SK,99259,boe,3876.3,39.05,Venting
+FAC-22,1432.8,24.39,2026-07,Bakken-Estevan Oil Battery,Oil Battery,SK,58572,boe,2115.7,36.12,Venting
+FAC-23,4342.5,91.39,2026-07,Bakken-Estevan Oil Battery,Oil Battery,SK,140922,boe,6901.4,48.97,Fugitive
+FAC-25,1302.5,57.98,2026-07,Lloydminster Heavy Oil Battery,Oil Battery,SK,59480,boe,2925.9,49.19,Fugitive
+R100,154656.7,31.32,2026-08,Prairie Refinery,Refinery,AB,594282,m3 crude,155533.7,261.72,Combustion slip
+R200,93601.1,21.35,2026-08,Lakehead Refinery,Refinery,ON,375189,m3 crude,94198.9,251.07,Fugitive
+R300,124559.5,41.08,2026-08,Saint-Laurent Refinery,Refinery,QC,552857,m3 crude,125709.7,227.38,Fugitive
+FAC-01,8957.9,102.22,2026-08,Montney-Dawson Gas Plant,Gas Plant,BC,225604,boe,11820.1,52.39,Fugitive
+FAC-02,21181.0,198.21,2026-08,Montney-Dawson Gas Plant,Gas Plant,BC,523027,boe,26730.9,51.11,Venting
+FAC-03,23033.7,245.74,2026-08,Montney-Kakwa Gas Plant,Gas Plant,AB,519913,boe,29914.4,57.54,Fugitive
+FAC-04,19817.8,254.88,2026-08,Montney-Kakwa Gas Plant,Gas Plant,AB,489022,boe,26954.4,55.12,Venting
+FAC-05,9407.5,89.18,2026-08,Deep Basin-Edson Gas Plant,Gas Plant,AB,248666,boe,11904.5,47.87,Flaring
+FAC-06,8256.7,116.91,2026-08,Deep Basin-Edson Gas Plant,Gas Plant,AB,168861,boe,11530.2,68.28,Fugitive
+FAC-07,10983.7,295.85,2026-08,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,381636,boe,19267.5,50.49,Venting
+FAC-08,23588.3,837.63,2026-08,Duvernay-Fox Creek Oil Battery,Oil Battery,AB,1040186,boe,47041.9,45.22,Venting
+FAC-09,1406.3,39.5,2026-08,Cardium-Pembina Oil Battery,Oil Battery,AB,50769,boe,2512.3,49.48,Venting
+FAC-10,5339.1,166.71,2026-08,Cardium-Pembina Oil Battery,Oil Battery,AB,196760,boe,10007.0,50.86,Venting
+FAC-11,1853.3,42.65,2026-08,Swan Hills Oil Battery,Oil Battery,AB,78942,boe,3047.5,38.6,Fugitive
+FAC-13,3040.2,86.06,2026-08,Clearwater-Marten Hills Oil Battery,Oil Battery,AB,104602,boe,5449.9,52.1,Venting
+FAC-14,16736.9,30.99,2026-08,Cold Lake SAGD CPF,SAGD CPF,AB,253632,boe,17604.6,69.41,Venting
+FAC-15,11570.4,42.63,2026-08,Cold Lake SAGD CPF,SAGD CPF,AB,181190,boe,12764.0,70.45,Fugitive
+FAC-16,23000.8,43.31,2026-08,Athabasca SAGD CPF,SAGD CPF,AB,306814,boe,24213.5,78.92,Fugitive
+FAC-17,11427.7,27.56,2026-08,Athabasca SAGD CPF,SAGD CPF,AB,167681,boe,12199.4,72.75,Venting
+FAC-18,11252.4,22.49,2026-08,Athabasca SAGD CPF,SAGD CPF,AB,150299,boe,11882.1,79.06,Flaring
+FAC-19,11001.6,23.84,2026-08,Peace River SAGD CPF,SAGD CPF,AB,145298,boe,11669.1,80.31,Flaring
+FAC-21,2213.9,69.82,2026-08,Viking-Kerrobert Oil Battery,Oil Battery,SK,98284,boe,4168.9,42.42,Fugitive
+FAC-22,1341.6,25.09,2026-08,Bakken-Estevan Oil Battery,Oil Battery,SK,58479,boe,2044.1,34.95,Venting
+FAC-23,3922.7,80.73,2026-08,Bakken-Estevan Oil Battery,Oil Battery,SK,135994,boe,6183.1,45.47,Venting
+FAC-25,1287.9,65.08,2026-08,Lloydminster Heavy Oil Battery,Oil Battery,SK,60254,boe,3110.1,51.62,Venting
