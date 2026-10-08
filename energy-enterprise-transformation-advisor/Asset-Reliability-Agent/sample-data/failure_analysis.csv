@@ -1,0 +1,501 @@
+Asset_ID,Failure_Mode,Root_Cause,Failure_ID,Work_Order,Failure_Date,Severity,Downtime_Hrs,Detection_Method,Asset_Type,Site,Criticality
+AST-00051,Burner failure,Fuel quality,FLR-00001,4000100635,2025-10-22,Critical,537.4,Alarm / trip,Fired Heater,R100,A
+AST-00407,Bearing failure,Shaft misalignment,FLR-00002,4000100738,2026-01-24,Minor,20.1,Condition monitoring,Electric Motor,R100,B
+AST-00360,Bearing failure,Rotor imbalance,FLR-00003,4000100260,2024-10-25,Major,135.3,Condition monitoring,Centrifugal Compressor,R200,A
+AST-00349,Leak-by,Contamination,FLR-00004,4000100794,2026-03-14,Minor,15.6,Condition monitoring,Control Valve,FAC-01,B
+AST-00254,Positioner failure,Instrument air quality,FLR-00005,4000100639,2025-10-25,Minor,13.3,Alarm / trip,Control Valve,R200,B
+AST-00182,Stuck / sticking,Stem packing wear,FLR-00006,4000100207,2024-08-30,Major,119.6,Inspection,Control Valve,R300,B
+AST-00444,Bearing failure,Vibration fatigue,FLR-00007,4000100811,2026-04-04,Critical,347.0,Condition monitoring,Centrifugal Pump,FAC-10,A
+AST-00454,Bearing failure,Lubricant contamination,FLR-00008,4000100892,2026-06-20,Minor,23.9,Condition monitoring,Centrifugal Pump,R100,C
+AST-00425,Packing leak,Lubrication failure,FLR-00009,4000100874,2026-06-02,Minor,7.5,Condition monitoring,Reciprocating Compressor,R300,C
+AST-00380,Leak-by,Seat erosion,FLR-00010,4000100001,2024-01-02,Minor,7.8,Alarm / trip,Control Valve,R300,B
+AST-00203,Stuck / sticking,Stem packing wear,FLR-00011,4000100609,2025-09-30,Minor,7.7,Inspection,Control Valve,R200,B
+AST-00203,Positioner failure,Instrument air quality,FLR-00012,4000100989,2026-09-23,Minor,20.1,Condition monitoring,Control Valve,R200,B
+AST-00174,Stuck / sticking,Contamination,FLR-00013,4000100066,2024-03-17,Major,37.9,Operator round,Control Valve,FAC-19,B
+AST-00326,Tube leak,Thermal fatigue,FLR-00014,4000100236,2024-09-27,Minor,18.2,Inspection,Shell & Tube Heat Exchanger,R300,B
+AST-00029,Impeller damage,Erosion,FLR-00015,4000100555,2025-08-16,Minor,4.1,Operator round,Centrifugal Pump,R100,A
+AST-00495,Set point drift,Age / wear,FLR-00016,4000100279,2024-11-07,Minor,5.3,Alarm / trip,Pressure Relief Valve,R300,C
+AST-00023,Stuck / sticking,Actuator failure,FLR-00017,4000100057,2024-03-05,Minor,13.5,Inspection,Control Valve,FAC-03,B
+AST-00398,Bearing failure,Inadequate lubrication,FLR-00018,4000100934,2026-07-27,Minor,13.9,Inspection,Electric Motor,R300,B
+AST-00344,Leak-by,Contamination,FLR-00019,4000100323,2024-12-27,Major,66.8,Inspection,Control Valve,R100,B
+AST-00042,Cylinder scoring,Lubrication failure,FLR-00020,4000100455,2025-04-27,Minor,1.9,Condition monitoring,Reciprocating Compressor,R200,A
+AST-00411,Mechanical seal leak,Shaft misalignment,FLR-00021,4000100178,2024-07-20,Major,35.3,Alarm / trip,Centrifugal Pump,T800,A
+AST-00097,Mechanical seal leak,Seal face wear,FLR-00022,4000100106,2024-05-04,Major,42.2,Condition monitoring,Centrifugal Pump,R100,B
+AST-00331,Rod string failure,Fatigue,FLR-00023,4000100543,2025-08-04,Minor,14.0,Operator round,Pumpjack,FAC-10,B
+AST-00082,Rotor fouling,Process fouling,FLR-00024,4000100372,2025-02-05,Critical,503.8,Alarm / trip,Centrifugal Compressor,R200,C
+AST-00384,Mechanical seal leak,Dry running,FLR-00025,4000100293,2024-11-19,Major,82.3,Alarm / trip,Centrifugal Pump,FAC-15,C
+AST-00484,Signal drift / failure,Calibration drift,FLR-00026,4000100594,2025-09-20,Major,40.8,Alarm / trip,Process Transmitter,T500,B
+AST-00476,Winding insulation failure,Overheating,FLR-00027,4000100227,2024-09-19,Minor,7.9,Condition monitoring,Electric Motor,R200,A
+AST-00029,Bearing failure,Shaft misalignment,FLR-00028,4000100636,2025-10-23,Major,25.5,Alarm / trip,Centrifugal Pump,R100,A
+AST-00249,Stuck / sticking,Stem packing wear,FLR-00029,4000100144,2024-06-15,Critical,300.6,Alarm / trip,Control Valve,R300,C
+AST-00096,Winding insulation failure,Moisture ingress,FLR-00030,4000100943,2026-08-03,Major,43.5,Condition monitoring,Electric Motor,FAC-09,A
+AST-00349,Stuck / sticking,Actuator failure,FLR-00031,4000100844,2026-05-04,Minor,4.9,Operator round,Control Valve,FAC-01,B
+AST-00271,Bearing failure,Inadequate lubrication,FLR-00032,4000100928,2026-07-20,Major,116.4,Operator round,Electric Motor,T400,B
+AST-00489,Burner failure,Fuel quality,FLR-00033,4000100904,2026-06-27,Major,64.8,Inspection,Steam Generator (OTSG),FAC-18,A
+AST-00405,Fails to reseat / leaking,Seat wear,FLR-00034,4000100373,2025-02-07,Major,36.5,Alarm / trip,Pressure Relief Valve,FAC-05,A
+AST-00301,Signal drift / failure,Electrical fault,FLR-00035,4000100538,2025-07-28,Major,43.5,Alarm / trip,Process Transmitter,T700,B
+AST-00025,Stuck / sticking,Stem packing wear,FLR-00036,4000100951,2026-08-10,Critical,678.2,Operator round,Control Valve,R200,C
+AST-00476,Bearing failure,Vibration fatigue,FLR-00037,4000100399,2025-03-08,Minor,6.4,Alarm / trip,Electric Motor,R200,A
+AST-00075,Packing leak,Rod wear,FLR-00038,4000100076,2024-03-31,Major,160.7,Operator round,Gas Compressor (Recip),FAC-05,B
+AST-00398,Bearing failure,Vibration fatigue,FLR-00039,4000100078,2024-04-02,Minor,25.6,Operator round,Electric Motor,R300,B
+AST-00042,Valve failure,Fatigue,FLR-00040,4000100937,2026-07-30,Minor,19.3,Inspection,Reciprocating Compressor,R200,A
+AST-00168,Pump wear,Wear,FLR-00041,4000100100,2024-04-30,Major,138.7,Alarm / trip,ESP,FAC-20,C
+AST-00206,Gearbox failure,Lubrication failure,FLR-00042,4000100430,2025-04-06,Critical,209.4,Condition monitoring,Pumpjack,FAC-21,C
+AST-00090,Motor burn-out,Electrical fault,FLR-00043,4000100494,2025-06-14,Minor,12.7,Condition monitoring,ESP,FAC-12,C
+AST-00380,Leak-by,Contamination,FLR-00044,4000100464,2025-05-05,Minor,1.8,Operator round,Control Valve,R300,B
+AST-00056,Bearing failure,Shaft misalignment,FLR-00045,4000100776,2026-03-02,Major,61.5,Inspection,Electric Motor,R300,C
+AST-00288,Mechanical seal leak,Improper installation,FLR-00046,4000100058,2024-03-03,Critical,744.6,Operator round,Centrifugal Pump,R100,A
+AST-00214,Bearing failure,Shaft misalignment,FLR-00047,4000100226,2024-09-17,Major,90.3,Alarm / trip,Electric Motor,FAC-20,A
+AST-00214,Bearing failure,Shaft misalignment,FLR-00048,4000100664,2025-11-12,Critical,405.7,Condition monitoring,Electric Motor,FAC-20,A
+AST-00476,Bearing failure,Inadequate lubrication,FLR-00049,4000100526,2025-07-14,Minor,4.0,Alarm / trip,Electric Motor,R200,A
+AST-00145,Leak-by,Contamination,FLR-00050,4000100428,2025-04-02,Major,45.0,Alarm / trip,Control Valve,R100,C
+AST-00263,Fan / belt failure,Wear,FLR-00051,4000100360,2025-01-24,Minor,17.3,Condition monitoring,Air Cooler,R100,C
+AST-00044,Positioner failure,Calibration drift,FLR-00052,4000100770,2026-02-26,Major,60.1,Operator round,Control Valve,T400,B
+AST-00109,Signal drift / failure,Moisture ingress,FLR-00053,4000100465,2025-05-05,Minor,8.3,Alarm / trip,Process Transmitter,R200,B
+AST-00022,Winding insulation failure,Voltage spike,FLR-00054,4000100826,2026-04-16,Critical,230.1,Operator round,Electric Motor,T300,C
+AST-00061,Roof seal failure,Weather / snow load,FLR-00055,4000100823,2026-04-14,Major,49.9,Inspection,Storage Tank,FAC-17,A
+AST-00380,Leak-by,Contamination,FLR-00056,4000100954,2026-08-15,Major,30.0,Operator round,Control Valve,R300,B
+AST-00368,Winding insulation failure,Overheating,FLR-00057,4000100900,2026-06-26,Critical,94.9,Operator round,Electric Motor,R100,A
+AST-00237,Mechanical seal leak,Improper installation,FLR-00058,4000100801,2026-03-24,Major,36.8,Condition monitoring,Centrifugal Pump,R100,C
+AST-00188,Leak-by,Seat erosion,FLR-00059,4000100107,2024-05-05,Minor,10.0,Operator round,Control Valve,FAC-14,B
+AST-00309,Gearbox failure,Overload,FLR-00060,4000100162,2024-07-03,Major,57.4,Operator round,Pumpjack,FAC-11,A
+AST-00489,Tube fouling / scaling,Water chemistry upset,FLR-00061,4000100528,2025-07-16,Minor,12.0,Condition monitoring,Steam Generator (OTSG),FAC-18,A
+AST-00025,Leak-by,Contamination,FLR-00062,4000100448,2025-04-23,Minor,6.1,Condition monitoring,Control Valve,R200,C
+AST-00380,Leak-by,Contamination,FLR-00063,4000100929,2026-07-20,Major,110.9,Alarm / trip,Control Valve,R300,B
+AST-00394,Pump wear,Wear,FLR-00064,4000100431,2025-04-05,Major,52.8,Operator round,ESP,FAC-13,B
+AST-00089,Cylinder scoring,Contamination,FLR-00065,4000100255,2024-10-14,Minor,10.9,Operator round,Reciprocating Compressor,R200,B
+AST-00178,Coupling failure,Shaft misalignment,FLR-00066,4000100908,2026-06-30,Critical,260.0,Alarm / trip,Centrifugal Pump,R200,B
+AST-00254,Leak-by,Contamination,FLR-00067,4000100916,2026-07-07,Major,17.9,Operator round,Control Valve,R200,B
+AST-00140,Positioner failure,Calibration drift,FLR-00068,4000100533,2025-07-16,Major,70.1,Condition monitoring,Control Valve,FAC-18,B
+AST-00303,Gearbox failure,Overload,FLR-00069,4000100268,2024-10-29,Minor,16.6,Alarm / trip,Pumpjack,FAC-09,B
+AST-00345,Floor / shell corrosion,Coating degradation,FLR-00070,4000100894,2026-06-22,Minor,9.6,Operator round,Storage Tank,R300,A
+AST-00071,Bearing failure,Inadequate lubrication,FLR-00071,4000100706,2025-12-20,Minor,8.3,Inspection,Electric Motor,T500,B
+AST-00386,Mechanical seal leak,Improper installation,FLR-00072,4000100416,2025-03-25,Major,27.3,Operator round,Centrifugal Pump,T300,C
+AST-00399,Erosion at choke,Sand production,FLR-00073,4000100086,2024-04-12,Minor,13.4,Operator round,Wellhead,FAC-23,A
+AST-00417,Leak-by,Seat erosion,FLR-00074,4000100489,2025-06-12,Minor,6.4,Operator round,Control Valve,FAC-16,B
+AST-00089,Packing leak,Lubrication failure,FLR-00075,4000100633,2025-10-20,Minor,9.2,Alarm / trip,Reciprocating Compressor,R200,B
+AST-00277,Nozzle crack,Fatigue,FLR-00076,4000100975,2026-09-04,Major,73.1,Operator round,Pressure Vessel,FAC-16,B
+AST-00236,Bearing failure,Lubricant contamination,FLR-00077,4000100859,2026-05-12,Critical,531.4,Operator round,Centrifugal Pump,R100,B
+AST-00095,Motor burn-out,Electrical fault,FLR-00078,4000100505,2025-06-28,Minor,7.5,Inspection,ESP,FAC-11,A
+AST-00462,Burner failure,Fuel quality,FLR-00079,4000100217,2024-09-12,Minor,6.2,Operator round,Fired Heater,R100,A
+AST-00153,Set point drift,Calibration drift,FLR-00080,4000100767,2026-02-24,Minor,2.9,Alarm / trip,Pressure Relief Valve,R100,A
+AST-00196,Roof seal failure,Age / wear,FLR-00081,4000100675,2025-11-18,Minor,13.2,Alarm / trip,Storage Tank,FAC-13,B
+AST-00447,Mechanical seal leak,Dry running,FLR-00082,4000100563,2025-08-22,Minor,8.6,Condition monitoring,Centrifugal Pump,R300,A
+AST-00432,Shaft fracture,Fatigue,FLR-00083,4000100397,2025-03-05,Minor,11.5,Condition monitoring,Centrifugal Pump,R100,C
+AST-00386,Coupling failure,Improper installation,FLR-00084,4000100688,2025-11-27,Minor,12.8,Alarm / trip,Centrifugal Pump,T300,C
+AST-00112,Firetube / tube failure,Scale / fouling,FLR-00085,4000100691,2025-12-03,Major,49.6,Condition monitoring,Heater Treater,FAC-08,B
+AST-00428,Fouling / reduced duty,Process fouling,FLR-00086,4000100783,2026-03-03,Minor,7.9,Alarm / trip,Shell & Tube Heat Exchanger,R200,C
+AST-00038,Level control failure,Foaming,FLR-00087,4000100477,2025-05-28,Minor,3.5,Operator round,Separator,FAC-21,A
+AST-00321,Burner management trip,Fuel quality,FLR-00088,4000100787,2026-03-07,Major,46.0,Alarm / trip,Boiler,R100,A
+AST-00137,Leak-by,Contamination,FLR-00089,4000100244,2024-10-01,Major,71.1,Alarm / trip,Control Valve,R200,C
+AST-00060,Coupling failure,Improper installation,FLR-00090,4000100569,2025-08-29,Minor,8.5,Operator round,Centrifugal Pump,T600,B
+AST-00063,Corrosion thinning,Process corrosion (H2S / amine),FLR-00091,4000100544,2025-08-02,Major,23.0,Alarm / trip,Pressure Vessel,FAC-04,A
+AST-00090,Pump wear,Sand / abrasives,FLR-00092,4000100701,2025-12-17,Major,44.0,Inspection,ESP,FAC-12,C
+AST-00355,Winding insulation failure,Voltage spike,FLR-00093,4000100763,2026-02-19,Minor,21.4,Operator round,Electric Motor,R100,B
+AST-00164,Winding insulation failure,Overheating,FLR-00094,4000100888,2026-06-16,Minor,12.2,Condition monitoring,Electric Motor,FAC-22,C
+AST-00476,Winding insulation failure,Voltage spike,FLR-00095,4000100585,2025-09-13,Major,96.2,Inspection,Electric Motor,R200,A
+AST-00112,Burner failure,Fuel quality,FLR-00096,4000100077,2024-04-02,Major,75.7,Alarm / trip,Heater Treater,FAC-08,B
+AST-00053,Signal drift / failure,Electrical fault,FLR-00097,4000100685,2025-11-24,Minor,2.0,Inspection,Process Transmitter,R200,B
+AST-00073,Fails to reseat / leaking,Improper set pressure,FLR-00098,4000100933,2026-07-27,Minor,2.9,Inspection,Pressure Relief Valve,R100,A
+AST-00278,Signal drift / failure,Electrical fault,FLR-00099,4000100955,2026-08-18,Minor,1.3,Condition monitoring,Process Transmitter,R300,C
+AST-00342,Gearbox failure,Lubrication failure,FLR-00100,4000100587,2025-09-14,Major,57.0,Alarm / trip,Pumpjack,FAC-11,A
+AST-00025,Positioner failure,Calibration drift,FLR-00101,4000100193,2024-08-07,Minor,3.5,Condition monitoring,Control Valve,R200,C
+AST-00042,Packing leak,Improper installation,FLR-00102,4000100672,2025-11-20,Minor,14.3,Operator round,Reciprocating Compressor,R200,A
+AST-00324,Leak-by,Contamination,FLR-00103,4000100349,2025-01-16,Minor,7.4,Alarm / trip,Control Valve,R100,B
+AST-00417,Stuck / sticking,Contamination,FLR-00104,4000100153,2024-06-26,Major,60.8,Operator round,Control Valve,FAC-16,B
+AST-00255,Motor burn-out,Gas interference,FLR-00105,4000100595,2025-09-20,Minor,22.9,Operator round,ESP,FAC-08,A
+AST-00355,Bearing failure,Inadequate lubrication,FLR-00106,4000100166,2024-07-07,Major,24.2,Alarm / trip,Electric Motor,R100,B
+AST-00290,Impeller damage,Foreign object,FLR-00107,4000100559,2025-08-18,Critical,378.4,Operator round,Centrifugal Pump,FAC-21,A
+AST-00472,Mechanical seal leak,Shaft misalignment,FLR-00108,4000100491,2025-06-12,Minor,19.3,Alarm / trip,Centrifugal Pump,FAC-16,A
+AST-00378,Bearing failure,Vibration fatigue,FLR-00109,4000100034,2024-02-07,Minor,4.5,Alarm / trip,Electric Motor,FAC-22,B
+AST-00291,Winding insulation failure,Moisture ingress,FLR-00110,4000100466,2025-05-07,Minor,19.3,Alarm / trip,Electric Motor,T100,A
+AST-00434,Pilot flame-out,Weather / wind,FLR-00111,4000100002,2024-01-02,Critical,227.4,Operator round,Flare Stack,FAC-12,A
+AST-00347,Set point drift,Calibration drift,FLR-00112,4000100815,2026-04-08,Major,7.8,Condition monitoring,Pressure Relief Valve,R100,C
+AST-00230,Refractory damage,Age / wear,FLR-00113,4000100382,2025-02-17,Minor,18.8,Operator round,Fired Heater,R100,A
+AST-00344,Leak-by,Seat erosion,FLR-00114,4000100447,2025-04-22,Minor,17.5,Operator round,Control Valve,R100,B
+AST-00406,Burner failure,Wear,FLR-00115,4000100902,2026-06-26,Minor,7.6,Operator round,Heater Treater,FAC-07,B
+AST-00243,Positioner failure,Calibration drift,FLR-00116,4000100307,2024-12-09,Minor,18.4,Operator round,Control Valve,T100,A
+AST-00497,Cylinder scoring,Contamination,FLR-00117,4000100741,2026-01-26,Major,90.6,Operator round,Gas Compressor (Recip),FAC-03,B
+AST-00414,Coupling failure,Shaft misalignment,FLR-00118,4000100412,2025-03-15,Minor,10.4,Operator round,Centrifugal Pump,R300,A
+AST-00380,Leak-by,Contamination,FLR-00119,4000100269,2024-10-29,Minor,11.7,Condition monitoring,Control Valve,R300,B
+AST-00295,Stuck / sticking,Stem packing wear,FLR-00120,4000100968,2026-08-30,Minor,12.7,Alarm / trip,Control Valve,T500,C
+AST-00462,Tube coking / overheat,Low flow / process upset,FLR-00121,4000100629,2025-10-18,Major,66.2,Alarm / trip,Fired Heater,R100,A
+AST-00405,Fails to reseat / leaking,Seat wear,FLR-00122,4000100788,2026-03-08,Major,24.2,Condition monitoring,Pressure Relief Valve,FAC-05,A
+AST-00425,Crankshaft bearing failure,Vibration fatigue,FLR-00123,4000100562,2025-08-24,Major,74.9,Alarm / trip,Reciprocating Compressor,R300,C
+AST-00258,Leak-by,Contamination,FLR-00124,4000100467,2025-05-08,Major,96.7,Alarm / trip,Control Valve,R300,A
+AST-00386,Impeller damage,Erosion,FLR-00125,4000100338,2025-01-07,Major,39.9,Inspection,Centrifugal Pump,T300,C
+AST-00175,Level control failure,Foaming,FLR-00126,4000100536,2025-07-23,Major,18.3,Inspection,Separator,FAC-05,B
+AST-00175,Level control failure,Foaming,FLR-00127,4000100877,2026-06-02,Minor,14.6,Alarm / trip,Separator,FAC-05,B
+AST-00380,Stuck / sticking,Stem packing wear,FLR-00128,4000100424,2025-03-31,Critical,456.2,Condition monitoring,Control Valve,R300,B
+AST-00360,Rotor fouling,Contamination,FLR-00129,4000100564,2025-08-23,Minor,17.2,Alarm / trip,Centrifugal Compressor,R200,A
+AST-00202,Floor / shell corrosion,Water bottoms corrosion,FLR-00130,4000100530,2025-07-17,Minor,5.8,Operator round,Storage Tank,T400,C
+AST-00110,Impeller damage,Erosion,FLR-00131,4000100983,2026-09-13,Minor,11.8,Alarm / trip,Centrifugal Pump,FAC-19,B
+AST-00158,Motor failure,Voltage spike,FLR-00132,4000100626,2025-10-12,Major,104.4,Alarm / trip,Pumpjack,FAC-25,A
+AST-00360,Bearing failure,Lubrication failure,FLR-00133,4000100572,2025-09-02,Major,109.9,Operator round,Centrifugal Compressor,R200,A
+AST-00141,Fails to reseat / leaking,Fouling / polymerisation,FLR-00134,4000100176,2024-07-18,Minor,5.4,Alarm / trip,Pressure Relief Valve,R100,A
+AST-00268,Bearing failure,Inadequate lubrication,FLR-00135,4000100578,2025-09-10,Major,37.4,Alarm / trip,Electric Motor,FAC-16,C
+AST-00042,Cylinder scoring,Contamination,FLR-00136,4000100355,2025-01-22,Minor,3.2,Alarm / trip,Reciprocating Compressor,R200,A
+AST-00212,Meter drift,Calibration drift,FLR-00137,4000100773,2026-02-28,Minor,22.7,Inspection,Metering Skid,T800,C
+AST-00178,Coupling failure,Improper installation,FLR-00138,4000100081,2024-04-10,Minor,10.5,Condition monitoring,Centrifugal Pump,R200,B
+AST-00158,Gearbox failure,Overload,FLR-00139,4000100509,2025-07-01,Minor,13.4,Condition monitoring,Pumpjack,FAC-25,A
+AST-00074,Mechanical seal leak,Improper installation,FLR-00140,4000100885,2026-06-11,Major,28.2,Operator round,Centrifugal Pump,R100,B
+AST-00290,Impeller damage,Foreign object,FLR-00141,4000100075,2024-03-30,Major,64.2,Alarm / trip,Centrifugal Pump,FAC-21,A
+AST-00164,Winding insulation failure,Voltage spike,FLR-00142,4000100945,2026-08-05,Minor,2.3,Operator round,Electric Motor,FAC-22,C
+AST-00274,Impeller damage,Erosion,FLR-00143,4000100283,2024-11-08,Minor,17.4,Operator round,Centrifugal Pump,R200,A
+AST-00384,Coupling failure,Shaft misalignment,FLR-00144,4000100646,2025-11-03,Minor,12.8,Alarm / trip,Centrifugal Pump,FAC-15,C
+AST-00069,Cylinder scoring,Lubrication failure,FLR-00145,4000100694,2025-12-09,Major,18.2,Alarm / trip,Reciprocating Compressor,R100,B
+AST-00355,Bearing failure,Inadequate lubrication,FLR-00146,4000100680,2025-11-21,Minor,5.1,Alarm / trip,Electric Motor,R100,B
+AST-00232,Stuck / sticking,Actuator failure,FLR-00147,4000100828,2026-04-17,Minor,8.7,Alarm / trip,Control Valve,FAC-19,A
+AST-00417,Positioner failure,Calibration drift,FLR-00148,4000100335,2025-01-06,Minor,19.9,Alarm / trip,Control Valve,FAC-16,B
+AST-00380,Leak-by,Seat erosion,FLR-00149,4000100006,2024-01-05,Major,57.0,Alarm / trip,Control Valve,R300,B
+AST-00196,Roof seal failure,Age / wear,FLR-00150,4000100118,2024-05-15,Minor,14.3,Operator round,Storage Tank,FAC-13,B
+AST-00042,Packing leak,Improper installation,FLR-00151,4000100032,2024-02-05,Major,36.3,Alarm / trip,Reciprocating Compressor,R200,A
+AST-00257,Crankshaft bearing failure,Lubrication failure,FLR-00152,4000100601,2025-09-25,Critical,373.0,Operator round,Gas Compressor (Recip),FAC-04,C
+AST-00381,Winding insulation failure,Overheating,FLR-00153,4000100843,2026-05-02,Major,95.6,Operator round,Electric Motor,FAC-18,A
+AST-00140,Leak-by,Seat erosion,FLR-00154,4000100284,2024-11-12,Minor,17.5,Alarm / trip,Control Valve,FAC-18,B
+AST-00360,Surge damage,Operator error,FLR-00155,4000100752,2026-02-12,Minor,9.9,Operator round,Centrifugal Compressor,R200,A
+AST-00399,Erosion at choke,Erosion,FLR-00156,4000100930,2026-07-26,Minor,19.8,Operator round,Wellhead,FAC-23,A
+AST-00274,Coupling failure,Improper installation,FLR-00157,4000100535,2025-07-19,Major,52.0,Operator round,Centrifugal Pump,R200,A
+AST-00254,Stuck / sticking,Contamination,FLR-00158,4000100439,2025-04-13,Minor,12.3,Alarm / trip,Control Valve,R200,B
+AST-00102,Coupling failure,Improper installation,FLR-00159,4000100148,2024-06-18,Minor,9.6,Operator round,Centrifugal Pump,FAC-08,B
+AST-00089,Valve failure,Liquid carryover,FLR-00160,4000100762,2026-02-19,Minor,6.4,Operator round,Reciprocating Compressor,R200,B
+AST-00277,Nozzle crack,Weld defect,FLR-00161,4000100072,2024-03-23,Major,52.5,Operator round,Pressure Vessel,FAC-16,B
+AST-00349,Stuck / sticking,Stem packing wear,FLR-00162,4000100659,2025-11-11,Minor,9.6,Operator round,Control Valve,FAC-01,B
+AST-00282,Corrosion thinning,Process corrosion (H2S / amine),FLR-00163,4000100881,2026-06-08,Minor,22.6,Condition monitoring,Pressure Vessel,FAC-03,C
+AST-00071,Winding insulation failure,Overheating,FLR-00164,4000100906,2026-06-29,Major,125.6,Inspection,Electric Motor,T500,B
+AST-00154,Floor / shell corrosion,Corrosion under insulation,FLR-00165,4000100980,2026-09-11,Major,41.3,Operator round,Storage Tank,T800,A
+AST-00060,Shaft fracture,Overload / process upset,FLR-00166,4000100883,2026-06-11,Minor,2.6,Alarm / trip,Centrifugal Pump,T600,B
+AST-00090,Motor burn-out,Electrical fault,FLR-00167,4000100125,2024-05-24,Critical,417.4,Operator round,ESP,FAC-12,C
+AST-00447,Coupling failure,Improper installation,FLR-00168,4000100917,2026-07-07,Major,69.5,Alarm / trip,Centrifugal Pump,R300,A
+AST-00148,Internal corrosion,Process corrosion (H2S / amine),FLR-00169,4000100942,2026-08-04,Major,42.4,Inspection,Separator,FAC-23,C
+AST-00426,Tube leak,Freeze damage,FLR-00170,4000100657,2025-11-08,Minor,4.7,Alarm / trip,Air Cooler,R100,B
+AST-00103,Impeller damage,Erosion,FLR-00171,4000100684,2025-11-25,Major,70.0,Inspection,Centrifugal Pump,T600,C
+AST-00004,Impeller damage,Foreign object,FLR-00172,4000100311,2024-12-13,Major,69.0,Inspection,Centrifugal Pump,R300,C
+AST-00060,Coupling failure,Improper installation,FLR-00173,4000100497,2025-06-17,Minor,5.3,Operator round,Centrifugal Pump,T600,B
+AST-00405,Set point drift,Calibration drift,FLR-00174,4000100174,2024-07-16,Critical,235.8,Alarm / trip,Pressure Relief Valve,FAC-05,A
+AST-00239,Rod string failure,Corrosion,FLR-00175,4000100482,2025-06-02,Minor,2.9,Inspection,Pumpjack,FAC-25,B
+AST-00182,Positioner failure,Calibration drift,FLR-00176,4000100618,2025-10-07,Minor,11.3,Alarm / trip,Control Valve,R300,B
+AST-00263,Tube leak,Freeze damage,FLR-00177,4000100628,2025-10-15,Critical,124.0,Inspection,Air Cooler,R100,C
+AST-00049,Leak-by,Contamination,FLR-00178,4000100042,2024-02-15,Minor,13.9,Condition monitoring,Control Valve,R300,C
+AST-00096,Winding insulation failure,Voltage spike,FLR-00179,4000100913,2026-07-05,Minor,11.6,Alarm / trip,Electric Motor,FAC-09,A
+AST-00369,Stuck / sticking,Stem packing wear,FLR-00180,4000100219,2024-09-13,Minor,11.0,Operator round,Control Valve,FAC-06,A
+AST-00337,Firetube / tube failure,Scale / fouling,FLR-00181,4000100718,2026-01-02,Critical,689.2,Condition monitoring,Heater Treater,FAC-09,A
+AST-00384,Bearing failure,Lubricant contamination,FLR-00182,4000100632,2025-10-19,Critical,124.3,Operator round,Centrifugal Pump,FAC-15,C
+AST-00175,Level control failure,Instrument failure,FLR-00183,4000100143,2024-06-15,Major,64.7,Inspection,Separator,FAC-05,B
+AST-00005,Governor / trip system fault,Wear,FLR-00184,4000100124,2024-05-25,Minor,6.5,Operator round,Steam Turbine,R100,C
+AST-00237,Coupling failure,Improper installation,FLR-00185,4000100640,2025-10-24,Minor,7.6,Condition monitoring,Centrifugal Pump,R100,C
+AST-00175,Level control failure,Foaming,FLR-00186,4000100259,2024-10-22,Major,42.0,Operator round,Separator,FAC-05,B
+AST-00360,Surge damage,Control system fault,FLR-00187,4000100893,2026-06-20,Major,38.6,Condition monitoring,Centrifugal Compressor,R200,A
+AST-00159,Corrosion thinning,Inadequate coating,FLR-00188,4000100171,2024-07-15,Critical,417.7,Inspection,Pressure Vessel,R200,B
+AST-00023,Positioner failure,Calibration drift,FLR-00189,4000100154,2024-06-27,Minor,13.5,Condition monitoring,Control Valve,FAC-03,B
+AST-00095,Motor burn-out,Overheating,FLR-00190,4000100400,2025-03-08,Minor,11.8,Operator round,ESP,FAC-11,A
+AST-00454,Shaft fracture,Overload / process upset,FLR-00191,4000100363,2025-01-26,Critical,304.1,Alarm / trip,Centrifugal Pump,R100,C
+AST-00112,Firetube / tube failure,Scale / fouling,FLR-00192,4000100250,2024-10-07,Minor,2.2,Operator round,Heater Treater,FAC-08,B
+AST-00043,Motor burn-out,Electrical fault,FLR-00193,4000100534,2025-07-16,Minor,6.2,Inspection,ESP,FAC-20,A
+AST-00040,Burner failure,Fuel quality,FLR-00194,4000100732,2026-01-13,Critical,400.6,Alarm / trip,Fired Heater,R300,A
+AST-00373,Pump wear,Wear,FLR-00195,4000100875,2026-05-31,Minor,12.5,Inspection,ESP,FAC-09,C
+AST-00462,Burner failure,Fuel quality,FLR-00196,4000100775,2026-03-02,Critical,207.8,Inspection,Fired Heater,R100,A
+AST-00355,Winding insulation failure,Voltage spike,FLR-00197,4000100018,2024-01-18,Minor,20.2,Alarm / trip,Electric Motor,R100,B
+AST-00175,Level control failure,Foaming,FLR-00198,4000100921,2026-07-13,Minor,8.7,Condition monitoring,Separator,FAC-05,B
+AST-00073,Set point drift,Calibration drift,FLR-00199,4000100273,2024-11-02,Major,47.4,Alarm / trip,Pressure Relief Valve,R100,A
+AST-00169,Valve failure,Liquid carryover,FLR-00200,4000100792,2026-03-12,Minor,9.4,Operator round,Reciprocating Compressor,R300,B
+AST-00230,Burner failure,Wear,FLR-00201,4000100519,2025-07-08,Major,138.0,Condition monitoring,Fired Heater,R100,A
+AST-00175,Internal corrosion,Process corrosion (H2S / amine),FLR-00202,4000100772,2026-02-28,Major,135.7,Operator round,Separator,FAC-05,B
+AST-00255,Motor burn-out,Gas interference,FLR-00203,4000100370,2025-02-04,Major,45.9,Alarm / trip,ESP,FAC-08,A
+AST-00331,Gearbox failure,Lubrication failure,FLR-00204,4000100488,2025-06-11,Minor,2.0,Operator round,Pumpjack,FAC-10,B
+AST-00476,Winding insulation failure,Moisture ingress,FLR-00205,4000100097,2024-04-25,Major,29.3,Operator round,Electric Motor,R200,A
+AST-00340,Prover failure,Electrical fault,FLR-00206,4000100800,2026-03-22,Minor,9.6,Inspection,Metering Skid,T400,B
+AST-00496,Erosion at choke,Erosion,FLR-00207,4000100820,2026-04-12,Minor,11.7,Alarm / trip,Wellhead,FAC-12,B
+AST-00499,Floor / shell corrosion,Water bottoms corrosion,FLR-00208,4000100049,2024-02-25,Minor,5.8,Inspection,Storage Tank,R100,B
+AST-00235,Stuck / sticking,Contamination,FLR-00209,4000100971,2026-09-01,Minor,21.9,Inspection,Control Valve,FAC-20,B
+AST-00489,Burner failure,Wear,FLR-00210,4000100261,2024-10-25,Major,41.7,Condition monitoring,Steam Generator (OTSG),FAC-18,A
+AST-00031,Mechanical seal leak,Dry running,FLR-00211,4000100997,2026-09-29,Major,67.4,Operator round,Centrifugal Pump,R100,C
+AST-00075,Crankshaft bearing failure,Overload,FLR-00212,4000100487,2025-06-09,Minor,6.5,Alarm / trip,Gas Compressor (Recip),FAC-05,B
+AST-00122,Motor failure,Overheating,FLR-00213,4000100551,2025-08-12,Minor,4.4,Operator round,Pumpjack,FAC-23,C
+AST-00155,Bearing failure,Vibration fatigue,FLR-00214,4000100495,2025-06-16,Major,130.4,Operator round,Centrifugal Pump,T500,A
+AST-00441,Crankshaft bearing failure,Lubrication failure,FLR-00215,4000100264,2024-10-27,Minor,6.1,Alarm / trip,Gas Compressor (Recip),FAC-01,A
+AST-00196,Roof seal failure,Age / wear,FLR-00216,4000100102,2024-04-29,Minor,18.9,Operator round,Storage Tank,FAC-13,B
+AST-00415,Mechanical seal leak,Seal face wear,FLR-00217,4000100391,2025-02-28,Minor,10.2,Operator round,Centrifugal Pump,T300,B
+AST-00182,Positioner failure,Calibration drift,FLR-00218,4000100736,2026-01-18,Critical,420.3,Inspection,Control Valve,R300,B
+AST-00237,Shaft fracture,Overload / process upset,FLR-00219,4000100931,2026-07-26,Critical,152.7,Alarm / trip,Centrifugal Pump,R100,C
+AST-00178,Mechanical seal leak,Shaft misalignment,FLR-00220,4000100744,2026-02-01,Minor,6.1,Condition monitoring,Centrifugal Pump,R200,B
+AST-00349,Positioner failure,Instrument air quality,FLR-00221,4000100750,2026-02-11,Minor,16.7,Alarm / trip,Control Valve,FAC-01,B
+AST-00233,Shaft fracture,Fatigue,FLR-00222,4000100817,2026-04-08,Major,140.6,Alarm / trip,Centrifugal Pump,R100,C
+AST-00335,Bearing failure,Vibration fatigue,FLR-00223,4000100304,2024-12-08,Major,132.1,Alarm / trip,Electric Motor,R200,A
+AST-00147,Nozzle crack,Weld defect,FLR-00224,4000100192,2024-08-07,Major,26.7,Alarm / trip,Pressure Vessel,R100,B
+AST-00476,Winding insulation failure,Moisture ingress,FLR-00225,4000100612,2025-10-02,Critical,501.5,Operator round,Electric Motor,R200,A
+AST-00128,Signal drift / failure,Electrical fault,FLR-00226,4000100957,2026-08-19,Major,47.8,Condition monitoring,Process Transmitter,R200,A
+AST-00258,Positioner failure,Calibration drift,FLR-00227,4000100203,2024-08-20,Minor,3.4,Operator round,Control Valve,R300,A
+AST-00384,Impeller damage,Cavitation (low NPSH),FLR-00228,4000100009,2024-01-06,Minor,6.9,Inspection,Centrifugal Pump,FAC-15,C
+AST-00089,Crankshaft bearing failure,Overload,FLR-00229,4000100231,2024-09-21,Minor,10.0,Operator round,Reciprocating Compressor,R200,B
+AST-00089,Cylinder scoring,Contamination,FLR-00230,4000100345,2025-01-12,Minor,21.5,Operator round,Reciprocating Compressor,R200,B
+AST-00234,Mechanical seal leak,Dry running,FLR-00231,4000100678,2025-11-19,Minor,18.2,Operator round,Centrifugal Pump,R300,B
+AST-00089,Valve failure,Fatigue,FLR-00232,4000100472,2025-05-19,Major,95.6,Operator round,Reciprocating Compressor,R200,B
+AST-00462,Tube coking / overheat,Low flow / process upset,FLR-00233,4000100417,2025-03-24,Minor,6.8,Alarm / trip,Fired Heater,R100,A
+AST-00178,Mechanical seal leak,Dry running,FLR-00234,4000100670,2025-11-17,Minor,13.8,Alarm / trip,Centrifugal Pump,R200,B
+AST-00263,Tube leak,Freeze damage,FLR-00235,4000100836,2026-04-30,Critical,656.5,Operator round,Air Cooler,R100,C
+AST-00004,Shaft fracture,Fatigue,FLR-00236,4000100994,2026-09-27,Minor,9.8,Alarm / trip,Centrifugal Pump,R300,C
+AST-00089,Valve failure,Contamination/fouling,FLR-00237,4000100777,2026-03-02,Minor,13.6,Inspection,Reciprocating Compressor,R200,B
+AST-00182,Leak-by,Contamination,FLR-00238,4000100880,2026-06-06,Major,93.2,Operator round,Control Valve,R300,B
+AST-00045,Coupling failure,Shaft misalignment,FLR-00239,4000100212,2024-09-08,Critical,440.9,Operator round,Centrifugal Pump,R100,B
+AST-00186,Leak-by,Contamination,FLR-00240,4000100630,2025-10-18,Minor,6.6,Operator round,Control Valve,FAC-19,B
+AST-00405,Set point drift,Calibration drift,FLR-00241,4000100223,2024-09-17,Minor,4.9,Alarm / trip,Pressure Relief Valve,FAC-05,A
+AST-00283,Coupling failure,Shaft misalignment,FLR-00242,4000100221,2024-09-15,Minor,10.4,Inspection,Centrifugal Pump,T500,B
+AST-00463,Tube leak,Chloride stress corrosion,FLR-00243,4000100765,2026-02-26,Critical,283.8,Alarm / trip,Shell & Tube Heat Exchanger,R300,B
+AST-00046,Internal corrosion,Inadequate coating,FLR-00244,4000100682,2025-11-25,Minor,8.3,Alarm / trip,Separator,FAC-13,A
+AST-00386,Mechanical seal leak,Shaft misalignment,FLR-00245,4000100359,2025-01-25,Critical,812.2,Inspection,Centrifugal Pump,T300,C
+AST-00386,Shaft fracture,Overload / process upset,FLR-00246,4000100579,2025-09-10,Major,34.3,Alarm / trip,Centrifugal Pump,T300,C
+AST-00355,Winding insulation failure,Overheating,FLR-00247,4000100441,2025-04-14,Minor,3.5,Alarm / trip,Electric Motor,R100,B
+AST-00175,Internal corrosion,Process corrosion (H2S / amine),FLR-00248,4000100884,2026-06-12,Major,116.4,Operator round,Separator,FAC-05,B
+AST-00043,Pump wear,Wear,FLR-00249,4000100126,2024-05-28,Minor,12.6,Condition monitoring,ESP,FAC-20,A
+AST-00274,Mechanical seal leak,Improper installation,FLR-00250,4000100208,2024-09-01,Minor,14.7,Inspection,Centrifugal Pump,R200,A
+AST-00347,Set point drift,Age / wear,FLR-00251,4000100224,2024-09-16,Major,31.6,Operator round,Pressure Relief Valve,R100,C
+AST-00274,Shaft fracture,Fatigue,FLR-00252,4000100278,2024-11-05,Minor,16.3,Operator round,Centrifugal Pump,R200,A
+AST-00098,Motor failure,Overheating,FLR-00253,4000100868,2026-05-24,Minor,1.4,Alarm / trip,Pumpjack,FAC-22,C
+AST-00096,Bearing failure,Shaft misalignment,FLR-00254,4000100501,2025-06-22,Minor,26.0,Alarm / trip,Electric Motor,FAC-09,A
+AST-00425,Packing leak,Lubrication failure,FLR-00255,4000100348,2025-01-15,Minor,6.3,Operator round,Reciprocating Compressor,R300,C
+AST-00349,Stuck / sticking,Stem packing wear,FLR-00256,4000100816,2026-04-07,Major,124.1,Operator round,Control Valve,FAC-01,B
+AST-00038,Internal corrosion,Inadequate coating,FLR-00257,4000100705,2025-12-20,Minor,13.0,Operator round,Separator,FAC-21,A
+AST-00206,Gearbox failure,Lubrication failure,FLR-00258,4000100991,2026-09-25,Major,45.3,Operator round,Pumpjack,FAC-21,C
+AST-00056,Winding insulation failure,Voltage spike,FLR-00259,4000100889,2026-06-15,Minor,12.1,Operator round,Electric Motor,R300,C
+AST-00043,Pump wear,Wear,FLR-00260,4000100396,2025-03-04,Minor,23.9,Alarm / trip,ESP,FAC-20,A
+AST-00206,Rod string failure,Fatigue,FLR-00261,4000100901,2026-06-28,Major,93.0,Operator round,Pumpjack,FAC-21,C
+AST-00109,Signal drift / failure,Calibration drift,FLR-00262,4000100696,2025-12-11,Major,37.1,Inspection,Process Transmitter,R200,B
+AST-00355,Winding insulation failure,Moisture ingress,FLR-00263,4000100366,2025-02-01,Minor,24.0,Inspection,Electric Motor,R100,B
+AST-00178,Bearing failure,Inadequate lubrication,FLR-00264,4000100649,2025-11-06,Minor,14.5,Condition monitoring,Centrifugal Pump,R200,B
+AST-00425,Cylinder scoring,Contamination,FLR-00265,4000100518,2025-07-08,Minor,11.8,Operator round,Reciprocating Compressor,R300,C
+AST-00411,Shaft fracture,Overload / process upset,FLR-00266,4000100047,2024-02-22,Minor,14.6,Alarm / trip,Centrifugal Pump,T800,A
+AST-00322,Valve failure,Contamination/fouling,FLR-00267,4000100426,2025-04-01,Major,95.5,Operator round,Gas Compressor (Recip),FAC-02,A
+AST-00095,Motor burn-out,Electrical fault,FLR-00268,4000100590,2025-09-18,Minor,1.8,Condition monitoring,ESP,FAC-11,A
+AST-00413,Level gauge failure,Calibration drift,FLR-00269,4000100571,2025-09-01,Minor,6.9,Alarm / trip,Storage Tank,T600,B
+AST-00385,Stuck / sticking,Stem packing wear,FLR-00270,4000100327,2024-12-30,Minor,7.0,Condition monitoring,Control Valve,R200,C
+AST-00244,Leak-by,Seat erosion,FLR-00271,4000100242,2024-10-02,Major,97.7,Operator round,Control Valve,R200,C
+AST-00382,Bearing failure,Lubrication failure,FLR-00272,4000100272,2024-11-01,Minor,5.0,Alarm / trip,Centrifugal Compressor,R200,A
+AST-00005,Blade erosion,Erosion,FLR-00273,4000100270,2024-10-29,Minor,2.0,Alarm / trip,Steam Turbine,R100,C
+AST-00013,Fouling / reduced duty,Process fouling,FLR-00274,4000100460,2025-05-01,Minor,26.4,Inspection,Shell & Tube Heat Exchanger,R300,B
+AST-00425,Cylinder scoring,Contamination,FLR-00275,4000100354,2025-01-20,Minor,1.9,Alarm / trip,Reciprocating Compressor,R300,C
+AST-00417,Stuck / sticking,Stem packing wear,FLR-00276,4000100658,2025-11-11,Minor,9.8,Alarm / trip,Control Valve,FAC-16,B
+AST-00069,Cylinder scoring,Contamination,FLR-00277,4000100101,2024-04-30,Minor,13.7,Alarm / trip,Reciprocating Compressor,R100,B
+AST-00175,Internal corrosion,Process corrosion (H2S / amine),FLR-00278,4000100180,2024-07-23,Major,143.8,Operator round,Separator,FAC-05,B
+AST-00075,Valve failure,Liquid carryover,FLR-00279,4000100435,2025-04-07,Minor,4.2,Alarm / trip,Gas Compressor (Recip),FAC-05,B
+AST-00175,Internal corrosion,Inadequate coating,FLR-00280,4000100876,2026-06-03,Minor,5.7,Alarm / trip,Separator,FAC-05,B
+AST-00178,Shaft fracture,Fatigue,FLR-00281,4000100247,2024-10-05,Minor,1.6,Inspection,Centrifugal Pump,R200,B
+AST-00065,Mechanical seal leak,Dry running,FLR-00282,4000100809,2026-04-01,Critical,317.4,Inspection,Centrifugal Pump,R200,B
+AST-00076,Winding insulation failure,Voltage spike,FLR-00283,4000100138,2024-06-11,Minor,11.6,Operator round,Electric Motor,R200,B
+AST-00219,Corrosion thinning,Inadequate coating,FLR-00284,4000100099,2024-04-30,Minor,7.7,Alarm / trip,Pressure Vessel,R300,B
+AST-00009,Stuck / sticking,Contamination,FLR-00285,4000100751,2026-02-11,Major,53.7,Operator round,Control Valve,R100,B
+AST-00181,Metering / preset failure,Calibration drift,FLR-00286,4000100638,2025-10-22,Critical,301.1,Inspection,Loading Rack,T300,C
+AST-00390,Level gauge failure,Calibration drift,FLR-00287,4000100812,2026-04-04,Minor,15.3,Condition monitoring,Storage Tank,T200,A
+AST-00414,Coupling failure,Improper installation,FLR-00288,4000100793,2026-03-12,Major,60.7,Operator round,Centrifugal Pump,R300,A
+AST-00259,Set point drift,Age / wear,FLR-00289,4000100029,2024-02-01,Minor,2.7,Operator round,Pressure Relief Valve,FAC-06,C
+AST-00182,Positioner failure,Instrument air quality,FLR-00290,4000100234,2024-09-26,Minor,6.7,Alarm / trip,Control Valve,R300,B
+AST-00182,Stuck / sticking,Contamination,FLR-00291,4000100104,2024-05-01,Minor,6.5,Inspection,Control Valve,R300,B
+AST-00071,Winding insulation failure,Overheating,FLR-00292,4000101000,2026-10-03,Minor,7.2,Condition monitoring,Electric Motor,T500,B
+AST-00201,Bearing failure,Vibration fatigue,FLR-00293,4000100365,2025-01-31,Minor,11.4,Operator round,Centrifugal Pump,T700,C
+AST-00027,Dry gas seal failure,Process upset,FLR-00294,4000100470,2025-05-19,Minor,10.8,Condition monitoring,Centrifugal Compressor,R300,B
+AST-00063,Corrosion thinning,Process corrosion (H2S / amine),FLR-00295,4000100910,2026-07-01,Major,15.3,Operator round,Pressure Vessel,FAC-04,A
+AST-00432,Mechanical seal leak,Seal face wear,FLR-00296,4000100325,2024-12-28,Minor,13.9,Operator round,Centrifugal Pump,R100,C
+AST-00013,Tube leak,Thermal fatigue,FLR-00297,4000100376,2025-02-09,Minor,25.1,Condition monitoring,Shell & Tube Heat Exchanger,R300,B
+AST-00102,Coupling failure,Shaft misalignment,FLR-00298,4000100475,2025-05-23,Minor,9.0,Alarm / trip,Centrifugal Pump,FAC-08,B
+AST-00175,Level control failure,Instrument failure,FLR-00299,4000100378,2025-02-12,Minor,10.4,Operator round,Separator,FAC-05,B
+AST-00439,Set point drift,Calibration drift,FLR-00300,4000100737,2026-01-22,Major,50.3,Inspection,Pressure Relief Valve,T400,C
+AST-00074,Coupling failure,Shaft misalignment,FLR-00301,4000100121,2024-05-21,Critical,294.5,Operator round,Centrifugal Pump,R100,B
+AST-00042,Cylinder scoring,Contamination,FLR-00302,4000100483,2025-06-05,Major,117.1,Operator round,Reciprocating Compressor,R200,A
+AST-00380,Leak-by,Seat erosion,FLR-00303,4000100607,2025-09-29,Major,95.9,Inspection,Control Valve,R300,B
+AST-00497,Valve failure,Contamination/fouling,FLR-00304,4000100624,2025-10-13,Minor,4.2,Operator round,Gas Compressor (Recip),FAC-03,B
+AST-00140,Leak-by,Seat erosion,FLR-00305,4000100254,2024-10-14,Minor,24.0,Condition monitoring,Control Valve,FAC-18,B
+AST-00350,Bearing failure,Vibration fatigue,FLR-00306,4000100529,2025-07-15,Minor,4.9,Alarm / trip,Centrifugal Pump,R300,B
+AST-00234,Bearing failure,Inadequate lubrication,FLR-00307,4000100854,2026-05-09,Major,53.1,Condition monitoring,Centrifugal Pump,R300,B
+AST-00155,Mechanical seal leak,Improper installation,FLR-00308,4000100003,2024-01-02,Minor,9.8,Alarm / trip,Centrifugal Pump,T500,A
+AST-00090,Pump wear,Sand / abrasives,FLR-00309,4000100288,2024-11-18,Minor,3.4,Operator round,ESP,FAC-12,C
+AST-00102,Shaft fracture,Overload / process upset,FLR-00310,4000100513,2025-07-04,Minor,12.7,Operator round,Centrifugal Pump,FAC-08,B
+AST-00355,Bearing failure,Vibration fatigue,FLR-00311,4000100584,2025-09-13,Major,84.6,Alarm / trip,Electric Motor,R100,B
+AST-00462,Tube coking / overheat,Flame impingement,FLR-00312,4000100511,2025-07-05,Minor,6.9,Operator round,Fired Heater,R100,A
+AST-00089,Cylinder scoring,Contamination,FLR-00313,4000100333,2025-01-05,Major,93.9,Operator round,Reciprocating Compressor,R200,B
+AST-00255,Pump wear,Wear,FLR-00314,4000100367,2025-02-04,Critical,283.5,Inspection,ESP,FAC-08,A
+AST-00380,Leak-by,Contamination,FLR-00315,4000100167,2024-07-07,Major,29.7,Alarm / trip,Control Valve,R300,B
+AST-00237,Shaft fracture,Overload / process upset,FLR-00316,4000100024,2024-01-28,Minor,4.7,Inspection,Centrifugal Pump,R100,C
+AST-00385,Stuck / sticking,Stem packing wear,FLR-00317,4000100408,2025-03-12,Major,104.9,Operator round,Control Valve,R200,C
+AST-00089,Valve failure,Fatigue,FLR-00318,4000100865,2026-05-16,Minor,14.6,Condition monitoring,Reciprocating Compressor,R200,B
+AST-00090,Motor burn-out,Gas interference,FLR-00319,4000100008,2024-01-04,Major,57.5,Operator round,ESP,FAC-12,C
+AST-00175,Internal corrosion,Inadequate coating,FLR-00320,4000100532,2025-07-16,Minor,14.6,Alarm / trip,Separator,FAC-05,B
+AST-00482,Nozzle crack,Weld defect,FLR-00321,4000100120,2024-05-21,Minor,16.8,Alarm / trip,Pressure Vessel,FAC-02,C
+AST-00097,Mechanical seal leak,Improper installation,FLR-00322,4000100754,2026-02-15,Minor,8.8,Condition monitoring,Centrifugal Pump,R100,B
+AST-00178,Mechanical seal leak,Improper installation,FLR-00323,4000100782,2026-03-03,Minor,7.9,Inspection,Centrifugal Pump,R200,B
+AST-00355,Bearing failure,Vibration fatigue,FLR-00324,4000100301,2024-12-05,Critical,638.7,Alarm / trip,Electric Motor,R100,B
+AST-00206,Gearbox failure,Lubrication failure,FLR-00325,4000100720,2026-01-04,Major,32.3,Condition monitoring,Pumpjack,FAC-21,C
+AST-00099,Winding insulation failure,Moisture ingress,FLR-00326,4000100071,2024-03-21,Minor,8.9,Condition monitoring,Electric Motor,FAC-24,C
+AST-00301,Signal drift / failure,Moisture ingress,FLR-00327,4000100728,2026-01-10,Minor,2.1,Operator round,Process Transmitter,T700,B
+AST-00481,Bearing failure,Lubricant contamination,FLR-00328,4000100177,2024-07-16,Major,94.3,Operator round,Centrifugal Pump,FAC-01,C
+AST-00038,Internal corrosion,Process corrosion (H2S / amine),FLR-00329,4000100389,2025-02-28,Minor,2.2,Alarm / trip,Separator,FAC-21,A
+AST-00128,Signal drift / failure,Calibration drift,FLR-00330,4000100870,2026-05-25,Major,78.2,Alarm / trip,Process Transmitter,R200,A
+AST-00420,Shaft fracture,Overload / process upset,FLR-00331,4000100978,2026-09-06,Minor,21.7,Alarm / trip,Centrifugal Pump,FAC-21,B
+AST-00263,Tube leak,Freeze damage,FLR-00332,4000100781,2026-03-04,Minor,9.3,Alarm / trip,Air Cooler,R100,C
+AST-00380,Stuck / sticking,Actuator failure,FLR-00333,4000100615,2025-10-04,Major,159.7,Condition monitoring,Control Valve,R300,B
+AST-00137,Positioner failure,Instrument air quality,FLR-00334,4000100660,2025-11-09,Major,43.8,Operator round,Control Valve,R200,C
+AST-00175,Internal corrosion,Inadequate coating,FLR-00335,4000100019,2024-01-21,Major,52.8,Operator round,Separator,FAC-05,B
+AST-00301,Signal drift / failure,Moisture ingress,FLR-00336,4000100093,2024-04-18,Critical,219.1,Operator round,Process Transmitter,T700,B
+AST-00367,Positioner failure,Calibration drift,FLR-00337,4000100214,2024-09-09,Minor,3.0,Alarm / trip,Control Valve,R100,A
+AST-00234,Shaft fracture,Overload / process upset,FLR-00338,4000100995,2026-09-28,Minor,19.7,Operator round,Centrifugal Pump,R300,B
+AST-00426,Fan / belt failure,Wear,FLR-00339,4000100862,2026-05-14,Minor,17.3,Operator round,Air Cooler,R100,B
+AST-00413,Floor / shell corrosion,Water bottoms corrosion,FLR-00340,4000100878,2026-06-01,Major,158.9,Inspection,Storage Tank,T600,B
+AST-00355,Winding insulation failure,Voltage spike,FLR-00341,4000100747,2026-02-05,Major,24.8,Alarm / trip,Electric Motor,R100,B
+AST-00411,Shaft fracture,Fatigue,FLR-00342,4000100233,2024-09-23,Minor,12.2,Condition monitoring,Centrifugal Pump,T800,A
+AST-00271,Winding insulation failure,Overheating,FLR-00343,4000100286,2024-11-15,Minor,2.3,Operator round,Electric Motor,T400,B
+AST-00272,Fails to reseat / leaking,Fouling / polymerisation,FLR-00344,4000100059,2024-03-04,Minor,13.3,Operator round,Pressure Relief Valve,R200,B
+AST-00038,Level control failure,Instrument failure,FLR-00345,4000100813,2026-04-07,Minor,8.5,Inspection,Separator,FAC-21,A
+AST-00175,Internal corrosion,Process corrosion (H2S / amine),FLR-00346,4000100665,2025-11-12,Major,60.4,Inspection,Separator,FAC-05,B
+AST-00370,Corrosion thinning,Corrosion under insulation,FLR-00347,4000100603,2025-09-28,Major,75.6,Condition monitoring,Pressure Vessel,FAC-03,C
+AST-00274,Impeller damage,Erosion,FLR-00348,4000100438,2025-04-12,Minor,17.7,Condition monitoring,Centrifugal Pump,R200,A
+AST-00414,Shaft fracture,Fatigue,FLR-00349,4000100727,2026-01-10,Minor,3.9,Alarm / trip,Centrifugal Pump,R300,A
+AST-00038,Level control failure,Instrument failure,FLR-00350,4000100522,2025-07-10,Major,84.5,Alarm / trip,Separator,FAC-21,A
+AST-00189,Roof seal failure,Weather / snow load,FLR-00351,4000100912,2026-07-04,Major,51.4,Alarm / trip,Storage Tank,FAC-21,A
+AST-00385,Stuck / sticking,Contamination,FLR-00352,4000100164,2024-07-03,Critical,585.0,Inspection,Control Valve,R200,C
+AST-00354,Burner failure,Wear,FLR-00353,4000100356,2025-01-21,Minor,12.1,Condition monitoring,Steam Generator (OTSG),FAC-17,A
+AST-00252,Stuck / sticking,Stem packing wear,FLR-00354,4000100558,2025-08-19,Major,19.7,Alarm / trip,Control Valve,FAC-20,A
+AST-00417,Stuck / sticking,Actuator failure,FLR-00355,4000100561,2025-08-20,Critical,235.3,Alarm / trip,Control Valve,FAC-16,B
+AST-00307,Surge damage,Operator error,FLR-00356,4000100520,2025-07-09,Minor,7.4,Alarm / trip,Centrifugal Compressor,R300,C
+AST-00380,Stuck / sticking,Stem packing wear,FLR-00357,4000100663,2025-11-13,Major,83.8,Inspection,Control Valve,R300,B
+AST-00178,Coupling failure,Shaft misalignment,FLR-00358,4000100204,2024-08-21,Minor,4.6,Operator round,Centrifugal Pump,R200,B
+AST-00029,Bearing failure,Inadequate lubrication,FLR-00359,4000100274,2024-11-02,Major,31.3,Operator round,Centrifugal Pump,R100,A
+AST-00076,Bearing failure,Inadequate lubrication,FLR-00360,4000100861,2026-05-13,Minor,12.3,Alarm / trip,Electric Motor,R200,B
+AST-00321,Burner management trip,Instrument failure,FLR-00361,4000100598,2025-09-25,Minor,7.6,Operator round,Boiler,R100,A
+AST-00303,Rod string failure,Corrosion,FLR-00362,4000100282,2024-11-08,Critical,538.9,Alarm / trip,Pumpjack,FAC-09,B
+AST-00159,Corrosion thinning,Corrosion under insulation,FLR-00363,4000100114,2024-05-10,Minor,6.1,Condition monitoring,Pressure Vessel,R200,B
+AST-00360,Surge damage,Control system fault,FLR-00364,4000100721,2026-01-05,Minor,21.7,Inspection,Centrifugal Compressor,R200,A
+AST-00360,Bearing failure,Lubrication failure,FLR-00365,4000100716,2026-01-02,Major,93.9,Inspection,Centrifugal Compressor,R200,A
+AST-00191,Fails to reseat / leaking,Improper set pressure,FLR-00366,4000100414,2025-03-21,Major,44.3,Alarm / trip,Pressure Relief Valve,R100,A
+AST-00066,Stuck / sticking,Actuator failure,FLR-00367,4000100084,2024-04-09,Critical,181.5,Condition monitoring,Control Valve,R100,C
+AST-00471,Stuck / sticking,Actuator failure,FLR-00368,4000100413,2025-03-19,Minor,9.4,Condition monitoring,Control Valve,R200,B
+AST-00158,Motor failure,Voltage spike,FLR-00369,4000100275,2024-11-05,Minor,6.0,Alarm / trip,Pumpjack,FAC-25,A
+AST-00189,Floor / shell corrosion,Water bottoms corrosion,FLR-00370,4000100300,2024-12-01,Minor,12.5,Operator round,Storage Tank,FAC-21,A
+AST-00271,Bearing failure,Inadequate lubrication,FLR-00371,4000100346,2025-01-13,Minor,23.7,Operator round,Electric Motor,T400,B
+AST-00148,Level control failure,Instrument failure,FLR-00372,4000100521,2025-07-09,Major,72.3,Alarm / trip,Separator,FAC-23,C
+AST-00416,Winding insulation failure,Moisture ingress,FLR-00373,4000100074,2024-03-26,Major,125.1,Operator round,Electric Motor,FAC-25,A
+AST-00097,Mechanical seal leak,Shaft misalignment,FLR-00374,4000100173,2024-07-15,Major,61.1,Alarm / trip,Centrifugal Pump,R100,B
+AST-00409,Corrosion thinning,Process corrosion (H2S / amine),FLR-00375,4000100265,2024-10-26,Critical,155.8,Condition monitoring,Pressure Vessel,R100,C
+AST-00274,Shaft fracture,Fatigue,FLR-00376,4000100190,2024-08-04,Major,32.5,Operator round,Centrifugal Pump,R200,A
+AST-00149,Mechanical seal leak,Improper installation,FLR-00377,4000100281,2024-11-08,Minor,12.5,Inspection,Centrifugal Pump,FAC-25,B
+AST-00294,Roof seal failure,Age / wear,FLR-00378,4000100666,2025-11-17,Major,149.1,Operator round,Storage Tank,T800,B
+AST-00274,Impeller damage,Foreign object,FLR-00379,4000100156,2024-06-28,Major,83.5,Operator round,Centrifugal Pump,R200,A
+AST-00096,Winding insulation failure,Overheating,FLR-00380,4000100462,2025-05-03,Minor,2.9,Operator round,Electric Motor,FAC-09,A
+AST-00406,Firetube / tube failure,Scale / fouling,FLR-00381,4000100733,2026-01-14,Minor,12.9,Inspection,Heater Treater,FAC-07,B
+AST-00164,Bearing failure,Inadequate lubrication,FLR-00382,4000100277,2024-11-06,Minor,13.5,Alarm / trip,Electric Motor,FAC-22,C
+AST-00386,Bearing failure,Lubricant contamination,FLR-00383,4000100671,2025-11-20,Minor,6.4,Inspection,Centrifugal Pump,T300,C
+AST-00093,Corrosion thinning,Inadequate coating,FLR-00384,4000100280,2024-11-06,Minor,17.7,Alarm / trip,Pressure Vessel,R300,A
+AST-00175,Internal corrosion,Inadequate coating,FLR-00385,4000100827,2026-04-16,Minor,10.7,Operator round,Separator,FAC-05,B
+AST-00349,Stuck / sticking,Actuator failure,FLR-00386,4000100710,2025-12-26,Minor,21.6,Alarm / trip,Control Valve,FAC-01,B
+AST-00462,Burner failure,Fuel quality,FLR-00387,4000100318,2024-12-23,Major,93.0,Condition monitoring,Fired Heater,R100,A
+AST-00093,Corrosion thinning,Corrosion under insulation,FLR-00388,4000100010,2024-01-06,Minor,6.4,Inspection,Pressure Vessel,R300,A
+AST-00102,Coupling failure,Improper installation,FLR-00389,4000100623,2025-10-11,Major,117.7,Operator round,Centrifugal Pump,FAC-08,B
+AST-00473,Signal drift / failure,Moisture ingress,FLR-00390,4000100970,2026-08-31,Minor,5.0,Operator round,Process Transmitter,R100,B
+AST-00099,Winding insulation failure,Moisture ingress,FLR-00391,4000100872,2026-05-27,Minor,2.3,Condition monitoring,Electric Motor,FAC-24,C
+AST-00178,Bearing failure,Inadequate lubrication,FLR-00392,4000100165,2024-07-05,Minor,5.3,Condition monitoring,Centrifugal Pump,R200,B
+AST-00175,Level control failure,Foaming,FLR-00393,4000100566,2025-08-25,Major,61.0,Alarm / trip,Separator,FAC-05,B
+AST-00278,Signal drift / failure,Moisture ingress,FLR-00394,4000100941,2026-08-03,Minor,3.1,Operator round,Process Transmitter,R300,C
+AST-00355,Winding insulation failure,Voltage spike,FLR-00395,4000100048,2024-02-24,Minor,9.6,Alarm / trip,Electric Motor,R100,B
+AST-00158,Rod string failure,Fatigue,FLR-00396,4000100028,2024-01-30,Minor,6.5,Operator round,Pumpjack,FAC-25,A
+AST-00370,Nozzle crack,Fatigue,FLR-00397,4000100353,2025-01-20,Major,38.7,Condition monitoring,Pressure Vessel,FAC-03,C
+AST-00380,Stuck / sticking,Stem packing wear,FLR-00398,4000100949,2026-08-09,Minor,4.8,Operator round,Control Valve,R300,B
+AST-00355,Bearing failure,Inadequate lubrication,FLR-00399,4000100641,2025-10-24,Minor,14.2,Alarm / trip,Electric Motor,R100,B
+AST-00401,Roof seal failure,Weather / snow load,FLR-00400,4000100959,2026-08-19,Major,109.9,Condition monitoring,Storage Tank,FAC-10,B
+AST-00112,Burner failure,Fuel quality,FLR-00401,4000100714,2025-12-30,Minor,7.8,Condition monitoring,Heater Treater,FAC-08,B
+AST-00258,Positioner failure,Instrument air quality,FLR-00402,4000100132,2024-06-04,Minor,14.9,Condition monitoring,Control Valve,R300,A
+AST-00419,Floor / shell corrosion,Coating degradation,FLR-00403,4000100668,2025-11-18,Minor,15.5,Alarm / trip,Storage Tank,FAC-11,A
+AST-00426,Fan / belt failure,Vibration fatigue,FLR-00404,4000100731,2026-01-11,Major,68.7,Operator round,Air Cooler,R100,B
+AST-00322,Cylinder scoring,Lubrication failure,FLR-00405,4000100565,2025-08-25,Minor,16.5,Operator round,Gas Compressor (Recip),FAC-02,A
+AST-00432,Coupling failure,Improper installation,FLR-00406,4000100576,2025-09-06,Minor,12.9,Alarm / trip,Centrifugal Pump,R100,C
+AST-00319,Knock-out drum high level,Instrument failure,FLR-00407,4000100184,2024-07-26,Minor,2.5,Operator round,Flare Stack,FAC-13,A
+AST-00351,Fouling / reduced duty,Feed quality change,FLR-00408,4000100033,2024-02-07,Minor,20.5,Operator round,Shell & Tube Heat Exchanger,R200,B
+AST-00042,Packing leak,Lubrication failure,FLR-00409,4000100899,2026-06-26,Major,87.7,Condition monitoring,Reciprocating Compressor,R200,A
+AST-00497,Packing leak,Lubrication failure,FLR-00410,4000100135,2024-06-04,Critical,454.2,Alarm / trip,Gas Compressor (Recip),FAC-03,B
+AST-00398,Winding insulation failure,Overheating,FLR-00411,4000100683,2025-11-24,Minor,8.7,Alarm / trip,Electric Motor,R300,B
+AST-00103,Bearing failure,Inadequate lubrication,FLR-00412,4000100459,2025-04-30,Minor,6.1,Inspection,Centrifugal Pump,T600,C
+AST-00438,Bearing failure,Rotor imbalance,FLR-00413,4000100977,2026-09-07,Major,111.1,Alarm / trip,Steam Turbine,R300,B
+AST-00418,Roof seal failure,Age / wear,FLR-00414,4000100055,2024-03-03,Minor,4.9,Operator round,Storage Tank,FAC-15,B
+AST-00332,Bearing failure,Vibration fatigue,FLR-00415,4000100637,2025-10-23,Major,49.6,Inspection,Electric Motor,T700,A
+AST-00401,Level gauge failure,Calibration drift,FLR-00416,4000100309,2024-12-14,Minor,6.0,Operator round,Storage Tank,FAC-10,B
+AST-00038,Internal corrosion,Process corrosion (H2S / amine),FLR-00417,4000100123,2024-05-22,Major,73.9,Condition monitoring,Separator,FAC-21,A
+AST-00376,Set point drift,Calibration drift,FLR-00418,4000100158,2024-06-28,Minor,2.2,Inspection,Pressure Relief Valve,R200,B
+AST-00355,Winding insulation failure,Voltage spike,FLR-00419,4000100232,2024-09-24,Minor,9.7,Condition monitoring,Electric Motor,R100,B
+AST-00175,Internal corrosion,Inadequate coating,FLR-00420,4000100919,2026-07-12,Critical,429.2,Operator round,Separator,FAC-05,B
+AST-00175,Internal corrosion,Inadequate coating,FLR-00421,4000100159,2024-06-30,Minor,5.7,Alarm / trip,Separator,FAC-05,B
+AST-00175,Level control failure,Instrument failure,FLR-00422,4000100808,2026-04-03,Critical,637.6,Alarm / trip,Separator,FAC-05,B
+AST-00178,Impeller damage,Foreign object,FLR-00423,4000100206,2024-08-29,Minor,4.2,Operator round,Centrifugal Pump,R200,B
+AST-00089,Valve failure,Liquid carryover,FLR-00424,4000100707,2025-12-20,Minor,13.6,Operator round,Reciprocating Compressor,R200,B
+AST-00350,Shaft fracture,Fatigue,FLR-00425,4000100963,2026-08-26,Minor,7.8,Condition monitoring,Centrifugal Pump,R300,B
+AST-00497,Crankshaft bearing failure,Lubrication failure,FLR-00426,4000100867,2026-05-18,Minor,10.9,Inspection,Gas Compressor (Recip),FAC-03,B
+AST-00425,Packing leak,Rod wear,FLR-00427,4000100549,2025-08-10,Major,127.1,Operator round,Reciprocating Compressor,R300,C
+AST-00368,Bearing failure,Vibration fatigue,FLR-00428,4000100379,2025-02-14,Minor,8.0,Inspection,Electric Motor,R100,A
+AST-00420,Bearing failure,Inadequate lubrication,FLR-00429,4000100973,2026-09-01,Minor,17.3,Operator round,Centrifugal Pump,FAC-21,B
+AST-00401,Roof seal failure,Weather / snow load,FLR-00430,4000100593,2025-09-18,Major,33.4,Alarm / trip,Storage Tank,FAC-10,B
+AST-00234,Impeller damage,Foreign object,FLR-00431,4000100852,2026-05-09,Minor,8.5,Operator round,Centrifugal Pump,R300,B
+AST-00201,Shaft fracture,Fatigue,FLR-00432,4000100920,2026-07-10,Major,97.1,Inspection,Centrifugal Pump,T700,C
+AST-00351,Gasket leak,Improper installation,FLR-00433,4000100187,2024-07-30,Minor,15.3,Alarm / trip,Shell & Tube Heat Exchanger,R200,B
+AST-00232,Stuck / sticking,Stem packing wear,FLR-00434,4000100347,2025-01-14,Minor,15.0,Alarm / trip,Control Valve,FAC-19,A
+AST-00234,Impeller damage,Erosion,FLR-00435,4000100619,2025-10-06,Minor,5.8,Alarm / trip,Centrifugal Pump,R300,B
+AST-00175,Level control failure,Foaming,FLR-00436,4000100642,2025-10-26,Major,47.1,Alarm / trip,Separator,FAC-05,B
+AST-00386,Bearing failure,Shaft misalignment,FLR-00437,4000100444,2025-04-21,Major,51.3,Alarm / trip,Centrifugal Pump,T300,C
+AST-00043,Motor burn-out,Electrical fault,FLR-00438,4000100849,2026-05-04,Minor,8.2,Inspection,ESP,FAC-20,A
+AST-00258,Leak-by,Seat erosion,FLR-00439,4000100341,2025-01-11,Minor,24.0,Inspection,Control Valve,R300,A
+AST-00175,Internal corrosion,Inadequate coating,FLR-00440,4000100404,2025-03-09,Major,23.3,Condition monitoring,Separator,FAC-05,B
+AST-00408,Signal drift / failure,Electrical fault,FLR-00441,4000100183,2024-07-25,Major,23.8,Alarm / trip,Process Transmitter,R100,B
+AST-00249,Stuck / sticking,Actuator failure,FLR-00442,4000100953,2026-08-12,Minor,17.0,Operator round,Control Valve,R300,C
+AST-00234,Bearing failure,Vibration fatigue,FLR-00443,4000100605,2025-09-29,Minor,3.5,Alarm / trip,Centrifugal Pump,R300,B
+AST-00420,Coupling failure,Shaft misalignment,FLR-00444,4000100905,2026-06-29,Minor,4.1,Operator round,Centrifugal Pump,FAC-21,B
+AST-00360,Rotor fouling,Process fouling,FLR-00445,4000100597,2025-09-25,Minor,15.7,Inspection,Centrifugal Compressor,R200,A
+AST-00417,Stuck / sticking,Stem packing wear,FLR-00446,4000100308,2024-12-12,Minor,10.6,Condition monitoring,Control Valve,FAC-16,B
+AST-00360,Dry gas seal failure,Improper installation,FLR-00447,4000100602,2025-09-28,Critical,274.2,Inspection,Centrifugal Compressor,R200,A
+AST-00095,Pump wear,Wear,FLR-00448,4000100375,2025-02-06,Major,86.2,Operator round,ESP,FAC-11,A
+AST-00475,Signal drift / failure,Moisture ingress,FLR-00449,4000100168,2024-07-08,Minor,5.6,Operator round,Process Transmitter,R200,C
+AST-00141,Fails to reseat / leaking,Seat wear,FLR-00450,4000100410,2025-03-15,Major,26.6,Operator round,Pressure Relief Valve,R100,A
+AST-00053,Signal drift / failure,Electrical fault,FLR-00451,4000100969,2026-08-31,Minor,1.1,Inspection,Process Transmitter,R200,B
+AST-00255,Pump wear,Sand / abrasives,FLR-00452,4000100111,2024-05-05,Critical,248.9,Operator round,ESP,FAC-08,A
+AST-00096,Winding insulation failure,Moisture ingress,FLR-00453,4000100631,2025-10-17,Minor,17.5,Operator round,Electric Motor,FAC-09,A
+AST-00178,Shaft fracture,Fatigue,FLR-00454,4000100704,2025-12-20,Minor,9.9,Alarm / trip,Centrifugal Pump,R200,B
+AST-00051,Burner failure,Wear,FLR-00455,4000100004,2024-01-01,Minor,19.6,Operator round,Fired Heater,R100,A
+AST-00268,Winding insulation failure,Moisture ingress,FLR-00456,4000100427,2025-04-03,Minor,9.5,Operator round,Electric Motor,FAC-16,C
+AST-00018,Tube leak,Thermal fatigue,FLR-00457,4000100926,2026-07-15,Minor,12.3,Alarm / trip,Shell & Tube Heat Exchanger,R100,A
+AST-00050,Tube leak,Freeze damage,FLR-00458,4000100735,2026-01-18,Critical,397.4,Alarm / trip,Air Cooler,R300,B
+AST-00109,Signal drift / failure,Calibration drift,FLR-00459,4000100692,2025-12-07,Minor,10.7,Operator round,Process Transmitter,R200,B
+AST-00226,Burner failure,Wear,FLR-00460,4000100295,2024-11-20,Minor,2.5,Operator round,Heater Treater,FAC-07,C
+AST-00324,Positioner failure,Calibration drift,FLR-00461,4000100879,2026-06-04,Minor,9.1,Operator round,Control Valve,R100,B
+AST-00159,Nozzle crack,Weld defect,FLR-00462,4000100774,2026-02-28,Minor,2.2,Condition monitoring,Pressure Vessel,R200,B
+AST-00366,Packing leak,Rod wear,FLR-00463,4000100850,2026-05-06,Minor,2.3,Alarm / trip,Gas Compressor (Recip),FAC-02,B
+AST-00097,Shaft fracture,Overload / process upset,FLR-00464,4000100552,2025-08-14,Major,47.8,Alarm / trip,Centrifugal Pump,R100,B
+AST-00500,Motor failure,Voltage spike,FLR-00465,4000100790,2026-03-09,Major,68.5,Alarm / trip,Pumpjack,FAC-10,C
+AST-00364,Level gauge failure,Calibration drift,FLR-00466,4000100342,2025-01-11,Minor,2.0,Alarm / trip,Storage Tank,T500,B
+AST-00254,Leak-by,Contamination,FLR-00467,4000100196,2024-08-09,Major,81.7,Inspection,Control Valve,R200,B
+AST-00252,Stuck / sticking,Contamination,FLR-00468,4000100041,2024-02-15,Major,66.8,Condition monitoring,Control Valve,FAC-20,A
+AST-00203,Positioner failure,Calibration drift,FLR-00469,4000100228,2024-09-21,Major,106.1,Alarm / trip,Control Valve,R200,B
+AST-00326,Tube leak,Thermal fatigue,FLR-00470,4000100654,2025-11-09,Critical,743.6,Inspection,Shell & Tube Heat Exchanger,R300,B
+AST-00288,Impeller damage,Erosion,FLR-00471,4000100600,2025-09-24,Major,68.7,Alarm / trip,Centrifugal Pump,R100,A
+AST-00208,Positioner failure,Calibration drift,FLR-00472,4000100550,2025-08-09,Minor,8.5,Operator round,Control Valve,R100,A
+AST-00149,Impeller damage,Foreign object,FLR-00473,4000100990,2026-09-24,Minor,14.8,Condition monitoring,Centrifugal Pump,FAC-25,B
+AST-00038,Level control failure,Foaming,FLR-00474,4000100440,2025-04-16,Major,26.8,Operator round,Separator,FAC-21,A
+AST-00121,Surge damage,Control system fault,FLR-00475,4000100291,2024-11-18,Minor,15.8,Condition monitoring,Centrifugal Compressor,R200,C
+AST-00182,Positioner failure,Instrument air quality,FLR-00476,4000100743,2026-02-01,Critical,276.6,Alarm / trip,Control Valve,R300,B
+AST-00473,Signal drift / failure,Calibration drift,FLR-00477,4000100758,2026-02-16,Minor,1.0,Inspection,Process Transmitter,R100,B
+AST-00089,Valve failure,Fatigue,FLR-00478,4000100319,2024-12-23,Minor,11.8,Alarm / trip,Reciprocating Compressor,R200,B
+AST-00168,Motor burn-out,Gas interference,FLR-00479,4000100350,2025-01-18,Major,89.1,Condition monitoring,ESP,FAC-20,C
+AST-00414,Impeller damage,Cavitation (low NPSH),FLR-00480,4000100627,2025-10-14,Minor,6.6,Operator round,Centrifugal Pump,R300,A
+AST-00426,Tube leak,Corrosion,FLR-00481,4000100890,2026-06-19,Minor,7.3,Alarm / trip,Air Cooler,R100,B
+AST-00476,Winding insulation failure,Overheating,FLR-00482,4000100478,2025-05-30,Major,72.3,Condition monitoring,Electric Motor,R200,A
+AST-00362,Bearing failure,Rotor imbalance,FLR-00483,4000100527,2025-07-13,Minor,11.4,Operator round,Steam Turbine,R300,C
+AST-00406,Burner failure,Fuel quality,FLR-00484,4000100964,2026-08-27,Minor,15.0,Operator round,Heater Treater,FAC-07,B
+AST-00476,Winding insulation failure,Overheating,FLR-00485,4000100661,2025-11-12,Minor,13.2,Alarm / trip,Electric Motor,R200,A
+AST-00178,Shaft fracture,Fatigue,FLR-00486,4000100266,2024-10-28,Major,27.8,Operator round,Centrifugal Pump,R200,B
+AST-00029,Bearing failure,Vibration fatigue,FLR-00487,4000100652,2025-11-05,Minor,5.5,Condition monitoring,Centrifugal Pump,R100,A
+AST-00029,Shaft fracture,Overload / process upset,FLR-00488,4000100648,2025-11-05,Minor,13.5,Condition monitoring,Centrifugal Pump,R100,A
+AST-00355,Winding insulation failure,Overheating,FLR-00489,4000100305,2024-12-10,Minor,11.5,Inspection,Electric Motor,R100,B
+AST-00326,Tube leak,Chloride stress corrosion,FLR-00490,4000100087,2024-04-11,Major,108.0,Inspection,Shell & Tube Heat Exchanger,R300,B
+AST-00355,Winding insulation failure,Overheating,FLR-00491,4000100083,2024-04-11,Minor,11.4,Condition monitoring,Electric Motor,R100,B
+AST-00338,Cylinder scoring,Lubrication failure,FLR-00492,4000100621,2025-10-10,Major,8.4,Operator round,Gas Compressor (Recip),FAC-04,B
+AST-00279,Mechanical seal leak,Improper installation,FLR-00493,4000100729,2026-01-13,Minor,2.0,Alarm / trip,Centrifugal Pump,R100,B
+AST-00029,Impeller damage,Foreign object,FLR-00494,4000100191,2024-08-03,Major,37.7,Alarm / trip,Centrifugal Pump,R100,A
+AST-00476,Winding insulation failure,Overheating,FLR-00495,4000100409,2025-03-13,Minor,9.3,Alarm / trip,Electric Motor,R200,A
+AST-00102,Mechanical seal leak,Improper installation,FLR-00496,4000100693,2025-12-08,Major,60.5,Condition monitoring,Centrifugal Pump,FAC-08,B
+AST-00054,Gasket leak,Thermal cycling,FLR-00497,4000100088,2024-04-11,Critical,203.6,Alarm / trip,Shell & Tube Heat Exchanger,R300,B
+AST-00368,Bearing failure,Vibration fatigue,FLR-00498,4000100851,2026-05-06,Major,69.1,Inspection,Electric Motor,R100,A
+AST-00235,Positioner failure,Calibration drift,FLR-00499,4000100866,2026-05-19,Major,55.7,Condition monitoring,Control Valve,FAC-20,B
+AST-00480,Tube leak,Overheating,FLR-00500,4000100248,2024-10-05,Minor,23.7,Operator round,Boiler,R300,A
