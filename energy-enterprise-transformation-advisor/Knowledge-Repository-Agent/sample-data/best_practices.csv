@@ -1,0 +1,301 @@
+Process_Area,Practice,Practice_ID,Practice_Type,KPI,Source_Standard,SAP_Module,SAP_Support,Adoption_Status,Maturity_Level_1to5,Owner_Function,Last_Reviewed,Reference_Doc_ID
+Corporate Strategy,Cascade enterprise goals to business-unit objectives with one measurable KPI each,BP-001,Process,% goals with owner and KPI,Internal standard,SAP Analytics Cloud,Partial,Planned,1,Strategy Office,2025-08-23,DOC-00056
+Corporate Strategy,Review the strategic plan quarterly against scenario triggers,BP-002,Governance,Plan review on-time rate,Internal standard,SAP Analytics Cloud,Partial,Planned,1,Strategy Office,2025-08-02,DOC-00072
+Corporate Strategy,"Score every investment on a common value, risk and strategic-fit rubric",BP-003,Process,% projects scored before gate,Internal standard,SAP Portfolio and Project Mgmt (PPM),Partial,Adopted,4,Strategy Office,2025-08-29,DOC-00135
+Corporate Strategy,Fund projects by stage-gate and release capital only at approved gates,BP-004,Control,Capital released vs gated plan,PMBOK,SAP Project System,Standard,Adopted,4,Strategy Office,2026-01-14,DOC-00056
+Corporate Strategy,Maintain a reference case plus downside and low-carbon scenarios for planning prices,BP-005,Governance,Scenarios refreshed per year,IFRS S2,SAP Analytics Cloud,Partial,Adopted,4,Strategy Office,2025-01-19,DOC-00072
+Corporate Strategy,Track the roadmap with dependency mapping across programs,BP-006,Technology,% milestones with mapped dependencies,PMBOK,SAP Signavio / LeanIX,Partial,Not adopted,1,Strategy Office,2025-03-17,DOC-00135
+Corporate Strategy,Set hurdle rates by asset class and update them annually,BP-007,Process,Hurdle-rate refresh on time,Internal standard,SAP Analytics Cloud,Partial,Adopted,5,Strategy Office,2025-12-25,DOC-00135
+Corporate Strategy,Run post-investment reviews at 12 and 36 months,BP-008,Governance,% investments reviewed,Internal standard,SAP Project System,Partial,Adopted,3,Strategy Office,2026-09-16,DOC-00192
+Corporate Strategy,Maintain a competitor benchmark pack with refreshed public data,BP-009,Governance,Benchmark refresh cycle (months),Internal standard,n/a,Not provided by SAP,Not adopted,1,Strategy Office,2025-03-06,DOC-00135
+Corporate Strategy,Link executive incentive metrics to strategic goal KPIs,BP-010,Process,% scorecard KPIs linked to goals,Internal standard,SAP SuccessFactors,Partial,Adopted,3,Strategy Office,2025-12-28,DOC-00192
+Corporate Strategy,Screen acquisitions with a standard due-diligence checklist including emissions liabilities,BP-011,Process,% deals using checklist,Internal standard,n/a,Not provided by SAP,Adopted,3,Strategy Office,2026-02-04,DOC-00192
+Corporate Strategy,Publish a single source of truth for strategic KPIs,BP-012,Process,KPI definitions with owner,DAMA-DMBOK,SAP Datasphere,Standard,Planned,1,Strategy Office,2026-03-21,DOC-00192
+Commercial & Marketing,"Segment customers by volume, margin and service need and review segments yearly",BP-013,Governance,% volume in managed segments,Internal standard,SAP Customer Data Platform,Partial,Adopted,4,Commercial,2026-03-30,DOC-00327
+Commercial & Marketing,Set rack prices from a documented formula tied to benchmark plus margin,BP-014,Governance,Price realization vs benchmark,Internal standard,SAP IS-Oil TSW,Partial,Planned,1,Commercial,2026-06-28,DOC-00327
+Commercial & Marketing,Approve price exceptions through a tiered authority matrix,BP-015,Control,% exceptions approved in policy,COSO,SAP S/4HANA SD,Standard,Not adopted,1,Commercial,2025-08-15,DOC-00348
+Commercial & Marketing,Track customer profitability with allocated cost to serve,BP-016,Technology,% customers with profitability view,Internal standard,SAP S/4HANA CO-PA,Standard,Adopted,4,Commercial,2025-02-13,DOC-00327
+Commercial & Marketing,Review product portfolio annually and retire low-margin SKUs,BP-017,Governance,SKUs retired vs plan,Internal standard,SAP S/4HANA MM,Partial,Planned,1,Commercial,2025-02-17,DOC-00348
+Commercial & Marketing,Measure every campaign against a control group,BP-018,Control,Incremental volume per campaign,Internal standard,n/a,Not provided by SAP,Adopted,5,Commercial,2026-01-30,DOC-00348
+Commercial & Marketing,Manage loyalty program liabilities and breakage monthly,BP-019,Process,Liability accuracy,IFRS 15,SAP Commerce / FI,Partial,Planned,1,Commercial,2025-08-16,DOC-00239
+Commercial & Marketing,Maintain contract pricing formulas in one controlled repository,BP-020,Control,% contracts with coded formula,Internal standard,SAP S/4HANA SD pricing,Standard,Not adopted,1,Commercial,2026-04-10,DOC-00157
+Commercial & Marketing,Monitor competitor street prices daily in key markets,BP-021,Technology,Price gap vs market,Internal standard,n/a,Not provided by SAP,Planned,1,Commercial,2025-11-23,DOC-00239
+Commercial & Marketing,Align marketing calendar with seasonal demand plan,BP-022,Process,% campaigns aligned to S&OP,APICS SCOR,SAP IBP,Partial,Planned,1,Commercial,2025-03-23,DOC-00466
+Commercial & Marketing,Capture customer feedback and complaints with root-cause coding,BP-023,Technology,Complaint closure days,ISO 9001,SAP Service Cloud,Partial,Adopted,3,Commercial,2025-04-28,DOC-00412
+Commercial & Marketing,Publish monthly commercial performance pack from governed data,BP-024,Process,Pack delivered by workday 5,DAMA-DMBOK,SAP Analytics Cloud,Standard,Adopted,3,Commercial,2025-06-24,DOC-00412
+Demand Planning,Measure forecast accuracy at product-terminal-month level with bias,BP-025,Process,WMAPE and bias,APICS SCOR,SAP IBP,Standard,Piloting,2,Supply Chain Planning,2025-12-19,DOC-00229
+Demand Planning,Use a statistical baseline then apply documented overrides only,BP-026,Governance,Forecast value added,APICS SCOR,SAP IBP,Standard,Piloting,2,Supply Chain Planning,2025-09-20,DOC-00321
+Demand Planning,Hold a monthly consensus meeting with commercial sign-off,BP-027,Process,Consensus held on schedule,APICS SCOR,SAP IBP,Standard,Piloting,2,Supply Chain Planning,2025-04-26,DOC-00317
+Demand Planning,Model seasonality and weather effects for fuels explicitly,BP-028,Technology,Seasonal error,Internal standard,SAP IBP,Partial,Not adopted,1,Supply Chain Planning,2025-08-17,DOC-00321
+Demand Planning,Sense short-term demand from rack lifting data weekly,BP-029,Process,Short-term error,Internal standard,SAP IBP demand sensing,Partial,Adopted,4,Supply Chain Planning,2025-04-18,DOC-00321
+Demand Planning,Separate new-product forecasts using analogs and ramp curves,BP-030,Process,NPI forecast accuracy,Internal standard,SAP IBP,Partial,Piloting,3,Supply Chain Planning,2025-11-22,DOC-00389
+Demand Planning,Archive every forecast version for audit and accuracy analysis,BP-031,Control,Versions retained,Internal standard,SAP IBP,Standard,Piloting,3,Supply Chain Planning,2025-08-03,DOC-00321
+Demand Planning,Clean outliers and one-off events before fitting,BP-032,Process,% history cleansed,Internal standard,SAP IBP,Standard,Adopted,4,Supply Chain Planning,2025-11-11,DOC-00321
+Demand Planning,Segment products by volume and variability to pick method,BP-033,Process,% items on right method,Internal standard,SAP IBP,Partial,Piloting,2,Supply Chain Planning,2025-06-13,DOC-00321
+Demand Planning,Reconcile demand plan to financial budget quarterly,BP-034,Control,Plan-to-budget variance,APICS SCOR,SAP Analytics Cloud,Partial,Adopted,4,Supply Chain Planning,2025-06-10,DOC-00317
+Demand Planning,Capture customer-supplied forecasts for large accounts,BP-035,Process,% key accounts with forecast,Internal standard,SAP IBP,Partial,Piloting,2,Supply Chain Planning,2025-04-18,DOC-00389
+Demand Planning,Track and explain forecast bias by planner and product,BP-036,Technology,Bias by planner,Internal standard,SAP IBP,Partial,Adopted,3,Supply Chain Planning,2026-04-16,DOC-00229
+Procurement,Source above-threshold spend through competitive events,BP-037,Process,% spend competitively sourced,CIPS,SAP Ariba Sourcing,Standard,Piloting,3,Supply Chain & Procurement,2026-05-29,DOC-00029
+Procurement,"Qualify suppliers on safety, quality, financial health and sanctions",BP-038,Process,% suppliers qualified,ISO 9001,SAP Ariba SLP,Standard,Adopted,4,Supply Chain & Procurement,2026-08-07,DOC-00246
+Procurement,Hold contracts in one repository with expiry alerts,BP-039,Process,% spend under contract,Internal standard,SAP Ariba Contracts,Standard,Adopted,4,Supply Chain & Procurement,2025-03-03,DOC-00280
+Procurement,Require three-way match before payment,BP-040,Process,Match rate,COSO,SAP S/4HANA MM-IV,Standard,Not adopted,1,Supply Chain & Procurement,2025-07-21,DOC-00426
+Procurement,"Segregate duties between requisition, approval and receipt",BP-041,Control,SoD conflicts,COSO,SAP GRC,Standard,Adopted,5,Supply Chain & Procurement,2026-07-10,DOC-00246
+Procurement,Manage categories with documented strategies and savings targets,BP-042,Governance,Savings vs target,CIPS,SAP Ariba Spend Analysis,Partial,Adopted,4,Supply Chain & Procurement,2025-05-05,DOC-00246
+Procurement,Use catalogs for repeat indirect purchases,BP-043,Technology,% catalog buys,Internal standard,SAP Ariba Catalogs,Standard,Not adopted,1,Supply Chain & Procurement,2025-12-13,DOC-00185
+Procurement,"Score supplier performance quarterly on delivery, quality and safety",BP-044,Process,On-time in-full,Internal standard,SAP Ariba SPM,Standard,Piloting,3,Supply Chain & Procurement,2025-07-10,DOC-00185
+Procurement,Verify contractor safety prequalification before work orders,BP-045,Control,% contractors prequalified,Internal standard,SAP Fieldglass,Partial,Adopted,3,Supply Chain & Procurement,2025-08-24,DOC-00127
+Procurement,Capture negotiated savings and validate them against finance,BP-046,Process,Validated savings,Internal standard,SAP Ariba Spend Analysis,Partial,Adopted,3,Supply Chain & Procurement,2026-09-13,DOC-00185
+Procurement,Run indigenous and local supplier participation reporting,BP-047,Process,% spend with local suppliers,Internal standard,SAP Ariba,Partial,Not adopted,1,Supply Chain & Procurement,2025-10-31,DOC-00029
+Procurement,Maintain vendor master data with dual approval for bank changes,BP-048,Control,Vendor bank-change errors,COSO,SAP MDG,Standard,Not adopted,1,Supply Chain & Procurement,2025-05-17,DOC-00246
+Supply Planning,Run a monthly integrated S&OP cycle with executive review,BP-049,Governance,S&OP cycle adherence,APICS SCOR,SAP IBP S&OP,Standard,Piloting,2,Supply Chain Planning,2025-03-06,DOC-00004
+Supply Planning,Plan crude slate with refinery linear program and terminal constraints,BP-050,Process,Plan vs actual margin,Internal standard,SAP IBP / third-party LP,Partial,Adopted,4,Supply Chain Planning,2026-07-08,DOC-00144
+Supply Planning,Set safety stock by service level and variability,BP-051,Process,Stock-out events,APICS SCOR,SAP IBP inventory,Standard,Adopted,3,Supply Chain Planning,2026-05-16,DOC-00495
+Supply Planning,Simulate disruptions such as outages and pipeline apportionment,BP-052,Process,Scenarios run per cycle,APICS SCOR,SAP IBP,Partial,Not adopted,1,Supply Chain Planning,2026-05-19,DOC-00368
+Supply Planning,Document product allocation rules for shortages,BP-053,Governance,Allocation disputes,Internal standard,SAP IS-Oil,Partial,Adopted,3,Supply Chain Planning,2026-02-18,DOC-00144
+Supply Planning,Plan product exchanges against agreed differentials,BP-054,Process,Exchange balance,Internal standard,SAP IS-Oil TD,Partial,Adopted,3,Supply Chain Planning,2026-02-20,DOC-00495
+Supply Planning,Nominate pipeline volumes against the tariff calendar,BP-055,Process,Nomination accuracy,Internal standard,SAP IS-Oil TSW,Partial,Adopted,5,Supply Chain Planning,2026-07-03,DOC-00144
+Supply Planning,Freeze the plan inside the horizon and log every change,BP-056,Process,Frozen-horizon changes,APICS SCOR,SAP IBP,Standard,Adopted,5,Supply Chain Planning,2025-04-15,DOC-00368
+Supply Planning,Evaluate plans against inventory days of cover and tank tops,BP-057,Process,Days of cover,Internal standard,SAP IBP,Partial,Planned,1,Supply Chain Planning,2026-07-10,DOC-00069
+Supply Planning,Align turnaround schedule with supply plan,BP-058,Process,Turnaround impact,Internal standard,SAP IBP,Partial,Piloting,2,Supply Chain Planning,2025-10-31,DOC-00368
+Supply Planning,Measure plan adherence and root-cause misses,BP-059,Technology,Plan adherence,APICS SCOR,SAP IBP,Partial,Not adopted,1,Supply Chain Planning,2025-09-02,DOC-00368
+Supply Planning,Maintain a single planning master data set,BP-060,Governance,Master data completeness,DAMA-DMBOK,SAP MDG,Standard,Piloting,2,Supply Chain Planning,2025-07-01,DOC-00144
+Warehouse,Inspect and post receipts within one shift,BP-061,Process,Receipt cycle time,Internal standard,SAP EWM,Standard,Not adopted,1,Supply Chain & Procurement,2025-09-29,DOC-00471
+Warehouse,Count A items quarterly and C items annually,BP-062,Process,Inventory accuracy,Internal standard,SAP EWM / MM-IM,Standard,Not adopted,1,Supply Chain & Procurement,2025-10-21,DOC-00425
+Warehouse,Classify spare parts by criticality and storage condition,BP-063,Process,% parts classified,ISO 55001,SAP S/4HANA MM,Standard,Adopted,3,Supply Chain & Procurement,2025-12-04,DOC-00219
+Warehouse,Segregate hazardous materials per compatibility matrix,BP-064,Control,Storage non-conformances,Internal standard,SAP EHS,Partial,Piloting,3,Supply Chain & Procurement,2025-12-02,DOC-00078
+Warehouse,Slot fast movers near dispatch and review slotting twice a year,BP-065,Governance,Pick travel time,Internal standard,SAP EWM,Standard,Adopted,3,Supply Chain & Procurement,2026-07-04,DOC-00378
+Warehouse,Issue parts only against a reservation or work order,BP-066,Process,Unplanned issues,COSO,SAP MM-IM,Standard,Piloting,3,Supply Chain & Procurement,2026-07-12,DOC-00471
+Warehouse,Control consignment stock with periodic vendor reconciliation,BP-067,Control,Consignment variance,Internal standard,SAP MM,Standard,Planned,1,Supply Chain & Procurement,2025-05-03,DOC-00219
+Warehouse,Review obsolete and slow stock yearly with disposal approval,BP-068,Control,Obsolete stock value,Internal standard,SAP MM,Partial,Planned,1,Supply Chain & Procurement,2025-01-14,DOC-00425
+Warehouse,Label with barcode or RFID at receipt,BP-069,Process,% labeled,Internal standard,SAP EWM,Standard,Piloting,2,Supply Chain & Procurement,2025-07-30,DOC-00328
+Warehouse,Keep min-max values tied to criticality and lead time,BP-070,Process,% items within policy,ISO 55001,SAP MM,Partial,Planned,1,Supply Chain & Procurement,2026-07-24,DOC-00425
+Warehouse,Audit safety walkthroughs weekly,BP-071,Control,Observations closed,ISO 45001,SAP EHS,Partial,Adopted,3,Supply Chain & Procurement,2026-07-08,DOC-00219
+Warehouse,Report stock-out of critical spares to reliability,BP-072,Process,Critical stock-outs,ISO 55001,SAP PM / MM,Standard,Piloting,3,Supply Chain & Procurement,2026-01-04,DOC-00219
+Logistics,Tender truck loads through a defined carrier waterfall,BP-073,Governance,Tender acceptance,Internal standard,SAP TM,Standard,Planned,1,Logistics,2026-01-09,DOC-00465
+Logistics,Schedule pipeline batches against interface and tank constraints,BP-074,Process,Batch schedule adherence,Internal standard,SAP IS-Oil TSW,Partial,Adopted,4,Logistics,2025-09-08,DOC-00077
+Logistics,Nominate marine vessels with laycan and demurrage controls,BP-075,Control,Demurrage cost,Internal standard,SAP IS-Oil / TM,Partial,Not adopted,1,Logistics,2025-06-08,DOC-00064
+Logistics,Audit freight invoices against contract rates before payment,BP-076,Control,Freight audit variance,Internal standard,SAP TM freight settlement,Standard,Not adopted,1,Logistics,2025-12-28,DOC-00188
+Logistics,Check dangerous goods documents at loading,BP-077,Governance,DG non-conformances,TDG Regulations,SAP EHS / GTS,Partial,Not adopted,1,Logistics,2026-04-30,DOC-00420
+Logistics,Manage rail car fleet with maintenance and cycle-time tracking,BP-078,Technology,Rail car cycle days,Internal standard,SAP TM / third-party,Partial,Adopted,4,Logistics,2025-07-11,DOC-00278
+Logistics,Calibrate loading rack meters on schedule,BP-079,Process,Meter variance,Measurement Canada,SAP PM,Partial,Planned,1,Logistics,2026-01-05,DOC-00465
+Logistics,Capture delivery exceptions with cause codes,BP-080,Technology,Exception rate,Internal standard,SAP TM,Standard,Piloting,2,Logistics,2026-06-09,DOC-00278
+Logistics,Track carrier safety ratings before award,BP-081,Technology,% carriers rated,Internal standard,SAP TM,Partial,Adopted,3,Logistics,2026-03-16,DOC-00064
+Logistics,Forecast terminal throughput weekly,BP-082,Process,Throughput accuracy,Internal standard,SAP IBP,Partial,Planned,1,Logistics,2026-02-04,DOC-00278
+Logistics,Test spill response at terminals annually,BP-083,Control,Drill completion,AER Directive 071,SAP EHS,Partial,Adopted,3,Logistics,2026-08-04,DOC-00077
+Logistics,Provide customers with delivery visibility and ETAs,BP-084,Process,On-time delivery,Internal standard,SAP TM visibility,Partial,Adopted,4,Logistics,2025-05-29,DOC-00077
+Upstream Operations,Reconcile allocated production to sales meters monthly,BP-085,Control,Allocation variance,AER Directive 017,SAP IS-Oil PRA,Standard,Adopted,3,Upstream,2025-12-19,DOC-00063
+Upstream Operations,Surveil SAGD wells with daily steam-oil-ratio review,BP-086,Governance,SOR vs target,Internal standard,n/a,Not provided by SAP,Adopted,4,Upstream,2026-07-08,DOC-00063
+Upstream Operations,Plan drilling with AFE and weekly cost-to-complete,BP-087,Process,Cost vs AFE,Internal standard,SAP Project System,Partial,Not adopted,1,Upstream,2025-02-02,DOC-00030
+Upstream Operations,Calibrate and prove meters on the regulated schedule,BP-088,Process,Calibration compliance,AER Directive 017,SAP PM,Partial,Adopted,4,Upstream,2026-05-23,DOC-00105
+Upstream Operations,Apply a well-integrity checklist before every well start-up,BP-089,Process,Integrity incidents,AER Directive 056,n/a,Not provided by SAP,Adopted,3,Upstream,2025-05-22,DOC-00105
+Upstream Operations,Optimize artificial lift using run-life tracking,BP-090,Technology,Mean run-life,Internal standard,n/a,Not provided by SAP,Piloting,3,Upstream,2025-12-08,DOC-00030
+Upstream Operations,Plan facility turnarounds 18 months ahead,BP-091,Process,Turnaround on time,Internal standard,SAP PM / PS,Standard,Not adopted,1,Upstream,2025-07-03,DOC-00469
+Upstream Operations,Track produced water volume and disposal limits daily,BP-092,Technology,Disposal limit usage,AER Directive 051,n/a,Not provided by SAP,Adopted,3,Upstream,2025-08-08,DOC-00063
+Upstream Operations,Hold weekly production meetings with a downtime Pareto,BP-093,Process,Deferred barrels,Internal standard,SAP Analytics Cloud,Partial,Piloting,2,Upstream,2026-09-10,DOC-00105
+Upstream Operations,Capture reserves changes with PRMS categories,BP-094,Process,Reserve revision log,SPE PRMS,n/a,Not provided by SAP,Adopted,3,Upstream,2026-04-30,DOC-00469
+Upstream Operations,Complete abandonment and reclamation liability reviews yearly,BP-095,Governance,Liability accuracy,AER Directive 020,SAP Finance (ARO),Partial,Adopted,3,Upstream,2026-08-04,DOC-00030
+Upstream Operations,Standardize daily field data entry with validation,BP-096,Process,Data completeness,Internal standard,SAP IS-Oil PRA,Partial,Not adopted,1,Upstream,2025-08-03,DOC-00063
+Refining Operations,Update the LP model monthly with actual yields,BP-097,Technology,Plan vs actual margin,Internal standard,SAP IBP / Aspen PIMS,Partial,Adopted,4,Refining,2025-05-01,DOC-00453
+Refining Operations,Operate units inside documented operating envelopes,BP-098,Governance,Envelope excursions,API RP 754,n/a,Not provided by SAP,Not adopted,1,Refining,2026-06-22,DOC-00237
+Refining Operations,Control product giveaway at blending,BP-099,Control,Giveaway cost,Internal standard,SAP IS-Oil,Partial,Adopted,4,Refining,2025-10-14,DOC-00237
+Refining Operations,Release batches only after lab results meet spec,BP-100,Process,Off-spec releases,ISO 9001,SAP QM / LIMS,Standard,Adopted,3,Refining,2026-04-20,DOC-00421
+Refining Operations,Monitor catalyst life and plan changes in turnarounds,BP-101,Technology,Catalyst cycle length,Internal standard,n/a,Not provided by SAP,Not adopted,1,Refining,2025-03-03,DOC-00421
+Refining Operations,Benchmark energy intensity quarterly,BP-102,Process,Energy intensity index,ISO 50001,n/a,Not provided by SAP,Adopted,3,Refining,2026-09-15,DOC-00170
+Refining Operations,Reconcile unit yields with a mass balance daily,BP-103,Control,Mass balance closure,Internal standard,SAP IS-Oil HPM,Partial,Adopted,5,Refining,2026-07-04,DOC-00170
+Refining Operations,Run crude assay updates before every new crude,BP-104,Process,Assay freshness,Internal standard,n/a,Not provided by SAP,Adopted,3,Refining,2025-01-01,DOC-00237
+Refining Operations,Review operator rounds and shift handover logs,BP-105,Governance,Handover completion,API RP 754,n/a,Not provided by SAP,Adopted,3,Refining,2025-06-23,DOC-00237
+Refining Operations,Track flaring and emissions intensity daily,BP-106,Technology,Flare volume,AER Directive 060,SAP EHS / Enablon,Partial,Adopted,5,Refining,2025-11-20,DOC-00298
+Refining Operations,Define turnaround scope with work-list freeze at T-12 months,BP-107,Governance,Scope growth,Internal standard,SAP PM / PS,Standard,Planned,1,Refining,2026-07-22,DOC-00298
+Refining Operations,Validate planning prices against market curves,BP-108,Process,Price deviation,Internal standard,SAP Analytics Cloud,Partial,Adopted,5,Refining,2025-11-10,DOC-00109
+Asset Reliability,Rank equipment criticality with a consistent risk matrix,BP-109,Process,% assets ranked,ISO 55001,SAP PM,Standard,Adopted,5,Maintenance & Reliability,2025-12-11,DOC-00492
+Asset Reliability,Plan inspections by risk and update after findings,BP-110,Process,Overdue inspections,API RP 580,SAP PM / APM,Partial,Not adopted,1,Maintenance & Reliability,2025-01-12,DOC-00492
+Asset Reliability,Base preventive tasks on failure modes,BP-111,Process,PM compliance,ISO 14224,SAP PM,Standard,Piloting,3,Maintenance & Reliability,2025-11-24,DOC-00211
+Asset Reliability,Use root cause analysis for every high-consequence failure,BP-112,Technology,RCA closure,ISO 14224,SAP PM / EHS,Partial,Piloting,2,Maintenance & Reliability,2026-03-14,DOC-00211
+Asset Reliability,Monitor rotating equipment vibration continuously,BP-113,Technology,Early detections,ISO 55001,SAP PM / APM,Partial,Adopted,4,Maintenance & Reliability,2025-08-02,DOC-00211
+Asset Reliability,Schedule planned work a week ahead with parts staged,BP-114,Process,Schedule compliance,ISO 55001,SAP PM,Standard,Adopted,3,Maintenance & Reliability,2025-08-11,DOC-00492
+Asset Reliability,Report MTBF and MTTR by asset class monthly,BP-115,Process,MTBF,ISO 14224,SAP PM,Standard,Not adopted,1,Maintenance & Reliability,2025-12-14,DOC-00492
+Asset Reliability,Keep failure codes simple and enforced,BP-116,Process,% work orders with failure code,ISO 14224,SAP PM,Standard,Not adopted,1,Maintenance & Reliability,2026-02-24,DOC-00211
+Asset Reliability,Hold bad-actor reviews quarterly,BP-117,Governance,Repeat failures,ISO 55001,SAP Analytics Cloud,Partial,Piloting,2,Maintenance & Reliability,2026-03-19,DOC-00492
+Asset Reliability,Link critical spares to equipment bills of material,BP-118,Process,Critical spares covered,ISO 55001,SAP PM / MM,Standard,Not adopted,1,Maintenance & Reliability,2025-08-22,DOC-00211
+Asset Reliability,Measure maintenance cost per barrel produced,BP-119,Process,Cost per barrel,ISO 55001,SAP CO,Partial,Planned,1,Maintenance & Reliability,2026-02-02,DOC-00492
+Asset Reliability,Manage overdue safety-critical devices with executive visibility,BP-120,Process,Overdue SCE tests,API RP 754,SAP PM,Partial,Adopted,3,Maintenance & Reliability,2025-06-30,DOC-00211
+Sales & Trading,Capture trades in the system at execution,BP-121,Process,Late-captured trades,ISDA,SAP Commodity Management,Partial,Planned,1,Commercial Trading,2025-09-14,DOC-00413
+Sales & Trading,Confirm trades within one business day,BP-122,Process,Unconfirmed trades,ISDA,SAP Commodity Management,Partial,Planned,1,Commercial Trading,2025-01-20,DOC-00413
+Sales & Trading,Check credit limits before order release,BP-123,Process,Credit blocks,COSO,SAP Credit Management,Standard,Adopted,4,Commercial Trading,2026-09-03,DOC-00133
+Sales & Trading,Settle term contracts with verified delivery volumes,BP-124,Process,Invoice disputes,Internal standard,SAP S/4HANA SD,Standard,Adopted,3,Commercial Trading,2026-09-26,DOC-00006
+Sales & Trading,Price crude sales using published differentials,BP-125,Process,Price realization,Internal standard,SAP IS-Oil TSW,Partial,Adopted,3,Commercial Trading,2025-10-30,DOC-00133
+Sales & Trading,Monitor contract volume obligations monthly,BP-126,Technology,Make-up volumes,Internal standard,SAP S/4HANA SD,Partial,Adopted,4,Commercial Trading,2026-03-23,DOC-00006
+Sales & Trading,Separate trading and risk reporting lines,BP-127,Process,Control exceptions,COSO,SAP GRC,Partial,Piloting,2,Commercial Trading,2025-03-27,DOC-00413
+Sales & Trading,Reconcile physical positions daily,BP-128,Control,Position breaks,Internal standard,SAP Commodity Management,Partial,Adopted,3,Commercial Trading,2025-02-26,DOC-00133
+Sales & Trading,Apply exchange and counterparty netting rules,BP-129,Process,Net settlement ratio,ISDA,SAP TRM,Partial,Not adopted,1,Commercial Trading,2026-07-08,DOC-00133
+Sales & Trading,Archive trade communications as records,BP-130,Process,Retention compliance,Internal standard,n/a,Not provided by SAP,Adopted,3,Commercial Trading,2025-10-27,DOC-00133
+Sales & Trading,Track order-to-cash cycle time,BP-131,Technology,Order-to-cash days,Internal standard,SAP S/4HANA SD,Standard,Piloting,2,Commercial Trading,2025-01-18,DOC-00006
+Sales & Trading,Report margin by product and customer weekly,BP-132,Process,Margin report timeliness,Internal standard,SAP Analytics Cloud,Standard,Piloting,2,Commercial Trading,2025-03-12,DOC-00413
+Finance,Close with a day-by-day calendar and checklist,BP-133,Process,Close days,COSO,SAP S/4HANA Advanced Close,Standard,Not adopted,1,Finance,2025-07-18,DOC-00270
+Finance,Reconcile intercompany balances before close,BP-134,Control,Unmatched items,IFRS 10,SAP S/4HANA Intercompany,Standard,Adopted,4,Finance,2025-07-17,DOC-00438
+Finance,Allocate operating cost with documented drivers,BP-135,Governance,Allocation variance,Internal standard,SAP S/4HANA CO,Standard,Adopted,4,Finance,2025-02-10,DOC-00270
+Finance,Forecast quarterly with a driver-based model,BP-136,Technology,Forecast accuracy,Internal standard,SAP Analytics Cloud,Partial,Adopted,3,Finance,2025-04-05,DOC-00438
+Finance,Recognize commodity revenue at transfer of control,BP-137,Control,Revenue cutoff errors,IFRS 15,SAP S/4HANA Revenue Accounting,Standard,Adopted,4,Finance,2025-10-10,DOC-00332
+Finance,Capitalize projects under defined criteria,BP-138,Governance,Capitalization review,IFRS (IAS 16),SAP Project System,Standard,Adopted,4,Finance,2026-07-15,DOC-00270
+Finance,Test key controls over financial reporting twice a year,BP-139,Control,Control failures,COSO,SAP GRC Process Control,Standard,Adopted,4,Finance,2025-04-07,DOC-00332
+Finance,Review variance by cost center against budget monthly,BP-140,Governance,Variance explained,Internal standard,SAP S/4HANA CO,Standard,Adopted,3,Finance,2026-07-01,DOC-00332
+Finance,Value asset retirement obligations yearly,BP-141,Process,ARO accuracy,IFRS (IAS 37),SAP S/4HANA,Partial,Adopted,3,Finance,2026-04-09,DOC-00332
+Finance,Automate account reconciliations,BP-142,Control,% auto-reconciled,COSO,SAP Account Reconciliation,Standard,Piloting,3,Finance,2025-11-06,DOC-00270
+Finance,Bill JV partners monthly with supporting detail,BP-143,Process,JV billing disputes,COPAS,SAP S/4HANA JVA,Standard,Adopted,4,Finance,2025-05-16,DOC-00438
+Finance,Restrict manual journal entries and review the top ones,BP-144,Governance,Manual journal ratio,COSO,SAP GRC,Partial,Piloting,3,Finance,2026-02-05,DOC-00270
+ESG,Define reporting boundary by operational control,BP-145,Control,Boundary completeness,GHG Protocol,SAP Sustainability Control Tower,Partial,Adopted,3,ESG,2025-08-01,DOC-00138
+ESG,"Quantify methane by source with measurement, not factors alone",BP-146,Process,Measured share,OGMP 2.0,n/a,Not provided by SAP,Not adopted,1,ESG,2026-05-07,DOC-00059
+ESG,Run leak detection and repair surveys on schedule,BP-147,Process,LDAR survey on time,ECCC Methane Regs,n/a,Not provided by SAP,Not adopted,1,ESG,2025-07-14,DOC-00107
+ESG,Reconcile emissions to fuel and flare volumes,BP-148,Control,Reconciliation variance,GHG Protocol,SAP Datasphere,Partial,Adopted,5,ESG,2025-09-25,DOC-00138
+ESG,Report fresh-water withdrawal and recycle rates by facility,BP-149,Process,Recycle rate,ISO 14001,n/a,Not provided by SAP,Not adopted,1,ESG,2025-10-09,DOC-00428
+ESG,Set targets with baseline year and recalculation policy,BP-150,Governance,Targets with baseline,GHG Protocol,SAP Sustainability Control Tower,Partial,Not adopted,1,ESG,2025-04-20,DOC-00151
+ESG,"Track credits (TIER, clean fuel) with expiry",BP-151,Technology,Credits expiring,TIER Regulation,n/a,Not provided by SAP,Adopted,3,ESG,2025-01-01,DOC-00059
+ESG,Prepare ISSB climate disclosure with scenario analysis,BP-152,Process,Disclosure readiness,IFRS S2,SAP Sustainability Footprint Mgmt,Partial,Adopted,4,ESG,2025-11-07,DOC-00296
+ESG,Assure data with an internal controls checklist before audit,BP-153,Control,Assurance findings,ISAE 3410,SAP GRC,Partial,Adopted,5,ESG,2026-04-25,DOC-00151
+ESG,Link emissions to cost of carbon in investment cases,BP-154,Process,Projects with carbon price,IFRS S2,SAP Analytics Cloud,Partial,Not adopted,1,ESG,2026-06-07,DOC-00151
+ESG,Report reclamation progress by disturbance area,BP-155,Process,Reclamation area,AER Directive 020,n/a,Not provided by SAP,Not adopted,1,ESG,2025-06-18,DOC-00360
+ESG,Publish sustainability KPIs from certified data,BP-156,Process,KPI certification,DAMA-DMBOK,SAP Datasphere,Standard,Adopted,3,ESG,2025-11-03,DOC-00151
+Data & Analytics,Keep a business glossary with named data owners,BP-157,Governance,% terms owned,DAMA-DMBOK,SAP Datasphere catalog,Standard,Adopted,5,Data & Analytics,2026-09-15,DOC-00152
+Data & Analytics,Retire duplicate reports before migration,BP-158,Process,Reports retired,Internal standard,"SAP BW/4HANA, Datasphere",Partial,Not adopted,1,Data & Analytics,2026-09-17,DOC-00315
+Data & Analytics,Use certified datasets for executive reporting,BP-159,Technology,% certified datasets,DAMA-DMBOK,SAP Datasphere,Standard,Not adopted,1,Data & Analytics,2026-02-15,DOC-00441
+Data & Analytics,Monitor data freshness with alerts,BP-160,Technology,Late loads,DAMA-DMBOK,SAP Datasphere,Standard,Adopted,4,Data & Analytics,2025-07-29,DOC-00441
+Data & Analytics,Apply row-level security by business unit,BP-161,Process,Security exceptions,ISO 27001,SAP Datasphere / SAC,Standard,Planned,1,Data & Analytics,2025-03-30,DOC-00441
+Data & Analytics,Test reports against source totals before go-live,BP-162,Control,Reconciliation pass rate,Internal standard,SAP Datasphere,Partial,Adopted,3,Data & Analytics,2025-09-12,DOC-00152
+Data & Analytics,Version control calculation logic in a repository,BP-163,Control,Models under source control,Internal standard,SAP HANA Cloud / Datasphere,Partial,Planned,1,Data & Analytics,2026-02-21,DOC-00309
+Data & Analytics,Track lineage from source to report,BP-164,Technology,% lineage coverage,DAMA-DMBOK,SAP Datasphere,Standard,Piloting,2,Data & Analytics,2025-02-17,DOC-00152
+Data & Analytics,Cap data extracts to approved users,BP-165,Control,Extract volume,ISO 27001,SAP BusinessObjects,Partial,Not adopted,1,Data & Analytics,2025-10-25,DOC-00152
+Data & Analytics,Limit shadow reporting in spreadsheets,BP-166,Process,Shadow reports,DAMA-DMBOK,n/a,Not provided by SAP,Adopted,5,Data & Analytics,2025-08-13,DOC-00441
+Data & Analytics,Define data quality thresholds with stewards,BP-167,Governance,DQ score,DAMA-DMBOK,SAP MDG,Standard,Not adopted,1,Data & Analytics,2026-10-03,DOC-00315
+Data & Analytics,Track user adoption of analytics and retire unused content,BP-168,Technology,Active users,Internal standard,SAP Analytics Cloud,Partial,Piloting,3,Data & Analytics,2026-05-07,DOC-00309
+Enterprise Architecture,Review every new solution at the architecture review board,BP-169,Governance,% projects reviewed,TOGAF,SAP LeanIX,Standard,Planned,1,Enterprise Architecture,2026-05-17,DOC-00224
+Enterprise Architecture,Classify applications with the TIME model yearly,BP-170,Technology,Portfolio classified,Gartner TIME,SAP LeanIX,Standard,Not adopted,1,Enterprise Architecture,2025-06-05,DOC-00485
+Enterprise Architecture,Keep clean core: no modifications to standard code,BP-171,Process,Custom modifications,SAP Clean Core,ATC / ABAP Cloud,Standard,Adopted,4,Enterprise Architecture,2025-06-26,DOC-00034
+Enterprise Architecture,Limit technology to a standards list with sunset dates,BP-172,Process,Non-standard technology,TOGAF,SAP LeanIX,Standard,Planned,1,Enterprise Architecture,2026-02-23,DOC-00034
+Enterprise Architecture,Document integrations in one inventory,BP-173,Governance,% interfaces documented,TOGAF,SAP Integration Suite,Partial,Piloting,3,Enterprise Architecture,2025-12-31,DOC-00034
+Enterprise Architecture,Model target processes before configuration,BP-174,Technology,Process models,ARIS/BPMN,SAP Signavio,Standard,Piloting,3,Enterprise Architecture,2025-12-03,DOC-00485
+Enterprise Architecture,Record architecture decisions with context and alternatives,BP-175,Process,ADRs recorded,TOGAF,SAP LeanIX,Partial,Planned,1,Enterprise Architecture,2026-05-19,DOC-00323
+Enterprise Architecture,Plan hosting by data classification and residency,BP-176,Process,Residency exceptions,ISO 27001,SAP BTP / RISE,Partial,Adopted,3,Enterprise Architecture,2025-03-13,DOC-00286
+Enterprise Architecture,Align roadmap with vendor support end dates,BP-177,Process,Apps past support,Internal standard,SAP LeanIX,Standard,Adopted,3,Enterprise Architecture,2025-09-03,DOC-00485
+Enterprise Architecture,Re-use enterprise services before building new,BP-178,Technology,Reuse ratio,TOGAF,SAP Integration Suite,Partial,Adopted,3,Enterprise Architecture,2025-11-20,DOC-00034
+Enterprise Architecture,Measure technical debt and plan reduction,BP-179,Process,Technical debt index,Internal standard,SAP LeanIX,Partial,Adopted,4,Enterprise Architecture,2026-06-08,DOC-00286
+Enterprise Architecture,Define reference architecture for OT/IT convergence,BP-180,Governance,Reference coverage,IEC 62443,n/a,Not provided by SAP,Adopted,4,Enterprise Architecture,2025-03-27,DOC-00262
+Transformation PMO,Use stage-gates with defined entry and exit criteria,BP-181,Governance,Gate criteria met,PMBOK,SAP PPM,Partial,Planned,1,Transformation Office,2026-03-06,DOC-00396
+Transformation PMO,Maintain a risk register with owner and mitigation date,BP-182,Governance,Overdue mitigations,ISO 31000,SAP PPM / GRC,Partial,Not adopted,1,Transformation Office,2025-05-07,DOC-00225
+Transformation PMO,Track benefits to financial systems,BP-183,Technology,Benefits validated,Internal standard,SAP Analytics Cloud,Partial,Adopted,3,Transformation Office,2025-12-23,DOC-00021
+Transformation PMO,Use earned value for projects above threshold,BP-184,Technology,SPI and CPI,PMBOK,SAP Project System,Standard,Adopted,3,Transformation Office,2026-01-29,DOC-00261
+Transformation PMO,Control change through a formal request,BP-185,Control,Unapproved changes,PMBOK,SAP PPM,Partial,Adopted,3,Transformation Office,2025-09-05,DOC-00110
+Transformation PMO,Report portfolio status in one monthly pack,BP-186,Process,Pack on time,Internal standard,SAP PPM,Partial,Not adopted,1,Transformation Office,2026-04-16,DOC-00021
+Transformation PMO,Plan resources centrally for scarce skills,BP-187,Process,Over-allocated people,PMBOK,SAP PPM,Partial,Planned,1,Transformation Office,2026-01-02,DOC-00110
+Transformation PMO,Run post-implementation reviews and file lessons,BP-188,Governance,% reviews done,PMBOK,n/a,Not provided by SAP,Adopted,4,Transformation Office,2026-03-31,DOC-00225
+Transformation PMO,Keep a single dependency map across programs,BP-189,Process,Dependencies tracked,PMBOK,SAP Signavio / LeanIX,Partial,Adopted,5,Transformation Office,2026-02-06,DOC-00110
+Transformation PMO,Appoint benefit owners from the business,BP-190,Governance,Benefits with owner,Internal standard,n/a,Not provided by SAP,Adopted,4,Transformation Office,2025-11-19,DOC-00261
+Transformation PMO,Escalate red items within a week,BP-191,Process,Escalation time,PMBOK,SAP PPM,Partial,Piloting,3,Transformation Office,2025-04-26,DOC-00396
+Transformation PMO,Apply a standard business case template,BP-192,Process,% cases standard,Internal standard,SAP PPM,Partial,Adopted,3,Transformation Office,2025-10-28,DOC-00021
+HSE,Report incidents within one shift and classify by tier,BP-193,Process,Reporting delay,API RP 754,SAP EHS,Standard,Adopted,4,HSE,2026-08-02,DOC-00016
+HSE,Investigate tier 1 and 2 events with root cause method,BP-194,Technology,Investigation time,API RP 754,SAP EHS,Standard,Not adopted,1,HSE,2026-04-26,DOC-00244
+HSE,Close corrective actions on time,BP-195,Process,Overdue actions,ISO 45001,SAP EHS,Standard,Adopted,4,HSE,2025-03-16,DOC-00244
+HSE,Encourage safety observations with feedback to reporter,BP-196,Process,Observations per worker,Internal standard,SAP EHS,Partial,Adopted,4,HSE,2026-06-30,DOC-00268
+HSE,Use permit to work with isolation verification,BP-197,Technology,Permit audits,API RP 754,SAP WCM,Standard,Adopted,4,HSE,2026-01-15,DOC-00232
+HSE,Manage changes through MOC with hazard review,BP-198,Governance,MOC compliance,API RP 754,SAP EHS / PM,Partial,Adopted,5,HSE,2025-01-08,DOC-00042
+HSE,Exercise emergency response plans annually,BP-199,Process,Drills completed,AER Directive 071,n/a,Not provided by SAP,Adopted,3,HSE,2026-02-13,DOC-00363
+HSE,Verify contractors with orientation before site access,BP-200,Control,Orientation compliance,ISO 45001,SAP EHS,Partial,Planned,1,HSE,2026-06-12,DOC-00232
+HSE,Audit regulatory compliance with action tracking,BP-201,Control,Findings closed,ISO 14001,SAP EHS,Standard,Adopted,4,HSE,2025-12-20,DOC-00268
+HSE,Track leading indicators with lagging ones,BP-202,Technology,Leading indicator coverage,API RP 754,SAP Analytics Cloud,Partial,Not adopted,1,HSE,2026-08-24,DOC-00244
+HSE,Share lessons learned across sites within 30 days,BP-203,Process,Lessons shared,Internal standard,n/a,Not provided by SAP,Adopted,3,HSE,2025-07-05,DOC-00042
+HSE,Monitor fatigue and hours of work,BP-204,Technology,Fatigue incidents,API RP 755,n/a,Not provided by SAP,Piloting,2,HSE,2025-09-11,DOC-00232
+Trading Risk,Set VaR and position limits annually by board approval,BP-205,Control,Limit breaches,COSO,SAP TRM,Partial,Not adopted,1,Risk Management,2025-03-07,DOC-00140
+Trading Risk,Report positions daily to risk committee,BP-206,Process,Report timeliness,Internal standard,SAP TRM,Partial,Adopted,4,Risk Management,2026-03-16,DOC-00140
+Trading Risk,Document hedge designation at inception,BP-207,Governance,Documentation complete,IFRS 9,SAP TRM hedge mgmt,Standard,Adopted,3,Risk Management,2025-10-13,DOC-00140
+Trading Risk,Test hedge effectiveness each period,BP-208,Control,Ineffectiveness,IFRS 9,SAP TRM hedge mgmt,Standard,Adopted,3,Risk Management,2025-06-10,DOC-00140
+Trading Risk,Source price curves from independent providers,BP-209,Process,Curve validation,Internal standard,n/a,Not provided by SAP,Adopted,4,Risk Management,2026-04-22,DOC-00140
+Trading Risk,Limit counterparty exposure by rating,BP-210,Process,Exposure vs limit,ISDA,SAP TRM,Partial,Adopted,3,Risk Management,2026-08-13,DOC-00140
+Trading Risk,Stress test portfolio quarterly,BP-211,Control,Stress scenarios run,ISO 31000,n/a,Not provided by SAP,Adopted,3,Risk Management,2026-05-05,DOC-00140
+Trading Risk,"Segregate front, middle and back office",BP-212,Control,SoD conflicts,COSO,SAP GRC,Partial,Piloting,2,Risk Management,2026-08-04,DOC-00140
+Trading Risk,Match hedges to forecast production,BP-213,Process,Hedge ratio,Internal standard,SAP TRM,Partial,Adopted,3,Risk Management,2025-06-30,DOC-00140
+Trading Risk,Document hedging policy approved by board,BP-214,Control,Policy review date,COSO,n/a,Not provided by SAP,Piloting,3,Risk Management,2025-06-18,DOC-00140
+Trading Risk,Reconcile trade confirmations to broker statements,BP-215,Control,Breaks,ISDA,SAP TRM,Partial,Not adopted,1,Risk Management,2025-07-26,DOC-00140
+Trading Risk,Monitor FX exposure net of natural hedges,BP-216,Technology,Net FX exposure,Internal standard,SAP TRM,Standard,Not adopted,1,Risk Management,2025-09-06,DOC-00140
+Knowledge Management,Number and version controlled documents consistently,BP-217,Control,Docs with valid number,ISO 9001,Documentum / SharePoint,Not provided by SAP,Not adopted,1,Knowledge Office,2025-01-12,DOC-00424
+Knowledge Management,Capture lessons learned at project and incident closure,BP-218,Process,Lessons per project,PMBOK,n/a,Not provided by SAP,Adopted,4,Knowledge Office,2026-02-25,DOC-00459
+Knowledge Management,Apply retention schedule by record class,BP-219,Process,Retention compliance,Internal standard,SAP ILM,Partial,Adopted,4,Knowledge Office,2025-07-29,DOC-00424
+Knowledge Management,Tag documents with a controlled taxonomy,BP-220,Control,% docs tagged,DAMA-DMBOK,n/a,Not provided by SAP,Piloting,3,Knowledge Office,2025-08-02,DOC-00459
+Knowledge Management,Review owner and content every review cycle,BP-221,Governance,Overdue reviews,ISO 9001,n/a,Not provided by SAP,Not adopted,1,Knowledge Office,2025-03-15,DOC-00306
+Knowledge Management,Maintain SME directory with backups,BP-222,Governance,SMEs with backup,Internal standard,SAP SuccessFactors,Partial,Adopted,5,Knowledge Office,2025-07-24,DOC-00460
+Knowledge Management,Capture expert knowledge before retirement,BP-223,Process,Transfers complete,Internal standard,n/a,Not provided by SAP,Adopted,3,Knowledge Office,2026-02-24,DOC-00306
+Knowledge Management,"Archive superseded versions, do not delete",BP-224,Process,Superseded retained,ISO 9001,n/a,Not provided by SAP,Adopted,4,Knowledge Office,2025-07-08,DOC-00289
+Knowledge Management,Control access to confidential documents,BP-225,Control,Access exceptions,ISO 27001,n/a,Not provided by SAP,Adopted,4,Knowledge Office,2025-01-14,DOC-00275
+Knowledge Management,Measure search success and fix zero-result queries,BP-226,Process,Zero-result rate,Internal standard,n/a,Not provided by SAP,Not adopted,1,Knowledge Office,2025-01-01,DOC-00289
+Knowledge Management,Link documents to the systems and assets they describe,BP-227,Governance,% linked,Internal standard,SAP LeanIX,Partial,Piloting,3,Knowledge Office,2026-03-03,DOC-00275
+Knowledge Management,Publish how-to guidance in one searchable wiki,BP-228,Process,Page views,Internal standard,n/a,Not provided by SAP,Adopted,3,Knowledge Office,2026-07-20,DOC-00459
+Corporate IT & Security,Segment OT and IT networks per zone model,BP-229,Technology,Zone conformance,IEC 62443,n/a,Not provided by SAP,Adopted,4,Information Security,2026-07-20,DOC-00116
+Corporate IT & Security,Patch critical vulnerabilities within 14 days,BP-230,Process,Patch SLA,NIST CSF,SAP Solution Manager,Partial,Not adopted,1,Information Security,2025-12-22,DOC-00339
+Corporate IT & Security,Review privileged access quarterly,BP-231,Governance,Stale privileged accounts,ISO 27001,SAP GRC,Standard,Adopted,3,Information Security,2025-01-07,DOC-00177
+Corporate IT & Security,Test backup restoration at least twice a year,BP-232,Control,Restore tests passed,ISO 27001,n/a,Not provided by SAP,Not adopted,1,Information Security,2025-11-12,DOC-00177
+Corporate IT & Security,Define RTO and RPO per application,BP-233,Governance,Apps with RTO,ISO 22301,SAP Cloud ALM,Partial,Adopted,5,Information Security,2026-01-18,DOC-00341
+Corporate IT & Security,Require multi-factor authentication for remote access,BP-234,Process,MFA coverage,NIST CSF,SAP BTP identity,Partial,Adopted,4,Information Security,2026-05-06,DOC-00177
+Corporate IT & Security,Assess third-party security before onboarding,BP-235,Process,Assessments done,ISO 27001,SAP Ariba,Partial,Not adopted,1,Information Security,2025-04-01,DOC-00339
+Corporate IT & Security,Log and monitor security events centrally,BP-236,Technology,Log source coverage,NIST CSF,n/a,Not provided by SAP,Adopted,5,Information Security,2026-09-10,DOC-00431
+Corporate IT & Security,Use ITIL change management for production,BP-237,Technology,Emergency changes,ITIL 4,SAP Cloud ALM,Partial,Piloting,2,Information Security,2026-01-13,DOC-00339
+Corporate IT & Security,Tag cloud resources with owner and cost center,BP-238,Governance,% tagged,FinOps Foundation,n/a,Not provided by SAP,Not adopted,1,Information Security,2025-01-07,DOC-00116
+Corporate IT & Security,Run phishing awareness exercises,BP-239,Process,Click rate,NIST CSF,n/a,Not provided by SAP,Adopted,4,Information Security,2026-09-12,DOC-00116
+Corporate IT & Security,Retire unsupported platforms by sunset date,BP-240,Process,Unsupported assets,Internal standard,SAP LeanIX,Standard,Piloting,2,Information Security,2025-12-08,DOC-00116
+Master Data Management,Name a data owner and steward for each master data domain,BP-241,Governance,Domains with owner,DAMA-DMBOK,SAP MDG,Standard,Adopted,3,Data Governance,2026-08-03,DOC-00315
+Master Data Management,Create materials through a governed workflow,BP-242,Process,Rework rate,DAMA-DMBOK,SAP MDG,Standard,Adopted,3,Data Governance,2025-02-25,DOC-00441
+Master Data Management,Detect duplicate vendors and customers before creation,BP-243,Process,Duplicate rate,DAMA-DMBOK,SAP MDG,Standard,Adopted,3,Data Governance,2026-04-22,DOC-00152
+Master Data Management,Standardize units of measure and product hierarchies,BP-244,Process,UoM exceptions,Internal standard,SAP MDG,Partial,Adopted,4,Data Governance,2025-01-10,DOC-00152
+Master Data Management,Deactivate unused records on a schedule,BP-245,Process,Dormant records,DAMA-DMBOK,SAP MDG,Partial,Adopted,5,Data Governance,2025-02-09,DOC-00152
+Master Data Management,Validate addresses and bank details at entry,BP-246,Process,Invalid records,DAMA-DMBOK,SAP MDG,Partial,Adopted,3,Data Governance,2026-08-18,DOC-00152
+Master Data Management,Version equipment and functional location hierarchies,BP-247,Process,Hierarchy changes logged,ISO 14224,SAP PM / MDG,Partial,Adopted,3,Data Governance,2025-01-24,DOC-00315
+Master Data Management,Track data quality with scorecards,BP-248,Technology,DQ score,DAMA-DMBOK,SAP MDG,Standard,Adopted,4,Data Governance,2025-07-13,DOC-00315
+Master Data Management,Control well and facility master data between systems,BP-249,Control,Master data breaks,Internal standard,n/a,Not provided by SAP,Adopted,3,Data Governance,2026-03-15,DOC-00152
+Master Data Management,Record change history and approvals,BP-250,Control,Changes with approval,COSO,SAP MDG,Standard,Planned,1,Data Governance,2025-09-15,DOC-00152
+Master Data Management,Align master data with analytics dimensions,BP-251,Process,Mismatched keys,DAMA-DMBOK,SAP Datasphere,Partial,Adopted,5,Data Governance,2025-03-12,DOC-00152
+Master Data Management,Train data stewards annually,BP-252,Process,Stewards trained,DAMA-DMBOK,n/a,Not provided by SAP,Adopted,3,Data Governance,2026-07-19,DOC-00309
+Turnaround & Shutdown Management,Freeze the work scope at T-12 months with change control,BP-253,Control,Scope growth,Internal standard,SAP PM / PS,Standard,Planned,1,Turnaround Office,2025-09-27,DOC-00170
+Turnaround & Shutdown Management,Build the schedule with critical path in Primavera P6,BP-254,Process,Schedule adherence,PMBOK,Oracle Primavera P6,Not provided by SAP,Adopted,4,Turnaround Office,2025-01-24,DOC-00170
+Turnaround & Shutdown Management,Pre-order long-lead materials with expiry dates,BP-255,Process,Long-lead on time,Internal standard,SAP MM,Standard,Adopted,3,Turnaround Office,2025-05-02,DOC-00421
+Turnaround & Shutdown Management,"Run readiness reviews at T-6, T-3 and T-1 months",BP-256,Governance,Readiness score,Internal standard,n/a,Not provided by SAP,Adopted,4,Turnaround Office,2025-07-17,DOC-00170
+Turnaround & Shutdown Management,Plan contractors with orientation and competency checks,BP-257,Process,Contractor competency,ISO 45001,SAP Fieldglass,Partial,Planned,1,Turnaround Office,2025-08-14,DOC-00237
+Turnaround & Shutdown Management,Track cost against estimate daily during execution,BP-258,Technology,Cost variance,PMBOK,SAP Project System,Standard,Adopted,3,Turnaround Office,2026-07-07,DOC-00453
+Turnaround & Shutdown Management,Hold daily progress meetings with earned progress,BP-259,Process,Daily progress,PMBOK,Oracle Primavera P6,Not provided by SAP,Planned,1,Turnaround Office,2025-11-27,DOC-00298
+Turnaround & Shutdown Management,Manage safe work permits with supervisor counts,BP-260,Process,Permit non-conformances,API RP 754,SAP WCM,Standard,Planned,1,Turnaround Office,2025-09-22,DOC-00298
+Turnaround & Shutdown Management,Plan commissioning and start-up checklists,BP-261,Process,Start-up delay,Internal standard,n/a,Not provided by SAP,Not adopted,1,Turnaround Office,2026-02-16,DOC-00298
+Turnaround & Shutdown Management,Capture inspection findings and extra scope immediately,BP-262,Process,Late scope,API RP 580,SAP PM,Partial,Adopted,5,Turnaround Office,2026-08-07,DOC-00170
+Turnaround & Shutdown Management,Close out with lessons learned within 60 days,BP-263,Process,Lessons published,PMBOK,n/a,Not provided by SAP,Not adopted,1,Turnaround Office,2026-01-19,DOC-00298
+Turnaround & Shutdown Management,Keep a turnaround history for benchmarking,BP-264,Process,Benchmark available,Internal standard,n/a,Not provided by SAP,Piloting,3,Turnaround Office,2025-03-25,DOC-00298
+Joint Venture Accounting,Maintain JOA parameters in the system,BP-265,Governance,JOA setup accuracy,COPAS,SAP S/4HANA JVA,Standard,Adopted,3,Finance,2025-07-27,DOC-00438
+Joint Venture Accounting,Issue cash calls on a fixed monthly calendar,BP-266,Process,Cash call timeliness,COPAS,SAP S/4HANA JVA,Standard,Piloting,3,Finance,2026-03-12,DOC-00438
+Joint Venture Accounting,Bill partners with supporting detail,BP-267,Process,Billing disputes,COPAS,SAP S/4HANA JVA,Standard,Adopted,3,Finance,2025-12-25,DOC-00270
+Joint Venture Accounting,Process partner audits through a request log,BP-268,Control,Audit claim cycle,COPAS,SAP S/4HANA JVA,Partial,Adopted,4,Finance,2025-03-17,DOC-00270
+Joint Venture Accounting,Handle non-consent and carried interest correctly,BP-269,Process,Misallocations,COPAS,SAP S/4HANA JVA,Standard,Adopted,4,Finance,2025-05-01,DOC-00332
+Joint Venture Accounting,Reconcile partner receivables monthly,BP-270,Control,Aged partner balances,COPAS,SAP S/4HANA JVA,Standard,Adopted,4,Finance,2025-05-26,DOC-00270
+Joint Venture Accounting,Allocate overhead per the operating agreement,BP-271,Process,Overhead variance,COPAS,SAP S/4HANA JVA,Standard,Adopted,4,Finance,2026-06-30,DOC-00438
+Joint Venture Accounting,Account for joint arrangements under IFRS 11,BP-272,Process,Classification reviews,IFRS 11,SAP S/4HANA,Partial,Adopted,3,Finance,2025-11-07,DOC-00438
+Joint Venture Accounting,Share production statements with partners,BP-273,Process,Statements on time,Internal standard,SAP IS-Oil PRA,Partial,Not adopted,1,Finance,2026-06-06,DOC-00332
+Joint Venture Accounting,Manage partner credit and security,BP-274,Process,Exposure,Internal standard,SAP Credit Management,Partial,Adopted,4,Finance,2026-02-06,DOC-00270
+Joint Venture Accounting,Document AFE approvals and revisions,BP-275,Control,AFEs with approval,Internal standard,SAP Project System,Standard,Planned,1,Finance,2026-08-05,DOC-00332
+Joint Venture Accounting,Close JV periods with the corporate calendar,BP-276,Process,Close alignment,COSO,SAP S/4HANA JVA,Standard,Adopted,4,Finance,2026-07-25,DOC-00438
+Organizational Change Management,Assess change impact by role before design freeze,BP-277,Process,Roles assessed,Prosci ADKAR,n/a,Not provided by SAP,Adopted,4,Transformation Office,2025-05-11,DOC-00021
+Organizational Change Management,Name a business change lead in each unit,BP-278,Process,Units with lead,Prosci ADKAR,n/a,Not provided by SAP,Adopted,4,Transformation Office,2025-08-19,DOC-00396
+Organizational Change Management,Train users before go-live with role-based curricula,BP-279,Process,Training completion,SAP Activate,SAP SuccessFactors Learning,Standard,Adopted,3,Transformation Office,2025-05-23,DOC-00110
+Organizational Change Management,Measure readiness with pulse surveys,BP-280,Process,Readiness score,Prosci ADKAR,SAP Qualtrics,Partial,Planned,1,Transformation Office,2026-02-12,DOC-00021
+Organizational Change Management,Use super users at each site,BP-281,Technology,Super-user ratio,SAP Activate,n/a,Not provided by SAP,Adopted,4,Transformation Office,2025-06-13,DOC-00261
+Organizational Change Management,Communicate on a calendar with feedback loops,BP-282,Process,Message reach,Prosci ADKAR,n/a,Not provided by SAP,Not adopted,1,Transformation Office,2025-01-30,DOC-00396
+Organizational Change Management,Plan hypercare for at least 4 weeks,BP-283,Process,Hypercare tickets,SAP Activate,SAP Cloud ALM,Standard,Adopted,3,Transformation Office,2026-05-22,DOC-00261
+Organizational Change Management,Track adoption after go-live with usage data,BP-284,Technology,Adoption,Prosci ADKAR,SAP Cloud ALM,Partial,Planned,1,Transformation Office,2025-09-08,DOC-00021
+Organizational Change Management,Engage unions and field crews early,BP-285,Process,Engagement sessions,Internal standard,n/a,Not provided by SAP,Adopted,4,Transformation Office,2025-07-03,DOC-00021
+Organizational Change Management,Retire legacy tools on a fixed date,BP-286,Process,Legacy retired,Internal standard,SAP LeanIX,Partial,Piloting,2,Transformation Office,2025-09-15,DOC-00396
+Organizational Change Management,Reinforce with leader coaching,BP-287,Process,Coaching sessions,Prosci ADKAR,n/a,Not provided by SAP,Adopted,4,Transformation Office,2025-10-05,DOC-00261
+Organizational Change Management,Record resistance and resolve root causes,BP-288,Process,Open concerns,Prosci ADKAR,n/a,Not provided by SAP,Piloting,2,Transformation Office,2025-11-08,DOC-00261
+Vendor & Contractor Management,Prequalify contractors on safety record and insurance,BP-289,Process,Prequal complete,ISO 45001,SAP Ariba SLP,Standard,Piloting,3,Supply Chain & Procurement,2025-01-07,DOC-00120
+Vendor & Contractor Management,Orient contractors to site rules before first entry,BP-290,Process,Orientation valid,Internal standard,SAP EHS,Partial,Adopted,4,Supply Chain & Procurement,2025-04-28,DOC-00127
+Vendor & Contractor Management,Track contractor hours and incidents monthly,BP-291,Technology,TRIR,API RP 754,SAP EHS,Partial,Adopted,5,Supply Chain & Procurement,2025-09-09,DOC-00120
+Vendor & Contractor Management,Evaluate performance at job end,BP-292,Process,Evaluations done,Internal standard,SAP Ariba SPM,Partial,Adopted,4,Supply Chain & Procurement,2026-04-03,DOC-00120
+Vendor & Contractor Management,Manage service entry sheets with approval,BP-293,Control,SES approval time,COSO,SAP MM-SRV,Standard,Planned,1,Supply Chain & Procurement,2026-07-14,DOC-00246
+Vendor & Contractor Management,Control rate cards and escalation clauses,BP-294,Control,Rate compliance,Internal standard,SAP Ariba Contracts,Partial,Not adopted,1,Supply Chain & Procurement,2026-01-02,DOC-00120
+Vendor & Contractor Management,Require right-to-audit clauses,BP-295,Control,Contracts with clause,COSO,SAP Ariba Contracts,Partial,Adopted,3,Supply Chain & Procurement,2026-09-15,DOC-00127
+Vendor & Contractor Management,Screen vendors for sanctions and ESG risk,BP-296,Process,Screened vendors,Internal standard,SAP Ariba SLP,Standard,Planned,1,Supply Chain & Procurement,2026-06-15,DOC-00246
+Vendor & Contractor Management,Prevent split orders to avoid approvals,BP-297,Control,Split-order alerts,COSO,SAP GRC,Partial,Piloting,3,Supply Chain & Procurement,2025-05-31,DOC-00185
+Vendor & Contractor Management,Maintain an approved-vendor list for critical services,BP-298,Control,AVL coverage,ISO 9001,SAP Ariba,Partial,Not adopted,1,Supply Chain & Procurement,2025-06-15,DOC-00185
+Vendor & Contractor Management,Plan contractor demand with Fieldglass,BP-299,Process,Fill rate,Internal standard,SAP Fieldglass,Standard,Piloting,2,Supply Chain & Procurement,2025-03-29,DOC-00120
+Vendor & Contractor Management,Close contracts with final reconciliation,BP-300,Control,Closed contracts,Internal standard,SAP Ariba Contracts,Partial,Planned,1,Supply Chain & Procurement,2025-05-22,DOC-00029
