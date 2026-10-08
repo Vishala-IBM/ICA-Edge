@@ -1,0 +1,1001 @@
+Movement_ID,Material,Qty,Warehouse,Movement_Type,Posting_Date,Unit
+MOV-000001,Diesel Exhaust Fluid,3,WH01,101 Goods Receipt (PO),2026-07-01,TOTE
+MOV-000002,Pipe Support Clamp,10,WH02,101 Goods Receipt (PO),2026-07-01,EA
+MOV-000003,Scale Inhibitor,19,WH02,101 Goods Receipt (PO),2026-07-01,DRUM
+MOV-000004,Transformer Insulating Oil,6,WH02,311 Storage Transfer In,2026-07-01,DRUM
+MOV-000005,Amine Solvent MDEA,-2,WH04,261 Issue to Maintenance Order,2026-07-01,DRUM
+MOV-000006,Electric Motor 200 hp,-2,WH04,301 Plant Transfer Out,2026-07-01,EA
+MOV-000007,Corrosion Inhibitor,12,WH05,101 Goods Receipt (PO),2026-07-01,DRUM
+MOV-000008,Engine Coolant 50/50,-3,WH05,261 Issue to Maintenance Order,2026-07-01,DRUM
+MOV-000009,Fired Heater Burner,-1,WH05,201 Issue to Cost Center,2026-07-01,EA
+MOV-000010,Turbine Oil ISO 46,8,WH06,311 Storage Transfer In,2026-07-01,DRUM
+MOV-000011,Hydraulic Oil AW 68,-4,WH07,702 Inventory Loss (Cycle Count),2026-07-01,DRUM
+MOV-000012,Gas Turbine Fuel Nozzle,-2,WH01,261 Issue to Maintenance Order,2026-07-02,EA
+MOV-000013,Mechanical Seal Cartridge,2,WH01,101 Goods Receipt (PO),2026-07-02,EA
+MOV-000014,Nitrile Gloves,100,WH01,101 Goods Receipt (PO),2026-07-02,BOX
+MOV-000015,Steel Toe Safety Boots,-138,WH01,301 Plant Transfer Out,2026-07-02,PAIR
+MOV-000016,Transformer Insulating Oil,2,WH04,311 Storage Transfer In,2026-07-02,DRUM
+MOV-000017,Hydraulic Filter Element,46,WH05,101 Goods Receipt (PO),2026-07-02,EA
+MOV-000018,Amine Solvent MDEA,-1,WH06,201 Issue to Cost Center,2026-07-02,DRUM
+MOV-000019,Hydraulic Oil AW 68,-11,WH06,261 Issue to Maintenance Order,2026-07-02,DRUM
+MOV-000020,Engine Coolant 50/50,15,WH09,101 Goods Receipt (PO),2026-07-02,DRUM
+MOV-000021,Steel Toe Safety Boots,100,WH11,101 Goods Receipt (PO),2026-07-02,PAIR
+MOV-000022,Radar Level Transmitter,-1,WH04,261 Issue to Maintenance Order,2026-07-03,EA
+MOV-000023,Control Valve 3in with Positioner,-1,WH05,261 Issue to Maintenance Order,2026-07-03,EA
+MOV-000024,Gas Turbine Fuel Nozzle,1,WH05,311 Storage Transfer In,2026-07-03,EA
+MOV-000025,Natural Gas Engine Oil,1,WH05,101 Goods Receipt (PO),2026-07-03,DRUM
+MOV-000026,Tee 6in Sch 40,13,WH05,101 Goods Receipt (PO),2026-07-03,EA
+MOV-000027,Production Tubing 2-7/8in J55,26,WH06,101 Goods Receipt (PO),2026-07-03,M
+MOV-000028,Variable Frequency Drive 500 hp,1,WH06,101 Goods Receipt (PO),2026-07-03,EA
+MOV-000029,Fuel System Cleaner 12x355mL,166,WH10,311 Storage Transfer In,2026-07-03,CASE
+MOV-000030,Diesel Exhaust Fluid,5,WH12,101 Goods Receipt (PO),2026-07-03,TOTE
+MOV-000031,Hydrotreating Catalyst NiMo,-5,WH01,261 Issue to Maintenance Order,2026-07-04,DRUM
+MOV-000032,Caustic Soda 50%,-2,WH02,261 Issue to Maintenance Order,2026-07-04,TOTE
+MOV-000033,Electric Motor 200 hp,-1,WH05,261 Issue to Maintenance Order,2026-07-04,EA
+MOV-000034,Tee 6in Sch 40,10,WH05,311 Storage Transfer In,2026-07-04,EA
+MOV-000035,Hydraulic Oil AW 32,5,WH06,101 Goods Receipt (PO),2026-07-04,DRUM
+MOV-000036,Nitrile Gloves,83,WH01,101 Goods Receipt (PO),2026-07-05,BOX
+MOV-000037,Solenoid Valve 24VDC,6,WH01,701 Inventory Gain (Cycle Count),2026-07-05,EA
+MOV-000038,Acetylene Cylinder,-9,WH02,122 Return to Vendor,2026-07-05,EA
+MOV-000039,Fuse 600V 200A,-19,WH03,122 Return to Vendor,2026-07-05,EA
+MOV-000040,Amine Solvent MDEA,12,WH05,101 Goods Receipt (PO),2026-07-05,DRUM
+MOV-000041,Hydraulic Oil AW 46,-6,WH05,702 Inventory Loss (Cycle Count),2026-07-05,DRUM
+MOV-000042,Weld Neck Flange 8in Class 300,6,WH06,101 Goods Receipt (PO),2026-07-05,EA
+MOV-000043,Graphite Packing Ring Set,16,WH08,101 Goods Receipt (PO),2026-07-05,EA
+MOV-000044,Hearing Protection Earplugs,12,WH11,311 Storage Transfer In,2026-07-05,BOX
+MOV-000045,Hydraulic Oil AW 46,-3,WH11,261 Issue to Maintenance Order,2026-07-05,DRUM
+MOV-000046,Diesel Exhaust Fluid,10,WH12,311 Storage Transfer In,2026-07-05,TOTE
+MOV-000047,Heavy-Duty Diesel Engine Oil 15W-40,-16,WH12,201 Issue to Cost Center,2026-07-05,DRUM
+MOV-000048,Gas Turbine Fuel Nozzle,4,WH01,101 Goods Receipt (PO),2026-07-06,EA
+MOV-000049,Automatic Transmission Fluid,-5,WH03,261 Issue to Maintenance Order,2026-07-06,DRUM
+MOV-000050,Spiral Wound Gasket 6in Class 300,-64,WH03,261 Issue to Maintenance Order,2026-07-06,EA
+MOV-000051,Hydraulic Oil AW 32,35,WH04,101 Goods Receipt (PO),2026-07-06,DRUM
+MOV-000052,Hydraulic Oil AW 46,-15,WH04,261 Issue to Maintenance Order,2026-07-06,DRUM
+MOV-000053,Conventional Engine Oil 10W-30 4x4L,168,WH10,101 Goods Receipt (PO),2026-07-06,CASE
+MOV-000054,Transformer Insulating Oil,-12,WH10,201 Issue to Cost Center,2026-07-06,DRUM
+MOV-000055,Safety Glasses,-18,WH02,122 Return to Vendor,2026-07-07,BOX
+MOV-000056,Medium Voltage Switchgear,-1,WH06,122 Return to Vendor,2026-07-07,EA
+MOV-000057,Demulsifier,-7,WH07,702 Inventory Loss (Cycle Count),2026-07-07,DRUM
+MOV-000058,Multipurpose Grease Pail,28,WH07,701 Inventory Gain (Cycle Count),2026-07-07,PAIL
+MOV-000059,Stainless Steel Pipe 4in Sch 10S,19,WH08,101 Goods Receipt (PO),2026-07-07,M
+MOV-000060,Hydraulic Oil AW 46,-10,WH09,201 Issue to Cost Center,2026-07-07,DRUM
+MOV-000061,Synthetic Engine Oil 5W-30 Bulk,-9,WH09,201 Issue to Cost Center,2026-07-07,DRUM
+MOV-000062,Transformer Insulating Oil,6,WH01,311 Storage Transfer In,2026-07-08,DRUM
+MOV-000063,Heavy-Duty Diesel Engine Oil 15W-40,31,WH02,101 Goods Receipt (PO),2026-07-08,DRUM
+MOV-000064,H2S Personal Monitor,7,WH03,311 Storage Transfer In,2026-07-08,EA
+MOV-000065,Hard Hat,8,WH03,101 Goods Receipt (PO),2026-07-08,EA
+MOV-000066,Engine Coolant 50/50,-22,WH04,261 Issue to Maintenance Order,2026-07-08,DRUM
+MOV-000067,Drill Pipe 5in S135,125,WH05,311 Storage Transfer In,2026-07-08,M
+MOV-000068,Electric Motor 200 hp,1,WH05,311 Storage Transfer In,2026-07-08,EA
+MOV-000069,Hearing Protection Earplugs,-8,WH05,261 Issue to Maintenance Order,2026-07-08,BOX
+MOV-000070,Fuse 600V 200A,-28,WH06,261 Issue to Maintenance Order,2026-07-08,EA
+MOV-000071,Coriolis Flow Meter 4in,2,WH08,101 Goods Receipt (PO),2026-07-08,EA
+MOV-000072,Car Wash Soap Concentrate,-333,WH10,261 Issue to Maintenance Order,2026-07-08,PAIL
+MOV-000073,Thermocouple Type K,26,WH01,101 Goods Receipt (PO),2026-07-09,EA
+MOV-000074,Graphite Packing Ring Set,-43,WH02,261 Issue to Maintenance Order,2026-07-09,EA
+MOV-000075,Hydraulic Oil AW 32,-15,WH02,201 Issue to Cost Center,2026-07-09,DRUM
+MOV-000076,Nitrile Gloves,142,WH03,311 Storage Transfer In,2026-07-09,BOX
+MOV-000077,Methanol Hydrate Inhibitor,12,WH04,101 Goods Receipt (PO),2026-07-09,TOTE
+MOV-000078,Demulsifier,-1,WH05,201 Issue to Cost Center,2026-07-09,DRUM
+MOV-000079,Anti-Strip Additive,2,WH01,311 Storage Transfer In,2026-07-10,DRUM
+MOV-000080,Spill Absorbent Pads,-3,WH01,201 Issue to Cost Center,2026-07-10,BALE
+MOV-000081,Pressure Gauge 0-1000 psi,-5,WH02,261 Issue to Maintenance Order,2026-07-10,EA
+MOV-000082,Control Valve 3in with Positioner,1,WH03,101 Goods Receipt (PO),2026-07-10,EA
+MOV-000083,Gate Valve 6in Class 600,-2,WH03,201 Issue to Cost Center,2026-07-10,EA
+MOV-000084,Line Pipe 8in X42,155,WH03,101 Goods Receipt (PO),2026-07-10,M
+MOV-000085,Pressure Gauge 0-1000 psi,29,WH04,101 Goods Receipt (PO),2026-07-10,EA
+MOV-000086,Radar Level Transmitter,1,WH05,311 Storage Transfer In,2026-07-10,EA
+MOV-000087,Spiral Wound Gasket 6in Class 300,17,WH05,101 Goods Receipt (PO),2026-07-10,EA
+MOV-000088,FR Work Gloves,-84,WH06,261 Issue to Maintenance Order,2026-07-10,PAIR
+MOV-000089,Transformer Insulating Oil,-1,WH06,122 Return to Vendor,2026-07-10,DRUM
+MOV-000090,Heavy-Duty Diesel Engine Oil 15W-40,4,WH11,101 Goods Receipt (PO),2026-07-10,DRUM
+MOV-000091,Welding Rod E7018,-71,WH12,201 Issue to Cost Center,2026-07-10,BOX
+MOV-000092,Acetylene Cylinder,-1,WH01,261 Issue to Maintenance Order,2026-07-11,EA
+MOV-000093,Centrifugal Pump API 610,1,WH01,101 Goods Receipt (PO),2026-07-11,EA
+MOV-000094,Hard Hat,-45,WH04,201 Issue to Cost Center,2026-07-11,EA
+MOV-000095,Pump Impeller 8in,-1,WH04,261 Issue to Maintenance Order,2026-07-11,EA
+MOV-000096,V-Belt Set,-8,WH04,301 Plant Transfer Out,2026-07-11,EA
+MOV-000097,H2S Personal Monitor,12,WH05,311 Storage Transfer In,2026-07-11,EA
+MOV-000098,Hydrocracking Catalyst,3,WH05,101 Goods Receipt (PO),2026-07-11,DRUM
+MOV-000099,Hydrotreating Catalyst NiMo,-1,WH05,201 Issue to Cost Center,2026-07-11,DRUM
+MOV-000100,Line Pipe 8in X42,-75,WH06,702 Inventory Loss (Cycle Count),2026-07-11,M
+MOV-000101,Hard Hat,17,WH10,311 Storage Transfer In,2026-07-11,EA
+MOV-000102,Multipurpose Grease Pail,27,WH10,101 Goods Receipt (PO),2026-07-11,PAIL
+MOV-000103,Engine Coolant 50/50 4x3.78L,199,WH11,101 Goods Receipt (PO),2026-07-11,CASE
+MOV-000104,Multipurpose Grease Cartridge 24x400g,45,WH11,101 Goods Receipt (PO),2026-07-11,CASE
+MOV-000105,Amine Solvent MDEA,5,WH12,311 Storage Transfer In,2026-07-11,DRUM
+MOV-000106,Argon Cylinder,9,WH12,101 Goods Receipt (PO),2026-07-11,EA
+MOV-000107,Automatic Transmission Fluid,-8,WH01,261 Issue to Maintenance Order,2026-07-12,DRUM
+MOV-000108,Hydrocracking Catalyst,3,WH02,101 Goods Receipt (PO),2026-07-12,DRUM
+MOV-000109,Synthetic Engine Oil 5W-30 Bulk,-2,WH06,122 Return to Vendor,2026-07-12,DRUM
+MOV-000110,Car Wash Soap Concentrate,186,WH07,101 Goods Receipt (PO),2026-07-12,PAIL
+MOV-000111,Multipurpose Grease Pail,118,WH09,101 Goods Receipt (PO),2026-07-12,PAIL
+MOV-000112,Welding Rod E7018,159,WH09,101 Goods Receipt (PO),2026-07-12,BOX
+MOV-000113,Hard Hat,-14,WH10,702 Inventory Loss (Cycle Count),2026-07-12,EA
+MOV-000114,Hydraulic Oil AW 46,-9,WH10,201 Issue to Cost Center,2026-07-12,DRUM
+MOV-000115,Turbine Oil ISO 46,-3,WH10,702 Inventory Loss (Cycle Count),2026-07-12,DRUM
+MOV-000116,Automatic Transmission Fluid,8,WH12,311 Storage Transfer In,2026-07-12,DRUM
+MOV-000117,Amine Solvent MDEA,5,WH01,311 Storage Transfer In,2026-07-13,DRUM
+MOV-000118,Corrosion Inhibitor,4,WH02,101 Goods Receipt (PO),2026-07-13,DRUM
+MOV-000119,Limit Switch,3,WH02,311 Storage Transfer In,2026-07-13,EA
+MOV-000120,Fuse 600V 200A,-21,WH03,301 Plant Transfer Out,2026-07-13,EA
+MOV-000121,Reducer 8x6in Sch 40,1,WH04,101 Goods Receipt (PO),2026-07-13,EA
+MOV-000122,Gear Oil 80W-90,-10,WH05,261 Issue to Maintenance Order,2026-07-13,DRUM
+MOV-000123,Spill Absorbent Pads,11,WH05,101 Goods Receipt (PO),2026-07-13,BALE
+MOV-000124,Windshield Washer Fluid -40 4x3.78L,412,WH10,101 Goods Receipt (PO),2026-07-13,CASE
+MOV-000125,Multipurpose Grease Pail,28,WH01,101 Goods Receipt (PO),2026-07-14,PAIL
+MOV-000126,Diesel Exhaust Fluid,16,WH02,311 Storage Transfer In,2026-07-14,TOTE
+MOV-000127,Fall Protection Harness,-10,WH04,261 Issue to Maintenance Order,2026-07-14,EA
+MOV-000128,FCC Catalyst,-3,WH05,301 Plant Transfer Out,2026-07-14,SACK
+MOV-000129,FR Work Gloves,-39,WH05,122 Return to Vendor,2026-07-14,PAIR
+MOV-000130,Hydrotreating Catalyst NiMo,11,WH06,101 Goods Receipt (PO),2026-07-14,DRUM
+MOV-000131,Stud Bolt Set B7 1in,-18,WH08,301 Plant Transfer Out,2026-07-14,EA
+MOV-000132,Brake Fluid DOT 4 12x355mL,37,WH10,101 Goods Receipt (PO),2026-07-14,CASE
+MOV-000133,Diesel Exhaust Fluid 4x9.46L,-51,WH11,261 Issue to Maintenance Order,2026-07-14,CASE
+MOV-000134,Multipurpose Grease Cartridge 24x400g,-23,WH11,261 Issue to Maintenance Order,2026-07-14,CASE
+MOV-000135,Synthetic Engine Oil 5W-30 Bulk,3,WH11,101 Goods Receipt (PO),2026-07-14,DRUM
+MOV-000136,Air Cooler Fan Assembly,-1,WH02,261 Issue to Maintenance Order,2026-07-15,EA
+MOV-000137,Argon Cylinder,-4,WH03,261 Issue to Maintenance Order,2026-07-15,EA
+MOV-000138,Coriolis Flow Meter 4in,1,WH03,101 Goods Receipt (PO),2026-07-15,EA
+MOV-000139,Steel Toe Safety Boots,14,WH05,101 Goods Receipt (PO),2026-07-15,PAIR
+MOV-000140,Multipurpose Grease Pail,45,WH06,101 Goods Receipt (PO),2026-07-15,PAIL
+MOV-000141,Triethylene Glycol,-1,WH06,261 Issue to Maintenance Order,2026-07-15,DRUM
+MOV-000142,Weld Neck Flange 8in Class 300,-11,WH06,201 Issue to Cost Center,2026-07-15,EA
+MOV-000143,Radar Level Transmitter,1,WH08,101 Goods Receipt (PO),2026-07-15,EA
+MOV-000144,Anti-Strip Additive,-3,WH01,261 Issue to Maintenance Order,2026-07-16,DRUM
+MOV-000145,Fuse 600V 200A,3,WH01,101 Goods Receipt (PO),2026-07-16,EA
+MOV-000146,Argon Cylinder,4,WH02,101 Goods Receipt (PO),2026-07-16,EA
+MOV-000147,Fired Heater Burner,-1,WH03,551 Scrap,2026-07-16,EA
+MOV-000148,Methanol Hydrate Inhibitor,8,WH04,101 Goods Receipt (PO),2026-07-16,TOTE
+MOV-000149,Hydraulic Oil AW 32,-4,WH06,261 Issue to Maintenance Order,2026-07-16,DRUM
+MOV-000150,Engine Coolant 50/50,-13,WH07,551 Scrap,2026-07-16,DRUM
+MOV-000151,Hydraulic Oil AW 46,-11,WH10,551 Scrap,2026-07-16,DRUM
+MOV-000152,Multipurpose Grease Cartridge 24x400g,-99,WH10,261 Issue to Maintenance Order,2026-07-16,CASE
+MOV-000153,Conventional Engine Oil 10W-30 4x4L,-79,WH11,261 Issue to Maintenance Order,2026-07-16,CASE
+MOV-000154,Synthetic Engine Oil 0W-20 4x4L,-81,WH11,702 Inventory Loss (Cycle Count),2026-07-16,CASE
+MOV-000155,Hydraulic Oil AW 46,-13,WH12,261 Issue to Maintenance Order,2026-07-16,DRUM
+MOV-000156,Caustic Soda 50%,-6,WH01,261 Issue to Maintenance Order,2026-07-17,TOTE
+MOV-000157,Hydraulic Oil AW 32,-1,WH01,261 Issue to Maintenance Order,2026-07-17,DRUM
+MOV-000158,Hydrotreating Catalyst NiMo,20,WH01,101 Goods Receipt (PO),2026-07-17,DRUM
+MOV-000159,Circuit Breaker 480V 100A,1,WH05,101 Goods Receipt (PO),2026-07-17,EA
+MOV-000160,Anti-Strip Additive,-4,WH12,201 Issue to Cost Center,2026-07-17,DRUM
+MOV-000161,Diesel Exhaust Fluid,8,WH12,101 Goods Receipt (PO),2026-07-17,TOTE
+MOV-000162,Automatic Transmission Fluid,5,WH01,311 Storage Transfer In,2026-07-18,DRUM
+MOV-000163,Thermocouple Type K,-21,WH01,261 Issue to Maintenance Order,2026-07-18,EA
+MOV-000164,Hard Hat,-51,WH02,261 Issue to Maintenance Order,2026-07-18,EA
+MOV-000165,Ball Bearing 6312,-28,WH04,261 Issue to Maintenance Order,2026-07-18,EA
+MOV-000166,Circuit Breaker 480V 100A,3,WH04,101 Goods Receipt (PO),2026-07-18,EA
+MOV-000167,FR Work Gloves,-62,WH05,261 Issue to Maintenance Order,2026-07-18,PAIR
+MOV-000168,Variable Frequency Drive 500 hp,-1,WH06,201 Issue to Cost Center,2026-07-18,EA
+MOV-000169,Welding Rod E7018,-3,WH06,261 Issue to Maintenance Order,2026-07-18,BOX
+MOV-000170,Scale Inhibitor,-3,WH07,261 Issue to Maintenance Order,2026-07-18,DRUM
+MOV-000171,Hearing Protection Earplugs,30,WH11,101 Goods Receipt (PO),2026-07-18,BOX
+MOV-000172,Gear Oil 80W-90,3,WH02,311 Storage Transfer In,2026-07-19,DRUM
+MOV-000173,Hard Hat,-4,WH03,702 Inventory Loss (Cycle Count),2026-07-19,EA
+MOV-000174,Medium Voltage Switchgear,1,WH05,101 Goods Receipt (PO),2026-07-19,EA
+MOV-000175,Welding Rod E7018,-22,WH06,261 Issue to Maintenance Order,2026-07-19,BOX
+MOV-000176,Synthetic Engine Oil 5W-30 4x4L,-166,WH07,261 Issue to Maintenance Order,2026-07-19,CASE
+MOV-000177,Multipurpose Grease Cartridge 24x400g,-41,WH10,261 Issue to Maintenance Order,2026-07-19,CASE
+MOV-000178,Diesel Exhaust Fluid,-10,WH11,551 Scrap,2026-07-19,TOTE
+MOV-000179,Line Pipe 8in X42,510,WH01,101 Goods Receipt (PO),2026-07-20,M
+MOV-000180,Solenoid Valve 24VDC,-2,WH02,261 Issue to Maintenance Order,2026-07-20,EA
+MOV-000181,Fall Protection Harness,-9,WH04,201 Issue to Cost Center,2026-07-20,EA
+MOV-000182,Hydraulic Oil AW 68,3,WH04,101 Goods Receipt (PO),2026-07-20,DRUM
+MOV-000183,Flame-Resistant Coveralls,58,WH05,101 Goods Receipt (PO),2026-07-20,EA
+MOV-000184,Demulsifier,-11,WH06,261 Issue to Maintenance Order,2026-07-20,DRUM
+MOV-000185,Flame-Resistant Coveralls,18,WH06,101 Goods Receipt (PO),2026-07-20,EA
+MOV-000186,Spiral Wound Gasket 6in Class 300,-5,WH06,702 Inventory Loss (Cycle Count),2026-07-20,EA
+MOV-000187,Synthetic Engine Oil 5W-30 4x4L,962,WH07,101 Goods Receipt (PO),2026-07-20,CASE
+MOV-000188,Production Tubing 2-7/8in J55,-82,WH08,261 Issue to Maintenance Order,2026-07-20,M
+MOV-000189,Methanol Hydrate Inhibitor,7,WH09,101 Goods Receipt (PO),2026-07-20,TOTE
+MOV-000190,Cylinder Propane Exchange 20 lb,-520,WH10,301 Plant Transfer Out,2026-07-20,EA
+MOV-000191,FR Work Gloves,-71,WH10,261 Issue to Maintenance Order,2026-07-20,PAIR
+MOV-000192,Natural Gas Engine Oil,15,WH11,101 Goods Receipt (PO),2026-07-20,DRUM
+MOV-000193,Methanol Hydrate Inhibitor,6,WH01,101 Goods Receipt (PO),2026-07-21,TOTE
+MOV-000194,Automatic Transmission Fluid,2,WH03,101 Goods Receipt (PO),2026-07-21,DRUM
+MOV-000195,Centrifugal Pump API 610,-1,WH04,201 Issue to Cost Center,2026-07-21,EA
+MOV-000196,Medium Voltage Switchgear,-1,WH05,261 Issue to Maintenance Order,2026-07-21,EA
+MOV-000197,Flame-Resistant Coveralls,23,WH06,101 Goods Receipt (PO),2026-07-21,EA
+MOV-000198,Gear Oil 80W-90,-6,WH06,261 Issue to Maintenance Order,2026-07-21,DRUM
+MOV-000199,Synthetic Compressor Oil,2,WH07,701 Inventory Gain (Cycle Count),2026-07-21,DRUM
+MOV-000200,Transformer Insulating Oil,-1,WH12,301 Plant Transfer Out,2026-07-21,DRUM
+MOV-000201,Nitrogen Cylinder,-1,WH03,702 Inventory Loss (Cycle Count),2026-07-22,EA
+MOV-000202,Hydrotreating Catalyst NiMo,10,WH04,101 Goods Receipt (PO),2026-07-22,DRUM
+MOV-000203,Line Pipe 8in X42,-652,WH04,301 Plant Transfer Out,2026-07-22,M
+MOV-000204,Hydraulic Oil AW 68,14,WH05,101 Goods Receipt (PO),2026-07-22,DRUM
+MOV-000205,Amine Solvent MDEA,-1,WH06,201 Issue to Cost Center,2026-07-22,DRUM
+MOV-000206,Line Pipe 8in X42,145,WH06,101 Goods Receipt (PO),2026-07-22,M
+MOV-000207,Sulphuric Acid,-4,WH06,551 Scrap,2026-07-22,TOTE
+MOV-000208,Coriolis Flow Meter 4in,1,WH08,311 Storage Transfer In,2026-07-22,EA
+MOV-000209,Fuse 600V 200A,-14,WH08,261 Issue to Maintenance Order,2026-07-22,EA
+MOV-000210,Pipe Support Clamp,-217,WH08,301 Plant Transfer Out,2026-07-22,EA
+MOV-000211,Corrosion Inhibitor,-16,WH09,261 Issue to Maintenance Order,2026-07-22,DRUM
+MOV-000212,Graphite Packing Ring Set,9,WH01,311 Storage Transfer In,2026-07-23,EA
+MOV-000213,Radar Level Transmitter,2,WH01,101 Goods Receipt (PO),2026-07-23,EA
+MOV-000214,Fired Heater Burner,-1,WH03,261 Issue to Maintenance Order,2026-07-23,EA
+MOV-000215,Methanol Hydrate Inhibitor,-10,WH03,201 Issue to Cost Center,2026-07-23,TOTE
+MOV-000216,Electric Motor 200 hp,1,WH04,701 Inventory Gain (Cycle Count),2026-07-23,EA
+MOV-000217,Pressure Gauge 0-1000 psi,7,WH04,101 Goods Receipt (PO),2026-07-23,EA
+MOV-000218,Turbine Oil ISO 46,2,WH04,101 Goods Receipt (PO),2026-07-23,DRUM
+MOV-000219,Radar Level Transmitter,-1,WH05,261 Issue to Maintenance Order,2026-07-23,EA
+MOV-000220,Reducer 8x6in Sch 40,-8,WH05,261 Issue to Maintenance Order,2026-07-23,EA
+MOV-000221,Hydrocracking Catalyst,-3,WH09,261 Issue to Maintenance Order,2026-07-23,DRUM
+MOV-000222,Anti-Strip Additive,-4,WH12,201 Issue to Cost Center,2026-07-23,DRUM
+MOV-000223,Hydrocracking Catalyst,-10,WH01,261 Issue to Maintenance Order,2026-07-24,DRUM
+MOV-000224,Mechanical Seal Cartridge,-4,WH01,261 Issue to Maintenance Order,2026-07-24,EA
+MOV-000225,Turbine Oil ISO 46,7,WH01,101 Goods Receipt (PO),2026-07-24,DRUM
+MOV-000226,Gear Oil 80W-90,-4,WH02,702 Inventory Loss (Cycle Count),2026-07-24,DRUM
+MOV-000227,Coupling Spacer 5in,-1,WH05,301 Plant Transfer Out,2026-07-24,EA
+MOV-000228,Drill Pipe 5in S135,-193,WH05,301 Plant Transfer Out,2026-07-24,M
+MOV-000229,Ball Valve 4in Class 300,-1,WH06,301 Plant Transfer Out,2026-07-24,EA
+MOV-000230,Solenoid Valve 24VDC,-3,WH06,201 Issue to Cost Center,2026-07-24,EA
+MOV-000231,Diesel Exhaust Fluid,-10,WH09,201 Issue to Cost Center,2026-07-24,TOTE
+MOV-000232,Diesel Exhaust Fluid,-2,WH10,261 Issue to Maintenance Order,2026-07-24,TOTE
+MOV-000233,Synthetic Engine Oil 5W-30 4x4L,-171,WH10,702 Inventory Loss (Cycle Count),2026-07-24,CASE
+MOV-000234,Turbine Oil ISO 46,11,WH10,101 Goods Receipt (PO),2026-07-24,DRUM
+MOV-000235,Coupling Spacer 5in,-1,WH01,261 Issue to Maintenance Order,2026-07-25,EA
+MOV-000236,Air Cooler Fan Assembly,-1,WH02,261 Issue to Maintenance Order,2026-07-25,EA
+MOV-000237,Amine Solvent MDEA,-7,WH02,301 Plant Transfer Out,2026-07-25,DRUM
+MOV-000238,Automatic Transmission Fluid,-7,WH03,261 Issue to Maintenance Order,2026-07-25,DRUM
+MOV-000239,Nitrogen Cylinder,4,WH03,101 Goods Receipt (PO),2026-07-25,EA
+MOV-000240,Stud Bolt Set B7 1in,-43,WH03,301 Plant Transfer Out,2026-07-25,EA
+MOV-000241,Welding Rod E7018,47,WH03,101 Goods Receipt (PO),2026-07-25,BOX
+MOV-000242,Thermocouple Type K,40,WH04,101 Goods Receipt (PO),2026-07-25,EA
+MOV-000243,Radar Level Transmitter,-1,WH05,201 Issue to Cost Center,2026-07-25,EA
+MOV-000244,Hearing Protection Earplugs,-4,WH06,301 Plant Transfer Out,2026-07-25,BOX
+MOV-000245,Nitrile Gloves,44,WH06,101 Goods Receipt (PO),2026-07-25,BOX
+MOV-000246,Amine Solvent MDEA,6,WH07,311 Storage Transfer In,2026-07-25,DRUM
+MOV-000247,Car Wash Soap Concentrate,289,WH07,101 Goods Receipt (PO),2026-07-25,PAIL
+MOV-000248,Radar Level Transmitter,1,WH08,101 Goods Receipt (PO),2026-07-25,EA
+MOV-000249,Diesel Exhaust Fluid,-7,WH01,201 Issue to Cost Center,2026-07-26,TOTE
+MOV-000250,Tee 6in Sch 40,17,WH01,101 Goods Receipt (PO),2026-07-26,EA
+MOV-000251,Limit Switch,5,WH02,101 Goods Receipt (PO),2026-07-26,EA
+MOV-000252,Hydraulic Oil AW 46,-4,WH03,201 Issue to Cost Center,2026-07-26,DRUM
+MOV-000253,Automatic Transmission Fluid,-8,WH04,261 Issue to Maintenance Order,2026-07-26,DRUM
+MOV-000254,Hydrocracking Catalyst,-8,WH06,261 Issue to Maintenance Order,2026-07-26,DRUM
+MOV-000255,Fired Heater Burner,-2,WH01,261 Issue to Maintenance Order,2026-07-27,EA
+MOV-000256,Synthetic Compressor Oil,-3,WH01,551 Scrap,2026-07-27,DRUM
+MOV-000257,FR Work Gloves,91,WH03,101 Goods Receipt (PO),2026-07-27,PAIR
+MOV-000258,Thermocouple Type K,-10,WH03,261 Issue to Maintenance Order,2026-07-27,EA
+MOV-000259,Solenoid Valve 24VDC,1,WH04,701 Inventory Gain (Cycle Count),2026-07-27,EA
+MOV-000260,Synthetic Compressor Oil,-27,WH04,201 Issue to Cost Center,2026-07-27,DRUM
+MOV-000261,Hearing Protection Earplugs,-32,WH05,201 Issue to Cost Center,2026-07-27,BOX
+MOV-000262,Hydraulic Filter Element,-5,WH06,261 Issue to Maintenance Order,2026-07-27,EA
+MOV-000263,Solenoid Valve 24VDC,-4,WH06,261 Issue to Maintenance Order,2026-07-27,EA
+MOV-000264,Anti-Strip Additive,-7,WH07,201 Issue to Cost Center,2026-07-27,DRUM
+MOV-000265,Car Wash Soap Concentrate,-70,WH07,201 Issue to Cost Center,2026-07-27,PAIL
+MOV-000266,Diesel Exhaust Fluid 4x9.46L,-264,WH07,261 Issue to Maintenance Order,2026-07-27,CASE
+MOV-000267,Multipurpose Grease Cartridge 24x400g,-29,WH11,261 Issue to Maintenance Order,2026-07-27,CASE
+MOV-000268,Engine Coolant 50/50,-9,WH12,261 Issue to Maintenance Order,2026-07-27,DRUM
+MOV-000269,Fired Heater Burner,1,WH01,311 Storage Transfer In,2026-07-28,EA
+MOV-000270,Hydraulic Oil AW 32,4,WH02,101 Goods Receipt (PO),2026-07-28,DRUM
+MOV-000271,Radar Level Transmitter,-1,WH02,122 Return to Vendor,2026-07-28,EA
+MOV-000272,Hard Hat,-11,WH04,261 Issue to Maintenance Order,2026-07-28,EA
+MOV-000273,Limit Switch,1,WH04,101 Goods Receipt (PO),2026-07-28,EA
+MOV-000274,Ball Valve 4in Class 300,-1,WH06,301 Plant Transfer Out,2026-07-28,EA
+MOV-000275,Respirator Cartridges,-22,WH06,301 Plant Transfer Out,2026-07-28,BOX
+MOV-000276,Tee 6in Sch 40,-2,WH06,201 Issue to Cost Center,2026-07-28,EA
+MOV-000277,Amine Solvent MDEA,-2,WH07,261 Issue to Maintenance Order,2026-07-28,DRUM
+MOV-000278,Radar Level Transmitter,2,WH08,101 Goods Receipt (PO),2026-07-28,EA
+MOV-000279,Car Wash Soap Concentrate,168,WH11,101 Goods Receipt (PO),2026-07-28,PAIL
+MOV-000280,Scale Inhibitor,9,WH01,701 Inventory Gain (Cycle Count),2026-07-29,DRUM
+MOV-000281,Electric Motor 200 hp,-1,WH02,261 Issue to Maintenance Order,2026-07-29,EA
+MOV-000282,Ball Valve 4in Class 300,7,WH04,101 Goods Receipt (PO),2026-07-29,EA
+MOV-000283,Nitrile Gloves,-23,WH04,551 Scrap,2026-07-29,BOX
+MOV-000284,Acetylene Cylinder,-1,WH05,261 Issue to Maintenance Order,2026-07-29,EA
+MOV-000285,Safety Glasses,-9,WH06,261 Issue to Maintenance Order,2026-07-29,BOX
+MOV-000286,Transformer Insulating Oil,-3,WH06,301 Plant Transfer Out,2026-07-29,DRUM
+MOV-000287,Hydraulic Oil AW 32,-9,WH07,201 Issue to Cost Center,2026-07-29,DRUM
+MOV-000288,Heavy-Duty Diesel Engine Oil 15W-40,27,WH10,101 Goods Receipt (PO),2026-07-29,DRUM
+MOV-000289,Medium Voltage Switchgear,1,WH01,101 Goods Receipt (PO),2026-07-30,EA
+MOV-000290,Thermocouple Type K,-36,WH01,261 Issue to Maintenance Order,2026-07-30,EA
+MOV-000291,Respirator Cartridges,12,WH02,101 Goods Receipt (PO),2026-07-30,BOX
+MOV-000292,Synthetic Engine Oil 5W-30 Bulk,-17,WH05,201 Issue to Cost Center,2026-07-30,DRUM
+MOV-000293,Transformer Insulating Oil,-4,WH07,261 Issue to Maintenance Order,2026-07-30,DRUM
+MOV-000294,FR Work Gloves,-169,WH10,122 Return to Vendor,2026-07-30,PAIR
+MOV-000295,Fuel System Cleaner 12x355mL,-29,WH10,201 Issue to Cost Center,2026-07-30,CASE
+MOV-000296,Gear Oil 80W-90,-7,WH12,201 Issue to Cost Center,2026-07-30,DRUM
+MOV-000297,Respirator Cartridges,31,WH01,101 Goods Receipt (PO),2026-07-31,BOX
+MOV-000298,FR Work Gloves,-6,WH02,201 Issue to Cost Center,2026-07-31,PAIR
+MOV-000299,Thermocouple Type K,-7,WH03,261 Issue to Maintenance Order,2026-07-31,EA
+MOV-000300,Engine Coolant 50/50,-14,WH04,261 Issue to Maintenance Order,2026-07-31,DRUM
+MOV-000301,Thermocouple Type K,-40,WH04,201 Issue to Cost Center,2026-07-31,EA
+MOV-000302,Safety Glasses,-3,WH06,261 Issue to Maintenance Order,2026-07-31,BOX
+MOV-000303,Ball Valve 4in Class 300,-6,WH08,261 Issue to Maintenance Order,2026-07-31,EA
+MOV-000304,Welding Rod E7018,-142,WH09,301 Plant Transfer Out,2026-07-31,BOX
+MOV-000305,FR Work Gloves,-161,WH10,261 Issue to Maintenance Order,2026-07-31,PAIR
+MOV-000306,Production Tubing 2-7/8in J55,-408,WH02,122 Return to Vendor,2026-08-01,M
+MOV-000307,Expansion Joint 6in,-3,WH04,201 Issue to Cost Center,2026-08-01,EA
+MOV-000308,Safety Glasses,9,WH04,701 Inventory Gain (Cycle Count),2026-08-01,BOX
+MOV-000309,Pressure Relief Valve 2x3,-1,WH06,261 Issue to Maintenance Order,2026-08-01,EA
+MOV-000310,Ball Bearing 6312,-17,WH01,301 Plant Transfer Out,2026-08-02,EA
+MOV-000311,Scale Inhibitor,-16,WH01,261 Issue to Maintenance Order,2026-08-02,DRUM
+MOV-000312,Solenoid Valve 24VDC,-7,WH02,261 Issue to Maintenance Order,2026-08-02,EA
+MOV-000313,Pressure Transmitter,-1,WH03,702 Inventory Loss (Cycle Count),2026-08-02,EA
+MOV-000314,Pump Impeller 8in,-1,WH03,261 Issue to Maintenance Order,2026-08-02,EA
+MOV-000315,Nitrogen Cylinder,57,WH04,101 Goods Receipt (PO),2026-08-02,EA
+MOV-000316,Turbine Oil ISO 46,-1,WH04,702 Inventory Loss (Cycle Count),2026-08-02,DRUM
+MOV-000317,Diesel Exhaust Fluid,-15,WH11,261 Issue to Maintenance Order,2026-08-02,TOTE
+MOV-000318,Hearing Protection Earplugs,-27,WH11,122 Return to Vendor,2026-08-02,BOX
+MOV-000319,Ball Valve 4in Class 300,-6,WH03,261 Issue to Maintenance Order,2026-08-03,EA
+MOV-000320,Hearing Protection Earplugs,-9,WH03,261 Issue to Maintenance Order,2026-08-03,BOX
+MOV-000321,Scale Inhibitor,-1,WH03,201 Issue to Cost Center,2026-08-03,DRUM
+MOV-000322,Line Pipe 8in X42,499,WH04,311 Storage Transfer In,2026-08-03,M
+MOV-000323,Spill Absorbent Pads,-4,WH05,301 Plant Transfer Out,2026-08-03,BALE
+MOV-000324,Steel Toe Safety Boots,-13,WH05,261 Issue to Maintenance Order,2026-08-03,PAIR
+MOV-000325,Caustic Soda 50%,3,WH06,311 Storage Transfer In,2026-08-03,TOTE
+MOV-000326,Engine Coolant 50/50,-8,WH06,261 Issue to Maintenance Order,2026-08-03,DRUM
+MOV-000327,Production Tubing 2-7/8in J55,-60,WH06,201 Issue to Cost Center,2026-08-03,M
+MOV-000328,Respirator Cartridges,-11,WH06,702 Inventory Loss (Cycle Count),2026-08-03,BOX
+MOV-000329,Weld Neck Flange 8in Class 300,-9,WH06,261 Issue to Maintenance Order,2026-08-03,EA
+MOV-000330,Centrifugal Pump API 610,-1,WH01,261 Issue to Maintenance Order,2026-08-04,EA
+MOV-000331,Centrifugal Pump API 610,-1,WH01,301 Plant Transfer Out,2026-08-04,EA
+MOV-000332,Gas Turbine Fuel Nozzle,3,WH01,101 Goods Receipt (PO),2026-08-04,EA
+MOV-000333,Methanol Hydrate Inhibitor,-9,WH01,551 Scrap,2026-08-04,TOTE
+MOV-000334,Nitrogen Cylinder,-16,WH01,301 Plant Transfer Out,2026-08-04,EA
+MOV-000335,Pressure Gauge 0-1000 psi,38,WH01,101 Goods Receipt (PO),2026-08-04,EA
+MOV-000336,Synthetic Engine Oil 5W-30 Bulk,17,WH01,101 Goods Receipt (PO),2026-08-04,DRUM
+MOV-000337,Hydrocracking Catalyst,-9,WH02,301 Plant Transfer Out,2026-08-04,DRUM
+MOV-000338,Hydraulic Oil AW 68,-6,WH03,551 Scrap,2026-08-04,DRUM
+MOV-000339,Reciprocating Compressor Overhaul Kit,1,WH03,311 Storage Transfer In,2026-08-04,EA
+MOV-000340,Triethylene Glycol,-4,WH03,261 Issue to Maintenance Order,2026-08-04,DRUM
+MOV-000341,Graphite Packing Ring Set,30,WH04,101 Goods Receipt (PO),2026-08-04,EA
+MOV-000342,Drill Pipe 5in S135,-239,WH05,201 Issue to Cost Center,2026-08-04,M
+MOV-000343,Fall Protection Harness,26,WH05,311 Storage Transfer In,2026-08-04,EA
+MOV-000344,Seamless Casing 9-5/8in L80,-344,WH05,122 Return to Vendor,2026-08-04,M
+MOV-000345,Hydraulic Oil AW 68,11,WH06,101 Goods Receipt (PO),2026-08-04,DRUM
+MOV-000346,Tee 6in Sch 40,12,WH08,101 Goods Receipt (PO),2026-08-04,EA
+MOV-000347,Ball Bearing 6312,5,WH01,101 Goods Receipt (PO),2026-08-05,EA
+MOV-000348,Production Tubing 2-7/8in J55,444,WH02,101 Goods Receipt (PO),2026-08-05,M
+MOV-000349,Variable Frequency Drive 500 hp,-1,WH04,261 Issue to Maintenance Order,2026-08-05,EA
+MOV-000350,Nitrogen Cylinder,-4,WH05,261 Issue to Maintenance Order,2026-08-05,EA
+MOV-000351,Nitrile Gloves,-7,WH06,261 Issue to Maintenance Order,2026-08-05,BOX
+MOV-000352,Synthetic Compressor Oil,8,WH09,101 Goods Receipt (PO),2026-08-05,DRUM
+MOV-000353,Diesel Exhaust Fluid 4x9.46L,-118,WH10,261 Issue to Maintenance Order,2026-08-05,CASE
+MOV-000354,Centrifugal Pump API 610,-1,WH03,201 Issue to Cost Center,2026-08-06,EA
+MOV-000355,Hydraulic Oil AW 32,-7,WH03,201 Issue to Cost Center,2026-08-06,DRUM
+MOV-000356,Pressure Transmitter,-3,WH03,201 Issue to Cost Center,2026-08-06,EA
+MOV-000357,Hydrocracking Catalyst,-1,WH04,201 Issue to Cost Center,2026-08-06,DRUM
+MOV-000358,Pump Impeller 8in,1,WH04,701 Inventory Gain (Cycle Count),2026-08-06,EA
+MOV-000359,Synthetic Compressor Oil,-6,WH04,261 Issue to Maintenance Order,2026-08-06,DRUM
+MOV-000360,Methanol Hydrate Inhibitor,-4,WH05,201 Issue to Cost Center,2026-08-06,TOTE
+MOV-000361,Pipe Support Clamp,-21,WH06,261 Issue to Maintenance Order,2026-08-06,EA
+MOV-000362,Triethylene Glycol,1,WH06,311 Storage Transfer In,2026-08-06,DRUM
+MOV-000363,Amine Solvent MDEA,-3,WH07,261 Issue to Maintenance Order,2026-08-06,DRUM
+MOV-000364,FCC Catalyst,3,WH01,101 Goods Receipt (PO),2026-08-07,SACK
+MOV-000365,Synthetic Engine Oil 5W-30 Bulk,6,WH02,101 Goods Receipt (PO),2026-08-07,DRUM
+MOV-000366,Anti-Strip Additive,1,WH03,101 Goods Receipt (PO),2026-08-07,DRUM
+MOV-000367,Hydraulic Oil AW 32,2,WH03,101 Goods Receipt (PO),2026-08-07,DRUM
+MOV-000368,Hydraulic Oil AW 68,2,WH03,701 Inventory Gain (Cycle Count),2026-08-07,DRUM
+MOV-000369,Seamless Casing 9-5/8in L80,-201,WH05,261 Issue to Maintenance Order,2026-08-07,M
+MOV-000370,Stainless Steel Pipe 4in Sch 10S,55,WH05,101 Goods Receipt (PO),2026-08-07,M
+MOV-000371,Stud Bolt Set B7 1in,-10,WH05,301 Plant Transfer Out,2026-08-07,EA
+MOV-000372,Welding Rod E7018,-20,WH09,301 Plant Transfer Out,2026-08-07,BOX
+MOV-000373,Steel Toe Safety Boots,-80,WH11,261 Issue to Maintenance Order,2026-08-07,PAIR
+MOV-000374,Spill Absorbent Pads,-9,WH01,261 Issue to Maintenance Order,2026-08-08,BALE
+MOV-000375,Nitrile Gloves,-17,WH02,201 Issue to Cost Center,2026-08-08,BOX
+MOV-000376,Fuse 600V 200A,-6,WH03,201 Issue to Cost Center,2026-08-08,EA
+MOV-000377,Gas Turbine Fuel Nozzle,1,WH03,101 Goods Receipt (PO),2026-08-08,EA
+MOV-000378,Ball Valve 4in Class 300,3,WH05,101 Goods Receipt (PO),2026-08-08,EA
+MOV-000379,Hydraulic Oil AW 68,-19,WH05,201 Issue to Cost Center,2026-08-08,DRUM
+MOV-000380,Synthetic Engine Oil 5W-30 Bulk,-9,WH07,261 Issue to Maintenance Order,2026-08-08,DRUM
+MOV-000381,Engine Coolant 50/50 4x3.78L,-815,WH11,261 Issue to Maintenance Order,2026-08-08,CASE
+MOV-000382,Corrosion Inhibitor,-12,WH12,261 Issue to Maintenance Order,2026-08-08,DRUM
+MOV-000383,Ball Valve 4in Class 300,6,WH03,101 Goods Receipt (PO),2026-08-09,EA
+MOV-000384,Hearing Protection Earplugs,-1,WH03,702 Inventory Loss (Cycle Count),2026-08-09,BOX
+MOV-000385,Scale Inhibitor,-1,WH03,261 Issue to Maintenance Order,2026-08-09,DRUM
+MOV-000386,Hydrotreating Catalyst NiMo,-13,WH04,261 Issue to Maintenance Order,2026-08-09,DRUM
+MOV-000387,Pressure Gauge 0-1000 psi,14,WH04,311 Storage Transfer In,2026-08-09,EA
+MOV-000388,FR Work Gloves,54,WH06,101 Goods Receipt (PO),2026-08-09,PAIR
+MOV-000389,Car Wash Soap Concentrate,-33,WH07,702 Inventory Loss (Cycle Count),2026-08-09,PAIL
+MOV-000390,Multipurpose Grease Pail,80,WH09,101 Goods Receipt (PO),2026-08-09,PAIL
+MOV-000391,Fuel System Cleaner 12x355mL,-126,WH10,201 Issue to Cost Center,2026-08-09,CASE
+MOV-000392,Synthetic Engine Oil 5W-30 4x4L,-523,WH10,261 Issue to Maintenance Order,2026-08-09,CASE
+MOV-000393,Automatic Transmission Fluid,2,WH01,311 Storage Transfer In,2026-08-10,DRUM
+MOV-000394,Line Pipe 8in X42,-371,WH03,261 Issue to Maintenance Order,2026-08-10,M
+MOV-000395,Solenoid Valve 24VDC,6,WH04,101 Goods Receipt (PO),2026-08-10,EA
+MOV-000396,Corrosion Inhibitor,-13,WH05,201 Issue to Cost Center,2026-08-10,DRUM
+MOV-000397,Turbine Oil ISO 46,6,WH07,101 Goods Receipt (PO),2026-08-10,DRUM
+MOV-000398,Coupling Spacer 5in,-1,WH08,201 Issue to Cost Center,2026-08-10,EA
+MOV-000399,Automatic Transmission Fluid,-1,WH12,201 Issue to Cost Center,2026-08-10,DRUM
+MOV-000400,Electric Motor 200 hp,-1,WH01,261 Issue to Maintenance Order,2026-08-11,EA
+MOV-000401,Hearing Protection Earplugs,2,WH02,701 Inventory Gain (Cycle Count),2026-08-11,BOX
+MOV-000402,Hydraulic Oil AW 68,-6,WH02,201 Issue to Cost Center,2026-08-11,DRUM
+MOV-000403,Air Cooler Fan Assembly,1,WH05,101 Goods Receipt (PO),2026-08-11,EA
+MOV-000404,Reducer 8x6in Sch 40,-4,WH05,261 Issue to Maintenance Order,2026-08-11,EA
+MOV-000405,Synthetic Engine Oil 0W-20 4x4L,832,WH07,101 Goods Receipt (PO),2026-08-11,CASE
+MOV-000406,Heavy-Duty Diesel Engine Oil 15W-40,-18,WH10,201 Issue to Cost Center,2026-08-11,DRUM
+MOV-000407,Hydraulic Oil AW 46,-20,WH12,301 Plant Transfer Out,2026-08-11,DRUM
+MOV-000408,Synthetic Compressor Oil,-3,WH12,551 Scrap,2026-08-11,DRUM
+MOV-000409,Medium Voltage Switchgear,-1,WH02,201 Issue to Cost Center,2026-08-12,EA
+MOV-000410,Welding Rod E7018,-56,WH03,702 Inventory Loss (Cycle Count),2026-08-12,BOX
+MOV-000411,Argon Cylinder,-3,WH04,702 Inventory Loss (Cycle Count),2026-08-12,EA
+MOV-000412,Centrifugal Pump API 610,1,WH04,101 Goods Receipt (PO),2026-08-12,EA
+MOV-000413,Synthetic Engine Oil 5W-30 Bulk,3,WH04,101 Goods Receipt (PO),2026-08-12,DRUM
+MOV-000414,Hydrocracking Catalyst,4,WH05,101 Goods Receipt (PO),2026-08-12,DRUM
+MOV-000415,Heavy-Duty Diesel Engine Oil 15W-40,2,WH11,101 Goods Receipt (PO),2026-08-12,DRUM
+MOV-000416,Centrifugal Pump API 610,-1,WH01,261 Issue to Maintenance Order,2026-08-13,EA
+MOV-000417,Ball Bearing 6312,-25,WH03,201 Issue to Cost Center,2026-08-13,EA
+MOV-000418,Centrifugal Pump API 610,1,WH03,701 Inventory Gain (Cycle Count),2026-08-13,EA
+MOV-000419,Control Valve 3in with Positioner,1,WH03,101 Goods Receipt (PO),2026-08-13,EA
+MOV-000420,Nitrile Gloves,-98,WH03,201 Issue to Cost Center,2026-08-13,BOX
+MOV-000421,V-Belt Set,10,WH04,101 Goods Receipt (PO),2026-08-13,EA
+MOV-000422,Ball Valve 4in Class 300,5,WH05,101 Goods Receipt (PO),2026-08-13,EA
+MOV-000423,Fall Protection Harness,-16,WH05,261 Issue to Maintenance Order,2026-08-13,EA
+MOV-000424,Graphite Packing Ring Set,33,WH05,101 Goods Receipt (PO),2026-08-13,EA
+MOV-000425,Self-Contained Breathing Apparatus,2,WH05,311 Storage Transfer In,2026-08-13,EA
+MOV-000426,Fall Protection Harness,-14,WH06,261 Issue to Maintenance Order,2026-08-13,EA
+MOV-000427,Heavy-Duty Diesel Engine Oil 15W-40,-42,WH07,261 Issue to Maintenance Order,2026-08-13,DRUM
+MOV-000428,Expansion Joint 6in,-3,WH08,261 Issue to Maintenance Order,2026-08-13,EA
+MOV-000429,Amine Solvent MDEA,-17,WH01,201 Issue to Cost Center,2026-08-14,DRUM
+MOV-000430,Turbine Oil ISO 46,-2,WH02,261 Issue to Maintenance Order,2026-08-14,DRUM
+MOV-000431,Coriolis Flow Meter 4in,-1,WH03,301 Plant Transfer Out,2026-08-14,EA
+MOV-000432,Engine Coolant 50/50,-1,WH03,201 Issue to Cost Center,2026-08-14,DRUM
+MOV-000433,Pressure Gauge 0-1000 psi,-8,WH04,261 Issue to Maintenance Order,2026-08-14,EA
+MOV-000434,Stud Bolt Set B7 1in,80,WH04,101 Goods Receipt (PO),2026-08-14,EA
+MOV-000435,V-Belt Set,-10,WH04,122 Return to Vendor,2026-08-14,EA
+MOV-000436,Solenoid Valve 24VDC,2,WH05,701 Inventory Gain (Cycle Count),2026-08-14,EA
+MOV-000437,Steel Toe Safety Boots,-9,WH05,261 Issue to Maintenance Order,2026-08-14,PAIR
+MOV-000438,Gear Oil 80W-90,-6,WH06,261 Issue to Maintenance Order,2026-08-14,DRUM
+MOV-000439,Hydrocracking Catalyst,-3,WH07,261 Issue to Maintenance Order,2026-08-14,DRUM
+MOV-000440,Line Pipe 8in X42,-93,WH08,122 Return to Vendor,2026-08-14,M
+MOV-000441,Diesel Anti-Gel Additive 12x946mL,-191,WH10,261 Issue to Maintenance Order,2026-08-14,CASE
+MOV-000442,Pressure Gauge 0-1000 psi,-13,WH01,261 Issue to Maintenance Order,2026-08-15,EA
+MOV-000443,Anti-Strip Additive,-1,WH02,702 Inventory Loss (Cycle Count),2026-08-15,DRUM
+MOV-000444,FR Work Gloves,-38,WH02,261 Issue to Maintenance Order,2026-08-15,PAIR
+MOV-000445,Transformer Insulating Oil,1,WH02,101 Goods Receipt (PO),2026-08-15,DRUM
+MOV-000446,Pressure Transmitter,5,WH03,101 Goods Receipt (PO),2026-08-15,EA
+MOV-000447,Steel Toe Safety Boots,13,WH04,101 Goods Receipt (PO),2026-08-15,PAIR
+MOV-000448,Production Tubing 2-7/8in J55,117,WH06,101 Goods Receipt (PO),2026-08-15,M
+MOV-000449,Tee 6in Sch 40,-2,WH06,261 Issue to Maintenance Order,2026-08-15,EA
+MOV-000450,Scale Inhibitor,-4,WH07,261 Issue to Maintenance Order,2026-08-15,DRUM
+MOV-000451,Car Wash Soap Concentrate,-199,WH10,261 Issue to Maintenance Order,2026-08-15,PAIL
+MOV-000452,Diesel Exhaust Fluid,-18,WH11,261 Issue to Maintenance Order,2026-08-15,TOTE
+MOV-000453,Coupling Spacer 5in,-1,WH01,702 Inventory Loss (Cycle Count),2026-08-16,EA
+MOV-000454,Nitrile Gloves,24,WH02,101 Goods Receipt (PO),2026-08-16,BOX
+MOV-000455,Synthetic Compressor Oil,-19,WH03,122 Return to Vendor,2026-08-16,DRUM
+MOV-000456,Turbine Oil ISO 46,1,WH03,101 Goods Receipt (PO),2026-08-16,DRUM
+MOV-000457,Electric Motor 200 hp,-1,WH04,261 Issue to Maintenance Order,2026-08-16,EA
+MOV-000458,Line Pipe 8in X42,-425,WH04,261 Issue to Maintenance Order,2026-08-16,M
+MOV-000459,Spiral Wound Gasket 6in Class 300,-91,WH04,261 Issue to Maintenance Order,2026-08-16,EA
+MOV-000460,Nitrogen Cylinder,11,WH05,101 Goods Receipt (PO),2026-08-16,EA
+MOV-000461,Multipurpose Grease Pail,-27,WH07,201 Issue to Cost Center,2026-08-16,PAIL
+MOV-000462,Natural Gas Engine Oil,-11,WH07,261 Issue to Maintenance Order,2026-08-16,DRUM
+MOV-000463,Synthetic Engine Oil 0W-20 4x4L,141,WH07,701 Inventory Gain (Cycle Count),2026-08-16,CASE
+MOV-000464,Synthetic Engine Oil 0W-20 4x4L,80,WH07,101 Goods Receipt (PO),2026-08-16,CASE
+MOV-000465,Hydraulic Oil AW 32,3,WH10,101 Goods Receipt (PO),2026-08-16,DRUM
+MOV-000466,Hydraulic Oil AW 32,2,WH11,101 Goods Receipt (PO),2026-08-16,DRUM
+MOV-000467,Hydraulic Oil AW 46,17,WH11,101 Goods Receipt (PO),2026-08-16,DRUM
+MOV-000468,Gear Oil 80W-90,-1,WH12,261 Issue to Maintenance Order,2026-08-16,DRUM
+MOV-000469,Fired Heater Burner,-3,WH01,301 Plant Transfer Out,2026-08-17,EA
+MOV-000470,Diesel Exhaust Fluid,-10,WH02,261 Issue to Maintenance Order,2026-08-17,TOTE
+MOV-000471,Graphite Packing Ring Set,-32,WH02,261 Issue to Maintenance Order,2026-08-17,EA
+MOV-000472,Amine Solvent MDEA,3,WH03,701 Inventory Gain (Cycle Count),2026-08-17,DRUM
+MOV-000473,Hydraulic Oil AW 68,-6,WH03,261 Issue to Maintenance Order,2026-08-17,DRUM
+MOV-000474,Line Pipe 8in X42,383,WH03,101 Goods Receipt (PO),2026-08-17,M
+MOV-000475,Production Tubing 2-7/8in J55,100,WH06,701 Inventory Gain (Cycle Count),2026-08-17,M
+MOV-000476,Diesel Exhaust Fluid,-18,WH07,122 Return to Vendor,2026-08-17,TOTE
+MOV-000477,Car Wash Soap Concentrate,-82,WH11,301 Plant Transfer Out,2026-08-17,PAIL
+MOV-000478,Corrosion Inhibitor,5,WH12,101 Goods Receipt (PO),2026-08-17,DRUM
+MOV-000479,Air Cooler Fan Assembly,-1,WH01,261 Issue to Maintenance Order,2026-08-18,EA
+MOV-000480,Hearing Protection Earplugs,-35,WH01,261 Issue to Maintenance Order,2026-08-18,BOX
+MOV-000481,Production Tubing 2-7/8in J55,-307,WH01,261 Issue to Maintenance Order,2026-08-18,M
+MOV-000482,Coriolis Flow Meter 4in,1,WH02,101 Goods Receipt (PO),2026-08-18,EA
+MOV-000483,Ball Valve 4in Class 300,-3,WH04,261 Issue to Maintenance Order,2026-08-18,EA
+MOV-000484,Hydraulic Oil AW 68,12,WH04,101 Goods Receipt (PO),2026-08-18,DRUM
+MOV-000485,Synthetic Compressor Oil,6,WH04,101 Goods Receipt (PO),2026-08-18,DRUM
+MOV-000486,Electric Motor 200 hp,-1,WH05,261 Issue to Maintenance Order,2026-08-18,EA
+MOV-000487,Electric Motor 200 hp,-1,WH05,261 Issue to Maintenance Order,2026-08-18,EA
+MOV-000488,Acetylene Cylinder,-4,WH06,201 Issue to Cost Center,2026-08-18,EA
+MOV-000489,Anti-Strip Additive,1,WH06,101 Goods Receipt (PO),2026-08-18,DRUM
+MOV-000490,Expansion Joint 6in,-2,WH08,261 Issue to Maintenance Order,2026-08-18,EA
+MOV-000491,Steel Toe Safety Boots,-9,WH11,301 Plant Transfer Out,2026-08-18,PAIR
+MOV-000492,Hydrocracking Catalyst,2,WH12,101 Goods Receipt (PO),2026-08-18,DRUM
+MOV-000493,Amine Solvent MDEA,-3,WH01,201 Issue to Cost Center,2026-08-19,DRUM
+MOV-000494,Hydrocracking Catalyst,-2,WH02,261 Issue to Maintenance Order,2026-08-19,DRUM
+MOV-000495,Steel Toe Safety Boots,-16,WH04,301 Plant Transfer Out,2026-08-19,PAIR
+MOV-000496,Seamless Casing 9-5/8in L80,947,WH08,101 Goods Receipt (PO),2026-08-19,M
+MOV-000497,Synthetic Engine Oil 5W-30 4x4L,-631,WH11,261 Issue to Maintenance Order,2026-08-19,CASE
+MOV-000498,Synthetic Engine Oil 5W-30 Bulk,-9,WH12,261 Issue to Maintenance Order,2026-08-19,DRUM
+MOV-000499,Caustic Soda 50%,3,WH01,701 Inventory Gain (Cycle Count),2026-08-20,TOTE
+MOV-000500,Diesel Exhaust Fluid,4,WH01,701 Inventory Gain (Cycle Count),2026-08-20,TOTE
+MOV-000501,Flame-Resistant Coveralls,-119,WH01,261 Issue to Maintenance Order,2026-08-20,EA
+MOV-000502,Multipurpose Grease Pail,-109,WH01,261 Issue to Maintenance Order,2026-08-20,PAIL
+MOV-000503,Fixed Gas Detector,7,WH03,101 Goods Receipt (PO),2026-08-20,EA
+MOV-000504,Fuse 600V 200A,12,WH04,101 Goods Receipt (PO),2026-08-20,EA
+MOV-000505,Electric Motor 200 hp,-1,WH05,261 Issue to Maintenance Order,2026-08-20,EA
+MOV-000506,Corrosion Inhibitor,-12,WH06,122 Return to Vendor,2026-08-20,DRUM
+MOV-000507,Demulsifier,3,WH06,101 Goods Receipt (PO),2026-08-20,DRUM
+MOV-000508,Transformer Insulating Oil,-8,WH10,261 Issue to Maintenance Order,2026-08-20,DRUM
+MOV-000509,Brake Fluid DOT 4 12x355mL,-217,WH11,201 Issue to Cost Center,2026-08-20,CASE
+MOV-000510,Synthetic Engine Oil 5W-30 Bulk,5,WH12,101 Goods Receipt (PO),2026-08-20,DRUM
+MOV-000511,Solenoid Valve 24VDC,-26,WH01,261 Issue to Maintenance Order,2026-08-21,EA
+MOV-000512,Circuit Breaker 480V 100A,2,WH02,311 Storage Transfer In,2026-08-21,EA
+MOV-000513,Pump Impeller 8in,1,WH02,101 Goods Receipt (PO),2026-08-21,EA
+MOV-000514,Stud Bolt Set B7 1in,-59,WH03,261 Issue to Maintenance Order,2026-08-21,EA
+MOV-000515,Steel Toe Safety Boots,-3,WH05,261 Issue to Maintenance Order,2026-08-21,PAIR
+MOV-000516,Cylinder Propane Exchange 20 lb,420,WH10,101 Goods Receipt (PO),2026-08-21,EA
+MOV-000517,Air Cooler Fan Assembly,-2,WH01,122 Return to Vendor,2026-08-22,EA
+MOV-000518,Demulsifier,8,WH01,701 Inventory Gain (Cycle Count),2026-08-22,DRUM
+MOV-000519,Thermocouple Type K,44,WH01,101 Goods Receipt (PO),2026-08-22,EA
+MOV-000520,Ball Bearing 6312,4,WH02,101 Goods Receipt (PO),2026-08-22,EA
+MOV-000521,Hearing Protection Earplugs,-42,WH02,261 Issue to Maintenance Order,2026-08-22,BOX
+MOV-000522,Hydraulic Oil AW 46,-5,WH02,261 Issue to Maintenance Order,2026-08-22,DRUM
+MOV-000523,Anti-Strip Additive,-1,WH03,201 Issue to Cost Center,2026-08-22,DRUM
+MOV-000524,Coriolis Flow Meter 4in,-1,WH03,201 Issue to Cost Center,2026-08-22,EA
+MOV-000525,Fuse 600V 200A,-8,WH03,201 Issue to Cost Center,2026-08-22,EA
+MOV-000526,Multipurpose Grease Pail,-21,WH03,261 Issue to Maintenance Order,2026-08-22,PAIL
+MOV-000527,Safety Glasses,1,WH03,701 Inventory Gain (Cycle Count),2026-08-22,BOX
+MOV-000528,Ball Valve 4in Class 300,5,WH04,101 Goods Receipt (PO),2026-08-22,EA
+MOV-000529,Limit Switch,-2,WH04,261 Issue to Maintenance Order,2026-08-22,EA
+MOV-000530,Pressure Transmitter,-3,WH05,261 Issue to Maintenance Order,2026-08-22,EA
+MOV-000531,Weld Neck Flange 8in Class 300,-34,WH05,201 Issue to Cost Center,2026-08-22,EA
+MOV-000532,Circuit Breaker 480V 100A,-1,WH06,261 Issue to Maintenance Order,2026-08-22,EA
+MOV-000533,FR Work Gloves,-27,WH06,702 Inventory Loss (Cycle Count),2026-08-22,PAIR
+MOV-000534,Centrifugal Pump API 610,1,WH03,101 Goods Receipt (PO),2026-08-23,EA
+MOV-000535,Line Pipe 8in X42,-168,WH04,261 Issue to Maintenance Order,2026-08-23,M
+MOV-000536,Control Valve 3in with Positioner,-2,WH05,261 Issue to Maintenance Order,2026-08-23,EA
+MOV-000537,Gear Oil 80W-90,-15,WH05,261 Issue to Maintenance Order,2026-08-23,DRUM
+MOV-000538,Hearing Protection Earplugs,-22,WH06,261 Issue to Maintenance Order,2026-08-23,BOX
+MOV-000539,Coriolis Flow Meter 4in,-1,WH08,261 Issue to Maintenance Order,2026-08-23,EA
+MOV-000540,Diesel Exhaust Fluid,-5,WH09,261 Issue to Maintenance Order,2026-08-23,TOTE
+MOV-000541,Argon Cylinder,-14,WH12,261 Issue to Maintenance Order,2026-08-23,EA
+MOV-000542,Coupling Spacer 5in,6,WH04,101 Goods Receipt (PO),2026-08-24,EA
+MOV-000543,Expansion Joint 6in,-7,WH04,551 Scrap,2026-08-24,EA
+MOV-000544,Engine Coolant 50/50,-2,WH05,261 Issue to Maintenance Order,2026-08-24,DRUM
+MOV-000545,Limit Switch,-2,WH08,122 Return to Vendor,2026-08-24,EA
+MOV-000546,Seamless Casing 9-5/8in L80,398,WH08,101 Goods Receipt (PO),2026-08-24,M
+MOV-000547,Acetylene Cylinder,-6,WH09,261 Issue to Maintenance Order,2026-08-24,EA
+MOV-000548,Cylinder Propane Exchange 20 lb,981,WH10,101 Goods Receipt (PO),2026-08-24,EA
+MOV-000549,Multipurpose Grease Cartridge 24x400g,-185,WH10,301 Plant Transfer Out,2026-08-24,CASE
+MOV-000550,Ball Valve 4in Class 300,-4,WH01,261 Issue to Maintenance Order,2026-08-25,EA
+MOV-000551,Engine Coolant 50/50,-1,WH01,702 Inventory Loss (Cycle Count),2026-08-25,DRUM
+MOV-000552,FR Work Gloves,260,WH01,101 Goods Receipt (PO),2026-08-25,PAIR
+MOV-000553,Ball Bearing 6312,-20,WH03,261 Issue to Maintenance Order,2026-08-25,EA
+MOV-000554,Line Pipe 8in X42,-59,WH03,702 Inventory Loss (Cycle Count),2026-08-25,M
+MOV-000555,Spiral Wound Gasket 6in Class 300,-24,WH03,551 Scrap,2026-08-25,EA
+MOV-000556,Synthetic Compressor Oil,-2,WH03,261 Issue to Maintenance Order,2026-08-25,DRUM
+MOV-000557,FCC Catalyst,-1,WH05,201 Issue to Cost Center,2026-08-25,SACK
+MOV-000558,Multipurpose Grease Pail,-27,WH05,261 Issue to Maintenance Order,2026-08-25,PAIL
+MOV-000559,Natural Gas Engine Oil,-6,WH07,261 Issue to Maintenance Order,2026-08-25,DRUM
+MOV-000560,Elbow 90 deg 6in Sch 40,9,WH08,101 Goods Receipt (PO),2026-08-25,EA
+MOV-000561,Engine Coolant 50/50 4x3.78L,173,WH10,101 Goods Receipt (PO),2026-08-25,CASE
+MOV-000562,Hard Hat,36,WH10,311 Storage Transfer In,2026-08-25,EA
+MOV-000563,Medium Voltage Switchgear,-1,WH02,261 Issue to Maintenance Order,2026-08-26,EA
+MOV-000564,Respirator Cartridges,-11,WH02,261 Issue to Maintenance Order,2026-08-26,BOX
+MOV-000565,Thermocouple Type K,-4,WH02,261 Issue to Maintenance Order,2026-08-26,EA
+MOV-000566,Hydraulic Oil AW 46,1,WH03,701 Inventory Gain (Cycle Count),2026-08-26,DRUM
+MOV-000567,Spill Absorbent Pads,5,WH03,101 Goods Receipt (PO),2026-08-26,BALE
+MOV-000568,Line Pipe 12in X52,-344,WH04,551 Scrap,2026-08-26,M
+MOV-000569,Reciprocating Compressor Overhaul Kit,1,WH04,101 Goods Receipt (PO),2026-08-26,EA
+MOV-000570,Synthetic Compressor Oil,1,WH05,311 Storage Transfer In,2026-08-26,DRUM
+MOV-000571,FR Work Gloves,-29,WH06,301 Plant Transfer Out,2026-08-26,PAIR
+MOV-000572,Pump Impeller 8in,1,WH06,101 Goods Receipt (PO),2026-08-26,EA
+MOV-000573,Spiral Wound Gasket 6in Class 300,-6,WH06,261 Issue to Maintenance Order,2026-08-26,EA
+MOV-000574,Hydraulic Oil AW 32,-1,WH09,702 Inventory Loss (Cycle Count),2026-08-26,DRUM
+MOV-000575,Car Wash Soap Concentrate,-102,WH10,702 Inventory Loss (Cycle Count),2026-08-26,PAIL
+MOV-000576,Diesel Exhaust Fluid 4x9.46L,171,WH11,101 Goods Receipt (PO),2026-08-26,CASE
+MOV-000577,Heavy-Duty Diesel Engine Oil 15W-40,2,WH11,101 Goods Receipt (PO),2026-08-26,DRUM
+MOV-000578,Caustic Soda 50%,3,WH12,311 Storage Transfer In,2026-08-26,TOTE
+MOV-000579,Heavy-Duty Diesel Engine Oil 15W-40,18,WH12,101 Goods Receipt (PO),2026-08-26,DRUM
+MOV-000580,Synthetic Engine Oil 5W-30 Bulk,-12,WH12,301 Plant Transfer Out,2026-08-26,DRUM
+MOV-000581,Thermocouple Type K,-12,WH01,261 Issue to Maintenance Order,2026-08-27,EA
+MOV-000582,Gas Turbine Fuel Nozzle,-2,WH02,261 Issue to Maintenance Order,2026-08-27,EA
+MOV-000583,Welding Rod E7018,-2,WH02,301 Plant Transfer Out,2026-08-27,BOX
+MOV-000584,Gas Turbine Fuel Nozzle,1,WH04,311 Storage Transfer In,2026-08-27,EA
+MOV-000585,Hydraulic Oil AW 46,-22,WH04,261 Issue to Maintenance Order,2026-08-27,DRUM
+MOV-000586,Pressure Relief Valve 2x3,-1,WH06,301 Plant Transfer Out,2026-08-27,EA
+MOV-000587,Hydraulic Oil AW 32,8,WH07,101 Goods Receipt (PO),2026-08-27,DRUM
+MOV-000588,Limit Switch,3,WH08,311 Storage Transfer In,2026-08-27,EA
+MOV-000589,Seamless Casing 9-5/8in L80,997,WH08,101 Goods Receipt (PO),2026-08-27,M
+MOV-000590,Engine Coolant 50/50,-1,WH09,261 Issue to Maintenance Order,2026-08-27,DRUM
+MOV-000591,Brake Fluid DOT 4 12x355mL,-72,WH11,702 Inventory Loss (Cycle Count),2026-08-27,CASE
+MOV-000592,Hearing Protection Earplugs,30,WH01,101 Goods Receipt (PO),2026-08-28,BOX
+MOV-000593,Tee 6in Sch 40,8,WH01,101 Goods Receipt (PO),2026-08-28,EA
+MOV-000594,Coupling Spacer 5in,1,WH06,311 Storage Transfer In,2026-08-28,EA
+MOV-000595,FR Work Gloves,-87,WH06,261 Issue to Maintenance Order,2026-08-28,PAIR
+MOV-000596,Heavy-Duty Diesel Engine Oil 15W-40,15,WH10,101 Goods Receipt (PO),2026-08-28,DRUM
+MOV-000597,Respirator Cartridges,-78,WH10,301 Plant Transfer Out,2026-08-28,BOX
+MOV-000598,Windshield Washer Fluid -40 4x3.78L,-40,WH11,702 Inventory Loss (Cycle Count),2026-08-28,CASE
+MOV-000599,Heavy-Duty Diesel Engine Oil 15W-40,-19,WH12,261 Issue to Maintenance Order,2026-08-28,DRUM
+MOV-000600,Triethylene Glycol,3,WH12,101 Goods Receipt (PO),2026-08-28,DRUM
+MOV-000601,Fired Heater Burner,-2,WH01,261 Issue to Maintenance Order,2026-08-29,EA
+MOV-000602,Line Pipe 8in X42,223,WH03,101 Goods Receipt (PO),2026-08-29,M
+MOV-000603,Elbow 90 deg 6in Sch 40,-30,WH04,261 Issue to Maintenance Order,2026-08-29,EA
+MOV-000604,Engine Coolant 50/50,-24,WH04,301 Plant Transfer Out,2026-08-29,DRUM
+MOV-000605,Hydrocracking Catalyst,-5,WH04,261 Issue to Maintenance Order,2026-08-29,DRUM
+MOV-000606,Control Valve 3in with Positioner,-1,WH05,702 Inventory Loss (Cycle Count),2026-08-29,EA
+MOV-000607,Drill Pipe 5in S135,217,WH05,101 Goods Receipt (PO),2026-08-29,M
+MOV-000608,Hydrotreating Catalyst NiMo,3,WH05,101 Goods Receipt (PO),2026-08-29,DRUM
+MOV-000609,Line Pipe 8in X42,71,WH05,101 Goods Receipt (PO),2026-08-29,M
+MOV-000610,Steel Toe Safety Boots,18,WH05,101 Goods Receipt (PO),2026-08-29,PAIR
+MOV-000611,Production Tubing 2-7/8in J55,111,WH06,101 Goods Receipt (PO),2026-08-29,M
+MOV-000612,Transformer Insulating Oil,5,WH06,101 Goods Receipt (PO),2026-08-29,DRUM
+MOV-000613,Car Wash Soap Concentrate,-381,WH07,122 Return to Vendor,2026-08-29,PAIL
+MOV-000614,Stud Bolt Set B7 1in,76,WH08,101 Goods Receipt (PO),2026-08-29,EA
+MOV-000615,Argon Cylinder,11,WH09,311 Storage Transfer In,2026-08-29,EA
+MOV-000616,Scale Inhibitor,4,WH09,101 Goods Receipt (PO),2026-08-29,DRUM
+MOV-000617,Nitrile Gloves,67,WH01,101 Goods Receipt (PO),2026-08-30,BOX
+MOV-000618,Acetylene Cylinder,-11,WH02,201 Issue to Cost Center,2026-08-30,EA
+MOV-000619,Demulsifier,4,WH02,101 Goods Receipt (PO),2026-08-30,DRUM
+MOV-000620,Centrifugal Pump API 610,-1,WH03,261 Issue to Maintenance Order,2026-08-30,EA
+MOV-000621,Triethylene Glycol,-4,WH03,702 Inventory Loss (Cycle Count),2026-08-30,DRUM
+MOV-000622,FCC Catalyst,-1,WH04,261 Issue to Maintenance Order,2026-08-30,SACK
+MOV-000623,Solenoid Valve 24VDC,4,WH04,101 Goods Receipt (PO),2026-08-30,EA
+MOV-000624,Pressure Relief Valve 2x3,-1,WH06,261 Issue to Maintenance Order,2026-08-30,EA
+MOV-000625,Car Wash Soap Concentrate,268,WH07,311 Storage Transfer In,2026-08-30,PAIL
+MOV-000626,Line Pipe 8in X42,-85,WH08,261 Issue to Maintenance Order,2026-08-30,M
+MOV-000627,Valve Gasket Kit,-21,WH08,261 Issue to Maintenance Order,2026-08-30,SET
+MOV-000628,Demulsifier,-10,WH09,261 Issue to Maintenance Order,2026-08-30,DRUM
+MOV-000629,Demulsifier,4,WH09,101 Goods Receipt (PO),2026-08-30,DRUM
+MOV-000630,Acetylene Cylinder,-1,WH01,301 Plant Transfer Out,2026-08-31,EA
+MOV-000631,Nitrogen Cylinder,22,WH01,101 Goods Receipt (PO),2026-08-31,EA
+MOV-000632,Radar Level Transmitter,1,WH01,311 Storage Transfer In,2026-08-31,EA
+MOV-000633,Seamless Casing 9-5/8in L80,-63,WH01,702 Inventory Loss (Cycle Count),2026-08-31,M
+MOV-000634,Multipurpose Grease Pail,-18,WH03,122 Return to Vendor,2026-08-31,PAIL
+MOV-000635,Demulsifier,17,WH04,101 Goods Receipt (PO),2026-08-31,DRUM
+MOV-000636,Coupling Spacer 5in,-1,WH05,261 Issue to Maintenance Order,2026-08-31,EA
+MOV-000637,Synthetic Compressor Oil,-11,WH07,261 Issue to Maintenance Order,2026-08-31,DRUM
+MOV-000638,Anti-Strip Additive,-3,WH01,551 Scrap,2026-09-01,DRUM
+MOV-000639,Tee 6in Sch 40,-7,WH01,261 Issue to Maintenance Order,2026-09-01,EA
+MOV-000640,Amine Solvent MDEA,-10,WH02,261 Issue to Maintenance Order,2026-09-01,DRUM
+MOV-000641,Welding Rod E7018,13,WH02,101 Goods Receipt (PO),2026-09-01,BOX
+MOV-000642,Fired Heater Burner,-2,WH03,261 Issue to Maintenance Order,2026-09-01,EA
+MOV-000643,Line Pipe 12in X52,-221,WH03,261 Issue to Maintenance Order,2026-09-01,M
+MOV-000644,Hydrotreating Catalyst NiMo,-23,WH07,261 Issue to Maintenance Order,2026-09-01,DRUM
+MOV-000645,Synthetic Engine Oil 5W-30 Bulk,17,WH07,101 Goods Receipt (PO),2026-09-01,DRUM
+MOV-000646,Graphite Packing Ring Set,4,WH08,701 Inventory Gain (Cycle Count),2026-09-01,EA
+MOV-000647,Pipe Support Clamp,-79,WH08,702 Inventory Loss (Cycle Count),2026-09-01,EA
+MOV-000648,Natural Gas Engine Oil,-14,WH11,261 Issue to Maintenance Order,2026-09-01,DRUM
+MOV-000649,Fired Heater Burner,-2,WH01,201 Issue to Cost Center,2026-09-02,EA
+MOV-000650,Gear Oil 80W-90,-3,WH01,261 Issue to Maintenance Order,2026-09-02,DRUM
+MOV-000651,Coriolis Flow Meter 4in,-1,WH02,261 Issue to Maintenance Order,2026-09-02,EA
+MOV-000652,Gate Valve 6in Class 600,2,WH03,101 Goods Receipt (PO),2026-09-02,EA
+MOV-000653,Medium Voltage Switchgear,-1,WH03,301 Plant Transfer Out,2026-09-02,EA
+MOV-000654,Fall Protection Harness,3,WH04,101 Goods Receipt (PO),2026-09-02,EA
+MOV-000655,Transformer Insulating Oil,-2,WH04,301 Plant Transfer Out,2026-09-02,DRUM
+MOV-000656,Hydrotreating Catalyst NiMo,2,WH05,101 Goods Receipt (PO),2026-09-02,DRUM
+MOV-000657,Production Tubing 2-7/8in J55,-316,WH05,201 Issue to Cost Center,2026-09-02,M
+MOV-000658,V-Belt Set,-5,WH05,301 Plant Transfer Out,2026-09-02,EA
+MOV-000659,Caustic Soda 50%,-1,WH06,261 Issue to Maintenance Order,2026-09-02,TOTE
+MOV-000660,Solenoid Valve 24VDC,-4,WH06,261 Issue to Maintenance Order,2026-09-02,EA
+MOV-000661,Synthetic Compressor Oil,-26,WH12,261 Issue to Maintenance Order,2026-09-02,DRUM
+MOV-000662,Nitrogen Cylinder,-25,WH01,261 Issue to Maintenance Order,2026-09-03,EA
+MOV-000663,Solenoid Valve 24VDC,-12,WH01,301 Plant Transfer Out,2026-09-03,EA
+MOV-000664,Scale Inhibitor,-1,WH02,201 Issue to Cost Center,2026-09-03,DRUM
+MOV-000665,Synthetic Engine Oil 5W-30 Bulk,-10,WH02,261 Issue to Maintenance Order,2026-09-03,DRUM
+MOV-000666,Medium Voltage Switchgear,-1,WH03,122 Return to Vendor,2026-09-03,EA
+MOV-000667,Pressure Transmitter,-2,WH04,702 Inventory Loss (Cycle Count),2026-09-03,EA
+MOV-000668,Stainless Steel Pipe 4in Sch 10S,-101,WH05,261 Issue to Maintenance Order,2026-09-03,M
+MOV-000669,FR Work Gloves,-74,WH06,261 Issue to Maintenance Order,2026-09-03,PAIR
+MOV-000670,Gate Valve 6in Class 600,2,WH01,101 Goods Receipt (PO),2026-09-04,EA
+MOV-000671,Self-Contained Breathing Apparatus,-5,WH01,261 Issue to Maintenance Order,2026-09-04,EA
+MOV-000672,Solenoid Valve 24VDC,-6,WH01,261 Issue to Maintenance Order,2026-09-04,EA
+MOV-000673,Pressure Gauge 0-1000 psi,1,WH02,311 Storage Transfer In,2026-09-04,EA
+MOV-000674,Line Pipe 12in X52,259,WH03,101 Goods Receipt (PO),2026-09-04,M
+MOV-000675,Radar Level Transmitter,1,WH05,101 Goods Receipt (PO),2026-09-04,EA
+MOV-000676,Hydrocracking Catalyst,-14,WH01,261 Issue to Maintenance Order,2026-09-05,DRUM
+MOV-000677,Hearing Protection Earplugs,4,WH03,101 Goods Receipt (PO),2026-09-05,BOX
+MOV-000678,Hydraulic Oil AW 68,8,WH03,101 Goods Receipt (PO),2026-09-05,DRUM
+MOV-000679,Hydrotreating Catalyst NiMo,-6,WH03,261 Issue to Maintenance Order,2026-09-05,DRUM
+MOV-000680,Methanol Hydrate Inhibitor,-1,WH03,201 Issue to Cost Center,2026-09-05,TOTE
+MOV-000681,Graphite Packing Ring Set,-15,WH05,261 Issue to Maintenance Order,2026-09-05,EA
+MOV-000682,Centrifugal Pump API 610,-1,WH06,261 Issue to Maintenance Order,2026-09-05,EA
+MOV-000683,Pipe Support Clamp,98,WH06,101 Goods Receipt (PO),2026-09-05,EA
+MOV-000684,Synthetic Engine Oil 5W-30 Bulk,-3,WH06,261 Issue to Maintenance Order,2026-09-05,DRUM
+MOV-000685,Caustic Soda 50%,-1,WH12,702 Inventory Loss (Cycle Count),2026-09-05,TOTE
+MOV-000686,Diesel Exhaust Fluid,-14,WH12,301 Plant Transfer Out,2026-09-05,TOTE
+MOV-000687,Fall Protection Harness,-44,WH01,261 Issue to Maintenance Order,2026-09-06,EA
+MOV-000688,Steel Toe Safety Boots,4,WH01,701 Inventory Gain (Cycle Count),2026-09-06,PAIR
+MOV-000689,Hydraulic Oil AW 68,-8,WH02,261 Issue to Maintenance Order,2026-09-06,DRUM
+MOV-000690,Synthetic Engine Oil 5W-30 Bulk,-12,WH02,261 Issue to Maintenance Order,2026-09-06,DRUM
+MOV-000691,Hydraulic Oil AW 46,2,WH03,311 Storage Transfer In,2026-09-06,DRUM
+MOV-000692,Pump Impeller 8in,-1,WH03,261 Issue to Maintenance Order,2026-09-06,EA
+MOV-000693,Welding Rod E7018,-57,WH03,261 Issue to Maintenance Order,2026-09-06,BOX
+MOV-000694,Medium Voltage Switchgear,1,WH04,101 Goods Receipt (PO),2026-09-06,EA
+MOV-000695,Pressure Transmitter,13,WH04,101 Goods Receipt (PO),2026-09-06,EA
+MOV-000696,Hydraulic Oil AW 46,-11,WH05,261 Issue to Maintenance Order,2026-09-06,DRUM
+MOV-000697,Engine Coolant 50/50,-14,WH06,551 Scrap,2026-09-06,DRUM
+MOV-000698,Hydrocracking Catalyst,-7,WH06,201 Issue to Cost Center,2026-09-06,DRUM
+MOV-000699,Hydraulic Oil AW 46,-28,WH07,201 Issue to Cost Center,2026-09-06,DRUM
+MOV-000700,Corrosion Inhibitor,5,WH09,101 Goods Receipt (PO),2026-09-06,DRUM
+MOV-000701,Conventional Engine Oil 10W-30 4x4L,300,WH10,101 Goods Receipt (PO),2026-09-06,CASE
+MOV-000702,Hydraulic Oil AW 46,-12,WH10,702 Inventory Loss (Cycle Count),2026-09-06,DRUM
+MOV-000703,Anti-Strip Additive,-1,WH01,201 Issue to Cost Center,2026-09-07,DRUM
+MOV-000704,Hydraulic Oil AW 32,-7,WH02,702 Inventory Loss (Cycle Count),2026-09-07,DRUM
+MOV-000705,Nitrogen Cylinder,-4,WH03,261 Issue to Maintenance Order,2026-09-07,EA
+MOV-000706,Demulsifier,-12,WH04,261 Issue to Maintenance Order,2026-09-07,DRUM
+MOV-000707,Nitrile Gloves,-78,WH04,551 Scrap,2026-09-07,BOX
+MOV-000708,Coupling Spacer 5in,-1,WH05,261 Issue to Maintenance Order,2026-09-07,EA
+MOV-000709,Stainless Steel Pipe 4in Sch 10S,123,WH05,101 Goods Receipt (PO),2026-09-07,M
+MOV-000710,Hydraulic Oil AW 68,6,WH06,101 Goods Receipt (PO),2026-09-07,DRUM
+MOV-000711,Diesel Exhaust Fluid,-6,WH09,301 Plant Transfer Out,2026-09-07,TOTE
+MOV-000712,FCC Catalyst,-5,WH09,261 Issue to Maintenance Order,2026-09-07,SACK
+MOV-000713,Hydraulic Oil AW 32,2,WH09,101 Goods Receipt (PO),2026-09-07,DRUM
+MOV-000714,Turbine Oil ISO 46,5,WH10,101 Goods Receipt (PO),2026-09-07,DRUM
+MOV-000715,Gear Oil 80W-90,5,WH12,101 Goods Receipt (PO),2026-09-07,DRUM
+MOV-000716,Anti-Strip Additive,-3,WH01,301 Plant Transfer Out,2026-09-08,DRUM
+MOV-000717,Centrifugal Pump API 610,1,WH01,101 Goods Receipt (PO),2026-09-08,EA
+MOV-000718,Circuit Breaker 480V 100A,-1,WH01,301 Plant Transfer Out,2026-09-08,EA
+MOV-000719,Electric Motor 200 hp,-1,WH01,261 Issue to Maintenance Order,2026-09-08,EA
+MOV-000720,Hydraulic Filter Element,-58,WH01,551 Scrap,2026-09-08,EA
+MOV-000721,Radar Level Transmitter,-4,WH01,122 Return to Vendor,2026-09-08,EA
+MOV-000722,Steel Toe Safety Boots,-10,WH01,261 Issue to Maintenance Order,2026-09-08,PAIR
+MOV-000723,Medium Voltage Switchgear,-1,WH03,261 Issue to Maintenance Order,2026-09-08,EA
+MOV-000724,Natural Gas Engine Oil,-7,WH04,261 Issue to Maintenance Order,2026-09-08,DRUM
+MOV-000725,Pressure Transmitter,-1,WH04,261 Issue to Maintenance Order,2026-09-08,EA
+MOV-000726,Corrosion Inhibitor,-13,WH06,261 Issue to Maintenance Order,2026-09-08,DRUM
+MOV-000727,Spiral Wound Gasket 6in Class 300,-8,WH06,261 Issue to Maintenance Order,2026-09-08,EA
+MOV-000728,Diesel Exhaust Fluid,-12,WH07,261 Issue to Maintenance Order,2026-09-08,TOTE
+MOV-000729,Engine Coolant 50/50,-12,WH07,301 Plant Transfer Out,2026-09-08,DRUM
+MOV-000730,Hydraulic Oil AW 46,49,WH10,101 Goods Receipt (PO),2026-09-08,DRUM
+MOV-000731,Respirator Cartridges,-64,WH10,201 Issue to Cost Center,2026-09-08,BOX
+MOV-000732,Windshield Washer Fluid -40 4x3.78L,-1204,WH10,261 Issue to Maintenance Order,2026-09-08,CASE
+MOV-000733,Welding Rod E7018,-38,WH12,201 Issue to Cost Center,2026-09-08,BOX
+MOV-000734,Solenoid Valve 24VDC,-26,WH01,261 Issue to Maintenance Order,2026-09-09,EA
+MOV-000735,Hydrotreating Catalyst NiMo,-12,WH07,201 Issue to Cost Center,2026-09-09,DRUM
+MOV-000736,Turbine Oil ISO 46,1,WH03,101 Goods Receipt (PO),2026-09-10,DRUM
+MOV-000737,Fall Protection Harness,-4,WH06,122 Return to Vendor,2026-09-10,EA
+MOV-000738,Synthetic Engine Oil 5W-30 Bulk,-1,WH06,261 Issue to Maintenance Order,2026-09-10,DRUM
+MOV-000739,Hydraulic Oil AW 32,-1,WH10,201 Issue to Cost Center,2026-09-10,DRUM
+MOV-000740,Windshield Washer Fluid -40 4x3.78L,-108,WH11,261 Issue to Maintenance Order,2026-09-10,CASE
+MOV-000741,Electric Motor 200 hp,1,WH01,311 Storage Transfer In,2026-09-11,EA
+MOV-000742,Hydrotreating Catalyst NiMo,7,WH04,101 Goods Receipt (PO),2026-09-11,DRUM
+MOV-000743,Pressure Gauge 0-1000 psi,-39,WH04,261 Issue to Maintenance Order,2026-09-11,EA
+MOV-000744,Flame-Resistant Coveralls,58,WH05,101 Goods Receipt (PO),2026-09-11,EA
+MOV-000745,Hydrotreating Catalyst NiMo,-10,WH06,301 Plant Transfer Out,2026-09-11,DRUM
+MOV-000746,Anti-Strip Additive,-4,WH07,201 Issue to Cost Center,2026-09-11,DRUM
+MOV-000747,Gear Oil 80W-90,22,WH07,101 Goods Receipt (PO),2026-09-11,DRUM
+MOV-000748,Transformer Insulating Oil,-4,WH07,201 Issue to Cost Center,2026-09-11,DRUM
+MOV-000749,Scale Inhibitor,-1,WH09,261 Issue to Maintenance Order,2026-09-11,DRUM
+MOV-000750,Fuel System Cleaner 12x355mL,134,WH10,101 Goods Receipt (PO),2026-09-11,CASE
+MOV-000751,Respirator Cartridges,-14,WH10,261 Issue to Maintenance Order,2026-09-11,BOX
+MOV-000752,Gate Valve 6in Class 600,-2,WH02,702 Inventory Loss (Cycle Count),2026-09-12,EA
+MOV-000753,Heavy-Duty Diesel Engine Oil 15W-40,-10,WH02,702 Inventory Loss (Cycle Count),2026-09-12,DRUM
+MOV-000754,Anti-Strip Additive,6,WH07,101 Goods Receipt (PO),2026-09-12,DRUM
+MOV-000755,Multipurpose Grease Pail,137,WH09,101 Goods Receipt (PO),2026-09-12,PAIL
+MOV-000756,FR Work Gloves,-34,WH01,702 Inventory Loss (Cycle Count),2026-09-13,PAIR
+MOV-000757,FR Work Gloves,-78,WH01,261 Issue to Maintenance Order,2026-09-13,PAIR
+MOV-000758,Flame-Resistant Coveralls,140,WH01,101 Goods Receipt (PO),2026-09-13,EA
+MOV-000759,Air Cooler Fan Assembly,-1,WH02,201 Issue to Cost Center,2026-09-13,EA
+MOV-000760,Stud Bolt Set B7 1in,-77,WH02,201 Issue to Cost Center,2026-09-13,EA
+MOV-000761,Welding Rod E7018,10,WH02,101 Goods Receipt (PO),2026-09-13,BOX
+MOV-000762,Gate Valve 6in Class 600,-1,WH03,261 Issue to Maintenance Order,2026-09-13,EA
+MOV-000763,Hydraulic Oil AW 32,-3,WH03,261 Issue to Maintenance Order,2026-09-13,DRUM
+MOV-000764,Reciprocating Compressor Overhaul Kit,-1,WH03,261 Issue to Maintenance Order,2026-09-13,EA
+MOV-000765,Demulsifier,-9,WH04,261 Issue to Maintenance Order,2026-09-13,DRUM
+MOV-000766,Acetylene Cylinder,-11,WH06,261 Issue to Maintenance Order,2026-09-13,EA
+MOV-000767,Weld Neck Flange 8in Class 300,-16,WH06,201 Issue to Cost Center,2026-09-13,EA
+MOV-000768,Hydraulic Oil AW 32,-10,WH07,261 Issue to Maintenance Order,2026-09-13,DRUM
+MOV-000769,Welding Rod E7018,-141,WH09,301 Plant Transfer Out,2026-09-13,BOX
+MOV-000770,Diesel Anti-Gel Additive 12x946mL,191,WH10,311 Storage Transfer In,2026-09-13,CASE
+MOV-000771,Hearing Protection Earplugs,-17,WH11,261 Issue to Maintenance Order,2026-09-13,BOX
+MOV-000772,Flame-Resistant Coveralls,26,WH01,101 Goods Receipt (PO),2026-09-14,EA
+MOV-000773,Air Cooler Fan Assembly,-1,WH02,201 Issue to Cost Center,2026-09-14,EA
+MOV-000774,Transformer Insulating Oil,1,WH02,311 Storage Transfer In,2026-09-14,DRUM
+MOV-000775,Self-Contained Breathing Apparatus,3,WH03,101 Goods Receipt (PO),2026-09-14,EA
+MOV-000776,Circuit Breaker 480V 100A,4,WH04,101 Goods Receipt (PO),2026-09-14,EA
+MOV-000777,Elbow 90 deg 6in Sch 40,-38,WH04,201 Issue to Cost Center,2026-09-14,EA
+MOV-000778,Transformer Insulating Oil,1,WH06,101 Goods Receipt (PO),2026-09-14,DRUM
+MOV-000779,Drill Pipe 5in S135,-193,WH08,201 Issue to Cost Center,2026-09-14,M
+MOV-000780,Fuse 600V 200A,-27,WH08,122 Return to Vendor,2026-09-14,EA
+MOV-000781,Production Tubing 2-7/8in J55,-15,WH08,702 Inventory Loss (Cycle Count),2026-09-14,M
+MOV-000782,Transformer Insulating Oil,-9,WH10,261 Issue to Maintenance Order,2026-09-14,DRUM
+MOV-000783,Engine Coolant 50/50,-1,WH01,261 Issue to Maintenance Order,2026-09-15,DRUM
+MOV-000784,Hearing Protection Earplugs,49,WH02,101 Goods Receipt (PO),2026-09-15,BOX
+MOV-000785,Coupling Spacer 5in,-1,WH03,201 Issue to Cost Center,2026-09-15,EA
+MOV-000786,Hydraulic Oil AW 46,-5,WH03,261 Issue to Maintenance Order,2026-09-15,DRUM
+MOV-000787,Gear Oil 80W-90,-16,WH04,122 Return to Vendor,2026-09-15,DRUM
+MOV-000788,Synthetic Engine Oil 5W-30 Bulk,2,WH06,101 Goods Receipt (PO),2026-09-15,DRUM
+MOV-000789,Hydraulic Oil AW 32,-6,WH07,261 Issue to Maintenance Order,2026-09-15,DRUM
+MOV-000790,Hydraulic Oil AW 46,-11,WH07,551 Scrap,2026-09-15,DRUM
+MOV-000791,Diesel Exhaust Fluid,-11,WH09,261 Issue to Maintenance Order,2026-09-15,TOTE
+MOV-000792,Multipurpose Grease Pail,3,WH10,701 Inventory Gain (Cycle Count),2026-09-15,PAIL
+MOV-000793,Turbine Oil ISO 46,4,WH02,311 Storage Transfer In,2026-09-16,DRUM
+MOV-000794,Turbine Oil ISO 46,-5,WH04,201 Issue to Cost Center,2026-09-16,DRUM
+MOV-000795,Limit Switch,-4,WH05,261 Issue to Maintenance Order,2026-09-16,EA
+MOV-000796,Ball Bearing 6312,-4,WH06,261 Issue to Maintenance Order,2026-09-16,EA
+MOV-000797,Hydraulic Oil AW 32,-4,WH06,261 Issue to Maintenance Order,2026-09-16,DRUM
+MOV-000798,Engine Coolant 50/50 4x3.78L,-492,WH10,122 Return to Vendor,2026-09-16,CASE
+MOV-000799,Steel Toe Safety Boots,-60,WH02,261 Issue to Maintenance Order,2026-09-17,PAIR
+MOV-000800,Steel Toe Safety Boots,-81,WH02,261 Issue to Maintenance Order,2026-09-17,PAIR
+MOV-000801,Engine Coolant 50/50,-1,WH03,261 Issue to Maintenance Order,2026-09-17,DRUM
+MOV-000802,Graphite Packing Ring Set,-11,WH04,261 Issue to Maintenance Order,2026-09-17,EA
+MOV-000803,Hydrotreating Catalyst NiMo,-4,WH05,261 Issue to Maintenance Order,2026-09-17,DRUM
+MOV-000804,Steel Toe Safety Boots,37,WH11,101 Goods Receipt (PO),2026-09-17,PAIR
+MOV-000805,Diesel Exhaust Fluid,-14,WH12,261 Issue to Maintenance Order,2026-09-17,TOTE
+MOV-000806,Nitrogen Cylinder,-21,WH12,261 Issue to Maintenance Order,2026-09-17,EA
+MOV-000807,Ball Bearing 6312,-4,WH02,301 Plant Transfer Out,2026-09-18,EA
+MOV-000808,Diesel Exhaust Fluid,-15,WH02,261 Issue to Maintenance Order,2026-09-18,TOTE
+MOV-000809,Medium Voltage Switchgear,1,WH02,101 Goods Receipt (PO),2026-09-18,EA
+MOV-000810,Fuse 600V 200A,21,WH04,101 Goods Receipt (PO),2026-09-18,EA
+MOV-000811,H2S Personal Monitor,-9,WH04,261 Issue to Maintenance Order,2026-09-18,EA
+MOV-000812,Radar Level Transmitter,-1,WH04,261 Issue to Maintenance Order,2026-09-18,EA
+MOV-000813,Engine Coolant 50/50,-14,WH06,551 Scrap,2026-09-18,DRUM
+MOV-000814,Diesel Exhaust Fluid 4x9.46L,198,WH07,101 Goods Receipt (PO),2026-09-18,CASE
+MOV-000815,Welding Rod E7018,12,WH09,101 Goods Receipt (PO),2026-09-18,BOX
+MOV-000816,Heavy-Duty Diesel Engine Oil 15W-40,17,WH12,101 Goods Receipt (PO),2026-09-18,DRUM
+MOV-000817,Argon Cylinder,-19,WH02,261 Issue to Maintenance Order,2026-09-19,EA
+MOV-000818,Corrosion Inhibitor,-21,WH02,261 Issue to Maintenance Order,2026-09-19,DRUM
+MOV-000819,Pressure Relief Valve 2x3,-3,WH02,201 Issue to Cost Center,2026-09-19,EA
+MOV-000820,Pump Impeller 8in,-2,WH02,261 Issue to Maintenance Order,2026-09-19,EA
+MOV-000821,Air Cooler Fan Assembly,-1,WH05,261 Issue to Maintenance Order,2026-09-19,EA
+MOV-000822,Ball Valve 4in Class 300,-3,WH05,201 Issue to Cost Center,2026-09-19,EA
+MOV-000823,Pump Impeller 8in,-1,WH06,201 Issue to Cost Center,2026-09-19,EA
+MOV-000824,Triethylene Glycol,-1,WH06,261 Issue to Maintenance Order,2026-09-19,DRUM
+MOV-000825,Line Pipe 8in X42,-255,WH08,702 Inventory Loss (Cycle Count),2026-09-19,M
+MOV-000826,Amine Solvent MDEA,2,WH09,101 Goods Receipt (PO),2026-09-19,DRUM
+MOV-000827,Fall Protection Harness,-42,WH01,201 Issue to Cost Center,2026-09-20,EA
+MOV-000828,Gate Valve 6in Class 600,-4,WH04,261 Issue to Maintenance Order,2026-09-20,EA
+MOV-000829,Hydraulic Oil AW 46,-5,WH04,301 Plant Transfer Out,2026-09-20,DRUM
+MOV-000830,Medium Voltage Switchgear,-1,WH04,261 Issue to Maintenance Order,2026-09-20,EA
+MOV-000831,H2S Personal Monitor,-17,WH05,261 Issue to Maintenance Order,2026-09-20,EA
+MOV-000832,Medium Voltage Switchgear,-1,WH05,261 Issue to Maintenance Order,2026-09-20,EA
+MOV-000833,Hearing Protection Earplugs,3,WH06,311 Storage Transfer In,2026-09-20,BOX
+MOV-000834,Valve Gasket Kit,14,WH06,101 Goods Receipt (PO),2026-09-20,SET
+MOV-000835,Gear Oil 80W-90,-6,WH07,301 Plant Transfer Out,2026-09-20,DRUM
+MOV-000836,Caustic Soda 50%,12,WH01,101 Goods Receipt (PO),2026-09-21,TOTE
+MOV-000837,H2S Personal Monitor,-5,WH01,261 Issue to Maintenance Order,2026-09-21,EA
+MOV-000838,V-Belt Set,-3,WH01,301 Plant Transfer Out,2026-09-21,EA
+MOV-000839,Respirator Cartridges,-14,WH02,702 Inventory Loss (Cycle Count),2026-09-21,BOX
+MOV-000840,Line Pipe 8in X42,-590,WH04,261 Issue to Maintenance Order,2026-09-21,M
+MOV-000841,Electric Motor 200 hp,1,WH05,101 Goods Receipt (PO),2026-09-21,EA
+MOV-000842,Triethylene Glycol,-2,WH06,261 Issue to Maintenance Order,2026-09-21,DRUM
+MOV-000843,Multipurpose Grease Pail,52,WH07,311 Storage Transfer In,2026-09-21,PAIL
+MOV-000844,Hydraulic Oil AW 32,5,WH09,311 Storage Transfer In,2026-09-21,DRUM
+MOV-000845,Synthetic Compressor Oil,-18,WH12,261 Issue to Maintenance Order,2026-09-21,DRUM
+MOV-000846,Gate Valve 6in Class 600,-2,WH01,261 Issue to Maintenance Order,2026-09-22,EA
+MOV-000847,Natural Gas Engine Oil,3,WH02,101 Goods Receipt (PO),2026-09-22,DRUM
+MOV-000848,Air Cooler Fan Assembly,-1,WH05,301 Plant Transfer Out,2026-09-22,EA
+MOV-000849,Tee 6in Sch 40,-16,WH05,122 Return to Vendor,2026-09-22,EA
+MOV-000850,Turbine Oil ISO 46,-6,WH05,201 Issue to Cost Center,2026-09-22,DRUM
+MOV-000851,Conventional Engine Oil 10W-30 4x4L,-64,WH07,702 Inventory Loss (Cycle Count),2026-09-22,CASE
+MOV-000852,Anti-Strip Additive,-7,WH09,261 Issue to Maintenance Order,2026-09-22,DRUM
+MOV-000853,Acetylene Cylinder,4,WH02,311 Storage Transfer In,2026-09-23,EA
+MOV-000854,Gate Valve 6in Class 600,4,WH02,101 Goods Receipt (PO),2026-09-23,EA
+MOV-000855,Turbine Oil ISO 46,1,WH03,101 Goods Receipt (PO),2026-09-23,DRUM
+MOV-000856,Medium Voltage Switchgear,-1,WH04,301 Plant Transfer Out,2026-09-23,EA
+MOV-000857,Anti-Strip Additive,2,WH05,101 Goods Receipt (PO),2026-09-23,DRUM
+MOV-000858,Stud Bolt Set B7 1in,-4,WH06,261 Issue to Maintenance Order,2026-09-23,EA
+MOV-000859,Hydrotreating Catalyst NiMo,11,WH07,101 Goods Receipt (PO),2026-09-23,DRUM
+MOV-000860,Coupling Spacer 5in,2,WH08,101 Goods Receipt (PO),2026-09-23,EA
+MOV-000861,FR Work Gloves,-206,WH10,551 Scrap,2026-09-23,PAIR
+MOV-000862,Gear Oil 80W-90,2,WH11,101 Goods Receipt (PO),2026-09-23,DRUM
+MOV-000863,Argon Cylinder,-11,WH04,301 Plant Transfer Out,2026-09-24,EA
+MOV-000864,Centrifugal Pump API 610,-1,WH04,261 Issue to Maintenance Order,2026-09-24,EA
+MOV-000865,Fuse 600V 200A,-11,WH04,261 Issue to Maintenance Order,2026-09-24,EA
+MOV-000866,Flame-Resistant Coveralls,-55,WH05,261 Issue to Maintenance Order,2026-09-24,EA
+MOV-000867,Reducer 8x6in Sch 40,-11,WH05,261 Issue to Maintenance Order,2026-09-24,EA
+MOV-000868,Hydrocracking Catalyst,-3,WH06,702 Inventory Loss (Cycle Count),2026-09-24,DRUM
+MOV-000869,Graphite Packing Ring Set,-12,WH08,261 Issue to Maintenance Order,2026-09-24,EA
+MOV-000870,V-Belt Set,13,WH08,101 Goods Receipt (PO),2026-09-24,EA
+MOV-000871,Synthetic Compressor Oil,-6,WH09,261 Issue to Maintenance Order,2026-09-24,DRUM
+MOV-000872,Synthetic Engine Oil 0W-20 4x4L,34,WH11,101 Goods Receipt (PO),2026-09-24,CASE
+MOV-000873,Synthetic Engine Oil 0W-20 4x4L,-263,WH11,201 Issue to Cost Center,2026-09-24,CASE
+MOV-000874,Triethylene Glycol,-3,WH12,261 Issue to Maintenance Order,2026-09-24,DRUM
+MOV-000875,Ball Valve 4in Class 300,3,WH01,311 Storage Transfer In,2026-09-25,EA
+MOV-000876,Hydrocracking Catalyst,-12,WH02,261 Issue to Maintenance Order,2026-09-25,DRUM
+MOV-000877,Demulsifier,8,WH04,101 Goods Receipt (PO),2026-09-25,DRUM
+MOV-000878,Engine Coolant 50/50,-1,WH05,201 Issue to Cost Center,2026-09-25,DRUM
+MOV-000879,Synthetic Engine Oil 5W-30 Bulk,-17,WH05,261 Issue to Maintenance Order,2026-09-25,DRUM
+MOV-000880,Valve Gasket Kit,-12,WH06,201 Issue to Cost Center,2026-09-25,SET
+MOV-000881,Amine Solvent MDEA,2,WH12,101 Goods Receipt (PO),2026-09-25,DRUM
+MOV-000882,Triethylene Glycol,-1,WH12,261 Issue to Maintenance Order,2026-09-25,DRUM
+MOV-000883,Control Valve 3in with Positioner,-2,WH03,261 Issue to Maintenance Order,2026-09-26,EA
+MOV-000884,Line Pipe 12in X52,196,WH03,101 Goods Receipt (PO),2026-09-26,M
+MOV-000885,Multipurpose Grease Pail,-30,WH04,261 Issue to Maintenance Order,2026-09-26,PAIL
+MOV-000886,V-Belt Set,8,WH04,101 Goods Receipt (PO),2026-09-26,EA
+MOV-000887,Hearing Protection Earplugs,-41,WH05,261 Issue to Maintenance Order,2026-09-26,BOX
+MOV-000888,Tee 6in Sch 40,-1,WH05,261 Issue to Maintenance Order,2026-09-26,EA
+MOV-000889,Gear Oil 80W-90,3,WH06,101 Goods Receipt (PO),2026-09-26,DRUM
+MOV-000890,Cylinder Propane Exchange 20 lb,-1221,WH10,301 Plant Transfer Out,2026-09-26,EA
+MOV-000891,Synthetic Engine Oil 0W-20 4x4L,121,WH10,101 Goods Receipt (PO),2026-09-26,CASE
+MOV-000892,Transformer Insulating Oil,-4,WH12,201 Issue to Cost Center,2026-09-26,DRUM
+MOV-000893,Thermocouple Type K,-1,WH02,201 Issue to Cost Center,2026-09-27,EA
+MOV-000894,Line Pipe 12in X52,-580,WH04,201 Issue to Cost Center,2026-09-27,M
+MOV-000895,Graphite Packing Ring Set,-29,WH05,261 Issue to Maintenance Order,2026-09-27,EA
+MOV-000896,Pressure Transmitter,-7,WH05,301 Plant Transfer Out,2026-09-27,EA
+MOV-000897,Hydraulic Oil AW 32,2,WH06,101 Goods Receipt (PO),2026-09-27,DRUM
+MOV-000898,Multipurpose Grease Pail,28,WH07,101 Goods Receipt (PO),2026-09-27,PAIL
+MOV-000899,Synthetic Engine Oil 5W-30 Bulk,4,WH09,101 Goods Receipt (PO),2026-09-27,DRUM
+MOV-000900,Conventional Engine Oil 10W-30 4x4L,-198,WH11,551 Scrap,2026-09-27,CASE
+MOV-000901,Steel Toe Safety Boots,7,WH11,701 Inventory Gain (Cycle Count),2026-09-27,PAIR
+MOV-000902,Circuit Breaker 480V 100A,-11,WH02,261 Issue to Maintenance Order,2026-09-28,EA
+MOV-000903,Hard Hat,-29,WH02,301 Plant Transfer Out,2026-09-28,EA
+MOV-000904,Hydraulic Oil AW 32,22,WH02,101 Goods Receipt (PO),2026-09-28,DRUM
+MOV-000905,Flame-Resistant Coveralls,21,WH05,101 Goods Receipt (PO),2026-09-28,EA
+MOV-000906,Triethylene Glycol,-4,WH05,261 Issue to Maintenance Order,2026-09-28,DRUM
+MOV-000907,Welding Rod E7018,-30,WH05,261 Issue to Maintenance Order,2026-09-28,BOX
+MOV-000908,Amine Solvent MDEA,1,WH06,101 Goods Receipt (PO),2026-09-28,DRUM
+MOV-000909,Hydrocracking Catalyst,-5,WH09,261 Issue to Maintenance Order,2026-09-28,DRUM
+MOV-000910,Steel Toe Safety Boots,-15,WH11,201 Issue to Cost Center,2026-09-28,PAIR
+MOV-000911,Gear Oil 80W-90,8,WH12,101 Goods Receipt (PO),2026-09-28,DRUM
+MOV-000912,Coriolis Flow Meter 4in,-1,WH05,201 Issue to Cost Center,2026-09-29,EA
+MOV-000913,Hard Hat,-19,WH06,551 Scrap,2026-09-29,EA
+MOV-000914,Hydraulic Filter Element,-2,WH06,261 Issue to Maintenance Order,2026-09-29,EA
+MOV-000915,Argon Cylinder,-5,WH01,301 Plant Transfer Out,2026-09-30,EA
+MOV-000916,Fired Heater Burner,-2,WH01,201 Issue to Cost Center,2026-09-30,EA
+MOV-000917,Gear Oil 80W-90,6,WH01,101 Goods Receipt (PO),2026-09-30,DRUM
+MOV-000918,Hydrotreating Catalyst NiMo,-10,WH01,201 Issue to Cost Center,2026-09-30,DRUM
+MOV-000919,Coriolis Flow Meter 4in,-1,WH04,551 Scrap,2026-09-30,EA
+MOV-000920,Hard Hat,27,WH04,311 Storage Transfer In,2026-09-30,EA
+MOV-000921,Multipurpose Grease Pail,61,WH04,101 Goods Receipt (PO),2026-09-30,PAIL
+MOV-000922,Transformer Insulating Oil,8,WH04,101 Goods Receipt (PO),2026-09-30,DRUM
+MOV-000923,Stainless Steel Pipe 4in Sch 10S,-10,WH05,301 Plant Transfer Out,2026-09-30,M
+MOV-000924,Carbon Steel Pipe 6in Sch 40,-52,WH06,702 Inventory Loss (Cycle Count),2026-09-30,M
+MOV-000925,Medium Voltage Switchgear,-1,WH06,201 Issue to Cost Center,2026-09-30,EA
+MOV-000926,Turbine Oil ISO 46,-9,WH06,201 Issue to Cost Center,2026-09-30,DRUM
+MOV-000927,Transformer Insulating Oil,4,WH12,311 Storage Transfer In,2026-09-30,DRUM
+MOV-000928,Reciprocating Compressor Overhaul Kit,-1,WH01,201 Issue to Cost Center,2026-10-01,EA
+MOV-000929,Self-Contained Breathing Apparatus,-2,WH03,261 Issue to Maintenance Order,2026-10-01,EA
+MOV-000930,Safety Glasses,-28,WH04,201 Issue to Cost Center,2026-10-01,BOX
+MOV-000931,V-Belt Set,-4,WH04,261 Issue to Maintenance Order,2026-10-01,EA
+MOV-000932,Anti-Strip Additive,-4,WH07,201 Issue to Cost Center,2026-10-01,DRUM
+MOV-000933,Nitrogen Cylinder,-25,WH09,201 Issue to Cost Center,2026-10-01,EA
+MOV-000934,Scale Inhibitor,-3,WH09,261 Issue to Maintenance Order,2026-10-01,DRUM
+MOV-000935,Scale Inhibitor,-8,WH09,261 Issue to Maintenance Order,2026-10-01,DRUM
+MOV-000936,FCC Catalyst,-1,WH01,261 Issue to Maintenance Order,2026-10-02,SACK
+MOV-000937,Synthetic Compressor Oil,-8,WH01,201 Issue to Cost Center,2026-10-02,DRUM
+MOV-000938,Anti-Strip Additive,2,WH03,101 Goods Receipt (PO),2026-10-02,DRUM
+MOV-000939,Nitrile Gloves,99,WH03,101 Goods Receipt (PO),2026-10-02,BOX
+MOV-000940,Respirator Cartridges,-10,WH04,702 Inventory Loss (Cycle Count),2026-10-02,BOX
+MOV-000941,Synthetic Engine Oil 5W-30 Bulk,-5,WH04,702 Inventory Loss (Cycle Count),2026-10-02,DRUM
+MOV-000942,Methanol Hydrate Inhibitor,-3,WH05,702 Inventory Loss (Cycle Count),2026-10-02,TOTE
+MOV-000943,Amine Solvent MDEA,-10,WH07,201 Issue to Cost Center,2026-10-02,DRUM
+MOV-000944,Graphite Packing Ring Set,14,WH08,101 Goods Receipt (PO),2026-10-02,EA
+MOV-000945,Limit Switch,-1,WH08,261 Issue to Maintenance Order,2026-10-02,EA
+MOV-000946,Acetylene Cylinder,-31,WH09,261 Issue to Maintenance Order,2026-10-02,EA
+MOV-000947,Argon Cylinder,15,WH09,101 Goods Receipt (PO),2026-10-02,EA
+MOV-000948,Synthetic Engine Oil 5W-30 Bulk,-2,WH09,261 Issue to Maintenance Order,2026-10-02,DRUM
+MOV-000949,Diesel Exhaust Fluid 4x9.46L,173,WH10,311 Storage Transfer In,2026-10-02,CASE
+MOV-000950,Diesel Exhaust Fluid 4x9.46L,-145,WH11,261 Issue to Maintenance Order,2026-10-02,CASE
+MOV-000951,Argon Cylinder,-10,WH12,301 Plant Transfer Out,2026-10-02,EA
+MOV-000952,Automatic Transmission Fluid,-8,WH12,261 Issue to Maintenance Order,2026-10-02,DRUM
+MOV-000953,FCC Catalyst,-1,WH12,301 Plant Transfer Out,2026-10-02,SACK
+MOV-000954,FR Work Gloves,-305,WH01,201 Issue to Cost Center,2026-10-03,PAIR
+MOV-000955,Pressure Transmitter,4,WH04,311 Storage Transfer In,2026-10-03,EA
+MOV-000956,Fuse 600V 200A,-17,WH08,261 Issue to Maintenance Order,2026-10-03,EA
+MOV-000957,Steel Toe Safety Boots,89,WH11,101 Goods Receipt (PO),2026-10-03,PAIR
+MOV-000958,Synthetic Engine Oil 5W-30 Bulk,-4,WH11,261 Issue to Maintenance Order,2026-10-03,DRUM
+MOV-000959,V-Belt Set,-6,WH02,261 Issue to Maintenance Order,2026-10-04,EA
+MOV-000960,Welding Rod E7018,19,WH04,701 Inventory Gain (Cycle Count),2026-10-04,BOX
+MOV-000961,Fuse 600V 200A,-28,WH08,122 Return to Vendor,2026-10-04,EA
+MOV-000962,Variable Frequency Drive 500 hp,-1,WH08,201 Issue to Cost Center,2026-10-04,EA
+MOV-000963,Gear Oil 80W-90,1,WH11,101 Goods Receipt (PO),2026-10-04,DRUM
+MOV-000964,Gear Oil 80W-90,-2,WH12,261 Issue to Maintenance Order,2026-10-04,DRUM
+MOV-000965,Natural Gas Engine Oil,-1,WH04,201 Issue to Cost Center,2026-10-05,DRUM
+MOV-000966,Welding Rod E7018,-68,WH04,261 Issue to Maintenance Order,2026-10-05,BOX
+MOV-000967,Amine Solvent MDEA,-8,WH05,201 Issue to Cost Center,2026-10-05,DRUM
+MOV-000968,Hydrotreating Catalyst NiMo,-1,WH05,261 Issue to Maintenance Order,2026-10-05,DRUM
+MOV-000969,Stud Bolt Set B7 1in,2,WH05,101 Goods Receipt (PO),2026-10-05,EA
+MOV-000970,Diesel Anti-Gel Additive 12x946mL,55,WH10,101 Goods Receipt (PO),2026-10-05,CASE
+MOV-000971,Welding Rod E7018,43,WH12,101 Goods Receipt (PO),2026-10-05,BOX
+MOV-000972,Production Tubing 2-7/8in J55,317,WH01,101 Goods Receipt (PO),2026-10-06,M
+MOV-000973,Hydraulic Oil AW 46,-13,WH02,201 Issue to Cost Center,2026-10-06,DRUM
+MOV-000974,Turbine Oil ISO 46,-6,WH02,261 Issue to Maintenance Order,2026-10-06,DRUM
+MOV-000975,Anti-Strip Additive,-1,WH03,201 Issue to Cost Center,2026-10-06,DRUM
+MOV-000976,Line Pipe 12in X52,-183,WH03,301 Plant Transfer Out,2026-10-06,M
+MOV-000977,Hydraulic Oil AW 32,-21,WH04,261 Issue to Maintenance Order,2026-10-06,DRUM
+MOV-000978,Turbine Oil ISO 46,-1,WH04,201 Issue to Cost Center,2026-10-06,DRUM
+MOV-000979,Turbine Oil ISO 46,-1,WH04,261 Issue to Maintenance Order,2026-10-06,DRUM
+MOV-000980,Hard Hat,22,WH06,101 Goods Receipt (PO),2026-10-06,EA
+MOV-000981,Production Tubing 2-7/8in J55,114,WH06,311 Storage Transfer In,2026-10-06,M
+MOV-000982,Diesel Exhaust Fluid,5,WH07,311 Storage Transfer In,2026-10-06,TOTE
+MOV-000983,Hydraulic Oil AW 46,3,WH11,311 Storage Transfer In,2026-10-06,DRUM
+MOV-000984,Hydrocracking Catalyst,6,WH12,101 Goods Receipt (PO),2026-10-06,DRUM
+MOV-000985,Flame-Resistant Coveralls,-87,WH01,201 Issue to Cost Center,2026-10-07,EA
+MOV-000986,Hard Hat,51,WH01,311 Storage Transfer In,2026-10-07,EA
+MOV-000987,Spill Absorbent Pads,-9,WH01,261 Issue to Maintenance Order,2026-10-07,BALE
+MOV-000988,Production Tubing 2-7/8in J55,782,WH02,101 Goods Receipt (PO),2026-10-07,M
+MOV-000989,Welding Rod E7018,-7,WH02,261 Issue to Maintenance Order,2026-10-07,BOX
+MOV-000990,Hydraulic Oil AW 32,-5,WH03,301 Plant Transfer Out,2026-10-07,DRUM
+MOV-000991,Spiral Wound Gasket 6in Class 300,-69,WH03,551 Scrap,2026-10-07,EA
+MOV-000992,Electric Motor 200 hp,-2,WH04,261 Issue to Maintenance Order,2026-10-07,EA
+MOV-000993,FCC Catalyst,-1,WH04,201 Issue to Cost Center,2026-10-07,SACK
+MOV-000994,Gas Turbine Fuel Nozzle,2,WH04,311 Storage Transfer In,2026-10-07,EA
+MOV-000995,Methanol Hydrate Inhibitor,-6,WH04,261 Issue to Maintenance Order,2026-10-07,TOTE
+MOV-000996,Sulphuric Acid,-3,WH06,201 Issue to Cost Center,2026-10-07,TOTE
+MOV-000997,Transformer Insulating Oil,5,WH06,101 Goods Receipt (PO),2026-10-07,DRUM
+MOV-000998,Engine Coolant 50/50,-2,WH07,261 Issue to Maintenance Order,2026-10-07,DRUM
+MOV-000999,Gas Turbine Fuel Nozzle,-1,WH08,261 Issue to Maintenance Order,2026-10-07,EA
+MOV-001000,Respirator Cartridges,19,WH11,101 Goods Receipt (PO),2026-10-07,BOX

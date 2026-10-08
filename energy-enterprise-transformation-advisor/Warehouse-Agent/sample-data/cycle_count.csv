@@ -1,0 +1,501 @@
+Material,Expected_Qty,Actual_Qty,Warehouse,Count_Date,Unit
+Control Valve 3in with Positioner,7,7,WH03,2026-07-01,EA
+Nitrile Gloves,324,324,WH04,2026-07-01,BOX
+Hydraulic Oil AW 68,62,58,WH07,2026-07-01,DRUM
+Turbine Oil ISO 46,36,36,WH11,2026-07-01,DRUM
+Triethylene Glycol,12,12,WH01,2026-07-02,DRUM
+Ball Valve 4in Class 300,22,22,WH03,2026-07-02,EA
+Ball Valve 4in Class 300,25,25,WH04,2026-07-02,EA
+Line Pipe 8in X42,484,484,WH05,2026-07-02,M
+Hydrotreating Catalyst NiMo,41,41,WH06,2026-07-02,DRUM
+Coriolis Flow Meter 4in,6,6,WH08,2026-07-03,EA
+Tee 6in Sch 40,65,65,WH08,2026-07-03,EA
+Fuse 600V 200A,109,109,WH04,2026-07-04,EA
+Stainless Steel Pipe 4in Sch 10S,382,382,WH05,2026-07-04,M
+Synthetic Compressor Oil,81,81,WH12,2026-07-04,DRUM
+Solenoid Valve 24VDC,76,82,WH01,2026-07-05,EA
+Heavy-Duty Diesel Engine Oil 15W-40,81,81,WH03,2026-07-05,DRUM
+Centrifugal Pump API 610,3,3,WH04,2026-07-05,EA
+Hydraulic Oil AW 46,59,53,WH05,2026-07-05,DRUM
+Demulsifier,66,59,WH07,2026-07-05,DRUM
+Multipurpose Grease Pail,240,268,WH07,2026-07-05,PAIL
+Valve Gasket Kit,99,99,WH08,2026-07-05,SET
+Sulphuric Acid,34,34,WH09,2026-07-05,TOTE
+FCC Catalyst,12,12,WH01,2026-07-06,SACK
+Pressure Gauge 0-1000 psi,143,143,WH01,2026-07-06,EA
+Gas Turbine Fuel Nozzle,7,7,WH05,2026-07-06,EA
+Valve Gasket Kit,89,89,WH06,2026-07-06,SET
+Gear Oil 80W-90,65,65,WH07,2026-07-06,DRUM
+Synthetic Engine Oil 5W-30 4x4L,3226,3226,WH07,2026-07-06,CASE
+Respirator Cartridges,189,186,WH01,2026-07-07,BOX
+V-Belt Set,27,27,WH01,2026-07-07,EA
+Steel Toe Safety Boots,247,247,WH02,2026-07-07,PAIR
+Fuse 600V 200A,65,65,WH03,2026-07-07,EA
+Engine Coolant 50/50,42,42,WH06,2026-07-07,DRUM
+Hydraulic Oil AW 68,40,39,WH06,2026-07-07,DRUM
+Hydraulic Oil AW 46,82,82,WH09,2026-07-07,DRUM
+Natural Gas Engine Oil,55,55,WH11,2026-07-07,DRUM
+Transformer Insulating Oil,17,17,WH12,2026-07-07,DRUM
+Spiral Wound Gasket 6in Class 300,66,66,WH02,2026-07-08,EA
+Hydraulic Filter Element,55,55,WH04,2026-07-08,EA
+Flame-Resistant Coveralls,221,221,WH05,2026-07-08,EA
+Argon Cylinder,102,102,WH09,2026-07-08,EA
+Tee 6in Sch 40,72,72,WH01,2026-07-09,EA
+Circuit Breaker 480V 100A,41,41,WH02,2026-07-09,EA
+Pressure Gauge 0-1000 psi,34,34,WH02,2026-07-09,EA
+Pipe Support Clamp,294,294,WH03,2026-07-09,EA
+Coupling Spacer 5in,2,2,WH05,2026-07-09,EA
+Fuse 600V 200A,92,92,WH06,2026-07-09,EA
+Line Pipe 8in X42,1237,1162,WH06,2026-07-09,M
+Drill Pipe 5in S135,1329,1329,WH08,2026-07-09,M
+Hearing Protection Earplugs,109,109,WH01,2026-07-10,BOX
+Pipe Support Clamp,100,100,WH02,2026-07-10,EA
+Pump Impeller 8in,7,7,WH02,2026-07-10,EA
+Turbine Oil ISO 46,85,82,WH10,2026-07-10,DRUM
+Multipurpose Grease Pail,78,78,WH03,2026-07-11,PAIL
+Circuit Breaker 480V 100A,49,49,WH04,2026-07-11,EA
+Safety Glasses,27,27,WH06,2026-07-11,BOX
+Hydrocracking Catalyst,18,18,WH09,2026-07-11,DRUM
+Argon Cylinder,47,47,WH12,2026-07-11,EA
+Pipe Support Clamp,692,692,WH01,2026-07-12,EA
+Gas Turbine Fuel Nozzle,4,4,WH08,2026-07-12,EA
+Corrosion Inhibitor,51,51,WH09,2026-07-12,DRUM
+Fuel System Cleaner 12x355mL,494,494,WH10,2026-07-12,CASE
+Hard Hat,123,109,WH10,2026-07-12,EA
+Multipurpose Grease Cartridge 24x400g,150,150,WH11,2026-07-12,CASE
+Line Pipe 8in X42,2148,2148,WH01,2026-07-13,M
+Solenoid Valve 24VDC,27,27,WH02,2026-07-13,EA
+Engine Coolant 50/50,6,6,WH03,2026-07-13,DRUM
+Pressure Relief Valve 2x3,7,7,WH04,2026-07-13,EA
+Medium Voltage Switchgear,1,1,WH02,2026-07-14,EA
+Nitrile Gloves,427,379,WH03,2026-07-14,BOX
+Weld Neck Flange 8in Class 300,166,166,WH08,2026-07-14,EA
+Synthetic Engine Oil 0W-20 4x4L,1044,963,WH11,2026-07-14,CASE
+Variable Frequency Drive 500 hp,2,2,WH02,2026-07-15,EA
+Circuit Breaker 480V 100A,16,16,WH03,2026-07-15,EA
+Medium Voltage Switchgear,1,1,WH03,2026-07-15,EA
+Heavy-Duty Diesel Engine Oil 15W-40,28,28,WH11,2026-07-15,DRUM
+Corrosion Inhibitor,55,55,WH12,2026-07-15,DRUM
+FR Work Gloves,325,325,WH03,2026-07-16,PAIR
+Automatic Transmission Fluid,42,42,WH04,2026-07-16,DRUM
+Ball Valve 4in Class 300,26,26,WH08,2026-07-16,EA
+Respirator Cartridges,255,255,WH10,2026-07-16,BOX
+Hard Hat,62,58,WH03,2026-07-17,EA
+Line Pipe 12in X52,1124,1124,WH03,2026-07-17,M
+Stud Bolt Set B7 1in,449,449,WH03,2026-07-17,EA
+Multipurpose Grease Pail,273,273,WH04,2026-07-17,PAIL
+Caustic Soda 50%,12,12,WH06,2026-07-17,TOTE
+Amine Solvent MDEA,17,17,WH12,2026-07-17,DRUM
+Engine Coolant 50/50,57,57,WH12,2026-07-17,DRUM
+Fixed Gas Detector,20,20,WH05,2026-07-18,EA
+Coupling Spacer 5in,8,8,WH06,2026-07-18,EA
+Ball Bearing 6312,108,108,WH01,2026-07-19,EA
+Ball Bearing 6312,47,47,WH02,2026-07-19,EA
+Line Pipe 8in X42,1932,1932,WH04,2026-07-19,M
+Fall Protection Harness,113,113,WH06,2026-07-19,EA
+Spiral Wound Gasket 6in Class 300,131,126,WH06,2026-07-19,EA
+Variable Frequency Drive 500 hp,1,1,WH06,2026-07-19,EA
+Production Tubing 2-7/8in J55,1352,1310,WH01,2026-07-20,M
+Nitrogen Cylinder,14,13,WH03,2026-07-20,EA
+Hydrotreating Catalyst NiMo,62,62,WH04,2026-07-20,DRUM
+Hydraulic Oil AW 46,52,52,WH11,2026-07-20,DRUM
+Welding Rod E7018,71,71,WH01,2026-07-21,BOX
+Hydrotreating Catalyst NiMo,69,69,WH07,2026-07-21,DRUM
+Synthetic Compressor Oil,62,64,WH07,2026-07-21,DRUM
+Nitrile Gloves,393,374,WH01,2026-07-22,BOX
+FCC Catalyst,18,18,WH03,2026-07-22,SACK
+Elbow 90 deg 6in Sch 40,175,175,WH04,2026-07-22,EA
+Synthetic Compressor Oil,84,84,WH04,2026-07-22,DRUM
+Stud Bolt Set B7 1in,47,47,WH05,2026-07-22,EA
+Acetylene Cylinder,41,41,WH06,2026-07-22,EA
+Hearing Protection Earplugs,63,63,WH06,2026-07-22,BOX
+Automatic Transmission Fluid,26,26,WH07,2026-07-22,DRUM
+Gear Oil 80W-90,41,37,WH02,2026-07-23,DRUM
+Automatic Transmission Fluid,20,20,WH03,2026-07-23,DRUM
+Pump Impeller 8in,2,2,WH03,2026-07-23,EA
+Electric Motor 200 hp,6,7,WH04,2026-07-23,EA
+Engine Coolant 50/50 4x3.78L,1449,1427,WH10,2026-07-23,CASE
+Argon Cylinder,48,48,WH01,2026-07-24,EA
+Hydraulic Filter Element,141,141,WH02,2026-07-24,EA
+Weld Neck Flange 8in Class 300,107,107,WH05,2026-07-24,EA
+Synthetic Engine Oil 5W-30 4x4L,1507,1336,WH10,2026-07-24,CASE
+Transformer Insulating Oil,19,19,WH02,2026-07-25,DRUM
+Hydrocracking Catalyst,18,18,WH12,2026-07-25,DRUM
+Gear Oil 80W-90,27,27,WH06,2026-07-26,DRUM
+Gate Valve 6in Class 600,28,28,WH01,2026-07-27,EA
+Scale Inhibitor,78,87,WH01,2026-07-27,DRUM
+Spill Absorbent Pads,39,39,WH01,2026-07-27,BALE
+Gate Valve 6in Class 600,11,11,WH03,2026-07-27,EA
+Gas Turbine Fuel Nozzle,15,15,WH04,2026-07-27,EA
+Solenoid Valve 24VDC,19,20,WH04,2026-07-27,EA
+Drill Pipe 5in S135,826,826,WH05,2026-07-27,M
+Steel Toe Safety Boots,79,79,WH05,2026-07-27,PAIR
+Caustic Soda 50%,24,24,WH09,2026-07-27,TOTE
+Multipurpose Grease Cartridge 24x400g,763,763,WH10,2026-07-27,CASE
+Acetylene Cylinder,20,20,WH01,2026-07-28,EA
+Coriolis Flow Meter 4in,1,1,WH02,2026-07-28,EA
+Corrosion Inhibitor,71,71,WH02,2026-07-28,DRUM
+Methanol Hydrate Inhibitor,33,34,WH02,2026-07-28,TOTE
+Self-Contained Breathing Apparatus,21,19,WH02,2026-07-28,EA
+Fired Heater Burner,6,6,WH03,2026-07-28,EA
+V-Belt Set,41,41,WH08,2026-07-28,EA
+FCC Catalyst,30,30,WH09,2026-07-28,SACK
+Hydraulic Oil AW 32,22,21,WH03,2026-07-29,DRUM
+H2S Personal Monitor,64,64,WH05,2026-07-29,EA
+Fall Protection Harness,238,238,WH10,2026-07-29,EA
+Nitrogen Cylinder,71,71,WH12,2026-07-29,EA
+Circuit Breaker 480V 100A,9,9,WH01,2026-07-30,EA
+Safety Glasses,102,111,WH04,2026-07-30,BOX
+Demulsifier,34,34,WH05,2026-07-30,DRUM
+Hard Hat,97,97,WH06,2026-07-30,EA
+Stud Bolt Set B7 1in,124,124,WH06,2026-07-30,EA
+Diesel Exhaust Fluid,57,57,WH07,2026-07-30,TOTE
+Engine Coolant 50/50,44,44,WH07,2026-07-30,DRUM
+Graphite Packing Ring Set,65,65,WH01,2026-07-31,EA
+Turbine Oil ISO 46,18,17,WH04,2026-07-31,DRUM
+V-Belt Set,36,36,WH05,2026-07-31,EA
+Seamless Casing 9-5/8in L80,4497,4497,WH08,2026-07-31,M
+Pressure Transmitter,18,17,WH03,2026-08-01,EA
+Spiral Wound Gasket 6in Class 300,691,691,WH04,2026-08-01,EA
+Hearing Protection Earplugs,121,121,WH05,2026-08-01,BOX
+Respirator Cartridges,89,78,WH06,2026-08-01,BOX
+Hydraulic Oil AW 32,43,43,WH07,2026-08-01,DRUM
+Fuse 600V 200A,59,59,WH01,2026-08-02,EA
+Methanol Hydrate Inhibitor,45,45,WH01,2026-08-02,TOTE
+Steel Toe Safety Boots,47,47,WH04,2026-08-02,PAIR
+Pressure Gauge 0-1000 psi,51,51,WH05,2026-08-02,EA
+Spiral Wound Gasket 6in Class 300,350,350,WH05,2026-08-02,EA
+Diesel Exhaust Fluid,35,35,WH09,2026-08-02,TOTE
+Fall Protection Harness,161,161,WH01,2026-08-03,EA
+Reciprocating Compressor Overhaul Kit,2,2,WH03,2026-08-03,EA
+Respirator Cartridges,73,79,WH03,2026-08-03,BOX
+Thermocouple Type K,21,21,WH05,2026-08-03,EA
+Hydrotreating Catalyst NiMo,63,63,WH01,2026-08-04,DRUM
+Electric Motor 200 hp,2,2,WH02,2026-08-04,EA
+Gas Turbine Fuel Nozzle,8,8,WH03,2026-08-04,EA
+FCC Catalyst,7,7,WH04,2026-08-04,SACK
+Self-Contained Breathing Apparatus,28,28,WH04,2026-08-04,EA
+Natural Gas Engine Oil,7,7,WH06,2026-08-04,DRUM
+Variable Frequency Drive 500 hp,3,3,WH08,2026-08-04,EA
+Multipurpose Grease Pail,401,401,WH09,2026-08-04,PAIL
+Production Tubing 2-7/8in J55,3082,3082,WH02,2026-08-05,M
+Turbine Oil ISO 46,22,22,WH02,2026-08-05,DRUM
+Hard Hat,129,129,WH04,2026-08-05,EA
+Synthetic Compressor Oil,67,67,WH10,2026-08-05,DRUM
+Pump Impeller 8in,1,2,WH04,2026-08-06,EA
+Anti-Strip Additive,37,34,WH07,2026-08-06,DRUM
+Nitrogen Cylinder,94,94,WH01,2026-08-07,EA
+Hydraulic Oil AW 68,30,32,WH03,2026-08-07,DRUM
+Tee 6in Sch 40,13,13,WH06,2026-08-07,EA
+Heavy-Duty Diesel Engine Oil 15W-40,130,130,WH07,2026-08-07,DRUM
+Automatic Transmission Fluid,30,30,WH12,2026-08-07,DRUM
+Gas Turbine Fuel Nozzle,14,14,WH01,2026-08-08,EA
+Hearing Protection Earplugs,29,28,WH03,2026-08-08,BOX
+Reducer 8x6in Sch 40,12,12,WH04,2026-08-08,EA
+Pipe Support Clamp,333,333,WH06,2026-08-08,EA
+Conventional Engine Oil 10W-30 4x4L,1116,1116,WH10,2026-08-08,CASE
+Transformer Insulating Oil,36,36,WH10,2026-08-08,DRUM
+Caustic Soda 50%,9,9,WH03,2026-08-09,TOTE
+Hydrotreating Catalyst NiMo,14,14,WH05,2026-08-09,DRUM
+Car Wash Soap Concentrate,1136,1103,WH07,2026-08-09,PAIL
+Diesel Anti-Gel Additive 12x946mL,612,612,WH10,2026-08-09,CASE
+Diesel Exhaust Fluid,54,51,WH11,2026-08-09,TOTE
+Demulsifier,30,30,WH02,2026-08-10,DRUM
+Hearing Protection Earplugs,159,161,WH02,2026-08-10,BOX
+Nitrogen Cylinder,34,34,WH05,2026-08-10,EA
+Self-Contained Breathing Apparatus,14,14,WH05,2026-08-10,EA
+Flame-Resistant Coveralls,101,101,WH06,2026-08-10,EA
+Anti-Strip Additive,20,20,WH12,2026-08-10,DRUM
+Thermocouple Type K,148,148,WH01,2026-08-11,EA
+Hard Hat,169,169,WH02,2026-08-11,EA
+V-Belt Set,29,29,WH04,2026-08-11,EA
+Triethylene Glycol,6,6,WH06,2026-08-11,DRUM
+Triethylene Glycol,58,58,WH09,2026-08-11,DRUM
+Conventional Engine Oil 10W-30 4x4L,861,861,WH11,2026-08-11,CASE
+Centrifugal Pump API 610,2,3,WH03,2026-08-12,EA
+Welding Rod E7018,268,212,WH03,2026-08-12,BOX
+Argon Cylinder,36,33,WH04,2026-08-12,EA
+Hydraulic Oil AW 46,92,89,WH04,2026-08-12,DRUM
+Solenoid Valve 24VDC,22,24,WH05,2026-08-12,EA
+Mechanical Seal Cartridge,11,11,WH08,2026-08-12,EA
+Gear Oil 80W-90,11,11,WH11,2026-08-12,DRUM
+Triethylene Glycol,18,18,WH12,2026-08-12,DRUM
+Hydrocracking Catalyst,56,56,WH01,2026-08-13,DRUM
+Self-Contained Breathing Apparatus,24,23,WH01,2026-08-13,EA
+H2S Personal Monitor,75,75,WH04,2026-08-13,EA
+Corrosion Inhibitor,53,53,WH05,2026-08-13,DRUM
+Hydraulic Filter Element,145,145,WH05,2026-08-13,EA
+Scale Inhibitor,11,11,WH07,2026-08-13,DRUM
+Engine Coolant 50/50,46,46,WH09,2026-08-13,DRUM
+Air Cooler Fan Assembly,9,9,WH01,2026-08-14,EA
+Ball Valve 4in Class 300,14,13,WH01,2026-08-14,EA
+Coupling Spacer 5in,4,3,WH01,2026-08-14,EA
+Anti-Strip Additive,9,8,WH02,2026-08-14,DRUM
+Fixed Gas Detector,22,22,WH03,2026-08-14,EA
+Air Cooler Fan Assembly,3,3,WH04,2026-08-14,EA
+FCC Catalyst,11,11,WH05,2026-08-14,SACK
+FR Work Gloves,222,196,WH05,2026-08-14,PAIR
+Multipurpose Grease Pail,256,256,WH06,2026-08-14,PAIL
+Methanol Hydrate Inhibitor,26,26,WH09,2026-08-14,TOTE
+Weld Neck Flange 8in Class 300,78,78,WH03,2026-08-15,EA
+Fired Heater Burner,7,7,WH04,2026-08-15,EA
+Air Cooler Fan Assembly,6,6,WH06,2026-08-15,EA
+Synthetic Engine Oil 0W-20 4x4L,1411,1411,WH10,2026-08-15,CASE
+Nitrile Gloves,153,153,WH02,2026-08-16,BOX
+Amine Solvent MDEA,33,36,WH03,2026-08-16,DRUM
+Line Pipe 12in X52,386,386,WH06,2026-08-16,M
+Production Tubing 2-7/8in J55,406,506,WH06,2026-08-16,M
+Synthetic Engine Oil 0W-20 4x4L,3049,3190,WH07,2026-08-16,CASE
+Hearing Protection Earplugs,118,118,WH11,2026-08-16,BOX
+Hydrocracking Catalyst,46,46,WH02,2026-08-17,DRUM
+Natural Gas Engine Oil,17,17,WH02,2026-08-17,DRUM
+Stainless Steel Pipe 4in Sch 10S,205,205,WH02,2026-08-17,M
+Turbine Oil ISO 46,38,38,WH05,2026-08-17,DRUM
+Elbow 90 deg 6in Sch 40,28,28,WH08,2026-08-17,EA
+Diesel Exhaust Fluid 4x9.46L,555,555,WH10,2026-08-17,CASE
+Welding Rod E7018,219,219,WH12,2026-08-17,BOX
+H2S Personal Monitor,58,62,WH01,2026-08-18,EA
+Caustic Soda 50%,38,41,WH01,2026-08-19,TOTE
+Diesel Exhaust Fluid,38,42,WH01,2026-08-19,TOTE
+FR Work Gloves,202,202,WH02,2026-08-19,PAIR
+Coupling Spacer 5in,10,10,WH03,2026-08-19,EA
+Anti-Strip Additive,13,13,WH05,2026-08-19,DRUM
+Fuse 600V 200A,95,95,WH05,2026-08-19,EA
+Reducer 8x6in Sch 40,26,26,WH08,2026-08-19,EA
+Cylinder Propane Exchange 20 lb,3986,3986,WH10,2026-08-19,EA
+Demulsifier,103,111,WH01,2026-08-20,DRUM
+Diesel Exhaust Fluid,72,72,WH02,2026-08-20,TOTE
+Elbow 90 deg 6in Sch 40,154,154,WH03,2026-08-20,EA
+Safety Glasses,13,14,WH03,2026-08-20,BOX
+Nitrile Gloves,171,171,WH06,2026-08-20,BOX
+Engine Coolant 50/50 4x3.78L,2566,2566,WH11,2026-08-20,CASE
+Control Valve 3in with Positioner,8,8,WH01,2026-08-21,EA
+Synthetic Engine Oil 5W-30 Bulk,39,39,WH02,2026-08-21,DRUM
+Hydrocracking Catalyst,60,60,WH07,2026-08-21,DRUM
+Hydrotreating Catalyst NiMo,18,17,WH03,2026-08-22,DRUM
+Turbine Oil ISO 46,6,6,WH03,2026-08-22,DRUM
+Hearing Protection Earplugs,190,190,WH04,2026-08-22,BOX
+Centrifugal Pump API 610,1,0,WH06,2026-08-22,EA
+FR Work Gloves,383,356,WH06,2026-08-22,PAIR
+Automatic Transmission Fluid,40,40,WH01,2026-08-23,DRUM
+Coriolis Flow Meter 4in,5,5,WH01,2026-08-23,EA
+Engine Coolant 50/50,46,45,WH01,2026-08-23,DRUM
+Turbine Oil ISO 46,55,48,WH01,2026-08-23,DRUM
+Graphite Packing Ring Set,169,169,WH02,2026-08-23,EA
+Pressure Relief Valve 2x3,10,10,WH02,2026-08-23,EA
+Welding Rod E7018,48,48,WH02,2026-08-23,BOX
+Line Pipe 8in X42,1860,1801,WH03,2026-08-23,M
+Spiral Wound Gasket 6in Class 300,351,351,WH03,2026-08-23,EA
+Mechanical Seal Cartridge,28,28,WH04,2026-08-23,EA
+Sulphuric Acid,12,12,WH06,2026-08-23,TOTE
+Gear Oil 80W-90,24,24,WH01,2026-08-24,DRUM
+Hard Hat,304,304,WH01,2026-08-24,EA
+Hydraulic Oil AW 68,61,61,WH01,2026-08-24,DRUM
+Acetylene Cylinder,21,21,WH05,2026-08-24,EA
+Air Cooler Fan Assembly,4,4,WH05,2026-08-24,EA
+Hydrocracking Catalyst,21,21,WH05,2026-08-24,DRUM
+Hydraulic Oil AW 32,18,17,WH09,2026-08-24,DRUM
+Scale Inhibitor,61,61,WH02,2026-08-25,DRUM
+Corrosion Inhibitor,42,42,WH06,2026-08-25,DRUM
+Diesel Exhaust Fluid 4x9.46L,1422,1422,WH07,2026-08-25,CASE
+Nitrogen Cylinder,85,85,WH09,2026-08-25,EA
+Car Wash Soap Concentrate,956,854,WH10,2026-08-25,PAIL
+Brake Fluid DOT 4 12x355mL,740,668,WH11,2026-08-25,CASE
+Synthetic Engine Oil 5W-30 4x4L,2565,2565,WH11,2026-08-25,CASE
+Ball Bearing 6312,97,97,WH03,2026-08-26,EA
+Coriolis Flow Meter 4in,3,3,WH03,2026-08-26,EA
+Hydraulic Oil AW 46,24,25,WH03,2026-08-26,DRUM
+Thermocouple Type K,119,119,WH04,2026-08-26,EA
+Amine Solvent MDEA,9,9,WH06,2026-08-26,DRUM
+Heavy-Duty Diesel Engine Oil 15W-40,53,53,WH12,2026-08-26,DRUM
+Centrifugal Pump API 610,2,2,WH01,2026-08-27,EA
+Stud Bolt Set B7 1in,439,439,WH04,2026-08-27,EA
+Circuit Breaker 480V 100A,8,8,WH05,2026-08-27,EA
+Control Valve 3in with Positioner,6,5,WH05,2026-08-27,EA
+Fuse 600V 200A,86,86,WH08,2026-08-27,EA
+Windshield Washer Fluid -40 4x3.78L,759,719,WH11,2026-08-27,CASE
+Anti-Strip Additive,22,22,WH01,2026-08-28,DRUM
+Electric Motor 200 hp,3,3,WH01,2026-08-28,EA
+Stud Bolt Set B7 1in,578,578,WH02,2026-08-28,EA
+Coupling Spacer 5in,18,18,WH04,2026-08-28,EA
+Seamless Casing 9-5/8in L80,1481,1481,WH05,2026-08-28,M
+Circuit Breaker 480V 100A,8,8,WH06,2026-08-28,EA
+Cylinder Propane Exchange 20 lb,1857,1857,WH11,2026-08-28,EA
+Pressure Transmitter,38,42,WH02,2026-08-29,EA
+Steel Toe Safety Boots,187,187,WH03,2026-08-29,PAIR
+Limit Switch,19,19,WH08,2026-08-29,EA
+FR Work Gloves,668,668,WH10,2026-08-29,PAIR
+Hydraulic Oil AW 32,47,47,WH01,2026-08-30,DRUM
+Medium Voltage Switchgear,1,1,WH01,2026-08-30,EA
+Radar Level Transmitter,11,11,WH01,2026-08-30,EA
+Seamless Casing 9-5/8in L80,2364,2301,WH01,2026-08-30,M
+Caustic Soda 50%,19,19,WH02,2026-08-30,TOTE
+Triethylene Glycol,32,28,WH03,2026-08-30,DRUM
+Amine Solvent MDEA,37,37,WH04,2026-08-30,DRUM
+Nitrogen Cylinder,185,185,WH04,2026-08-30,EA
+Reciprocating Compressor Overhaul Kit,2,2,WH04,2026-08-30,EA
+Anti-Strip Additive,11,11,WH06,2026-08-30,DRUM
+Ball Valve 4in Class 300,2,2,WH06,2026-08-30,EA
+Pressure Relief Valve 2x3,3,3,WH06,2026-08-30,EA
+Limit Switch,28,28,WH01,2026-08-31,EA
+Graphite Packing Ring Set,99,103,WH08,2026-08-31,EA
+Pipe Support Clamp,661,582,WH08,2026-08-31,EA
+Stud Bolt Set B7 1in,453,453,WH08,2026-08-31,EA
+Variable Frequency Drive 500 hp,3,3,WH01,2026-09-01,EA
+Line Pipe 12in X52,3766,3766,WH04,2026-09-02,M
+Pressure Transmitter,44,42,WH04,2026-09-02,EA
+Radar Level Transmitter,6,6,WH04,2026-09-02,EA
+Demulsifier,70,65,WH09,2026-09-02,DRUM
+Synthetic Engine Oil 5W-30 Bulk,30,30,WH11,2026-09-02,DRUM
+Synthetic Compressor Oil,61,61,WH03,2026-09-03,DRUM
+Anti-Strip Additive,25,25,WH09,2026-09-03,DRUM
+Steel Toe Safety Boots,441,445,WH01,2026-09-04,PAIR
+Triethylene Glycol,29,29,WH05,2026-09-04,DRUM
+Welding Rod E7018,142,142,WH05,2026-09-04,BOX
+Fuse 600V 200A,96,96,WH02,2026-09-05,EA
+Argon Cylinder,46,46,WH03,2026-09-05,EA
+Synthetic Compressor Oil,10,10,WH05,2026-09-05,DRUM
+Transformer Insulating Oil,34,34,WH05,2026-09-05,DRUM
+Line Pipe 12in X52,3480,3231,WH08,2026-09-05,M
+Welding Rod E7018,494,494,WH09,2026-09-05,BOX
+Brake Fluid DOT 4 12x355mL,268,268,WH10,2026-09-05,CASE
+Hydraulic Oil AW 46,151,139,WH10,2026-09-05,DRUM
+Fuel System Cleaner 12x355mL,816,816,WH11,2026-09-05,CASE
+Caustic Soda 50%,19,18,WH12,2026-09-05,TOTE
+Limit Switch,17,17,WH04,2026-09-06,EA
+Pump Impeller 8in,1,1,WH06,2026-09-06,EA
+Turbine Oil ISO 46,29,29,WH06,2026-09-06,DRUM
+Diesel Exhaust Fluid,49,49,WH12,2026-09-06,TOTE
+Hydraulic Oil AW 32,70,63,WH02,2026-09-07,DRUM
+Expansion Joint 6in,29,29,WH04,2026-09-07,EA
+Fall Protection Harness,100,100,WH05,2026-09-07,EA
+Turbine Oil ISO 46,19,19,WH07,2026-09-07,DRUM
+FCC Catalyst,10,10,WH12,2026-09-07,SACK
+Transformer Insulating Oil,31,31,WH01,2026-09-08,DRUM
+Coupling Spacer 5in,5,6,WH08,2026-09-08,EA
+Synthetic Engine Oil 5W-30 Bulk,41,41,WH12,2026-09-08,DRUM
+Mechanical Seal Cartridge,23,23,WH01,2026-09-09,EA
+V-Belt Set,16,16,WH02,2026-09-09,EA
+Hydraulic Oil AW 68,53,53,WH05,2026-09-09,DRUM
+Radar Level Transmitter,10,10,WH02,2026-09-10,EA
+Fall Protection Harness,41,41,WH04,2026-09-10,EA
+Scale Inhibitor,30,30,WH09,2026-09-10,DRUM
+FR Work Gloves,1017,983,WH01,2026-09-11,PAIR
+Flame-Resistant Coveralls,681,681,WH01,2026-09-11,EA
+Acetylene Cylinder,51,51,WH02,2026-09-11,EA
+Gate Valve 6in Class 600,21,19,WH02,2026-09-11,EA
+Self-Contained Breathing Apparatus,13,13,WH03,2026-09-11,EA
+Ball Valve 4in Class 300,14,14,WH05,2026-09-11,EA
+Limit Switch,36,36,WH05,2026-09-11,EA
+Scale Inhibitor,38,38,WH05,2026-09-11,DRUM
+Hydraulic Filter Element,34,34,WH06,2026-09-11,EA
+Mechanical Seal Cartridge,14,14,WH06,2026-09-11,EA
+Transformer Insulating Oil,22,22,WH07,2026-09-11,DRUM
+Windshield Washer Fluid -40 4x3.78L,4059,4059,WH10,2026-09-11,CASE
+Heavy-Duty Diesel Engine Oil 15W-40,141,131,WH02,2026-09-12,DRUM
+Coriolis Flow Meter 4in,3,3,WH05,2026-09-12,EA
+Hydraulic Oil AW 32,18,17,WH06,2026-09-12,DRUM
+Amine Solvent MDEA,56,56,WH07,2026-09-12,DRUM
+Hydraulic Oil AW 46,87,87,WH07,2026-09-12,DRUM
+Gear Oil 80W-90,25,25,WH12,2026-09-12,DRUM
+Argon Cylinder,63,63,WH02,2026-09-13,EA
+Production Tubing 2-7/8in J55,2513,2348,WH05,2026-09-13,M
+Production Tubing 2-7/8in J55,294,279,WH08,2026-09-13,M
+Hydrotreating Catalyst NiMo,63,63,WH09,2026-09-13,DRUM
+Amine Solvent MDEA,29,29,WH02,2026-09-14,DRUM
+Methanol Hydrate Inhibitor,28,26,WH03,2026-09-14,TOTE
+Scale Inhibitor,13,13,WH03,2026-09-14,DRUM
+Ball Bearing 6312,209,209,WH04,2026-09-14,EA
+Medium Voltage Switchgear,2,2,WH04,2026-09-14,EA
+Pressure Gauge 0-1000 psi,155,155,WH04,2026-09-14,EA
+Radar Level Transmitter,5,5,WH05,2026-09-14,EA
+Weld Neck Flange 8in Class 300,54,54,WH06,2026-09-14,EA
+Stainless Steel Pipe 4in Sch 10S,82,82,WH08,2026-09-14,M
+Reducer 8x6in Sch 40,71,71,WH05,2026-09-15,EA
+Heavy-Duty Diesel Engine Oil 15W-40,100,100,WH10,2026-09-15,DRUM
+Multipurpose Grease Pail,253,256,WH10,2026-09-15,PAIL
+Demulsifier,58,58,WH04,2026-09-16,DRUM
+Diesel Anti-Gel Additive 12x946mL,574,574,WH11,2026-09-16,CASE
+Line Pipe 8in X42,2665,2410,WH08,2026-09-17,M
+Hydraulic Oil AW 32,36,36,WH11,2026-09-17,DRUM
+Diesel Anti-Gel Additive 12x946mL,766,766,WH07,2026-09-18,CASE
+Car Wash Soap Concentrate,567,567,WH11,2026-09-18,PAIL
+Synthetic Compressor Oil,68,68,WH09,2026-09-19,DRUM
+Hydraulic Oil AW 46,83,83,WH02,2026-09-20,DRUM
+Respirator Cartridges,180,166,WH02,2026-09-20,BOX
+Seamless Casing 9-5/8in L80,1937,1937,WH04,2026-09-20,M
+Variable Frequency Drive 500 hp,2,2,WH04,2026-09-20,EA
+Multipurpose Grease Pail,155,155,WH05,2026-09-20,PAIL
+Gas Turbine Fuel Nozzle,8,8,WH02,2026-09-21,EA
+Natural Gas Engine Oil,41,41,WH07,2026-09-21,DRUM
+Synthetic Engine Oil 5W-30 Bulk,53,53,WH05,2026-09-22,DRUM
+Conventional Engine Oil 10W-30 4x4L,985,921,WH07,2026-09-22,CASE
+Diesel Exhaust Fluid,40,40,WH10,2026-09-22,TOTE
+Hydraulic Oil AW 32,29,29,WH10,2026-09-22,DRUM
+Methanol Hydrate Inhibitor,34,34,WH04,2026-09-23,TOTE
+Natural Gas Engine Oil,18,18,WH05,2026-09-23,DRUM
+Hydrocracking Catalyst,26,23,WH06,2026-09-23,DRUM
+Carbon Steel Pipe 6in Sch 40,757,770,WH08,2026-09-23,M
+Solenoid Valve 24VDC,12,12,WH06,2026-09-24,EA
+Radar Level Transmitter,8,8,WH08,2026-09-24,EA
+Diesel Exhaust Fluid 4x9.46L,756,756,WH11,2026-09-24,CASE
+Hydraulic Filter Element,229,229,WH01,2026-09-25,EA
+Synthetic Engine Oil 5W-30 Bulk,56,56,WH01,2026-09-25,DRUM
+Air Cooler Fan Assembly,3,3,WH02,2026-09-25,EA
+H2S Personal Monitor,42,42,WH03,2026-09-25,EA
+Engine Coolant 50/50,74,74,WH04,2026-09-25,DRUM
+Multipurpose Grease Pail,339,339,WH01,2026-09-26,PAIL
+Safety Glasses,160,160,WH02,2026-09-26,BOX
+Graphite Packing Ring Set,122,122,WH04,2026-09-26,EA
+Spill Absorbent Pads,38,38,WH05,2026-09-26,BALE
+Expansion Joint 6in,9,8,WH08,2026-09-26,EA
+Hydraulic Oil AW 32,107,107,WH04,2026-09-27,DRUM
+Hydrocracking Catalyst,14,14,WH04,2026-09-27,DRUM
+Amine Solvent MDEA,35,35,WH05,2026-09-27,DRUM
+Transformer Insulating Oil,14,14,WH06,2026-09-27,DRUM
+Steel Toe Safety Boots,298,305,WH11,2026-09-27,PAIR
+Limit Switch,19,19,WH02,2026-09-28,EA
+Sulphuric Acid,7,7,WH02,2026-09-28,TOTE
+Gear Oil 80W-90,73,73,WH04,2026-09-28,DRUM
+Gear Oil 80W-90,45,45,WH05,2026-09-28,DRUM
+Medium Voltage Switchgear,1,1,WH05,2026-09-28,EA
+Ball Bearing 6312,49,49,WH06,2026-09-28,EA
+Carbon Steel Pipe 6in Sch 40,438,386,WH06,2026-09-28,M
+Synthetic Engine Oil 5W-30 Bulk,74,74,WH07,2026-09-28,DRUM
+Acetylene Cylinder,90,90,WH09,2026-09-28,EA
+Hydraulic Oil AW 46,77,77,WH12,2026-09-28,DRUM
+Synthetic Compressor Oil,29,29,WH01,2026-09-29,DRUM
+Spill Absorbent Pads,31,31,WH03,2026-09-29,BALE
+Hydraulic Oil AW 68,66,66,WH04,2026-09-29,DRUM
+Tee 6in Sch 40,69,69,WH05,2026-09-29,EA
+Amine Solvent MDEA,52,52,WH01,2026-09-30,DRUM
+Coriolis Flow Meter 4in,2,2,WH04,2026-09-30,EA
+Graphite Packing Ring Set,133,133,WH05,2026-09-30,EA
+Methanol Hydrate Inhibitor,25,22,WH05,2026-09-30,TOTE
+Pressure Transmitter,33,33,WH05,2026-09-30,EA
+Welding Rod E7018,84,84,WH06,2026-09-30,BOX
+Centrifugal Pump API 610,2,2,WH02,2026-10-01,EA
+Hydraulic Oil AW 68,31,31,WH02,2026-10-01,DRUM
+Spill Absorbent Pads,90,90,WH02,2026-10-01,BALE
+Gate Valve 6in Class 600,18,18,WH04,2026-10-01,EA
+Respirator Cartridges,82,72,WH04,2026-10-01,BOX
+Amine Solvent MDEA,28,28,WH09,2026-10-01,DRUM
+Synthetic Engine Oil 5W-30 Bulk,32,32,WH09,2026-10-01,DRUM
+Pressure Relief Valve 2x3,5,5,WH01,2026-10-02,EA
+Line Pipe 12in X52,172,172,WH02,2026-10-02,M
+Synthetic Engine Oil 5W-30 Bulk,53,48,WH04,2026-10-02,DRUM
+Transformer Insulating Oil,30,30,WH04,2026-10-02,DRUM
+Welding Rod E7018,221,240,WH04,2026-10-02,BOX
+Electric Motor 200 hp,1,1,WH05,2026-10-02,EA
+Fired Heater Burner,2,2,WH05,2026-10-02,EA
+Demulsifier,54,54,WH06,2026-10-02,DRUM
+Respirator Cartridges,170,170,WH11,2026-10-02,BOX
+Anti-Strip Additive,9,9,WH03,2026-10-03,DRUM
+Thermocouple Type K,38,38,WH03,2026-10-03,EA
+Engine Coolant 50/50,12,12,WH05,2026-10-03,DRUM
+Natural Gas Engine Oil,22,22,WH04,2026-10-04,DRUM
+Fired Heater Burner,12,12,WH01,2026-10-05,EA
+Reciprocating Compressor Overhaul Kit,1,1,WH01,2026-10-05,EA
+Thermocouple Type K,17,17,WH02,2026-10-05,EA
+Medium Voltage Switchgear,1,1,WH06,2026-10-05,EA
+Synthetic Engine Oil 5W-30 Bulk,13,13,WH06,2026-10-05,DRUM
