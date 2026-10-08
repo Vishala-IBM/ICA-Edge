@@ -1,0 +1,501 @@
+Facility,Volume,Downtime,Period,Facility_Type,Field,Province,Avg_Daily_boe,Downtime_Cause
+FAC-01,249160,53,2025-01,Gas Plant,Montney-Dawson,BC,8037,Compressor trip
+FAC-01,229649,5,2025-02,Gas Plant,Montney-Dawson,BC,8202,Sulphur/gas processing constraint
+FAC-01,169200,233,2025-03,Gas Plant,Montney-Dawson,BC,5458,Planned turnaround
+FAC-01,238783,0,2025-04,Gas Plant,Montney-Dawson,BC,7959,None
+FAC-01,239499,12,2025-05,Gas Plant,Montney-Dawson,BC,7726,Third-party plant outage
+FAC-01,239249,5,2025-06,Gas Plant,Montney-Dawson,BC,7975,Power outage
+FAC-01,223511,64,2025-07,Gas Plant,Montney-Dawson,BC,7210,Instrument/controls fault
+FAC-01,236008,16,2025-08,Gas Plant,Montney-Dawson,BC,7613,Compressor trip
+FAC-01,242671,0,2025-09,Gas Plant,Montney-Dawson,BC,8089,None
+FAC-01,248615,12,2025-10,Gas Plant,Montney-Dawson,BC,8020,Third-party plant outage
+FAC-01,224577,16,2025-11,Gas Plant,Montney-Dawson,BC,7486,Sulphur/gas processing constraint
+FAC-01,233330,33,2025-12,Gas Plant,Montney-Dawson,BC,7527,Cold weather
+FAC-01,231108,43,2026-01,Gas Plant,Montney-Dawson,BC,7455,Flaring restriction
+FAC-01,215752,0,2026-02,Gas Plant,Montney-Dawson,BC,7705,None
+FAC-01,244969,2,2026-03,Gas Plant,Montney-Dawson,BC,7902,Third-party plant outage
+FAC-01,221649,5,2026-04,Gas Plant,Montney-Dawson,BC,7388,Flaring restriction
+FAC-01,226270,0,2026-05,Gas Plant,Montney-Dawson,BC,7299,None
+FAC-01,220243,0,2026-06,Gas Plant,Montney-Dawson,BC,7341,None
+FAC-01,219590,16,2026-07,Gas Plant,Montney-Dawson,BC,7084,Sulphur/gas processing constraint
+FAC-01,225604,19,2026-08,Gas Plant,Montney-Dawson,BC,7278,Flaring restriction
+FAC-02,603867,25,2025-01,Gas Plant,Montney-Dawson,BC,19480,Sulphur/gas processing constraint
+FAC-02,566237,0,2025-02,Gas Plant,Montney-Dawson,BC,20223,None
+FAC-02,633573,11,2025-03,Gas Plant,Montney-Dawson,BC,20438,Compressor trip
+FAC-02,601459,21,2025-04,Gas Plant,Montney-Dawson,BC,20049,Sulphur/gas processing constraint
+FAC-02,632244,1,2025-05,Gas Plant,Montney-Dawson,BC,20395,Flaring restriction
+FAC-02,591294,0,2025-06,Gas Plant,Montney-Dawson,BC,19710,None
+FAC-02,598089,7,2025-07,Gas Plant,Montney-Dawson,BC,19293,Compressor trip
+FAC-02,575953,44,2025-08,Gas Plant,Montney-Dawson,BC,18579,Flaring restriction
+FAC-02,571491,4,2025-09,Gas Plant,Montney-Dawson,BC,19050,Compressor trip
+FAC-02,576395,6,2025-10,Gas Plant,Montney-Dawson,BC,18593,Third-party plant outage
+FAC-02,586200,0,2025-11,Gas Plant,Montney-Dawson,BC,19540,None
+FAC-02,590676,22,2025-12,Gas Plant,Montney-Dawson,BC,19054,Cold weather
+FAC-02,397745,229,2026-01,Gas Plant,Montney-Dawson,BC,12830,Planned turnaround
+FAC-02,514616,2,2026-02,Gas Plant,Montney-Dawson,BC,18379,Power outage
+FAC-02,605663,0,2026-03,Gas Plant,Montney-Dawson,BC,19538,None
+FAC-02,540695,3,2026-04,Gas Plant,Montney-Dawson,BC,18023,Sulphur/gas processing constraint
+FAC-02,569651,0,2026-05,Gas Plant,Montney-Dawson,BC,18376,None
+FAC-02,552245,11,2026-06,Gas Plant,Montney-Dawson,BC,18408,Sulphur/gas processing constraint
+FAC-02,552092,5,2026-07,Gas Plant,Montney-Dawson,BC,17809,Flaring restriction
+FAC-02,523027,34,2026-08,Gas Plant,Montney-Dawson,BC,16872,Instrument/controls fault
+FAC-03,564765,10,2025-01,Gas Plant,Montney-Kakwa,AB,18218,Cold weather
+FAC-03,505149,26,2025-02,Gas Plant,Montney-Kakwa,AB,18041,Compressor trip
+FAC-03,559971,0,2025-03,Gas Plant,Montney-Kakwa,AB,18064,None
+FAC-03,537121,0,2025-04,Gas Plant,Montney-Kakwa,AB,17904,None
+FAC-03,469963,132,2025-05,Gas Plant,Montney-Kakwa,AB,15160,Planned turnaround
+FAC-03,548373,3,2025-06,Gas Plant,Montney-Kakwa,AB,18279,Third-party plant outage
+FAC-03,540184,3,2025-07,Gas Plant,Montney-Kakwa,AB,17425,Sulphur/gas processing constraint
+FAC-03,515986,23,2025-08,Gas Plant,Montney-Kakwa,AB,16645,Instrument/controls fault
+FAC-03,500010,11,2025-09,Gas Plant,Montney-Kakwa,AB,16667,Instrument/controls fault
+FAC-03,542359,8,2025-10,Gas Plant,Montney-Kakwa,AB,17495,Instrument/controls fault
+FAC-03,508844,15,2025-11,Gas Plant,Montney-Kakwa,AB,16961,Pipeline restriction
+FAC-03,511525,1,2025-12,Gas Plant,Montney-Kakwa,AB,16501,Flaring restriction
+FAC-03,538048,0,2026-01,Gas Plant,Montney-Kakwa,AB,17356,None
+FAC-03,407894,74,2026-02,Gas Plant,Montney-Kakwa,AB,14568,Instrument/controls fault
+FAC-03,535771,4,2026-03,Gas Plant,Montney-Kakwa,AB,17283,Flaring restriction
+FAC-03,511900,2,2026-04,Gas Plant,Montney-Kakwa,AB,17063,Power outage
+FAC-03,535572,1,2026-05,Gas Plant,Montney-Kakwa,AB,17277,Instrument/controls fault
+FAC-03,496309,6,2026-06,Gas Plant,Montney-Kakwa,AB,16544,Third-party plant outage
+FAC-03,514193,2,2026-07,Gas Plant,Montney-Kakwa,AB,16587,Sulphur/gas processing constraint
+FAC-03,519913,0,2026-08,Gas Plant,Montney-Kakwa,AB,16771,None
+FAC-04,542998,12,2025-01,Gas Plant,Montney-Kakwa,AB,17516,Cold weather
+FAC-04,485558,28,2025-02,Gas Plant,Montney-Kakwa,AB,17341,Cold weather
+FAC-04,542505,2,2025-03,Gas Plant,Montney-Kakwa,AB,17500,Sulphur/gas processing constraint
+FAC-04,511536,1,2025-04,Gas Plant,Montney-Kakwa,AB,17051,Power outage
+FAC-04,361501,229,2025-05,Gas Plant,Montney-Kakwa,AB,11661,Planned turnaround
+FAC-04,521663,0,2025-06,Gas Plant,Montney-Kakwa,AB,17389,None
+FAC-04,472887,99,2025-07,Gas Plant,Montney-Kakwa,AB,15254,Wildfire evacuation
+FAC-04,516110,0,2025-08,Gas Plant,Montney-Kakwa,AB,16649,None
+FAC-04,487921,0,2025-09,Gas Plant,Montney-Kakwa,AB,16264,None
+FAC-04,512024,0,2025-10,Gas Plant,Montney-Kakwa,AB,16517,None
+FAC-04,494658,5,2025-11,Gas Plant,Montney-Kakwa,AB,16489,Instrument/controls fault
+FAC-04,466604,45,2025-12,Gas Plant,Montney-Kakwa,AB,15052,Cold weather
+FAC-04,515985,0,2026-01,Gas Plant,Montney-Kakwa,AB,16645,None
+FAC-04,449283,0,2026-02,Gas Plant,Montney-Kakwa,AB,16046,None
+FAC-04,524413,0,2026-03,Gas Plant,Montney-Kakwa,AB,16917,None
+FAC-04,432983,66,2026-04,Gas Plant,Montney-Kakwa,AB,14433,Instrument/controls fault
+FAC-04,498281,18,2026-05,Gas Plant,Montney-Kakwa,AB,16074,Power outage
+FAC-04,477962,5,2026-06,Gas Plant,Montney-Kakwa,AB,15932,Power outage
+FAC-04,507688,0,2026-07,Gas Plant,Montney-Kakwa,AB,16377,None
+FAC-04,489022,27,2026-08,Gas Plant,Montney-Kakwa,AB,15775,Third-party plant outage
+FAC-05,268205,0,2025-01,Gas Plant,Deep Basin-Edson,AB,8652,None
+FAC-05,244621,18,2025-02,Gas Plant,Deep Basin-Edson,AB,8736,Cold weather
+FAC-05,279104,0,2025-03,Gas Plant,Deep Basin-Edson,AB,9003,None
+FAC-05,253147,6,2025-04,Gas Plant,Deep Basin-Edson,AB,8438,Power outage
+FAC-05,277207,10,2025-05,Gas Plant,Deep Basin-Edson,AB,8942,Flaring restriction
+FAC-05,266067,4,2025-06,Gas Plant,Deep Basin-Edson,AB,8869,Power outage
+FAC-05,258853,44,2025-07,Gas Plant,Deep Basin-Edson,AB,8350,Instrument/controls fault
+FAC-05,271910,0,2025-08,Gas Plant,Deep Basin-Edson,AB,8771,None
+FAC-05,262329,0,2025-09,Gas Plant,Deep Basin-Edson,AB,8744,None
+FAC-05,261145,5,2025-10,Gas Plant,Deep Basin-Edson,AB,8424,Pipeline restriction
+FAC-05,259969,0,2025-11,Gas Plant,Deep Basin-Edson,AB,8666,None
+FAC-05,259307,28,2025-12,Gas Plant,Deep Basin-Edson,AB,8365,Third-party plant outage
+FAC-05,260117,2,2026-01,Gas Plant,Deep Basin-Edson,AB,8391,Pipeline restriction
+FAC-05,229978,0,2026-02,Gas Plant,Deep Basin-Edson,AB,8214,None
+FAC-05,258461,0,2026-03,Gas Plant,Deep Basin-Edson,AB,8337,None
+FAC-05,237245,1,2026-04,Gas Plant,Deep Basin-Edson,AB,7908,Power outage
+FAC-05,200679,137,2026-05,Gas Plant,Deep Basin-Edson,AB,6474,Planned turnaround
+FAC-05,238349,3,2026-06,Gas Plant,Deep Basin-Edson,AB,7945,Flaring restriction
+FAC-05,240678,22,2026-07,Gas Plant,Deep Basin-Edson,AB,7764,Compressor trip
+FAC-05,248666,0,2026-08,Gas Plant,Deep Basin-Edson,AB,8021,None
+FAC-06,273391,13,2025-01,Gas Plant,Deep Basin-Edson,AB,8819,Power outage
+FAC-06,249009,16,2025-02,Gas Plant,Deep Basin-Edson,AB,8893,Sulphur/gas processing constraint
+FAC-06,256857,75,2025-03,Gas Plant,Deep Basin-Edson,AB,8286,Flaring restriction
+FAC-06,259559,18,2025-04,Gas Plant,Deep Basin-Edson,AB,8652,Power outage
+FAC-06,271762,0,2025-05,Gas Plant,Deep Basin-Edson,AB,8767,None
+FAC-06,263924,3,2025-06,Gas Plant,Deep Basin-Edson,AB,8797,Compressor trip
+FAC-06,285789,2,2025-07,Gas Plant,Deep Basin-Edson,AB,9219,Third-party plant outage
+FAC-06,272731,21,2025-08,Gas Plant,Deep Basin-Edson,AB,8798,Power outage
+FAC-06,248885,38,2025-09,Gas Plant,Deep Basin-Edson,AB,8296,Instrument/controls fault
+FAC-06,267414,1,2025-10,Gas Plant,Deep Basin-Edson,AB,8626,Third-party plant outage
+FAC-06,268566,3,2025-11,Gas Plant,Deep Basin-Edson,AB,8952,Power outage
+FAC-06,278870,0,2025-12,Gas Plant,Deep Basin-Edson,AB,8996,None
+FAC-06,257394,20,2026-01,Gas Plant,Deep Basin-Edson,AB,8303,Flaring restriction
+FAC-06,243766,7,2026-02,Gas Plant,Deep Basin-Edson,AB,8706,Power outage
+FAC-06,266663,20,2026-03,Gas Plant,Deep Basin-Edson,AB,8602,Flaring restriction
+FAC-06,251285,18,2026-04,Gas Plant,Deep Basin-Edson,AB,8376,Flaring restriction
+FAC-06,254649,5,2026-05,Gas Plant,Deep Basin-Edson,AB,8214,Instrument/controls fault
+FAC-06,244920,1,2026-06,Gas Plant,Deep Basin-Edson,AB,8164,Third-party plant outage
+FAC-06,249706,0,2026-07,Gas Plant,Deep Basin-Edson,AB,8055,None
+FAC-06,168861,264,2026-08,Gas Plant,Deep Basin-Edson,AB,5447,Planned turnaround
+FAC-07,428890,7,2025-01,Oil Battery,Duvernay-Fox Creek,AB,13835,Sulphur/gas processing constraint
+FAC-07,296011,163,2025-02,Oil Battery,Duvernay-Fox Creek,AB,10572,Planned turnaround
+FAC-07,429078,5,2025-03,Oil Battery,Duvernay-Fox Creek,AB,13841,Pipeline restriction
+FAC-07,398716,0,2025-04,Oil Battery,Duvernay-Fox Creek,AB,13291,None
+FAC-07,398746,23,2025-05,Oil Battery,Duvernay-Fox Creek,AB,12863,Sulphur/gas processing constraint
+FAC-07,388572,13,2025-06,Oil Battery,Duvernay-Fox Creek,AB,12952,Instrument/controls fault
+FAC-07,406190,0,2025-07,Oil Battery,Duvernay-Fox Creek,AB,13103,None
+FAC-07,406265,10,2025-08,Oil Battery,Duvernay-Fox Creek,AB,13105,Flaring restriction
+FAC-07,400814,2,2025-09,Oil Battery,Duvernay-Fox Creek,AB,13360,Compressor trip
+FAC-07,401395,0,2025-10,Oil Battery,Duvernay-Fox Creek,AB,12948,None
+FAC-07,396963,3,2025-11,Oil Battery,Duvernay-Fox Creek,AB,13232,Power outage
+FAC-07,388415,1,2025-12,Oil Battery,Duvernay-Fox Creek,AB,12530,Instrument/controls fault
+FAC-07,386183,0,2026-01,Oil Battery,Duvernay-Fox Creek,AB,12458,None
+FAC-07,316887,56,2026-02,Oil Battery,Duvernay-Fox Creek,AB,11317,Cold weather
+FAC-07,402824,0,2026-03,Oil Battery,Duvernay-Fox Creek,AB,12994,None
+FAC-07,375322,0,2026-04,Oil Battery,Duvernay-Fox Creek,AB,12511,None
+FAC-07,385663,0,2026-05,Oil Battery,Duvernay-Fox Creek,AB,12441,None
+FAC-07,379671,8,2026-06,Oil Battery,Duvernay-Fox Creek,AB,12656,Flaring restriction
+FAC-07,377715,0,2026-07,Oil Battery,Duvernay-Fox Creek,AB,12184,None
+FAC-07,381636,7,2026-08,Oil Battery,Duvernay-Fox Creek,AB,12311,Pipeline restriction
+FAC-08,1125217,23,2025-01,Oil Battery,Duvernay-Fox Creek,AB,36297,Sulphur/gas processing constraint
+FAC-08,1098366,0,2025-02,Oil Battery,Duvernay-Fox Creek,AB,39227,None
+FAC-08,1143612,38,2025-03,Oil Battery,Duvernay-Fox Creek,AB,36891,Compressor trip
+FAC-08,1087035,21,2025-04,Oil Battery,Duvernay-Fox Creek,AB,36234,Third-party plant outage
+FAC-08,1139117,11,2025-05,Oil Battery,Duvernay-Fox Creek,AB,36746,Compressor trip
+FAC-08,1082462,5,2025-06,Oil Battery,Duvernay-Fox Creek,AB,36082,Power outage
+FAC-08,810794,208,2025-07,Oil Battery,Duvernay-Fox Creek,AB,26155,Planned turnaround
+FAC-08,1184255,1,2025-08,Oil Battery,Duvernay-Fox Creek,AB,38202,Pipeline restriction
+FAC-08,1124649,10,2025-09,Oil Battery,Duvernay-Fox Creek,AB,37488,Instrument/controls fault
+FAC-08,1073349,18,2025-10,Oil Battery,Duvernay-Fox Creek,AB,34624,Third-party plant outage
+FAC-08,1071125,3,2025-11,Oil Battery,Duvernay-Fox Creek,AB,35704,Instrument/controls fault
+FAC-08,986883,85,2025-12,Oil Battery,Duvernay-Fox Creek,AB,31835,Cold weather
+FAC-08,1060653,18,2026-01,Oil Battery,Duvernay-Fox Creek,AB,34215,Power outage
+FAC-08,918273,41,2026-02,Oil Battery,Duvernay-Fox Creek,AB,32795,Cold weather
+FAC-08,1082195,5,2026-03,Oil Battery,Duvernay-Fox Creek,AB,34910,Power outage
+FAC-08,1039659,11,2026-04,Oil Battery,Duvernay-Fox Creek,AB,34655,Third-party plant outage
+FAC-08,1071871,5,2026-05,Oil Battery,Duvernay-Fox Creek,AB,34576,Instrument/controls fault
+FAC-08,1078133,0,2026-06,Oil Battery,Duvernay-Fox Creek,AB,35938,None
+FAC-08,1126335,0,2026-07,Oil Battery,Duvernay-Fox Creek,AB,36333,None
+FAC-08,1040186,44,2026-08,Oil Battery,Duvernay-Fox Creek,AB,33554,Instrument/controls fault
+FAC-09,60627,0,2025-01,Oil Battery,Cardium-Pembina,AB,1956,None
+FAC-09,53766,3,2025-02,Oil Battery,Cardium-Pembina,AB,1920,Instrument/controls fault
+FAC-09,55210,23,2025-03,Oil Battery,Cardium-Pembina,AB,1781,Instrument/controls fault
+FAC-09,54076,15,2025-04,Oil Battery,Cardium-Pembina,AB,1803,Instrument/controls fault
+FAC-09,56812,3,2025-05,Oil Battery,Cardium-Pembina,AB,1833,Flaring restriction
+FAC-09,54501,15,2025-06,Oil Battery,Cardium-Pembina,AB,1817,Pipeline restriction
+FAC-09,57338,3,2025-07,Oil Battery,Cardium-Pembina,AB,1850,Pipeline restriction
+FAC-09,54902,2,2025-08,Oil Battery,Cardium-Pembina,AB,1771,Pipeline restriction
+FAC-09,40906,179,2025-09,Oil Battery,Cardium-Pembina,AB,1364,Planned turnaround
+FAC-09,55105,21,2025-10,Oil Battery,Cardium-Pembina,AB,1778,Sulphur/gas processing constraint
+FAC-09,53501,4,2025-11,Oil Battery,Cardium-Pembina,AB,1783,Sulphur/gas processing constraint
+FAC-09,53164,23,2025-12,Oil Battery,Cardium-Pembina,AB,1715,Power outage
+FAC-09,49001,83,2026-01,Oil Battery,Cardium-Pembina,AB,1581,Compressor trip
+FAC-09,49144,0,2026-02,Oil Battery,Cardium-Pembina,AB,1755,None
+FAC-09,50102,36,2026-03,Oil Battery,Cardium-Pembina,AB,1616,Compressor trip
+FAC-09,51908,5,2026-04,Oil Battery,Cardium-Pembina,AB,1730,Instrument/controls fault
+FAC-09,55976,1,2026-05,Oil Battery,Cardium-Pembina,AB,1806,Instrument/controls fault
+FAC-09,49103,54,2026-06,Oil Battery,Cardium-Pembina,AB,1637,Pipeline restriction
+FAC-09,52769,6,2026-07,Oil Battery,Cardium-Pembina,AB,1702,Sulphur/gas processing constraint
+FAC-09,50769,17,2026-08,Oil Battery,Cardium-Pembina,AB,1638,Power outage
+FAC-10,246743,1,2025-01,Oil Battery,Cardium-Pembina,AB,7959,Third-party plant outage
+FAC-10,222858,0,2025-02,Oil Battery,Cardium-Pembina,AB,7959,None
+FAC-10,232718,4,2025-03,Oil Battery,Cardium-Pembina,AB,7507,Third-party plant outage
+FAC-10,220566,9,2025-04,Oil Battery,Cardium-Pembina,AB,7352,Sulphur/gas processing constraint
+FAC-10,229488,0,2025-05,Oil Battery,Cardium-Pembina,AB,7403,None
+FAC-10,222003,21,2025-06,Oil Battery,Cardium-Pembina,AB,7400,Third-party plant outage
+FAC-10,239656,3,2025-07,Oil Battery,Cardium-Pembina,AB,7731,Pipeline restriction
+FAC-10,221217,35,2025-08,Oil Battery,Cardium-Pembina,AB,7136,Power outage
+FAC-10,218258,16,2025-09,Oil Battery,Cardium-Pembina,AB,7275,Compressor trip
+FAC-10,237037,0,2025-10,Oil Battery,Cardium-Pembina,AB,7646,None
+FAC-10,225252,0,2025-11,Oil Battery,Cardium-Pembina,AB,7508,None
+FAC-10,214198,23,2025-12,Oil Battery,Cardium-Pembina,AB,6910,Cold weather
+FAC-10,219008,0,2026-01,Oil Battery,Cardium-Pembina,AB,7065,None
+FAC-10,202029,0,2026-02,Oil Battery,Cardium-Pembina,AB,7215,None
+FAC-10,175485,169,2026-03,Oil Battery,Cardium-Pembina,AB,5661,Planned turnaround
+FAC-10,204810,14,2026-04,Oil Battery,Cardium-Pembina,AB,6827,Power outage
+FAC-10,219729,0,2026-05,Oil Battery,Cardium-Pembina,AB,7088,None
+FAC-10,217157,2,2026-06,Oil Battery,Cardium-Pembina,AB,7239,Pipeline restriction
+FAC-10,210714,3,2026-07,Oil Battery,Cardium-Pembina,AB,6797,Power outage
+FAC-10,196760,50,2026-08,Oil Battery,Cardium-Pembina,AB,6347,Third-party plant outage
+FAC-11,93654,0,2025-01,Oil Battery,Swan Hills,AB,3021,None
+FAC-11,79188,0,2025-02,Oil Battery,Swan Hills,AB,2828,None
+FAC-11,92772,0,2025-03,Oil Battery,Swan Hills,AB,2993,None
+FAC-11,87120,13,2025-04,Oil Battery,Swan Hills,AB,2904,Instrument/controls fault
+FAC-11,73859,127,2025-05,Oil Battery,Swan Hills,AB,2383,Wildfire evacuation
+FAC-11,85586,4,2025-06,Oil Battery,Swan Hills,AB,2853,Power outage
+FAC-11,78944,47,2025-07,Oil Battery,Swan Hills,AB,2547,Power outage
+FAC-11,84087,28,2025-08,Oil Battery,Swan Hills,AB,2712,Compressor trip
+FAC-11,78252,21,2025-09,Oil Battery,Swan Hills,AB,2608,Third-party plant outage
+FAC-11,85793,0,2025-10,Oil Battery,Swan Hills,AB,2768,None
+FAC-11,82245,0,2025-11,Oil Battery,Swan Hills,AB,2742,None
+FAC-11,83081,0,2025-12,Oil Battery,Swan Hills,AB,2680,None
+FAC-11,81983,16,2026-01,Oil Battery,Swan Hills,AB,2645,Instrument/controls fault
+FAC-11,71430,13,2026-02,Oil Battery,Swan Hills,AB,2551,Pipeline restriction
+FAC-11,83439,0,2026-03,Oil Battery,Swan Hills,AB,2692,None
+FAC-11,78716,20,2026-04,Oil Battery,Swan Hills,AB,2624,Pipeline restriction
+FAC-11,81618,0,2026-05,Oil Battery,Swan Hills,AB,2633,None
+FAC-11,76472,13,2026-06,Oil Battery,Swan Hills,AB,2549,Pipeline restriction
+FAC-11,53464,254,2026-07,Oil Battery,Swan Hills,AB,1725,Planned turnaround
+FAC-11,78942,4,2026-08,Oil Battery,Swan Hills,AB,2547,Flaring restriction
+FAC-12,53229,18,2025-01,Oil Battery,Clearwater-Marten Hills,AB,1717,Flaring restriction
+FAC-12,48585,21,2025-02,Oil Battery,Clearwater-Marten Hills,AB,1735,Flaring restriction
+FAC-12,53029,0,2025-03,Oil Battery,Clearwater-Marten Hills,AB,1711,None
+FAC-12,53194,15,2025-04,Oil Battery,Clearwater-Marten Hills,AB,1773,Third-party plant outage
+FAC-12,43972,147,2025-05,Oil Battery,Clearwater-Marten Hills,AB,1418,Planned turnaround
+FAC-12,49615,9,2025-06,Oil Battery,Clearwater-Marten Hills,AB,1654,Third-party plant outage
+FAC-12,47876,72,2025-07,Oil Battery,Clearwater-Marten Hills,AB,1544,Wildfire evacuation
+FAC-12,52351,22,2025-08,Oil Battery,Clearwater-Marten Hills,AB,1689,Sulphur/gas processing constraint
+FAC-12,51825,4,2025-09,Oil Battery,Clearwater-Marten Hills,AB,1728,Power outage
+FAC-12,51767,25,2025-10,Oil Battery,Clearwater-Marten Hills,AB,1670,Compressor trip
+FAC-12,48349,8,2025-11,Oil Battery,Clearwater-Marten Hills,AB,1612,Pipeline restriction
+FAC-12,50600,26,2025-12,Oil Battery,Clearwater-Marten Hills,AB,1632,Pipeline restriction
+FAC-12,49720,2,2026-01,Oil Battery,Clearwater-Marten Hills,AB,1604,Sulphur/gas processing constraint
+FAC-12,45335,0,2026-02,Oil Battery,Clearwater-Marten Hills,AB,1619,None
+FAC-12,50819,18,2026-03,Oil Battery,Clearwater-Marten Hills,AB,1639,Third-party plant outage
+FAC-12,49078,3,2026-04,Oil Battery,Clearwater-Marten Hills,AB,1636,Third-party plant outage
+FAC-12,51419,6,2026-05,Oil Battery,Clearwater-Marten Hills,AB,1659,Third-party plant outage
+FAC-12,47737,1,2026-06,Oil Battery,Clearwater-Marten Hills,AB,1591,Power outage
+FAC-12,51542,0,2026-07,Oil Battery,Clearwater-Marten Hills,AB,1663,None
+FAC-12,47772,8,2026-08,Oil Battery,Clearwater-Marten Hills,AB,1541,Instrument/controls fault
+FAC-13,112585,31,2025-01,Oil Battery,Clearwater-Marten Hills,AB,3632,Cold weather
+FAC-13,111810,2,2025-02,Oil Battery,Clearwater-Marten Hills,AB,3993,Compressor trip
+FAC-13,80883,247,2025-03,Oil Battery,Clearwater-Marten Hills,AB,2609,Planned turnaround
+FAC-13,113164,0,2025-04,Oil Battery,Clearwater-Marten Hills,AB,3772,None
+FAC-13,123157,0,2025-05,Oil Battery,Clearwater-Marten Hills,AB,3973,None
+FAC-13,117013,0,2025-06,Oil Battery,Clearwater-Marten Hills,AB,3900,None
+FAC-13,120548,9,2025-07,Oil Battery,Clearwater-Marten Hills,AB,3889,Flaring restriction
+FAC-13,117484,21,2025-08,Oil Battery,Clearwater-Marten Hills,AB,3790,Flaring restriction
+FAC-13,109188,24,2025-09,Oil Battery,Clearwater-Marten Hills,AB,3640,Power outage
+FAC-13,114303,4,2025-10,Oil Battery,Clearwater-Marten Hills,AB,3687,Instrument/controls fault
+FAC-13,112482,1,2025-11,Oil Battery,Clearwater-Marten Hills,AB,3749,Instrument/controls fault
+FAC-13,108863,28,2025-12,Oil Battery,Clearwater-Marten Hills,AB,3512,Cold weather
+FAC-13,104786,36,2026-01,Oil Battery,Clearwater-Marten Hills,AB,3380,Cold weather
+FAC-13,99490,30,2026-02,Oil Battery,Clearwater-Marten Hills,AB,3553,Flaring restriction
+FAC-13,110043,33,2026-03,Oil Battery,Clearwater-Marten Hills,AB,3550,Pipeline restriction
+FAC-13,105493,0,2026-04,Oil Battery,Clearwater-Marten Hills,AB,3516,None
+FAC-13,111865,1,2026-05,Oil Battery,Clearwater-Marten Hills,AB,3609,Flaring restriction
+FAC-13,102665,39,2026-06,Oil Battery,Clearwater-Marten Hills,AB,3422,Flaring restriction
+FAC-13,108302,1,2026-07,Oil Battery,Clearwater-Marten Hills,AB,3494,Compressor trip
+FAC-13,104602,10,2026-08,Oil Battery,Clearwater-Marten Hills,AB,3374,Sulphur/gas processing constraint
+FAC-14,302123,2,2025-01,SAGD CPF,Cold Lake,AB,9746,Third-party plant outage
+FAC-14,242367,43,2025-02,SAGD CPF,Cold Lake,AB,8656,Cold weather
+FAC-14,294176,12,2025-03,SAGD CPF,Cold Lake,AB,9490,Power outage
+FAC-14,298210,7,2025-04,SAGD CPF,Cold Lake,AB,9940,Sulphur/gas processing constraint
+FAC-14,293648,0,2025-05,SAGD CPF,Cold Lake,AB,9473,None
+FAC-14,253017,116,2025-06,SAGD CPF,Cold Lake,AB,8434,Wildfire evacuation
+FAC-14,294072,12,2025-07,SAGD CPF,Cold Lake,AB,9486,Instrument/controls fault
+FAC-14,212494,231,2025-08,SAGD CPF,Cold Lake,AB,6855,Planned turnaround
+FAC-14,277610,25,2025-09,SAGD CPF,Cold Lake,AB,9254,Power outage
+FAC-14,295339,16,2025-10,SAGD CPF,Cold Lake,AB,9527,Pipeline restriction
+FAC-14,271563,20,2025-11,SAGD CPF,Cold Lake,AB,9052,Pipeline restriction
+FAC-14,300896,0,2025-12,SAGD CPF,Cold Lake,AB,9706,None
+FAC-14,276702,9,2026-01,SAGD CPF,Cold Lake,AB,8926,Power outage
+FAC-14,253366,13,2026-02,SAGD CPF,Cold Lake,AB,9049,Cold weather
+FAC-14,279782,0,2026-03,SAGD CPF,Cold Lake,AB,9025,None
+FAC-14,263019,6,2026-04,SAGD CPF,Cold Lake,AB,8767,Compressor trip
+FAC-14,288838,4,2026-05,SAGD CPF,Cold Lake,AB,9317,Power outage
+FAC-14,273033,1,2026-06,SAGD CPF,Cold Lake,AB,9101,Pipeline restriction
+FAC-14,283307,9,2026-07,SAGD CPF,Cold Lake,AB,9139,Sulphur/gas processing constraint
+FAC-14,253632,34,2026-08,SAGD CPF,Cold Lake,AB,8182,Compressor trip
+FAC-15,200844,0,2025-01,SAGD CPF,Cold Lake,AB,6479,None
+FAC-15,180283,0,2025-02,SAGD CPF,Cold Lake,AB,6439,None
+FAC-15,191229,9,2025-03,SAGD CPF,Cold Lake,AB,6169,Instrument/controls fault
+FAC-15,191550,0,2025-04,SAGD CPF,Cold Lake,AB,6385,None
+FAC-15,204019,0,2025-05,SAGD CPF,Cold Lake,AB,6581,None
+FAC-15,184733,0,2025-06,SAGD CPF,Cold Lake,AB,6158,None
+FAC-15,194689,20,2025-07,SAGD CPF,Cold Lake,AB,6280,Pipeline restriction
+FAC-15,189034,0,2025-08,SAGD CPF,Cold Lake,AB,6098,None
+FAC-15,186925,9,2025-09,SAGD CPF,Cold Lake,AB,6231,Sulphur/gas processing constraint
+FAC-15,185911,8,2025-10,SAGD CPF,Cold Lake,AB,5997,Power outage
+FAC-15,177454,22,2025-11,SAGD CPF,Cold Lake,AB,5915,Sulphur/gas processing constraint
+FAC-15,176069,32,2025-12,SAGD CPF,Cold Lake,AB,5680,Cold weather
+FAC-15,177718,3,2026-01,SAGD CPF,Cold Lake,AB,5733,Third-party plant outage
+FAC-15,158317,28,2026-02,SAGD CPF,Cold Lake,AB,5654,Cold weather
+FAC-15,192760,1,2026-03,SAGD CPF,Cold Lake,AB,6218,Power outage
+FAC-15,111139,274,2026-04,SAGD CPF,Cold Lake,AB,3705,Planned turnaround
+FAC-15,185119,3,2026-05,SAGD CPF,Cold Lake,AB,5972,Third-party plant outage
+FAC-15,179546,4,2026-06,SAGD CPF,Cold Lake,AB,5985,Pipeline restriction
+FAC-15,175718,0,2026-07,SAGD CPF,Cold Lake,AB,5668,None
+FAC-15,181190,12,2026-08,SAGD CPF,Cold Lake,AB,5845,Instrument/controls fault
+FAC-16,319438,45,2025-01,SAGD CPF,Athabasca,AB,10304,Cold weather
+FAC-16,273631,37,2025-02,SAGD CPF,Athabasca,AB,9773,Instrument/controls fault
+FAC-16,339743,0,2025-03,SAGD CPF,Athabasca,AB,10959,None
+FAC-16,326655,0,2025-04,SAGD CPF,Athabasca,AB,10888,None
+FAC-16,337370,4,2025-05,SAGD CPF,Athabasca,AB,10883,Flaring restriction
+FAC-16,325489,22,2025-06,SAGD CPF,Athabasca,AB,10850,Instrument/controls fault
+FAC-16,337196,18,2025-07,SAGD CPF,Athabasca,AB,10877,Flaring restriction
+FAC-16,331967,4,2025-08,SAGD CPF,Athabasca,AB,10709,Power outage
+FAC-16,312509,0,2025-09,SAGD CPF,Athabasca,AB,10417,None
+FAC-16,312013,12,2025-10,SAGD CPF,Athabasca,AB,10065,Power outage
+FAC-16,325127,0,2025-11,SAGD CPF,Athabasca,AB,10838,None
+FAC-16,307188,18,2025-12,SAGD CPF,Athabasca,AB,9909,Instrument/controls fault
+FAC-16,303437,25,2026-01,SAGD CPF,Athabasca,AB,9788,Pipeline restriction
+FAC-16,273224,0,2026-02,SAGD CPF,Athabasca,AB,9758,None
+FAC-16,234102,215,2026-03,SAGD CPF,Athabasca,AB,7552,Planned turnaround
+FAC-16,312803,6,2026-04,SAGD CPF,Athabasca,AB,10427,Flaring restriction
+FAC-16,312534,10,2026-05,SAGD CPF,Athabasca,AB,10082,Pipeline restriction
+FAC-16,311087,4,2026-06,SAGD CPF,Athabasca,AB,10370,Pipeline restriction
+FAC-16,289938,39,2026-07,SAGD CPF,Athabasca,AB,9353,Power outage
+FAC-16,306814,16,2026-08,SAGD CPF,Athabasca,AB,9897,Power outage
+FAC-17,167962,0,2025-01,SAGD CPF,Athabasca,AB,5418,None
+FAC-17,152463,29,2025-02,SAGD CPF,Athabasca,AB,5445,Flaring restriction
+FAC-17,173918,0,2025-03,SAGD CPF,Athabasca,AB,5610,None
+FAC-17,170520,5,2025-04,SAGD CPF,Athabasca,AB,5684,Pipeline restriction
+FAC-17,162722,43,2025-05,SAGD CPF,Athabasca,AB,5249,Sulphur/gas processing constraint
+FAC-17,168780,0,2025-06,SAGD CPF,Athabasca,AB,5626,None
+FAC-17,177634,2,2025-07,SAGD CPF,Athabasca,AB,5730,Compressor trip
+FAC-17,169673,4,2025-08,SAGD CPF,Athabasca,AB,5473,Pipeline restriction
+FAC-17,163939,9,2025-09,SAGD CPF,Athabasca,AB,5465,Sulphur/gas processing constraint
+FAC-17,164595,40,2025-10,SAGD CPF,Athabasca,AB,5310,Pipeline restriction
+FAC-17,127592,155,2025-11,SAGD CPF,Athabasca,AB,4253,Planned turnaround
+FAC-17,176226,0,2025-12,SAGD CPF,Athabasca,AB,5685,None
+FAC-17,154238,15,2026-01,SAGD CPF,Athabasca,AB,4975,Compressor trip
+FAC-17,143208,36,2026-02,SAGD CPF,Athabasca,AB,5115,Cold weather
+FAC-17,163395,22,2026-03,SAGD CPF,Athabasca,AB,5271,Power outage
+FAC-17,154306,34,2026-04,SAGD CPF,Athabasca,AB,5144,Sulphur/gas processing constraint
+FAC-17,167138,8,2026-05,SAGD CPF,Athabasca,AB,5392,Power outage
+FAC-17,157407,0,2026-06,SAGD CPF,Athabasca,AB,5247,None
+FAC-17,153763,28,2026-07,SAGD CPF,Athabasca,AB,4960,Power outage
+FAC-17,167681,0,2026-08,SAGD CPF,Athabasca,AB,5409,None
+FAC-18,203235,2,2025-01,SAGD CPF,Athabasca,AB,6556,Flaring restriction
+FAC-18,181387,17,2025-02,SAGD CPF,Athabasca,AB,6478,Cold weather
+FAC-18,205241,2,2025-03,SAGD CPF,Athabasca,AB,6621,Sulphur/gas processing constraint
+FAC-18,205877,0,2025-04,SAGD CPF,Athabasca,AB,6863,None
+FAC-18,209054,3,2025-05,SAGD CPF,Athabasca,AB,6744,Sulphur/gas processing constraint
+FAC-18,193299,0,2025-06,SAGD CPF,Athabasca,AB,6443,None
+FAC-18,205261,14,2025-07,SAGD CPF,Athabasca,AB,6621,Compressor trip
+FAC-18,205307,13,2025-08,SAGD CPF,Athabasca,AB,6623,Third-party plant outage
+FAC-18,197308,14,2025-09,SAGD CPF,Athabasca,AB,6577,Instrument/controls fault
+FAC-18,197905,17,2025-10,SAGD CPF,Athabasca,AB,6384,Power outage
+FAC-18,190908,7,2025-11,SAGD CPF,Athabasca,AB,6364,Instrument/controls fault
+FAC-18,200487,6,2025-12,SAGD CPF,Athabasca,AB,6467,Third-party plant outage
+FAC-18,183272,14,2026-01,SAGD CPF,Athabasca,AB,5912,Compressor trip
+FAC-18,152308,46,2026-02,SAGD CPF,Athabasca,AB,5440,Cold weather
+FAC-18,196230,8,2026-03,SAGD CPF,Athabasca,AB,6330,Pipeline restriction
+FAC-18,191736,0,2026-04,SAGD CPF,Athabasca,AB,6391,None
+FAC-18,194454,0,2026-05,SAGD CPF,Athabasca,AB,6273,None
+FAC-18,172149,20,2026-06,SAGD CPF,Athabasca,AB,5738,Sulphur/gas processing constraint
+FAC-18,185388,2,2026-07,SAGD CPF,Athabasca,AB,5980,Instrument/controls fault
+FAC-18,150299,159,2026-08,SAGD CPF,Athabasca,AB,4848,Planned turnaround
+FAC-19,159820,1,2025-01,SAGD CPF,Peace River,AB,5155,Instrument/controls fault
+FAC-19,143597,34,2025-02,SAGD CPF,Peace River,AB,5128,Cold weather
+FAC-19,170464,0,2025-03,SAGD CPF,Peace River,AB,5499,None
+FAC-19,152363,44,2025-04,SAGD CPF,Peace River,AB,5079,Flaring restriction
+FAC-19,162833,5,2025-05,SAGD CPF,Peace River,AB,5253,Instrument/controls fault
+FAC-19,158267,5,2025-06,SAGD CPF,Peace River,AB,5276,Power outage
+FAC-19,156962,0,2025-07,SAGD CPF,Peace River,AB,5063,None
+FAC-19,123173,185,2025-08,SAGD CPF,Peace River,AB,3973,Planned turnaround
+FAC-19,154325,0,2025-09,SAGD CPF,Peace River,AB,5144,None
+FAC-19,158199,19,2025-10,SAGD CPF,Peace River,AB,5103,Power outage
+FAC-19,155088,0,2025-11,SAGD CPF,Peace River,AB,5170,None
+FAC-19,151737,19,2025-12,SAGD CPF,Peace River,AB,4895,Pipeline restriction
+FAC-19,149970,1,2026-01,SAGD CPF,Peace River,AB,4838,Third-party plant outage
+FAC-19,125766,39,2026-02,SAGD CPF,Peace River,AB,4492,Cold weather
+FAC-19,156602,0,2026-03,SAGD CPF,Peace River,AB,5052,None
+FAC-19,149285,4,2026-04,SAGD CPF,Peace River,AB,4976,Third-party plant outage
+FAC-19,146959,19,2026-05,SAGD CPF,Peace River,AB,4741,Compressor trip
+FAC-19,142612,12,2026-06,SAGD CPF,Peace River,AB,4754,Sulphur/gas processing constraint
+FAC-19,153187,6,2026-07,SAGD CPF,Peace River,AB,4942,Third-party plant outage
+FAC-19,145298,0,2026-08,SAGD CPF,Peace River,AB,4687,None
+FAC-20,40918,10,2025-01,Oil Battery,Viking-Kerrobert,SK,1320,Compressor trip
+FAC-20,36050,2,2025-02,Oil Battery,Viking-Kerrobert,SK,1288,Flaring restriction
+FAC-20,39529,3,2025-03,Oil Battery,Viking-Kerrobert,SK,1275,Flaring restriction
+FAC-20,39247,0,2025-04,Oil Battery,Viking-Kerrobert,SK,1308,None
+FAC-20,40703,15,2025-05,Oil Battery,Viking-Kerrobert,SK,1313,Pipeline restriction
+FAC-20,37417,6,2025-06,Oil Battery,Viking-Kerrobert,SK,1247,Compressor trip
+FAC-20,41458,0,2025-07,Oil Battery,Viking-Kerrobert,SK,1337,None
+FAC-20,38547,7,2025-08,Oil Battery,Viking-Kerrobert,SK,1243,Third-party plant outage
+FAC-20,38918,0,2025-09,Oil Battery,Viking-Kerrobert,SK,1297,None
+FAC-20,38199,0,2025-10,Oil Battery,Viking-Kerrobert,SK,1232,None
+FAC-20,36987,21,2025-11,Oil Battery,Viking-Kerrobert,SK,1233,Third-party plant outage
+FAC-20,38343,4,2025-12,Oil Battery,Viking-Kerrobert,SK,1237,Sulphur/gas processing constraint
+FAC-20,38001,21,2026-01,Oil Battery,Viking-Kerrobert,SK,1226,Cold weather
+FAC-20,33566,24,2026-02,Oil Battery,Viking-Kerrobert,SK,1199,Instrument/controls fault
+FAC-20,35985,26,2026-03,Oil Battery,Viking-Kerrobert,SK,1161,Third-party plant outage
+FAC-20,27744,165,2026-04,Oil Battery,Viking-Kerrobert,SK,925,Planned turnaround
+FAC-20,39049,0,2026-05,Oil Battery,Viking-Kerrobert,SK,1260,None
+FAC-20,37313,0,2026-06,Oil Battery,Viking-Kerrobert,SK,1244,None
+FAC-20,38070,3,2026-07,Oil Battery,Viking-Kerrobert,SK,1228,Sulphur/gas processing constraint
+FAC-20,36763,0,2026-08,Oil Battery,Viking-Kerrobert,SK,1186,None
+FAC-21,117583,0,2025-01,Oil Battery,Viking-Kerrobert,SK,3793,None
+FAC-21,76303,170,2025-02,Oil Battery,Viking-Kerrobert,SK,2725,Planned turnaround
+FAC-21,116496,7,2025-03,Oil Battery,Viking-Kerrobert,SK,3758,Sulphur/gas processing constraint
+FAC-21,107337,0,2025-04,Oil Battery,Viking-Kerrobert,SK,3578,None
+FAC-21,112992,0,2025-05,Oil Battery,Viking-Kerrobert,SK,3645,None
+FAC-21,103032,28,2025-06,Oil Battery,Viking-Kerrobert,SK,3434,Third-party plant outage
+FAC-21,111612,14,2025-07,Oil Battery,Viking-Kerrobert,SK,3600,Pipeline restriction
+FAC-21,111728,2,2025-08,Oil Battery,Viking-Kerrobert,SK,3604,Compressor trip
+FAC-21,102805,5,2025-09,Oil Battery,Viking-Kerrobert,SK,3427,Compressor trip
+FAC-21,105290,0,2025-10,Oil Battery,Viking-Kerrobert,SK,3396,None
+FAC-21,107666,0,2025-11,Oil Battery,Viking-Kerrobert,SK,3589,None
+FAC-21,101907,31,2025-12,Oil Battery,Viking-Kerrobert,SK,3287,Cold weather
+FAC-21,102043,5,2026-01,Oil Battery,Viking-Kerrobert,SK,3292,Pipeline restriction
+FAC-21,98281,0,2026-02,Oil Battery,Viking-Kerrobert,SK,3510,None
+FAC-21,97516,36,2026-03,Oil Battery,Viking-Kerrobert,SK,3146,Flaring restriction
+FAC-21,98668,10,2026-04,Oil Battery,Viking-Kerrobert,SK,3289,Power outage
+FAC-21,97804,25,2026-05,Oil Battery,Viking-Kerrobert,SK,3155,Pipeline restriction
+FAC-21,96453,29,2026-06,Oil Battery,Viking-Kerrobert,SK,3215,Third-party plant outage
+FAC-21,99259,0,2026-07,Oil Battery,Viking-Kerrobert,SK,3202,None
+FAC-21,98284,0,2026-08,Oil Battery,Viking-Kerrobert,SK,3170,None
+FAC-22,63812,0,2025-01,Oil Battery,Bakken-Estevan,SK,2058,None
+FAC-22,57158,0,2025-02,Oil Battery,Bakken-Estevan,SK,2041,None
+FAC-22,62823,0,2025-03,Oil Battery,Bakken-Estevan,SK,2027,None
+FAC-22,60393,0,2025-04,Oil Battery,Bakken-Estevan,SK,2013,None
+FAC-22,61555,7,2025-05,Oil Battery,Bakken-Estevan,SK,1986,Pipeline restriction
+FAC-22,57189,4,2025-06,Oil Battery,Bakken-Estevan,SK,1906,Compressor trip
+FAC-22,61687,4,2025-07,Oil Battery,Bakken-Estevan,SK,1990,Instrument/controls fault
+FAC-22,57619,26,2025-08,Oil Battery,Bakken-Estevan,SK,1859,Sulphur/gas processing constraint
+FAC-22,58886,1,2025-09,Oil Battery,Bakken-Estevan,SK,1963,Power outage
+FAC-22,46901,151,2025-10,Oil Battery,Bakken-Estevan,SK,1513,Planned turnaround
+FAC-22,59350,0,2025-11,Oil Battery,Bakken-Estevan,SK,1978,None
+FAC-22,59918,0,2025-12,Oil Battery,Bakken-Estevan,SK,1933,None
+FAC-22,58128,8,2026-01,Oil Battery,Bakken-Estevan,SK,1875,Compressor trip
+FAC-22,50334,7,2026-02,Oil Battery,Bakken-Estevan,SK,1798,Instrument/controls fault
+FAC-22,56136,0,2026-03,Oil Battery,Bakken-Estevan,SK,1811,None
+FAC-22,54691,0,2026-04,Oil Battery,Bakken-Estevan,SK,1823,None
+FAC-22,58982,0,2026-05,Oil Battery,Bakken-Estevan,SK,1903,None
+FAC-22,54057,2,2026-06,Oil Battery,Bakken-Estevan,SK,1802,Pipeline restriction
+FAC-22,58572,0,2026-07,Oil Battery,Bakken-Estevan,SK,1889,None
+FAC-22,58479,0,2026-08,Oil Battery,Bakken-Estevan,SK,1886,None
+FAC-23,149213,0,2025-01,Oil Battery,Bakken-Estevan,SK,4813,None
+FAC-23,134980,2,2025-02,Oil Battery,Bakken-Estevan,SK,4821,Instrument/controls fault
+FAC-23,149119,0,2025-03,Oil Battery,Bakken-Estevan,SK,4810,None
+FAC-23,145497,0,2025-04,Oil Battery,Bakken-Estevan,SK,4850,None
+FAC-23,144574,0,2025-05,Oil Battery,Bakken-Estevan,SK,4664,None
+FAC-23,139867,0,2025-06,Oil Battery,Bakken-Estevan,SK,4662,None
+FAC-23,146317,7,2025-07,Oil Battery,Bakken-Estevan,SK,4720,Flaring restriction
+FAC-23,138961,25,2025-08,Oil Battery,Bakken-Estevan,SK,4483,Pipeline restriction
+FAC-23,136892,0,2025-09,Oil Battery,Bakken-Estevan,SK,4563,None
+FAC-23,143597,0,2025-10,Oil Battery,Bakken-Estevan,SK,4632,None
+FAC-23,135540,14,2025-11,Oil Battery,Bakken-Estevan,SK,4518,Flaring restriction
+FAC-23,137248,0,2025-12,Oil Battery,Bakken-Estevan,SK,4427,None
+FAC-23,136307,39,2026-01,Oil Battery,Bakken-Estevan,SK,4397,Cold weather
+FAC-23,128308,7,2026-02,Oil Battery,Bakken-Estevan,SK,4582,Flaring restriction
+FAC-23,96987,236,2026-03,Oil Battery,Bakken-Estevan,SK,3129,Planned turnaround
+FAC-23,132457,0,2026-04,Oil Battery,Bakken-Estevan,SK,4415,None
+FAC-23,139532,0,2026-05,Oil Battery,Bakken-Estevan,SK,4501,None
+FAC-23,130957,6,2026-06,Oil Battery,Bakken-Estevan,SK,4365,Flaring restriction
+FAC-23,140922,1,2026-07,Oil Battery,Bakken-Estevan,SK,4546,Sulphur/gas processing constraint
+FAC-23,135994,0,2026-08,Oil Battery,Bakken-Estevan,SK,4387,None
+FAC-24,40412,2,2025-01,Oil Battery,Lloydminster Heavy,SK,1304,Flaring restriction
+FAC-24,34296,17,2025-02,Oil Battery,Lloydminster Heavy,SK,1225,Flaring restriction
+FAC-24,39112,1,2025-03,Oil Battery,Lloydminster Heavy,SK,1262,Compressor trip
+FAC-24,36675,14,2025-04,Oil Battery,Lloydminster Heavy,SK,1222,Power outage
+FAC-24,37958,1,2025-05,Oil Battery,Lloydminster Heavy,SK,1224,Third-party plant outage
+FAC-24,38289,0,2025-06,Oil Battery,Lloydminster Heavy,SK,1276,None
+FAC-24,38750,0,2025-07,Oil Battery,Lloydminster Heavy,SK,1250,None
+FAC-24,37987,5,2025-08,Oil Battery,Lloydminster Heavy,SK,1225,Compressor trip
+FAC-24,37167,0,2025-09,Oil Battery,Lloydminster Heavy,SK,1239,None
+FAC-24,36058,28,2025-10,Oil Battery,Lloydminster Heavy,SK,1163,Third-party plant outage
+FAC-24,35956,7,2025-11,Oil Battery,Lloydminster Heavy,SK,1199,Power outage
+FAC-24,35552,10,2025-12,Oil Battery,Lloydminster Heavy,SK,1147,Third-party plant outage
+FAC-24,28449,191,2026-01,Oil Battery,Lloydminster Heavy,SK,918,Planned turnaround
+FAC-24,33762,0,2026-02,Oil Battery,Lloydminster Heavy,SK,1206,None
+FAC-24,37577,4,2026-03,Oil Battery,Lloydminster Heavy,SK,1212,Third-party plant outage
+FAC-24,34425,15,2026-04,Oil Battery,Lloydminster Heavy,SK,1148,Power outage
+FAC-24,34187,27,2026-05,Oil Battery,Lloydminster Heavy,SK,1103,Sulphur/gas processing constraint
+FAC-24,34710,8,2026-06,Oil Battery,Lloydminster Heavy,SK,1157,Power outage
+FAC-24,36522,0,2026-07,Oil Battery,Lloydminster Heavy,SK,1178,None
+FAC-24,35253,0,2026-08,Oil Battery,Lloydminster Heavy,SK,1137,None
+FAC-25,67844,11,2025-01,Oil Battery,Lloydminster Heavy,SK,2189,Third-party plant outage
+FAC-25,61490,0,2025-02,Oil Battery,Lloydminster Heavy,SK,2196,None
+FAC-25,69449,0,2025-03,Oil Battery,Lloydminster Heavy,SK,2240,None
+FAC-25,63943,36,2025-04,Oil Battery,Lloydminster Heavy,SK,2131,Third-party plant outage
+FAC-25,67251,1,2025-05,Oil Battery,Lloydminster Heavy,SK,2169,Pipeline restriction
+FAC-25,65418,0,2025-06,Oil Battery,Lloydminster Heavy,SK,2181,None
+FAC-25,63599,0,2025-07,Oil Battery,Lloydminster Heavy,SK,2052,None
+FAC-25,63970,32,2025-08,Oil Battery,Lloydminster Heavy,SK,2064,Instrument/controls fault
+FAC-25,59218,19,2025-09,Oil Battery,Lloydminster Heavy,SK,1974,Instrument/controls fault
+FAC-25,65149,11,2025-10,Oil Battery,Lloydminster Heavy,SK,2102,Power outage
+FAC-25,59820,11,2025-11,Oil Battery,Lloydminster Heavy,SK,1994,Compressor trip
+FAC-25,59186,40,2025-12,Oil Battery,Lloydminster Heavy,SK,1909,Cold weather
+FAC-25,58084,51,2026-01,Oil Battery,Lloydminster Heavy,SK,1874,Instrument/controls fault
+FAC-25,58210,4,2026-02,Oil Battery,Lloydminster Heavy,SK,2079,Pipeline restriction
+FAC-25,59904,27,2026-03,Oil Battery,Lloydminster Heavy,SK,1932,Flaring restriction
+FAC-25,41069,232,2026-04,Oil Battery,Lloydminster Heavy,SK,1369,Planned turnaround
+FAC-25,61571,0,2026-05,Oil Battery,Lloydminster Heavy,SK,1986,None
+FAC-25,58123,7,2026-06,Oil Battery,Lloydminster Heavy,SK,1937,Flaring restriction
+FAC-25,59480,15,2026-07,Oil Battery,Lloydminster Heavy,SK,1919,Instrument/controls fault
+FAC-25,60254,0,2026-08,Oil Battery,Lloydminster Heavy,SK,1944,None

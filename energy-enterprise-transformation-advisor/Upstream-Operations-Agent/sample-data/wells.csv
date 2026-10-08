@@ -1,0 +1,301 @@
+Well_ID,Field,Production_BPD,Province,Formation,Well_Type,Status,Spud_Date,Surface_Location,Facility
+WL-00001,Montney-Kakwa,268,AB,Montney,Horizontal Liquids-Rich,Producing,2023-12-30,15-16-060-20W6,FAC-04
+WL-00002,Montney-Dawson,308,BC,Montney,Horizontal Gas,Producing,2015-02-26,13-33-078-24W6,FAC-02
+WL-00003,Deep Basin-Edson,538,AB,Spirit River,Horizontal Gas,Producing,2021-04-15,03-26-055-18W5,FAC-06
+WL-00004,Clearwater-Marten Hills,124,AB,Clearwater,Horizontal Heavy Oil,Producing,2023-05-01,01-15-073-27W4,FAC-13
+WL-00005,Montney-Dawson,0,BC,Montney,Horizontal Liquids-Rich,Shut-in,2017-06-14,16-10-081-29W6,FAC-02
+WL-00006,Duvernay-Fox Creek,124,AB,Duvernay,Horizontal Oil,Producing,2021-04-13,16-26-065-07W5,FAC-08
+WL-00007,Deep Basin-Edson,740,AB,Spirit River,Horizontal Gas,Producing,2022-09-21,09-32-054-17W5,FAC-05
+WL-00008,Peace River,41,AB,Bluesky,Horizontal Heavy Oil,Producing,2022-10-11,09-29-083-14W5,FAC-19
+WL-00009,Viking-Kerrobert,91,SK,Viking,Horizontal Oil,Producing,2019-07-24,01-06-032-15W3,FAC-21
+WL-00010,Cold Lake,82,AB,Clearwater,CSS Producer,Producing,2023-08-07,05-01-064-22W4,FAC-15
+WL-00011,Cold Lake,0,AB,Clearwater,CSS Producer,Suspended,2021-07-22,08-31-066-05W4,FAC-14
+WL-00012,Lloydminster Heavy,18,SK,Mannville,Vertical Oil,Producing,2017-02-17,14-25-052-05W3,FAC-25
+WL-00013,Clearwater-Marten Hills,50,AB,Clearwater,Horizontal Heavy Oil,Producing,2017-07-05,15-21-072-16W4,FAC-13
+WL-00014,Lloydminster Heavy,76,SK,Mannville,Horizontal Heavy Oil,Producing,2018-03-24,13-03-047-21W3,FAC-24
+WL-00015,Bakken-Estevan,223,SK,Bakken,Horizontal Oil,Producing,2023-11-13,05-34-003-26W2,FAC-22
+WL-00016,Bakken-Estevan,90,SK,Bakken,Horizontal Oil,Producing,2022-10-05,10-12-004-06W2,FAC-23
+WL-00017,Duvernay-Fox Creek,384,AB,Duvernay,Horizontal Liquids-Rich,Producing,2020-12-11,04-14-063-01W5,FAC-08
+WL-00018,Lloydminster Heavy,33,SK,Mannville,Vertical Oil,Producing,2020-11-18,06-23-050-22W3,FAC-25
+WL-00019,Clearwater-Marten Hills,137,AB,Clearwater,Horizontal Heavy Oil,Producing,2023-02-12,05-07-074-04W4,FAC-13
+WL-00020,Lloydminster Heavy,125,SK,Mannville,Horizontal Heavy Oil,Producing,2023-05-21,03-19-048-06W3,FAC-25
+WL-00021,Duvernay-Fox Creek,678,AB,Duvernay,Horizontal Liquids-Rich,Producing,2024-04-04,11-30-066-21W5,FAC-08
+WL-00022,Athabasca,0,AB,McMurray,SAGD Producer,Suspended,2020-01-21,15-28-090-29W4,FAC-16
+WL-00023,Montney-Kakwa,361,AB,Montney,Horizontal Liquids-Rich,Producing,2025-01-04,11-19-060-10W6,FAC-04
+WL-00024,Peace River,0,AB,Bluesky,SAGD Producer,Suspended,2021-12-06,07-36-082-24W5,FAC-19
+WL-00025,Lloydminster Heavy,59,SK,Mannville,Horizontal Heavy Oil,Producing,2016-01-31,13-25-047-25W3,FAC-25
+WL-00026,Cardium-Pembina,154,AB,Cardium,Horizontal Oil,Producing,2021-12-09,05-15-046-01W5,FAC-10
+WL-00027,Duvernay-Fox Creek,431,AB,Duvernay,Horizontal Liquids-Rich,Producing,2020-01-17,02-01-063-16W5,FAC-08
+WL-00028,Montney-Dawson,517,BC,Montney,Horizontal Gas,Producing,2018-03-09,09-22-079-12W6,FAC-01
+WL-00029,Cardium-Pembina,252,AB,Cardium,Horizontal Oil,Producing,2021-06-01,16-01-048-27W5,FAC-09
+WL-00030,Lloydminster Heavy,32,SK,Mannville,Horizontal Heavy Oil,Producing,2016-02-01,01-35-047-28W3,FAC-24
+WL-00031,Viking-Kerrobert,161,SK,Viking,Horizontal Oil,Producing,2024-10-09,04-06-033-24W3,FAC-20
+WL-00032,Cardium-Pembina,242,AB,Cardium,Horizontal Oil,Producing,2023-04-02,07-01-050-21W5,FAC-10
+WL-00033,Swan Hills,148,AB,Swan Hills,Horizontal Oil,Producing,2024-04-15,01-08-069-22W5,FAC-11
+WL-00034,Bakken-Estevan,153,SK,Bakken,Horizontal Oil,Producing,2020-08-04,04-21-005-04W2,FAC-22
+WL-00035,Viking-Kerrobert,183,SK,Viking,Horizontal Oil,Producing,2022-06-18,12-06-032-25W3,FAC-21
+WL-00036,Lloydminster Heavy,29,SK,Mannville,Vertical Oil,Producing,2019-07-20,16-26-048-06W3,FAC-25
+WL-00037,Duvernay-Fox Creek,0,AB,Duvernay,Horizontal Liquids-Rich,Shut-in,2024-06-05,14-25-063-05W5,FAC-08
+WL-00038,Swan Hills,130,AB,Swan Hills,Horizontal Oil,Producing,2021-01-27,05-35-067-08W5,FAC-11
+WL-00039,Deep Basin-Edson,591,AB,Spirit River,Horizontal Gas,Producing,2019-07-30,14-22-051-22W5,FAC-06
+WL-00040,Peace River,148,AB,Bluesky,Horizontal Heavy Oil,Producing,2022-07-28,02-26-083-01W5,FAC-19
+WL-00041,Duvernay-Fox Creek,387,AB,Duvernay,Horizontal Liquids-Rich,Producing,2022-03-13,11-01-062-25W5,FAC-08
+WL-00042,Duvernay-Fox Creek,0,AB,Duvernay,Horizontal Liquids-Rich,Shut-in,2019-08-02,07-30-066-09W5,FAC-07
+WL-00043,Cold Lake,449,AB,Clearwater,SAGD Producer,Producing,2018-09-01,07-11-064-03W4,FAC-15
+WL-00044,Clearwater-Marten Hills,51,AB,Clearwater,Horizontal Heavy Oil,Producing,2022-01-21,16-22-074-12W4,FAC-12
+WL-00045,Deep Basin-Edson,543,AB,Spirit River,Horizontal Gas,Producing,2020-02-28,09-30-052-12W5,FAC-06
+WL-00046,Duvernay-Fox Creek,74,AB,Duvernay,Horizontal Oil,Producing,2019-01-13,16-06-066-17W5,FAC-08
+WL-00047,Cold Lake,175,AB,Clearwater,SAGD Producer,Producing,2020-06-18,04-14-062-15W4,FAC-15
+WL-00048,Duvernay-Fox Creek,0,AB,Duvernay,Horizontal Liquids-Rich,Shut-in,2017-10-31,09-32-063-18W5,FAC-07
+WL-00049,Athabasca,519,AB,McMurray,SAGD Producer,Producing,2022-09-10,05-10-082-26W4,FAC-18
+WL-00050,Viking-Kerrobert,64,SK,Viking,Horizontal Oil,Producing,2022-10-18,05-30-033-06W3,FAC-21
+WL-00051,Athabasca,383,AB,McMurray,SAGD Producer,Producing,2020-12-06,15-27-082-29W4,FAC-16
+WL-00052,Deep Basin-Edson,111,AB,Spirit River,Horizontal Liquids-Rich,Producing,2014-12-09,11-02-052-17W5,FAC-06
+WL-00053,Duvernay-Fox Creek,116,AB,Duvernay,Horizontal Oil,Producing,2021-02-02,14-30-064-23W5,FAC-08
+WL-00054,Duvernay-Fox Creek,777,AB,Duvernay,Horizontal Liquids-Rich,Producing,2024-07-25,06-08-063-07W5,FAC-08
+WL-00055,Cold Lake,0,AB,Clearwater,SAGD Producer,Suspended,2025-02-26,05-18-064-24W4,FAC-14
+WL-00056,Cardium-Pembina,91,AB,Cardium,Horizontal Oil,Producing,2024-03-05,13-04-050-11W5,FAC-10
+WL-00057,Athabasca,294,AB,McMurray,SAGD Producer,Producing,2021-05-17,10-03-081-19W4,FAC-17
+WL-00058,Montney-Dawson,600,BC,Montney,Horizontal Gas,Producing,2017-07-21,05-02-078-13W6,FAC-02
+WL-00059,Montney-Dawson,803,BC,Montney,Horizontal Gas,Producing,2024-12-23,08-21-081-23W6,FAC-02
+WL-00060,Duvernay-Fox Creek,0,AB,Duvernay,Horizontal Liquids-Rich,Shut-in,2020-01-09,16-16-066-06W5,FAC-07
+WL-00061,Swan Hills,50,AB,Swan Hills,Vertical Oil,Producing,2022-04-12,10-16-069-11W5,FAC-11
+WL-00062,Duvernay-Fox Creek,315,AB,Duvernay,Horizontal Liquids-Rich,Producing,2015-10-01,06-30-065-26W5,FAC-07
+WL-00063,Montney-Kakwa,0,AB,Montney,Horizontal Liquids-Rich,Standing,2020-10-27,08-13-060-09W6,FAC-03
+WL-00064,Athabasca,422,AB,McMurray,SAGD Producer,Producing,2020-08-03,04-29-088-22W4,FAC-18
+WL-00065,Montney-Dawson,0,BC,Montney,Horizontal Liquids-Rich,Drilling/Completing,2026-09-23,07-31-078-10W6,FAC-01
+WL-00066,Montney-Dawson,232,BC,Montney,Horizontal Liquids-Rich,Producing,2014-12-03,16-04-082-12W6,FAC-01
+WL-00067,Duvernay-Fox Creek,241,AB,Duvernay,Horizontal Liquids-Rich,Producing,2015-11-29,08-11-066-07W5,FAC-07
+WL-00068,Clearwater-Marten Hills,67,AB,Clearwater,Horizontal Heavy Oil,Producing,2022-08-29,08-31-073-22W4,FAC-12
+WL-00069,Peace River,291,AB,Bluesky,SAGD Producer,Producing,2018-01-05,03-02-084-08W5,FAC-19
+WL-00070,Montney-Kakwa,0,AB,Montney,Horizontal Gas,Suspended,2022-04-23,10-35-060-01W6,FAC-03
+WL-00071,Deep Basin-Edson,315,AB,Spirit River,Horizontal Liquids-Rich,Producing,2022-04-10,03-09-051-20W5,FAC-05
+WL-00072,Clearwater-Marten Hills,0,AB,Clearwater,Horizontal Heavy Oil,Suspended,2015-07-15,05-25-072-15W4,FAC-13
+WL-00073,Cold Lake,0,AB,Clearwater,SAGD Producer,Shut-in,2021-03-06,13-18-065-25W4,FAC-14
+WL-00074,Swan Hills,21,AB,Swan Hills,Vertical Oil,Producing,2021-03-12,01-14-066-23W5,FAC-11
+WL-00075,Deep Basin-Edson,0,AB,Spirit River,Horizontal Liquids-Rich,Standing,2019-02-09,06-07-052-13W5,FAC-06
+WL-00076,Montney-Kakwa,339,AB,Montney,Horizontal Liquids-Rich,Producing,2018-11-28,12-29-061-06W6,FAC-04
+WL-00077,Clearwater-Marten Hills,39,AB,Clearwater,Horizontal Heavy Oil,Producing,2018-10-06,16-04-076-10W4,FAC-13
+WL-00078,Athabasca,338,AB,McMurray,SAGD Producer,Producing,2022-01-27,10-33-085-27W4,FAC-18
+WL-00079,Lloydminster Heavy,15,SK,Mannville,Vertical Oil,Producing,2015-04-03,04-16-047-06W3,FAC-24
+WL-00080,Clearwater-Marten Hills,0,AB,Clearwater,Horizontal Heavy Oil,Standing,2018-04-10,12-02-076-03W4,FAC-12
+WL-00081,Lloydminster Heavy,88,SK,Mannville,Horizontal Heavy Oil,Producing,2021-04-14,04-05-052-11W3,FAC-24
+WL-00082,Athabasca,597,AB,McMurray,SAGD Producer,Producing,2022-08-23,12-16-082-15W4,FAC-16
+WL-00083,Swan Hills,53,AB,Swan Hills,Vertical Oil,Producing,2025-07-25,15-32-065-15W5,FAC-11
+WL-00084,Swan Hills,0,AB,Swan Hills,Vertical Oil,Standing,2020-11-17,03-17-069-17W5,FAC-11
+WL-00085,Duvernay-Fox Creek,0,AB,Duvernay,Horizontal Liquids-Rich,Drilling/Completing,2026-08-10,09-28-062-23W5,FAC-08
+WL-00086,Duvernay-Fox Creek,97,AB,Duvernay,Horizontal Oil,Producing,2024-02-07,08-34-063-17W5,FAC-08
+WL-00087,Cardium-Pembina,110,AB,Cardium,Horizontal Oil,Producing,2021-10-28,09-20-046-28W5,FAC-10
+WL-00088,Cold Lake,522,AB,Clearwater,SAGD Producer,Producing,2022-04-23,13-07-064-28W4,FAC-15
+WL-00089,Viking-Kerrobert,127,SK,Viking,Horizontal Oil,Producing,2022-03-27,09-31-032-12W3,FAC-21
+WL-00090,Cardium-Pembina,281,AB,Cardium,Horizontal Oil,Producing,2023-01-26,09-25-048-28W5,FAC-10
+WL-00091,Lloydminster Heavy,43,SK,Mannville,Horizontal Heavy Oil,Producing,2016-08-02,10-09-046-28W3,FAC-24
+WL-00092,Cardium-Pembina,0,AB,Cardium,Horizontal Oil,Standing,2024-05-01,13-03-047-15W5,FAC-09
+WL-00093,Lloydminster Heavy,75,SK,Mannville,Horizontal Heavy Oil,Producing,2023-06-16,07-04-049-10W3,FAC-25
+WL-00094,Montney-Kakwa,0,AB,Montney,Horizontal Liquids-Rich,Standing,2018-05-18,02-05-063-19W6,FAC-04
+WL-00095,Cardium-Pembina,27,AB,Cardium,Horizontal Oil,Producing,2018-02-17,09-30-050-20W5,FAC-09
+WL-00096,Montney-Kakwa,498,AB,Montney,Horizontal Liquids-Rich,Producing,2022-12-12,12-06-062-18W6,FAC-03
+WL-00097,Duvernay-Fox Creek,211,AB,Duvernay,Horizontal Liquids-Rich,Producing,2021-11-28,05-11-063-07W5,FAC-08
+WL-00098,Clearwater-Marten Hills,71,AB,Clearwater,Horizontal Heavy Oil,Producing,2022-04-05,03-09-076-10W4,FAC-13
+WL-00099,Peace River,127,AB,Bluesky,Horizontal Heavy Oil,Producing,2022-01-11,15-26-082-07W5,FAC-19
+WL-00100,Deep Basin-Edson,776,AB,Spirit River,Horizontal Gas,Producing,2020-12-07,03-19-054-03W5,FAC-05
+WL-00101,Bakken-Estevan,0,SK,Bakken,Horizontal Oil,Suspended,2015-02-23,07-02-007-27W2,FAC-23
+WL-00102,Deep Basin-Edson,0,AB,Spirit River,Horizontal Gas,Drilling/Completing,2026-09-13,08-03-053-27W5,FAC-06
+WL-00103,Athabasca,0,AB,McMurray,SAGD Producer,Suspended,2021-07-13,02-22-085-07W4,FAC-17
+WL-00104,Clearwater-Marten Hills,108,AB,Clearwater,Horizontal Heavy Oil,Producing,2020-04-27,14-30-072-21W4,FAC-12
+WL-00105,Cold Lake,0,AB,Clearwater,SAGD Producer,Shut-in,2021-05-30,12-08-064-04W4,FAC-14
+WL-00106,Duvernay-Fox Creek,830,AB,Duvernay,Horizontal Liquids-Rich,Producing,2025-03-20,12-12-065-29W5,FAC-08
+WL-00107,Viking-Kerrobert,127,SK,Viking,Horizontal Oil,Producing,2023-01-08,14-13-032-13W3,FAC-21
+WL-00108,Cardium-Pembina,192,AB,Cardium,Horizontal Oil,Producing,2021-12-10,03-13-048-06W5,FAC-10
+WL-00109,Montney-Dawson,454,BC,Montney,Horizontal Gas,Producing,2019-02-12,03-03-080-27W6,FAC-02
+WL-00110,Bakken-Estevan,84,SK,Bakken,Horizontal Oil,Producing,2016-10-17,04-18-002-23W2,FAC-22
+WL-00111,Montney-Dawson,499,BC,Montney,Horizontal Liquids-Rich,Producing,2020-02-24,01-19-079-19W6,FAC-02
+WL-00112,Bakken-Estevan,400,SK,Bakken,Horizontal Oil,Producing,2025-03-03,09-26-002-06W2,FAC-23
+WL-00113,Cardium-Pembina,358,AB,Cardium,Horizontal Oil,Producing,2023-05-13,05-02-046-16W5,FAC-10
+WL-00114,Montney-Dawson,0,BC,Montney,Horizontal Gas,Suspended,2021-03-05,07-10-081-07W6,FAC-01
+WL-00115,Lloydminster Heavy,54,SK,Mannville,Horizontal Heavy Oil,Producing,2018-10-24,14-26-052-03W3,FAC-24
+WL-00116,Bakken-Estevan,163,SK,Bakken,Horizontal Oil,Producing,2017-02-11,01-01-004-06W2,FAC-22
+WL-00117,Cardium-Pembina,0,AB,Cardium,Horizontal Oil,Drilling/Completing,2026-09-01,11-23-047-27W5,FAC-09
+WL-00118,Cold Lake,127,AB,Clearwater,CSS Producer,Producing,2025-07-30,16-02-064-26W4,FAC-15
+WL-00119,Clearwater-Marten Hills,104,AB,Clearwater,Horizontal Heavy Oil,Producing,2022-06-23,07-32-072-27W4,FAC-12
+WL-00120,Montney-Kakwa,0,AB,Montney,Horizontal Liquids-Rich,Shut-in,2021-09-16,12-36-060-05W6,FAC-03
+WL-00121,Viking-Kerrobert,153,SK,Viking,Horizontal Oil,Producing,2017-07-06,11-17-036-29W3,FAC-21
+WL-00122,Deep Basin-Edson,0,AB,Spirit River,Horizontal Gas,Drilling/Completing,2026-08-22,13-32-054-26W5,FAC-05
+WL-00123,Viking-Kerrobert,0,SK,Viking,Horizontal Oil,Suspended,2020-01-23,07-17-036-24W3,FAC-21
+WL-00124,Montney-Dawson,1400,BC,Montney,Horizontal Gas,Producing,2025-03-10,13-10-082-26W6,FAC-02
+WL-00125,Montney-Kakwa,776,AB,Montney,Horizontal Liquids-Rich,Producing,2022-06-05,05-02-062-05W6,FAC-03
+WL-00126,Cardium-Pembina,0,AB,Cardium,Horizontal Oil,Suspended,2022-12-18,12-03-049-02W5,FAC-09
+WL-00127,Bakken-Estevan,210,SK,Bakken,Horizontal Oil,Producing,2021-10-10,02-07-003-08W2,FAC-23
+WL-00128,Athabasca,0,AB,McMurray,SAGD Producer,Shut-in,2020-09-04,14-13-090-16W4,FAC-17
+WL-00129,Clearwater-Marten Hills,143,AB,Clearwater,Horizontal Heavy Oil,Producing,2021-05-14,04-12-072-07W4,FAC-13
+WL-00130,Clearwater-Marten Hills,36,AB,Clearwater,Horizontal Heavy Oil,Producing,2016-03-15,11-14-074-08W4,FAC-13
+WL-00131,Montney-Kakwa,206,AB,Montney,Horizontal Liquids-Rich,Producing,2020-01-30,02-04-063-07W6,FAC-03
+WL-00132,Bakken-Estevan,0,SK,Bakken,Horizontal Oil,Drilling/Completing,2026-09-18,03-08-003-25W2,FAC-23
+WL-00133,Bakken-Estevan,212,SK,Bakken,Horizontal Oil,Producing,2020-07-07,01-07-004-09W2,FAC-23
+WL-00134,Duvernay-Fox Creek,517,AB,Duvernay,Horizontal Liquids-Rich,Producing,2024-05-31,04-06-064-18W5,FAC-08
+WL-00135,Bakken-Estevan,98,SK,Bakken,Horizontal Oil,Producing,2017-09-06,03-15-004-26W2,FAC-23
+WL-00136,Montney-Kakwa,414,AB,Montney,Horizontal Liquids-Rich,Producing,2018-08-19,16-26-060-10W6,FAC-04
+WL-00137,Athabasca,0,AB,McMurray,SAGD Producer,Suspended,2019-10-06,11-19-090-05W4,FAC-17
+WL-00138,Duvernay-Fox Creek,241,AB,Duvernay,Horizontal Liquids-Rich,Producing,2023-11-04,10-17-065-13W5,FAC-08
+WL-00139,Cardium-Pembina,0,AB,Cardium,Horizontal Oil,Standing,2023-04-27,08-15-049-24W5,FAC-09
+WL-00140,Montney-Dawson,504,BC,Montney,Horizontal Gas,Producing,2022-03-02,09-15-079-07W6,FAC-02
+WL-00141,Clearwater-Marten Hills,0,AB,Clearwater,Horizontal Heavy Oil,Shut-in,2022-05-10,16-30-072-01W4,FAC-13
+WL-00142,Cold Lake,94,AB,Clearwater,CSS Producer,Producing,2019-06-09,14-35-063-27W4,FAC-15
+WL-00143,Viking-Kerrobert,196,SK,Viking,Horizontal Oil,Producing,2025-04-17,02-32-036-17W3,FAC-21
+WL-00144,Montney-Kakwa,0,AB,Montney,Horizontal Liquids-Rich,Shut-in,2022-02-25,06-03-064-21W6,FAC-03
+WL-00145,Clearwater-Marten Hills,126,AB,Clearwater,Horizontal Heavy Oil,Producing,2019-05-15,14-02-072-06W4,FAC-13
+WL-00146,Athabasca,193,AB,McMurray,SAGD Producer,Producing,2015-03-16,05-34-084-10W4,FAC-18
+WL-00147,Montney-Kakwa,740,AB,Montney,Horizontal Liquids-Rich,Producing,2023-01-10,15-29-062-14W6,FAC-03
+WL-00148,Bakken-Estevan,108,SK,Bakken,Horizontal Oil,Producing,2022-07-16,07-19-004-15W2,FAC-23
+WL-00149,Cold Lake,561,AB,Clearwater,SAGD Producer,Producing,2021-02-20,07-14-063-03W4,FAC-14
+WL-00150,Montney-Kakwa,576,AB,Montney,Horizontal Liquids-Rich,Producing,2020-12-14,07-08-061-29W6,FAC-03
+WL-00151,Clearwater-Marten Hills,40,AB,Clearwater,Horizontal Heavy Oil,Producing,2020-07-25,05-12-072-16W4,FAC-13
+WL-00152,Deep Basin-Edson,0,AB,Spirit River,Horizontal Gas,Drilling/Completing,2026-09-02,16-07-054-23W5,FAC-05
+WL-00153,Cardium-Pembina,55,AB,Cardium,Horizontal Oil,Producing,2023-12-30,03-19-048-20W5,FAC-09
+WL-00154,Lloydminster Heavy,94,SK,Mannville,Horizontal Heavy Oil,Producing,2024-04-21,01-30-051-09W3,FAC-24
+WL-00155,Athabasca,0,AB,McMurray,SAGD Producer,Suspended,2021-12-10,04-14-083-03W4,FAC-16
+WL-00156,Peace River,252,AB,Bluesky,SAGD Producer,Producing,2023-06-05,11-27-082-01W5,FAC-19
+WL-00157,Montney-Dawson,769,BC,Montney,Horizontal Gas,Producing,2024-05-03,03-24-078-12W6,FAC-02
+WL-00158,Bakken-Estevan,288,SK,Bakken,Horizontal Oil,Producing,2022-06-21,02-11-007-27W2,FAC-23
+WL-00159,Montney-Dawson,283,BC,Montney,Horizontal Liquids-Rich,Producing,2024-04-07,06-15-081-21W6,FAC-02
+WL-00160,Duvernay-Fox Creek,777,AB,Duvernay,Horizontal Liquids-Rich,Producing,2023-05-18,05-18-065-10W5,FAC-08
+WL-00161,Duvernay-Fox Creek,582,AB,Duvernay,Horizontal Liquids-Rich,Producing,2022-03-22,05-21-063-18W5,FAC-08
+WL-00162,Duvernay-Fox Creek,187,AB,Duvernay,Horizontal Oil,Producing,2025-05-30,14-19-063-14W5,FAC-07
+WL-00163,Athabasca,314,AB,McMurray,SAGD Producer,Producing,2017-09-28,09-15-080-16W4,FAC-16
+WL-00164,Duvernay-Fox Creek,710,AB,Duvernay,Horizontal Liquids-Rich,Producing,2022-11-04,10-18-062-17W5,FAC-07
+WL-00165,Cardium-Pembina,0,AB,Cardium,Horizontal Oil,Shut-in,2022-09-11,02-28-050-21W5,FAC-10
+WL-00166,Deep Basin-Edson,410,AB,Spirit River,Horizontal Liquids-Rich,Producing,2019-08-09,04-33-051-24W5,FAC-06
+WL-00167,Swan Hills,38,AB,Swan Hills,Vertical Oil,Producing,2021-11-08,01-12-069-27W5,FAC-11
+WL-00168,Duvernay-Fox Creek,341,AB,Duvernay,Horizontal Liquids-Rich,Producing,2020-03-17,15-35-062-27W5,FAC-08
+WL-00169,Swan Hills,118,AB,Swan Hills,Horizontal Oil,Producing,2019-06-05,11-32-067-14W5,FAC-11
+WL-00170,Cardium-Pembina,140,AB,Cardium,Horizontal Oil,Producing,2023-05-29,16-04-050-18W5,FAC-10
+WL-00171,Athabasca,240,AB,McMurray,SAGD Producer,Producing,2020-09-28,14-18-080-27W4,FAC-16
+WL-00172,Duvernay-Fox Creek,722,AB,Duvernay,Horizontal Liquids-Rich,Producing,2021-03-03,02-21-066-02W5,FAC-08
+WL-00173,Swan Hills,170,AB,Swan Hills,Horizontal Oil,Producing,2025-06-28,13-12-069-07W5,FAC-11
+WL-00174,Athabasca,313,AB,McMurray,SAGD Producer,Producing,2021-03-12,07-32-090-17W4,FAC-17
+WL-00175,Swan Hills,324,AB,Swan Hills,Horizontal Oil,Producing,2023-08-24,05-15-065-06W5,FAC-11
+WL-00176,Lloydminster Heavy,211,SK,Mannville,Horizontal Heavy Oil,Producing,2025-03-20,09-01-048-08W3,FAC-25
+WL-00177,Viking-Kerrobert,92,SK,Viking,Horizontal Oil,Producing,2018-06-25,07-22-036-03W3,FAC-20
+WL-00178,Bakken-Estevan,80,SK,Bakken,Horizontal Oil,Producing,2024-06-03,10-19-002-26W2,FAC-23
+WL-00179,Peace River,106,AB,Bluesky,Horizontal Heavy Oil,Producing,2018-06-07,01-20-083-13W5,FAC-19
+WL-00180,Cardium-Pembina,0,AB,Cardium,Horizontal Oil,Shut-in,2022-11-22,06-26-050-11W5,FAC-10
+WL-00181,Clearwater-Marten Hills,0,AB,Clearwater,Horizontal Heavy Oil,Suspended,2022-06-06,06-31-072-02W4,FAC-12
+WL-00182,Lloydminster Heavy,92,SK,Mannville,Horizontal Heavy Oil,Producing,2023-06-26,08-04-046-28W3,FAC-24
+WL-00183,Cold Lake,515,AB,Clearwater,SAGD Producer,Producing,2020-09-07,07-18-066-18W4,FAC-14
+WL-00184,Clearwater-Marten Hills,0,AB,Clearwater,Horizontal Heavy Oil,Suspended,2018-06-11,11-17-076-26W4,FAC-13
+WL-00185,Montney-Dawson,568,BC,Montney,Horizontal Gas,Producing,2019-03-26,11-20-082-27W6,FAC-01
+WL-00186,Duvernay-Fox Creek,334,AB,Duvernay,Horizontal Liquids-Rich,Producing,2019-12-24,03-30-062-25W5,FAC-07
+WL-00187,Athabasca,269,AB,McMurray,SAGD Producer,Producing,2018-09-14,14-33-080-11W4,FAC-16
+WL-00188,Clearwater-Marten Hills,51,AB,Clearwater,Horizontal Heavy Oil,Producing,2023-03-25,13-08-073-11W4,FAC-13
+WL-00189,Duvernay-Fox Creek,213,AB,Duvernay,Horizontal Oil,Producing,2023-01-30,07-02-066-01W5,FAC-08
+WL-00190,Clearwater-Marten Hills,0,AB,Clearwater,Horizontal Heavy Oil,Drilling/Completing,2026-08-15,14-18-074-11W4,FAC-12
+WL-00191,Montney-Kakwa,228,AB,Montney,Horizontal Liquids-Rich,Producing,2022-08-02,03-18-061-06W6,FAC-04
+WL-00192,Deep Basin-Edson,0,AB,Spirit River,Horizontal Liquids-Rich,Drilling/Completing,2026-08-05,11-31-054-15W5,FAC-06
+WL-00193,Athabasca,0,AB,McMurray,SAGD Producer,Drilling/Completing,2026-08-27,12-36-090-23W4,FAC-16
+WL-00194,Montney-Dawson,590,BC,Montney,Horizontal Liquids-Rich,Producing,2021-11-29,15-31-078-20W6,FAC-01
+WL-00195,Montney-Kakwa,284,AB,Montney,Horizontal Gas,Producing,2021-08-10,10-18-063-20W6,FAC-04
+WL-00196,Swan Hills,181,AB,Swan Hills,Horizontal Oil,Producing,2021-08-25,02-13-067-29W5,FAC-11
+WL-00197,Montney-Kakwa,0,AB,Montney,Horizontal Liquids-Rich,Standing,2022-03-08,02-12-063-22W6,FAC-04
+WL-00198,Clearwater-Marten Hills,92,AB,Clearwater,Horizontal Heavy Oil,Producing,2023-04-20,07-13-075-10W4,FAC-12
+WL-00199,Peace River,147,AB,Bluesky,Horizontal Heavy Oil,Producing,2022-10-24,04-33-083-07W5,FAC-19
+WL-00200,Montney-Kakwa,0,AB,Montney,Horizontal Liquids-Rich,Suspended,2020-01-31,10-08-062-07W6,FAC-03
+WL-00201,Montney-Kakwa,303,AB,Montney,Horizontal Liquids-Rich,Producing,2015-07-31,03-30-061-14W6,FAC-03
+WL-00202,Athabasca,358,AB,McMurray,SAGD Producer,Producing,2024-03-03,04-29-084-25W4,FAC-17
+WL-00203,Clearwater-Marten Hills,0,AB,Clearwater,Horizontal Heavy Oil,Shut-in,2016-06-14,05-04-073-13W4,FAC-12
+WL-00204,Cardium-Pembina,169,AB,Cardium,Horizontal Oil,Producing,2018-12-01,07-05-049-09W5,FAC-10
+WL-00205,Clearwater-Marten Hills,128,AB,Clearwater,Horizontal Heavy Oil,Producing,2022-11-03,10-25-073-05W4,FAC-13
+WL-00206,Deep Basin-Edson,238,AB,Spirit River,Horizontal Liquids-Rich,Producing,2016-04-14,16-36-052-14W5,FAC-05
+WL-00207,Peace River,0,AB,Bluesky,Horizontal Heavy Oil,Suspended,2024-12-12,07-32-084-10W5,FAC-19
+WL-00208,Montney-Dawson,325,BC,Montney,Horizontal Gas,Producing,2022-02-16,07-23-078-23W6,FAC-02
+WL-00209,Cold Lake,486,AB,Clearwater,SAGD Producer,Producing,2021-10-30,11-03-064-25W4,FAC-15
+WL-00210,Cold Lake,467,AB,Clearwater,SAGD Producer,Producing,2022-04-13,10-12-062-22W4,FAC-14
+WL-00211,Swan Hills,39,AB,Swan Hills,Vertical Oil,Producing,2024-03-14,09-21-066-05W5,FAC-11
+WL-00212,Montney-Kakwa,0,AB,Montney,Horizontal Liquids-Rich,Suspended,2022-07-18,11-06-064-15W6,FAC-03
+WL-00213,Cardium-Pembina,40,AB,Cardium,Horizontal Oil,Producing,2018-11-29,11-25-050-29W5,FAC-09
+WL-00214,Montney-Kakwa,282,AB,Montney,Horizontal Gas,Producing,2018-07-15,15-24-061-02W6,FAC-04
+WL-00215,Montney-Dawson,0,BC,Montney,Horizontal Gas,Shut-in,2022-06-03,12-29-080-17W6,FAC-02
+WL-00216,Clearwater-Marten Hills,53,AB,Clearwater,Horizontal Heavy Oil,Producing,2016-12-05,14-24-074-16W4,FAC-12
+WL-00217,Viking-Kerrobert,138,SK,Viking,Horizontal Oil,Producing,2019-03-27,07-05-035-04W3,FAC-20
+WL-00218,Clearwater-Marten Hills,79,AB,Clearwater,Horizontal Heavy Oil,Producing,2020-01-08,13-25-075-04W4,FAC-12
+WL-00219,Montney-Kakwa,493,AB,Montney,Horizontal Liquids-Rich,Producing,2020-03-28,11-02-063-22W6,FAC-03
+WL-00220,Athabasca,404,AB,McMurray,SAGD Producer,Producing,2020-07-01,04-08-084-23W4,FAC-16
+WL-00221,Lloydminster Heavy,0,SK,Mannville,Horizontal Heavy Oil,Shut-in,2023-05-22,07-11-052-11W3,FAC-24
+WL-00222,Peace River,54,AB,Bluesky,Horizontal Heavy Oil,Producing,2019-04-29,11-07-082-02W5,FAC-19
+WL-00223,Montney-Kakwa,384,AB,Montney,Horizontal Liquids-Rich,Producing,2025-07-23,16-10-060-01W6,FAC-04
+WL-00224,Lloydminster Heavy,136,SK,Mannville,Horizontal Heavy Oil,Producing,2024-03-27,04-21-047-02W3,FAC-25
+WL-00225,Cold Lake,248,AB,Clearwater,SAGD Producer,Producing,2017-09-14,05-36-064-09W4,FAC-15
+WL-00226,Montney-Dawson,0,BC,Montney,Horizontal Liquids-Rich,Shut-in,2021-04-25,14-08-078-28W6,FAC-01
+WL-00227,Montney-Kakwa,208,AB,Montney,Horizontal Liquids-Rich,Producing,2017-08-29,03-22-063-02W6,FAC-04
+WL-00228,Clearwater-Marten Hills,0,AB,Clearwater,Horizontal Heavy Oil,Shut-in,2022-06-21,10-15-076-10W4,FAC-12
+WL-00229,Bakken-Estevan,58,SK,Bakken,Horizontal Oil,Producing,2017-06-11,01-19-007-23W2,FAC-23
+WL-00230,Cold Lake,152,AB,Clearwater,CSS Producer,Producing,2022-11-09,11-10-062-02W4,FAC-15
+WL-00231,Duvernay-Fox Creek,560,AB,Duvernay,Horizontal Liquids-Rich,Producing,2018-03-28,15-02-064-08W5,FAC-08
+WL-00232,Duvernay-Fox Creek,722,AB,Duvernay,Horizontal Liquids-Rich,Producing,2022-11-19,04-23-063-16W5,FAC-07
+WL-00233,Cold Lake,40,AB,Clearwater,CSS Producer,Producing,2017-05-05,11-19-066-28W4,FAC-15
+WL-00234,Athabasca,657,AB,McMurray,SAGD Producer,Producing,2023-02-07,01-10-086-09W4,FAC-16
+WL-00235,Athabasca,438,AB,McMurray,SAGD Producer,Producing,2021-10-14,04-14-082-27W4,FAC-17
+WL-00236,Duvernay-Fox Creek,531,AB,Duvernay,Horizontal Liquids-Rich,Producing,2022-07-21,15-18-065-10W5,FAC-07
+WL-00237,Duvernay-Fox Creek,341,AB,Duvernay,Horizontal Liquids-Rich,Producing,2021-08-10,11-24-062-20W5,FAC-08
+WL-00238,Montney-Dawson,166,BC,Montney,Horizontal Liquids-Rich,Producing,2016-01-29,11-03-081-15W6,FAC-02
+WL-00239,Swan Hills,36,AB,Swan Hills,Vertical Oil,Producing,2023-08-14,09-05-065-07W5,FAC-11
+WL-00240,Athabasca,215,AB,McMurray,SAGD Producer,Producing,2020-03-27,11-28-090-24W4,FAC-18
+WL-00241,Cold Lake,0,AB,Clearwater,SAGD Producer,Shut-in,2024-01-03,12-19-065-27W4,FAC-15
+WL-00242,Montney-Kakwa,0,AB,Montney,Horizontal Liquids-Rich,Drilling/Completing,2026-09-12,05-08-061-02W6,FAC-04
+WL-00243,Cardium-Pembina,0,AB,Cardium,Horizontal Oil,Suspended,2023-05-22,15-25-048-01W5,FAC-10
+WL-00244,Deep Basin-Edson,336,AB,Spirit River,Horizontal Gas,Producing,2017-03-20,12-13-055-13W5,FAC-06
+WL-00245,Deep Basin-Edson,659,AB,Spirit River,Horizontal Gas,Producing,2021-01-07,13-03-052-25W5,FAC-06
+WL-00246,Viking-Kerrobert,0,SK,Viking,Horizontal Oil,Shut-in,2023-01-12,07-32-033-24W3,FAC-20
+WL-00247,Lloydminster Heavy,0,SK,Mannville,Horizontal Heavy Oil,Shut-in,2016-12-15,16-35-048-21W3,FAC-24
+WL-00248,Swan Hills,0,AB,Swan Hills,Vertical Oil,Shut-in,2018-06-02,09-32-069-12W5,FAC-11
+WL-00249,Deep Basin-Edson,888,AB,Spirit River,Horizontal Gas,Producing,2023-08-18,07-12-052-29W5,FAC-06
+WL-00250,Cardium-Pembina,138,AB,Cardium,Horizontal Oil,Producing,2022-06-12,05-06-049-06W5,FAC-10
+WL-00251,Montney-Dawson,185,BC,Montney,Horizontal Liquids-Rich,Producing,2017-05-14,13-22-080-25W6,FAC-02
+WL-00252,Cold Lake,0,AB,Clearwater,SAGD Producer,Drilling/Completing,2026-08-18,14-18-063-05W4,FAC-15
+WL-00253,Duvernay-Fox Creek,270,AB,Duvernay,Horizontal Liquids-Rich,Producing,2020-12-01,01-30-062-07W5,FAC-08
+WL-00254,Cardium-Pembina,188,AB,Cardium,Horizontal Oil,Producing,2023-07-17,02-04-049-10W5,FAC-10
+WL-00255,Montney-Kakwa,0,AB,Montney,Horizontal Liquids-Rich,Suspended,2022-02-08,12-10-063-27W6,FAC-04
+WL-00256,Athabasca,260,AB,McMurray,SAGD Producer,Producing,2023-03-15,03-07-080-01W4,FAC-17
+WL-00257,Deep Basin-Edson,364,AB,Spirit River,Horizontal Gas,Producing,2022-02-16,08-02-055-06W5,FAC-05
+WL-00258,Bakken-Estevan,114,SK,Bakken,Horizontal Oil,Producing,2019-12-30,01-32-002-19W2,FAC-23
+WL-00259,Cardium-Pembina,114,AB,Cardium,Horizontal Oil,Producing,2021-09-09,09-21-047-01W5,FAC-09
+WL-00260,Montney-Kakwa,517,AB,Montney,Horizontal Liquids-Rich,Producing,2018-08-28,01-19-061-22W6,FAC-03
+WL-00261,Montney-Dawson,285,BC,Montney,Horizontal Gas,Producing,2022-04-23,16-35-082-15W6,FAC-02
+WL-00262,Cold Lake,145,AB,Clearwater,CSS Producer,Producing,2021-08-21,09-06-065-29W4,FAC-15
+WL-00263,Clearwater-Marten Hills,110,AB,Clearwater,Horizontal Heavy Oil,Producing,2022-03-27,11-06-072-01W4,FAC-13
+WL-00264,Athabasca,592,AB,McMurray,SAGD Producer,Producing,2024-03-02,12-32-083-26W4,FAC-18
+WL-00265,Duvernay-Fox Creek,253,AB,Duvernay,Horizontal Liquids-Rich,Producing,2021-10-14,09-30-065-21W5,FAC-07
+WL-00266,Cold Lake,651,AB,Clearwater,SAGD Producer,Producing,2023-02-17,12-30-064-08W4,FAC-14
+WL-00267,Viking-Kerrobert,94,SK,Viking,Horizontal Oil,Producing,2022-04-16,09-08-036-02W3,FAC-20
+WL-00268,Duvernay-Fox Creek,261,AB,Duvernay,Horizontal Oil,Producing,2024-05-11,14-31-062-08W5,FAC-08
+WL-00269,Athabasca,352,AB,McMurray,SAGD Producer,Producing,2021-06-15,11-01-087-08W4,FAC-16
+WL-00270,Cold Lake,432,AB,Clearwater,SAGD Producer,Producing,2018-02-02,12-32-064-27W4,FAC-14
+WL-00271,Cold Lake,117,AB,Clearwater,CSS Producer,Producing,2022-10-10,01-14-064-22W4,FAC-15
+WL-00272,Montney-Kakwa,363,AB,Montney,Horizontal Liquids-Rich,Producing,2024-02-12,10-27-061-03W6,FAC-03
+WL-00273,Montney-Kakwa,808,AB,Montney,Horizontal Gas,Producing,2023-06-07,16-18-062-14W6,FAC-04
+WL-00274,Peace River,528,AB,Bluesky,SAGD Producer,Producing,2022-06-02,13-12-082-17W5,FAC-19
+WL-00275,Duvernay-Fox Creek,589,AB,Duvernay,Horizontal Liquids-Rich,Producing,2024-11-23,01-35-062-21W5,FAC-08
+WL-00276,Lloydminster Heavy,0,SK,Mannville,Vertical Oil,Shut-in,2023-04-03,07-12-051-09W3,FAC-24
+WL-00277,Deep Basin-Edson,0,AB,Spirit River,Horizontal Gas,Standing,2020-01-16,09-20-052-11W5,FAC-05
+WL-00278,Duvernay-Fox Creek,341,AB,Duvernay,Horizontal Liquids-Rich,Producing,2017-08-23,13-22-063-27W5,FAC-08
+WL-00279,Athabasca,301,AB,McMurray,SAGD Producer,Producing,2018-01-29,16-31-084-26W4,FAC-16
+WL-00280,Lloydminster Heavy,0,SK,Mannville,Horizontal Heavy Oil,Shut-in,2018-07-03,05-11-052-17W3,FAC-24
+WL-00281,Deep Basin-Edson,241,AB,Spirit River,Horizontal Gas,Producing,2022-09-27,02-13-053-19W5,FAC-05
+WL-00282,Montney-Dawson,648,BC,Montney,Horizontal Gas,Producing,2019-08-14,08-02-082-26W6,FAC-01
+WL-00283,Deep Basin-Edson,361,AB,Spirit River,Horizontal Liquids-Rich,Producing,2023-09-14,13-17-054-02W5,FAC-05
+WL-00284,Deep Basin-Edson,472,AB,Spirit River,Horizontal Gas,Producing,2024-03-14,03-19-054-02W5,FAC-06
+WL-00285,Bakken-Estevan,226,SK,Bakken,Horizontal Oil,Producing,2021-08-19,15-21-006-04W2,FAC-22
+WL-00286,Montney-Kakwa,980,AB,Montney,Horizontal Gas,Producing,2022-08-16,09-20-062-24W6,FAC-04
+WL-00287,Cold Lake,340,AB,Clearwater,SAGD Producer,Producing,2021-11-28,07-11-066-23W4,FAC-15
+WL-00288,Clearwater-Marten Hills,36,AB,Clearwater,Horizontal Heavy Oil,Producing,2022-07-23,04-14-076-24W4,FAC-12
+WL-00289,Viking-Kerrobert,207,SK,Viking,Horizontal Oil,Producing,2019-04-16,08-10-035-21W3,FAC-21
+WL-00290,Athabasca,0,AB,McMurray,SAGD Producer,Standing,2024-08-26,13-36-087-21W4,FAC-18
+WL-00291,Cardium-Pembina,62,AB,Cardium,Horizontal Oil,Producing,2024-03-16,10-11-046-16W5,FAC-09
+WL-00292,Viking-Kerrobert,0,SK,Viking,Horizontal Oil,Standing,2025-02-04,04-25-034-11W3,FAC-21
+WL-00293,Clearwater-Marten Hills,0,AB,Clearwater,Horizontal Heavy Oil,Standing,2021-06-13,16-29-075-25W4,FAC-13
+WL-00294,Duvernay-Fox Creek,47,AB,Duvernay,Horizontal Oil,Producing,2022-01-22,14-15-064-29W5,FAC-07
+WL-00295,Deep Basin-Edson,670,AB,Spirit River,Horizontal Gas,Producing,2025-02-10,08-04-053-19W5,FAC-05
+WL-00296,Bakken-Estevan,67,SK,Bakken,Horizontal Oil,Producing,2023-06-10,01-31-002-01W2,FAC-22
+WL-00297,Montney-Dawson,427,BC,Montney,Horizontal Liquids-Rich,Producing,2024-05-14,13-05-082-14W6,FAC-02
+WL-00298,Cardium-Pembina,198,AB,Cardium,Horizontal Oil,Producing,2023-07-11,11-20-050-06W5,FAC-09
+WL-00299,Cardium-Pembina,241,AB,Cardium,Horizontal Oil,Producing,2020-11-09,04-09-049-22W5,FAC-10
+WL-00300,Athabasca,218,AB,McMurray,SAGD Producer,Producing,2018-01-29,11-35-088-17W4,FAC-18
