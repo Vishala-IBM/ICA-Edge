@@ -1,0 +1,76 @@
+Workstream,Milestone,Start_Date,End_Date,Status
+Strategy and Governance,Transformation charter approved,2026-01-12,2026-02-21,Completed
+SAP S/4HANA Transformation,Readiness check and approach decision,2026-01-19,2026-05-07,Completed
+Digital and Data,Data strategy and governance,2026-01-26,2026-06-19,Completed
+Upstream Decarbonisation,Methane baseline complete,2026-02-02,2026-05-16,Completed
+ESG and Reporting,GHG inventory baseline,2026-02-09,2026-05-12,Completed
+Strategy and Governance,PMO and governance model live,2026-02-13,2026-06-28,Completed
+Supply Chain and Planning,Demand planning design (IBP),2026-02-16,2026-04-07,Completed
+Refining and Low-Carbon Fuels,Energy audit and heat-integration study,2026-03-02,2026-04-12,Completed
+People and Change,Stakeholder analysis,2026-03-16,2026-05-26,Completed
+Supply Chain and Planning,IBP demand go-live,2026-03-28,2026-06-13,Completed
+Refining and Low-Carbon Fuels,Renewable diesel feasibility,2026-04-17,2026-06-30,Completed
+SAP S/4HANA Transformation,Fit-to-standard workshops,2026-05-07,2026-08-16,Completed
+Upstream Decarbonisation,Continuous monitoring pilot,2026-05-08,2026-08-17,Completed
+ESG and Reporting,Emissions calculation platform live,2026-05-26,2026-07-22,Completed
+People and Change,Change impact assessment,2026-05-29,2026-09-11,Completed
+Digital and Data,Datasphere foundation live,2026-06-17,2026-08-10,Completed
+Supply Chain and Planning,Supply planning design,2026-06-19,2026-09-24,Completed
+Refining and Low-Carbon Fuels,Co-processing trial,2026-06-23,2026-10-29,In Progress
+Strategy and Governance,Baseline and ambition statement,2026-07-05,2026-08-25,Completed
+ESG and Reporting,Targets approved by board,2026-07-21,2026-10-31,At Risk
+Digital and Data,OT historian integration,2026-08-07,2026-11-18,In Progress
+Upstream Decarbonisation,Monitoring rollout wave 1,2026-08-16,2027-01-01,At Risk
+Strategy and Governance,Scenario and price-deck set approved,2026-08-17,2026-12-30,In Progress
+SAP S/4HANA Transformation,Solution design sign-off,2026-08-18,2026-11-11,In Progress
+People and Change,Training needs analysis,2026-09-25,2026-12-21,In Progress
+Supply Chain and Planning,IBP supply go-live,2026-09-26,2026-12-01,In Progress
+Refining and Low-Carbon Fuels,Process heat electrification pilot FEED,2026-11-03,2027-01-19,Not Started
+ESG and Reporting,ISSB-aligned disclosure draft,2026-11-07,2027-01-02,Not Started
+Digital and Data,KPI semantic layer v1,2026-11-23,2027-02-21,Not Started
+SAP S/4HANA Transformation,Build and unit test,2026-11-24,2027-02-24,Not Started
+Supply Chain and Planning,LP model integration interface,2026-11-27,2027-01-15,Not Started
+People and Change,Workforce plan for electrified operations,2026-12-24,2027-02-05,Not Started
+ESG and Reporting,First assurance review,2026-12-28,2027-04-07,Not Started
+Strategy and Governance,Portfolio prioritisation complete,2026-12-28,2027-05-20,Not Started
+Upstream Decarbonisation,Vent gas capture wave 1,2027-01-11,2027-05-13,Not Started
+Supply Chain and Planning,Terminal inventory visibility live,2027-01-23,2027-03-15,Not Started
+Refining and Low-Carbon Fuels,Co-processing commercial start,2027-01-31,2027-05-17,Not Started
+Digital and Data,Master data governance live,2027-02-11,2027-04-12,Not Started
+People and Change,Training wave 1,2027-02-20,2027-07-07,Not Started
+SAP S/4HANA Transformation,Integration test cycle 1,2027-02-25,2027-06-15,Not Started
+Supply Chain and Planning,Transportation management pilot,2027-03-09,2027-07-22,Not Started
+Digital and Data,Certified data products wave 1,2027-04-02,2027-07-13,Not Started
+ESG and Reporting,Scope 3 methodology approved,2027-04-10,2027-07-02,Not Started
+Upstream Decarbonisation,Compressor electrification FEED,2027-05-09,2027-06-27,Not Started
+Strategy and Governance,Capital envelope approved,2027-05-12,2027-10-07,Not Started
+Refining and Low-Carbon Fuels,Heat integration project delivery,2027-05-16,2027-08-23,Not Started
+SAP S/4HANA Transformation,Integration test cycle 2,2027-06-17,2027-08-25,Not Started
+ESG and Reporting,Carbon credit strategy,2027-07-01,2027-09-17,Not Started
+Upstream Decarbonisation,Compressor electrification FID,2027-07-06,2027-09-02,Not Started
+People and Change,Competency framework for new roles,2027-07-17,2027-10-16,Not Started
+Digital and Data,ML forecasting models in production,2027-07-24,2027-10-29,Not Started
+Supply Chain and Planning,Logistics optimisation rollout,2027-07-28,2027-10-09,Not Started
+SAP S/4HANA Transformation,User acceptance test,2027-08-26,2028-01-29,Not Started
+Refining and Low-Carbon Fuels,Turnaround 2028 scope freeze,2027-08-27,2027-12-04,Not Started
+Upstream Decarbonisation,Electrification construction wave 1,2027-09-02,2027-11-13,Not Started
+ESG and Reporting,Annual sustainability report 2027,2027-09-15,2028-01-27,Not Started
+Strategy and Governance,Stage-gate 1 review,2027-10-05,2027-12-14,Not Started
+Supply Chain and Planning,Integrated S&OP cycle running,2027-10-10,2027-12-05,Not Started
+People and Change,Training wave 2,2027-10-23,2028-02-10,Not Started
+Digital and Data,Certified data products wave 2,2027-10-31,2028-01-17,Not Started
+Upstream Decarbonisation,Flaring reduction milestone 2028,2027-11-23,2028-04-06,Not Started
+Refining and Low-Carbon Fuels,Turnaround 2028 execution,2027-12-18,2028-02-11,Not Started
+Strategy and Governance,Annual strategy refresh 2027,2027-12-27,2028-05-11,Not Started
+SAP S/4HANA Transformation,Cutover rehearsal,2028-01-27,2028-04-02,Not Started
+Digital and Data,Data platform steady state,2028-01-30,2028-03-28,Not Started
+People and Change,Adoption survey 1,2028-02-06,2028-06-17,Not Started
+ESG and Reporting,Annual sustainability report 2028,2028-02-09,2028-06-11,Not Started
+Refining and Low-Carbon Fuels,Low-carbon fuel credit accounting live,2028-02-18,2028-04-23,Not Started
+SAP S/4HANA Transformation,Go-live wave 1,2028-03-31,2028-06-05,Not Started
+Upstream Decarbonisation,Electrification wave 2,2028-04-18,2028-07-05,Not Started
+Strategy and Governance,Stage-gate 2 review,2028-05-07,2028-07-15,Not Started
+People and Change,Adoption survey 2,2028-06-09,2028-07-25,Not Started
+SAP S/4HANA Transformation,Hypercare exit,2028-06-16,2028-11-04,Not Started
+Upstream Decarbonisation,2030 methane target verification,2028-07-14,2028-11-03,Not Started
+Strategy and Governance,Annual strategy refresh 2028,2028-07-28,2028-11-28,Not Started

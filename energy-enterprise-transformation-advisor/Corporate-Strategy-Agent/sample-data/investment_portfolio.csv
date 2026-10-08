@@ -1,0 +1,101 @@
+Project_ID,Initiative,Budget,Benefit,Priority,Status
+PRJ-1001,Compressor station electrification - Phase 1,18350000,1800000,Medium,Proposed
+PRJ-1002,Continuous methane monitoring rollout - Phase 1,5500000,950000,High,In Progress
+PRJ-1003,Vent gas capture and utilisation - Phase 1,2500000,650000,High,Proposed
+PRJ-1004,Solar-powered pneumatic controller retrofit - Phase 1,3100000,830000,High,Proposed
+PRJ-1005,Artificial lift optimisation program - Phase 1,4750000,2760000,Medium,Approved
+PRJ-1006,Produced water reuse system - Phase 1,17650000,1510000,Low,Approved
+PRJ-1007,Pipeline in-line inspection program - Phase 1,3150000,370000,High,On Hold
+PRJ-1008,Blowdown gas recovery - Phase 1,2250000,600000,Medium,Approved
+PRJ-1009,Terminal automation upgrade - Phase 1,12750000,1400000,High,Proposed
+PRJ-1010,Process heat electrification pilot - Phase 1,22000000,2450000,High,In Progress
+PRJ-1011,Refinery heat integration upgrade - Phase 1,19150000,3330000,Medium,In Progress
+PRJ-1012,Renewable diesel co-processing - Phase 1,44400000,8270000,Medium,Completed
+PRJ-1013,Advanced process control rollout - Phase 1,9300000,3860000,Low,Proposed
+PRJ-1014,Turnaround scope optimisation - Phase 1,3100000,1320000,High,In Progress
+PRJ-1015,EV fast-charging network build-out - Phase 1,6350000,740000,Medium,In Progress
+PRJ-1016,Retail pricing analytics - Phase 1,4500000,2060000,Medium,In Progress
+PRJ-1017,Loyalty platform modernisation - Phase 1,6650000,1270000,Low,Completed
+PRJ-1018,Integrated business planning (IBP) rollout - Phase 1,8200000,3270000,High,In Progress
+PRJ-1019,Supply network optimisation - Phase 1,5700000,2840000,Low,Approved
+PRJ-1020,Transportation management route optimisation - Phase 1,4700000,1730000,High,In Progress
+PRJ-1021,Sourcing and contract management rollout - Phase 1,3200000,1110000,High,On Hold
+PRJ-1022,Supplier risk monitoring - Phase 1,800000,170000,Medium,Completed
+PRJ-1023,MRO spares optimisation - Phase 1,1400000,670000,Medium,Completed
+PRJ-1024,Advanced financial closing automation - Phase 1,4300000,1970000,High,Approved
+PRJ-1025,Planning and forecasting platform migration - Phase 1,3450000,1280000,Low,Proposed
+PRJ-1026,Treasury automation - Phase 1,1700000,330000,High,In Progress
+PRJ-1027,GHG inventory and emissions platform - Phase 1,3950000,300000,High,Approved
+PRJ-1028,Product carbon footprint management - Phase 1,2000000,210000,Low,In Progress
+PRJ-1029,Data platform foundation - Phase 1,11200000,3410000,Medium,Proposed
+PRJ-1030,OT historian integration - Phase 1,7350000,1880000,Low,On Hold
+PRJ-1031,Master data governance - Phase 1,3650000,840000,High,In Progress
+PRJ-1032,S/4HANA conversion wave - Phase 1,19050000,2100000,High,Proposed
+PRJ-1033,Predictive maintenance pilot - Phase 1,2700000,720000,High,Proposed
+PRJ-1034,Risk-based inspection program - Phase 1,2150000,480000,High,Completed
+PRJ-1035,Enterprise asset management mobile rollout - Phase 1,3450000,840000,High,Approved
+PRJ-1036,Permit-to-work digitisation - Phase 1,1950000,240000,Low,Completed
+PRJ-1037,Carbon credit portfolio development - Phase 1,12700000,1560000,High,Proposed
+PRJ-1038,Workforce reskilling program - Phase 1,2700000,300000,Low,Proposed
+PRJ-1039,Knowledge repository and lessons learned - Phase 1,550000,160000,Medium,Proposed
+PRJ-1040,Compressor station electrification - Phase 2,25400000,2110000,Medium,Completed
+PRJ-1041,Continuous methane monitoring rollout - Phase 2,7950000,1900000,High,Approved
+PRJ-1042,Vent gas capture and utilisation - Phase 2,4150000,1420000,Medium,On Hold
+PRJ-1043,Solar-powered pneumatic controller retrofit - Phase 2,2650000,420000,Low,Completed
+PRJ-1044,Artificial lift optimisation program - Phase 2,6100000,3250000,Low,In Progress
+PRJ-1045,Produced water reuse system - Phase 2,6400000,910000,Medium,Proposed
+PRJ-1046,Pipeline in-line inspection program - Phase 2,2200000,310000,High,In Progress
+PRJ-1047,Blowdown gas recovery - Phase 2,7700000,1840000,Low,Completed
+PRJ-1048,Terminal automation upgrade - Phase 2,19300000,2990000,High,Proposed
+PRJ-1049,Process heat electrification pilot - Phase 2,9900000,840000,Medium,Completed
+PRJ-1050,Refinery heat integration upgrade - Phase 2,30350000,6260000,Medium,On Hold
+PRJ-1051,Renewable diesel co-processing - Phase 2,28500000,5670000,Low,On Hold
+PRJ-1052,Advanced process control rollout - Phase 2,9500000,4670000,High,On Hold
+PRJ-1053,Turnaround scope optimisation - Phase 2,2650000,1170000,Low,Approved
+PRJ-1054,EV fast-charging network build-out - Phase 2,19050000,2760000,Medium,Proposed
+PRJ-1055,Retail pricing analytics - Phase 2,1500000,560000,Low,On Hold
+PRJ-1056,Loyalty platform modernisation - Phase 2,3150000,840000,Low,In Progress
+PRJ-1057,Integrated business planning (IBP) rollout - Phase 2,6850000,2500000,High,Proposed
+PRJ-1058,Supply network optimisation - Phase 2,7800000,3080000,Medium,Completed
+PRJ-1059,Transportation management route optimisation - Phase 2,5050000,2110000,Low,Proposed
+PRJ-1060,Sourcing and contract management rollout - Phase 2,3750000,1560000,High,In Progress
+PRJ-1061,Supplier risk monitoring - Phase 2,1150000,290000,High,Completed
+PRJ-1062,MRO spares optimisation - Phase 2,2750000,1330000,Medium,Completed
+PRJ-1063,Advanced financial closing automation - Phase 2,2700000,1280000,Medium,In Progress
+PRJ-1064,Planning and forecasting platform migration - Phase 2,4400000,680000,Medium,Proposed
+PRJ-1065,Treasury automation - Phase 2,1000000,310000,High,In Progress
+PRJ-1066,GHG inventory and emissions platform - Phase 2,4650000,490000,High,In Progress
+PRJ-1067,Product carbon footprint management - Phase 2,2600000,330000,High,In Progress
+PRJ-1068,Data platform foundation - Phase 2,7500000,1640000,Medium,In Progress
+PRJ-1069,OT historian integration - Phase 2,5150000,1300000,Low,Approved
+PRJ-1070,Master data governance - Phase 2,4850000,1220000,Medium,In Progress
+PRJ-1071,S/4HANA conversion wave - Phase 2,44400000,7990000,Medium,Completed
+PRJ-1072,Predictive maintenance pilot - Phase 2,4500000,2510000,Low,Approved
+PRJ-1073,Risk-based inspection program - Phase 2,5150000,1740000,Low,Proposed
+PRJ-1074,Enterprise asset management mobile rollout - Phase 2,1500000,500000,High,Proposed
+PRJ-1075,Permit-to-work digitisation - Phase 2,1050000,250000,Medium,Completed
+PRJ-1076,Carbon credit portfolio development - Phase 2,5550000,870000,Medium,Proposed
+PRJ-1077,Workforce reskilling program - Phase 2,5400000,1060000,High,Completed
+PRJ-1078,Knowledge repository and lessons learned - Phase 2,1500000,300000,Low,Completed
+PRJ-1079,Compressor station electrification - Phase 3,13150000,1730000,Medium,Approved
+PRJ-1080,Continuous methane monitoring rollout - Phase 3,2950000,480000,Medium,Proposed
+PRJ-1081,Vent gas capture and utilisation - Phase 3,9200000,2390000,High,Approved
+PRJ-1082,Solar-powered pneumatic controller retrofit - Phase 3,4100000,870000,High,Completed
+PRJ-1083,Artificial lift optimisation program - Phase 3,5750000,3390000,High,Approved
+PRJ-1084,Produced water reuse system - Phase 3,3600000,620000,High,Proposed
+PRJ-1085,Pipeline in-line inspection program - Phase 3,5400000,1280000,Low,Approved
+PRJ-1086,Blowdown gas recovery - Phase 3,2050000,680000,Medium,In Progress
+PRJ-1087,Terminal automation upgrade - Phase 3,5450000,590000,Medium,Approved
+PRJ-1088,Process heat electrification pilot - Phase 3,6800000,1170000,Medium,On Hold
+PRJ-1089,Refinery heat integration upgrade - Phase 3,8450000,2320000,High,Completed
+PRJ-1090,Renewable diesel co-processing - Phase 3,65400000,9870000,Medium,Completed
+PRJ-1091,Advanced process control rollout - Phase 3,4700000,1650000,Medium,Proposed
+PRJ-1092,Turnaround scope optimisation - Phase 3,1550000,390000,High,Proposed
+PRJ-1093,EV fast-charging network build-out - Phase 3,15900000,1280000,Medium,Approved
+PRJ-1094,Retail pricing analytics - Phase 3,3000000,1170000,High,Proposed
+PRJ-1095,Loyalty platform modernisation - Phase 3,4000000,410000,Medium,In Progress
+PRJ-1096,Integrated business planning (IBP) rollout - Phase 3,5100000,1750000,Low,Proposed
+PRJ-1097,Supply network optimisation - Phase 3,6800000,2240000,Medium,Completed
+PRJ-1098,Transportation management route optimisation - Phase 3,4750000,1550000,Medium,Completed
+PRJ-1099,Sourcing and contract management rollout - Phase 3,4400000,2780000,Medium,In Progress
+PRJ-1100,Supplier risk monitoring - Phase 3,1500000,360000,High,Proposed

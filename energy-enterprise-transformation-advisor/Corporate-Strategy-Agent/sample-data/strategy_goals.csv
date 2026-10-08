@@ -1,0 +1,51 @@
+Strategic_ID,Objective,Business_Unit,Target_Value,Current_Value,Owner
+STR-001,Reduce Scope 1+2 emissions (Mt CO2e) by 2028,Corporate,12.0,14.2,Chief Sustainability Officer
+STR-002,Reduce Scope 1+2 emissions (Mt CO2e) by 2030,Corporate,10.0,14.2,Chief Sustainability Officer
+STR-003,Reduce upstream methane intensity (kg CH4/boe) by 2028,Upstream,0.3,0.42,VP Upstream Operations
+STR-004,Reduce upstream methane intensity (kg CH4/boe) by 2030,Upstream,0.2,0.42,VP Upstream Operations
+STR-005,Reduce routine flaring volume (million m3/yr) by 2028,Upstream,120,180,VP Upstream Operations
+STR-006,Reduce routine flaring volume (million m3/yr) by 2030,Upstream,60,180,VP Upstream Operations
+STR-007,Increase production uptime (%) by 2028,Upstream,95.0,94.0,VP Upstream Operations
+STR-008,Increase production uptime (%) by 2030,Upstream,96.0,94.0,VP Upstream Operations
+STR-009,Reduce lifting cost (CAD/boe) by 2028,Upstream,11.0,11.8,VP Upstream Operations
+STR-010,Reduce lifting cost (CAD/boe) by 2030,Upstream,10.5,11.8,VP Upstream Operations
+STR-011,Increase refinery utilisation (%) by 2028,Refining,93.0,91.0,VP Refining
+STR-012,Increase refinery utilisation (%) by 2030,Refining,94.0,91.0,VP Refining
+STR-013,Reduce refinery energy intensity index (index) by 2028,Refining,98,102,VP Refining
+STR-014,Reduce refinery energy intensity index (index) by 2030,Refining,95,102,VP Refining
+STR-015,Increase renewable diesel and co-processing capacity (kbbl/d) by 2028,Refining,8,0,VP Refining
+STR-016,Increase renewable diesel and co-processing capacity (kbbl/d) by 2030,Refining,20,0,VP Refining
+STR-017,Increase retail fuel margin (cents/L) by 2028,Marketing,9.0,8.5,VP Commercial and Marketing
+STR-018,Increase retail fuel margin (cents/L) by 2030,Marketing,9.5,8.5,VP Commercial and Marketing
+STR-019,Increase EV charging sites (count) by 2028,Marketing,80,12,VP Commercial and Marketing
+STR-020,Increase EV charging sites (count) by 2030,Marketing,200,12,VP Commercial and Marketing
+STR-021,Increase demand forecast accuracy (1-WMAPE) (%) by 2028,Supply Chain,85,78,Director Demand and Supply Planning
+STR-022,Increase demand forecast accuracy (1-WMAPE) (%) by 2030,Supply Chain,90,78,Director Demand and Supply Planning
+STR-023,Reduce inventory days of supply (days) by 2028,Supply Chain,34,38,Director Demand and Supply Planning
+STR-024,Reduce inventory days of supply (days) by 2030,Supply Chain,30,38,Director Demand and Supply Planning
+STR-025,Increase spend under management (%) by 2028,Procurement,75,62,Chief Procurement Officer
+STR-026,Increase spend under management (%) by 2030,Procurement,85,62,Chief Procurement Officer
+STR-027,Increase annual procurement savings (CAD M/yr) by 2028,Procurement,70,45,Chief Procurement Officer
+STR-028,Increase annual procurement savings (CAD M/yr) by 2030,Procurement,95,45,Chief Procurement Officer
+STR-029,Reduce unplanned maintenance share (%) by 2028,Asset Reliability,24,32,Director Asset Reliability
+STR-030,Reduce unplanned maintenance share (%) by 2030,Asset Reliability,18,32,Director Asset Reliability
+STR-031,Increase preventive maintenance compliance (%) by 2028,Asset Reliability,90,82,Director Asset Reliability
+STR-032,Increase preventive maintenance compliance (%) by 2030,Asset Reliability,95,82,Director Asset Reliability
+STR-033,Reduce total recordable incident rate (per 200k hrs) by 2028,HSSE,0.5,0.62,VP HSSE
+STR-034,Reduce total recordable incident rate (per 200k hrs) by 2030,HSSE,0.4,0.62,VP HSSE
+STR-035,Reduce Tier 1 process safety events (count/yr) by 2028,HSSE,3,6,VP HSSE
+STR-036,Reduce Tier 1 process safety events (count/yr) by 2030,HSSE,1,6,VP HSSE
+STR-037,Reduce month-end close duration (working days) by 2028,Finance,6,8,Chief Financial Officer
+STR-038,Reduce month-end close duration (working days) by 2030,Finance,4,8,Chief Financial Officer
+STR-039,Increase return on average capital employed (ROACE) (%) by 2028,Corporate,11.0,9.5,Chief Financial Officer
+STR-040,Increase return on average capital employed (ROACE) (%) by 2030,Corporate,12.5,9.5,Chief Financial Officer
+STR-041,Reduce free cash flow breakeven price (USD/bbl WTI) by 2028,Corporate,49,52,Chief Executive Officer
+STR-042,Reduce free cash flow breakeven price (USD/bbl WTI) by 2030,Corporate,46,52,Chief Executive Officer
+STR-043,Increase transition capex share of total capex (%) by 2028,Corporate,15,8,Chief Strategy Officer
+STR-044,Increase transition capex share of total capex (%) by 2030,Corporate,25,8,Chief Strategy Officer
+STR-045,Increase data quality score (%) by 2028,Data and Analytics,82,71,Chief Data Officer
+STR-046,Increase data quality score (%) by 2030,Data and Analytics,90,71,Chief Data Officer
+STR-047,Increase certified data products (count) by 2028,Data and Analytics,60,15,Chief Data Officer
+STR-048,Increase certified data products (count) by 2030,Data and Analytics,120,15,Chief Data Officer
+STR-049,Increase in-scope processes live on SAP S/4HANA (%) by 2028,Enterprise Architecture,55,10,Chief Information Officer
+STR-050,Increase in-scope processes live on SAP S/4HANA (%) by 2030,Enterprise Architecture,100,10,Chief Information Officer
