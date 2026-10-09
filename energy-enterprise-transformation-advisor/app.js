@@ -69,7 +69,21 @@ const CHARTS = {};
 // ══════════════════════════════════════════════════════════════
 // BOOT
 // ══════════════════════════════════════════════════════════════
+// ── Theme ─────────────────────────────────────────────────────
+function initTheme() {
+  const saved = localStorage.getItem('theme') || 'light';
+  document.documentElement.setAttribute('data-theme', saved);
+  const btn = document.getElementById('theme-toggle');
+  if (!btn) return;
+  btn.addEventListener('click', () => {
+    const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+  });
+}
+
 async function init() {
+  initTheme();
   await Promise.all(Object.entries(CSV).map(([k, v]) => loadCSV(k, v)));
 
   populatePeriods();

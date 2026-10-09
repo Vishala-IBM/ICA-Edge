@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Energy Enterprise AI Advisor</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
@@ -19,16 +19,18 @@
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
     </button>
     <div class="header-brand">
-      <div class="header-brand-icon">⚡</div>
+      <div class="header-brand-icon">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.5"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+      </div>
       <div class="header-brand-text">
         <span class="header-title">Energy AI Advisor</span>
-        <span class="header-sub">Operations Center</span>
+        <span class="header-sub">Enterprise Operations Center</span>
       </div>
     </div>
   </div>
   <div class="header-center">
     <div class="global-search" id="global-search-wrap">
-      <svg class="search-svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <svg class="search-svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
       <input type="text" id="global-search" placeholder="Ask the AI Advisor anything…" autocomplete="off" />
       <kbd class="search-kbd">↵</kbd>
     </div>
@@ -39,8 +41,12 @@
       <span class="pulse-dot"></span>
       <span id="last-refresh">Connecting…</span>
     </div>
+    <button class="theme-toggle" id="theme-toggle" title="Toggle dark/light theme" aria-label="Toggle theme">
+      <svg class="theme-icon-light" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+      <svg class="theme-icon-dark" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+    </button>
     <div class="header-notif" title="Alerts">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
       <span class="notif-badge" id="notif-badge">—</span>
     </div>
     <div class="header-avatar" title="Executive Advisor">EA</div>
@@ -53,40 +59,42 @@
   <!-- SIDEBAR -->
   <nav class="sidebar" id="sidebar">
     <div class="sidebar-brand">
-      <div class="sb-logo">⚡</div>
+      <div class="sb-logo">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.5"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+      </div>
       <div class="sb-name">EnergyAI</div>
     </div>
     <ul class="nav-list">
       <li class="nav-item active" data-page="home">
-        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></span>
+        <span class="nav-icon"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></span>
         <span class="nav-label">Home</span>
       </li>
       <li class="nav-item" data-page="dashboard">
-        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg></span>
+        <span class="nav-icon"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg></span>
         <span class="nav-label">Executive Dashboard</span>
       </li>
       <li class="nav-item" data-page="agents">
-        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg></span>
+        <span class="nav-icon"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg></span>
         <span class="nav-label">Agent Hub</span>
       </li>
       <li class="nav-item nav-chat" data-page="chat">
-        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+        <span class="nav-icon"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
         <span class="nav-label">AI Advisor Chat</span>
         <span class="nav-pill">AI</span>
       </li>
       <li class="nav-item" data-page="recommendations">
-        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span>
+        <span class="nav-icon"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span>
         <span class="nav-label">Recommendations</span>
         <span class="nav-count" id="rec-count-badge">—</span>
       </li>
       <li class="nav-item" data-page="workflows">
-        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg></span>
+        <span class="nav-icon"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg></span>
         <span class="nav-label">Workflows</span>
       </li>
     </ul>
     <div class="sidebar-bottom">
       <div class="nav-item" data-page="settings">
-        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg></span>
+        <span class="nav-icon"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg></span>
         <span class="nav-label">Settings</span>
       </div>
       <div class="sidebar-footer-note">MVP · Synthetic Data</div>
@@ -99,32 +107,68 @@
     <!-- ══════════ PAGE: HOME ══════════ -->
     <section id="page-home" class="page active">
 
-      <!-- Hero Banner -->
+      <!-- ── Hero Banner ── -->
       <div class="hero-banner">
         <div class="hero-img-wrap">
-          <img src="https://images.unsplash.com/photo-1580795479225-3eff11b12819?w=1600&q=80&fit=crop" alt="Energy Operations" class="hero-img" onerror="this.style.display='none'" />
+          <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1800&q=85&fit=crop" alt="Oil Refinery Operations" class="hero-img" onerror="this.style.display='none'" />
           <div class="hero-overlay"></div>
+          <div class="hero-grid-lines"></div>
         </div>
         <div class="hero-content">
-          <div class="hero-eyebrow">Energy Enterprise Transformation</div>
-          <h1 class="hero-title">AI-Powered Operations Center</h1>
-          <p class="hero-lead">Unified intelligence across demand planning, supply chain, architecture and knowledge — powered by five specialist AI agents.</p>
+          <div class="hero-eyebrow">
+            <span class="hero-eyebrow-dot"></span>
+            AI-Powered Energy Operations Center
+          </div>
+          <h1 class="hero-title">Enterprise Transformation<br>Advisor</h1>
+          <p class="hero-lead">Unified intelligence across demand planning, supply chain, architecture and knowledge — powered by five specialist AI agents delivering executive-grade insights in real time.</p>
+          <div class="hero-stats">
+            <div class="hero-stat">
+              <span class="hero-stat-num">5</span>
+              <span class="hero-stat-label">AI Agents</span>
+            </div>
+            <div class="hero-stat-div"></div>
+            <div class="hero-stat">
+              <span class="hero-stat-num">Real-time</span>
+              <span class="hero-stat-label">Operations Data</span>
+            </div>
+            <div class="hero-stat-div"></div>
+            <div class="hero-stat">
+              <span class="hero-stat-num">360°</span>
+              <span class="hero-stat-label">Asset Coverage</span>
+            </div>
+          </div>
           <div class="hero-cta">
             <button class="cta-primary" onclick="navigate('chat')">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
               Start AI Conversation
             </button>
-            <button class="cta-secondary" onclick="navigate('dashboard')">View Executive Dashboard</button>
-            <button class="cta-secondary" onclick="navigate('agents')">Explore Agents</button>
+            <button class="cta-secondary" onclick="navigate('dashboard')">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+              Executive Dashboard
+            </button>
+            <button class="cta-secondary" onclick="navigate('agents')">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
+              Explore Agents
+            </button>
           </div>
         </div>
-        <div class="hero-data-note">⚠ All data is synthetic — prototype only. No production systems connected.</div>
+        <div class="hero-data-note">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+          All data is synthetic — prototype only. No production systems connected.
+        </div>
       </div>
 
-      <!-- Quick KPI Strip -->
+      <!-- ── Enterprise Overview Strip ── -->
+      <div class="section-label-row">
+        <div class="section-label-line"></div>
+        <span class="section-label-text">Enterprise Overview</span>
+        <div class="section-label-line"></div>
+      </div>
       <div class="home-kpi-strip" id="home-kpi-strip">
         <div class="hkpi" id="hkpi-gap">
-          <div class="hkpi-icon hkpi-blue">📉</div>
+          <div class="hkpi-icon hkpi-blue">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+          </div>
           <div class="hkpi-body">
             <div class="hkpi-label">Demand-Supply Gap</div>
             <div class="hkpi-value" id="hval-gap">—</div>
@@ -132,7 +176,9 @@
           </div>
         </div>
         <div class="hkpi hkpi-unavailable">
-          <div class="hkpi-icon hkpi-grey">💰</div>
+          <div class="hkpi-icon hkpi-grey">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+          </div>
           <div class="hkpi-body">
             <div class="hkpi-label">Revenue Growth</div>
             <div class="hkpi-value">—</div>
@@ -140,7 +186,9 @@
           </div>
         </div>
         <div class="hkpi hkpi-unavailable">
-          <div class="hkpi-icon hkpi-grey">📊</div>
+          <div class="hkpi-icon hkpi-grey">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><polyline points="3 9 9 9 9 21"/><polyline points="3 15 21 15"/></svg>
+          </div>
           <div class="hkpi-body">
             <div class="hkpi-label">EBITDA Margin</div>
             <div class="hkpi-value">—</div>
@@ -148,7 +196,9 @@
           </div>
         </div>
         <div class="hkpi" id="hkpi-dq">
-          <div class="hkpi-icon hkpi-emerald">✅</div>
+          <div class="hkpi-icon hkpi-emerald">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
+          </div>
           <div class="hkpi-body">
             <div class="hkpi-label">Data Quality Score</div>
             <div class="hkpi-value" id="hval-dq">—</div>
@@ -156,7 +206,9 @@
           </div>
         </div>
         <div class="hkpi" id="hkpi-eol">
-          <div class="hkpi-icon hkpi-amber">⚠️</div>
+          <div class="hkpi-icon hkpi-amber">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+          </div>
           <div class="hkpi-body">
             <div class="hkpi-label">EOL Applications</div>
             <div class="hkpi-value" id="hval-eol">—</div>
@@ -164,7 +216,9 @@
           </div>
         </div>
         <div class="hkpi" id="hkpi-citation">
-          <div class="hkpi-icon hkpi-blue">📚</div>
+          <div class="hkpi-icon hkpi-blue">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+          </div>
           <div class="hkpi-body">
             <div class="hkpi-label">Citation Coverage</div>
             <div class="hkpi-value" id="hval-citation">—</div>
@@ -173,27 +227,167 @@
         </div>
       </div>
 
-      <!-- Asset image grid -->
+      <!-- ── Asset Portfolio Overview ── -->
+      <div class="section-label-row">
+        <div class="section-label-line"></div>
+        <span class="section-label-text">Asset Portfolio Overview</span>
+        <div class="section-label-line"></div>
+      </div>
       <div class="home-section-header">
         <h2>Energy Asset Portfolio</h2>
-        <span class="hs-sub">Refineries · Upstream · Pipelines · Trading · Renewable</span>
+        <span class="hs-sub">Refineries · Upstream · LNG Plants · Pipelines · Renewable</span>
       </div>
       <div class="asset-image-grid">
-        <div class="asset-img-card" style="--img:url('https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=70&fit=crop')">
-          <div class="aic-overlay"><div class="aic-label">Refinery Operations</div></div>
+        <div class="asset-img-card" style="--img:url('https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=700&q=80&fit=crop')">
+          <div class="aic-overlay">
+            <div class="aic-content">
+              <div class="aic-tag">Downstream</div>
+              <div class="aic-label">Refinery Operations</div>
+              <div class="aic-sub">12 processing units · 340 kbpd capacity</div>
+            </div>
+          </div>
         </div>
-        <div class="asset-img-card" style="--img:url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=70&fit=crop')">
-          <div class="aic-overlay"><div class="aic-label">Upstream Production</div></div>
+        <div class="asset-img-card" style="--img:url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=700&q=80&fit=crop')">
+          <div class="aic-overlay">
+            <div class="aic-content">
+              <div class="aic-tag">Upstream</div>
+              <div class="aic-label">Offshore Platforms</div>
+              <div class="aic-sub">8 platforms · 95 active wells</div>
+            </div>
+          </div>
         </div>
-        <div class="asset-img-card" style="--img:url('https://images.unsplash.com/photo-1548625149-fc4a29cf7092?w=600&q=70&fit=crop')">
-          <div class="aic-overlay"><div class="aic-label">Pipeline Infrastructure</div></div>
+        <div class="asset-img-card" style="--img:url('https://images.unsplash.com/photo-1548625149-fc4a29cf7092?w=700&q=80&fit=crop')">
+          <div class="aic-overlay">
+            <div class="aic-content">
+              <div class="aic-tag">Midstream</div>
+              <div class="aic-label">Pipeline Infrastructure</div>
+              <div class="aic-sub">4,200 km network · 18 pump stations</div>
+            </div>
+          </div>
         </div>
-        <div class="asset-img-card" style="--img:url('https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=600&q=70&fit=crop')">
-          <div class="aic-overlay"><div class="aic-label">Renewable Energy</div></div>
+        <div class="asset-img-card" style="--img:url('https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=700&q=80&fit=crop')">
+          <div class="aic-overlay">
+            <div class="aic-content">
+              <div class="aic-tag">Renewable</div>
+              <div class="aic-label">Wind &amp; Solar Assets</div>
+              <div class="aic-sub">2.4 GW installed capacity</div>
+            </div>
+          </div>
         </div>
       </div>
 
-      <!-- Two column: agents + alerts -->
+      <!-- ── Operations Snapshot ── -->
+      <div class="section-label-row">
+        <div class="section-label-line"></div>
+        <span class="section-label-text">Operations Snapshot</span>
+        <div class="section-label-line"></div>
+      </div>
+      <div class="ops-snapshot-grid">
+        <div class="ops-snap-card ops-snap-blue">
+          <div class="ops-snap-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 3h7v7H3z"/><path d="M14 3h7v7h-7z"/><path d="M14 14h7v7h-7z"/><path d="M3 14h7v7H3z"/></svg>
+          </div>
+          <div class="ops-snap-body">
+            <div class="ops-snap-label">Active Facilities</div>
+            <div class="ops-snap-value">24</div>
+            <div class="ops-snap-sub">Across 6 regions</div>
+          </div>
+          <div class="ops-snap-trend ops-trend-up">↑ 2 online</div>
+        </div>
+        <div class="ops-snap-card ops-snap-emerald">
+          <div class="ops-snap-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+          </div>
+          <div class="ops-snap-body">
+            <div class="ops-snap-label">Uptime Rate</div>
+            <div class="ops-snap-value">97.4%</div>
+            <div class="ops-snap-sub">Last 30 days</div>
+          </div>
+          <div class="ops-snap-trend ops-trend-up">↑ +0.3%</div>
+        </div>
+        <div class="ops-snap-card ops-snap-amber">
+          <div class="ops-snap-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+          </div>
+          <div class="ops-snap-body">
+            <div class="ops-snap-label">Open Incidents</div>
+            <div class="ops-snap-value">7</div>
+            <div class="ops-snap-sub">3 critical priority</div>
+          </div>
+          <div class="ops-snap-trend ops-trend-down">↓ -2 resolved</div>
+        </div>
+        <div class="ops-snap-card ops-snap-navy">
+          <div class="ops-snap-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+          </div>
+          <div class="ops-snap-body">
+            <div class="ops-snap-label">Daily Production</div>
+            <div class="ops-snap-value">412 kboe</div>
+            <div class="ops-snap-sub">vs 420 kboe target</div>
+          </div>
+          <div class="ops-snap-trend ops-trend-down">↓ -2% vs plan</div>
+        </div>
+      </div>
+
+      <!-- ── Transformation Status ── -->
+      <div class="section-label-row">
+        <div class="section-label-line"></div>
+        <span class="section-label-text">Transformation Status</span>
+        <div class="section-label-line"></div>
+      </div>
+      <div class="transform-status-grid">
+        <div class="ts-card">
+          <div class="ts-card-header">
+            <div class="ts-icon ts-icon-blue">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+            </div>
+            <div class="ts-title">SAP S/4HANA Migration</div>
+            <div class="ts-badge ts-on-track">On Track</div>
+          </div>
+          <div class="ts-progress-bar"><div class="ts-progress-fill" style="width:68%"></div></div>
+          <div class="ts-meta">68% complete · Q3 2025 target</div>
+        </div>
+        <div class="ts-card">
+          <div class="ts-card-header">
+            <div class="ts-icon ts-icon-emerald">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+            </div>
+            <div class="ts-title">Data Modernization</div>
+            <div class="ts-badge ts-at-risk">At Risk</div>
+          </div>
+          <div class="ts-progress-bar"><div class="ts-progress-fill ts-fill-amber" style="width:42%"></div></div>
+          <div class="ts-meta">42% complete · Q4 2025 target</div>
+        </div>
+        <div class="ts-card">
+          <div class="ts-card-header">
+            <div class="ts-icon ts-icon-purple">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>
+            </div>
+            <div class="ts-title">Cloud Infrastructure</div>
+            <div class="ts-badge ts-on-track">On Track</div>
+          </div>
+          <div class="ts-progress-bar"><div class="ts-progress-fill ts-fill-purple" style="width:81%"></div></div>
+          <div class="ts-meta">81% complete · Q2 2025 target</div>
+        </div>
+        <div class="ts-card">
+          <div class="ts-card-header">
+            <div class="ts-icon ts-icon-amber">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+            </div>
+            <div class="ts-title">Workforce Upskilling</div>
+            <div class="ts-badge ts-planned">Planned</div>
+          </div>
+          <div class="ts-progress-bar"><div class="ts-progress-fill ts-fill-grey" style="width:18%"></div></div>
+          <div class="ts-meta">18% complete · Q1 2026 target</div>
+        </div>
+      </div>
+
+      <!-- ── Active AI Agents + Executive Recommendations ── -->
+      <div class="section-label-row">
+        <div class="section-label-line"></div>
+        <span class="section-label-text">Active AI Agents &amp; Recommendations</span>
+        <div class="section-label-line"></div>
+      </div>
       <div class="home-two-col">
         <div class="home-col">
           <div class="home-section-header"><h2>Active AI Agents</h2></div>
@@ -296,7 +490,7 @@
           <div class="rail-section-label">Mode</div>
           <div class="rail-modes">
             <button class="rail-mode active" data-mode="all">
-              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
               All Agents
             </button>
             <button class="rail-mode" data-mode="single">Single Agent</button>
@@ -312,43 +506,57 @@
         <div class="chat-center">
           <div class="chat-header">
             <div class="chat-header-left">
-              <div class="chat-avatar-main">⚡</div>
+              <div class="chat-avatar-main">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.5"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+              </div>
               <div>
                 <div class="chat-header-name">Energy AI Advisor</div>
                 <div class="chat-header-sub" id="chat-mode-label">All Agents · 5 active</div>
               </div>
             </div>
             <button class="chat-clear-btn" id="chat-clear">
-              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6"/><path d="M14 11v6"/></svg>
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6"/><path d="M14 11v6"/></svg>
               Clear
             </button>
           </div>
 
           <div class="chat-messages" id="main-chat-msgs">
             <div class="chat-welcome" id="chat-welcome-screen">
-              <div class="welcome-logo">⚡</div>
+              <div class="welcome-logo">
+                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.5"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+              </div>
               <h2 class="welcome-title">Energy Enterprise AI Advisor</h2>
               <p class="welcome-sub">Ask one question — get consolidated insights from all specialist agents across demand planning, supply chain, architecture, data quality and knowledge.</p>
               <div class="welcome-prompts" id="welcome-prompts"></div>
               <div class="welcome-categories">
                 <div class="wcat">
-                  <div class="wcat-icon">🏭</div>
+                  <div class="wcat-icon">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
+                  </div>
                   <div class="wcat-label">Supply Chain</div>
                 </div>
                 <div class="wcat">
-                  <div class="wcat-icon">📊</div>
+                  <div class="wcat-icon">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+                  </div>
                   <div class="wcat-label">Planning</div>
                 </div>
                 <div class="wcat">
-                  <div class="wcat-icon">🏗️</div>
+                  <div class="wcat-icon">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+                  </div>
                   <div class="wcat-label">Architecture</div>
                 </div>
                 <div class="wcat">
-                  <div class="wcat-icon">🔍</div>
+                  <div class="wcat-icon">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                  </div>
                   <div class="wcat-label">Data Quality</div>
                 </div>
                 <div class="wcat">
-                  <div class="wcat-icon">📚</div>
+                  <div class="wcat-icon">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+                  </div>
                   <div class="wcat-label">Knowledge</div>
                 </div>
               </div>
@@ -361,7 +569,7 @@
                 <textarea id="main-chat-input" class="chat-textarea" rows="1"
                   placeholder="Ask the Energy AI Advisor…  e.g. What are the top supply risks this planning cycle?"></textarea>
                 <button class="chat-send-btn" id="main-send-btn" title="Send">
-                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+                  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
                 </button>
               </div>
               <div class="chat-suggestions" id="chat-suggested"></div>
@@ -433,7 +641,8 @@
 </div>
 
 <footer class="app-footer">
-  ⚡ Energy Enterprise AI Advisor &nbsp;·&nbsp; MVP Prototype &nbsp;·&nbsp; All data synthetic &nbsp;·&nbsp; Read-only &nbsp;·&nbsp; No enterprise system writes &nbsp;·&nbsp; Made with IBM Bob
+  <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+  Energy Enterprise AI Advisor &nbsp;·&nbsp; MVP Prototype &nbsp;·&nbsp; All data synthetic &nbsp;·&nbsp; Read-only &nbsp;·&nbsp; No enterprise system writes &nbsp;·&nbsp; Made with IBM Bob
 </footer>
 
 <script src="app.js"></script>
