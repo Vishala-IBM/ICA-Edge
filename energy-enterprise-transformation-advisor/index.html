@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Energy Enterprise AI Advisor</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+
+<!-- ═══════════════════════ HEADER ═══════════════════════════ -->
+<header class="app-header">
+  <div class="header-left">
+    <button class="sidebar-toggle" id="sidebar-toggle" title="Toggle sidebar">&#9776;</button>
+    <span class="header-logo">⚡</span>
+    <span class="header-title">Energy Enterprise AI Advisor</span>
+    <span class="header-badge">Operations Center</span>
+  </div>
+  <div class="header-center">
+    <div class="global-search">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="global-search" placeholder="Ask anything across all agents…" autocomplete="off" />
+      <button class="search-go" id="search-go">⏎</button>
+    </div>
+  </div>
+  <div class="header-right">
+    <select id="global-period" class="period-select"></select>
+    <div class="header-status">
+      <span class="pulse-dot"></span>
+      <span id="last-refresh">Connecting…</span>
+    </div>
+    <div class="header-avatar">EA</div>
+  </div>
+</header>
+
+<!-- ═══════════════════════ LAYOUT ═══════════════════════════ -->
+<div class="shell" id="shell">
+
+  <!-- SIDEBAR -->
+  <nav class="sidebar" id="sidebar">
+    <div class="sidebar-brand">
+      <span class="brand-icon">⚡</span>
+      <span class="brand-name">EnergyAI</span>
+    </div>
+    <ul class="nav-list">
+      <li class="nav-item active" data-page="home">
+        <span class="nav-icon">🏠</span><span class="nav-label">Home</span>
+      </li>
+      <li class="nav-item" data-page="dashboard">
+        <span class="nav-icon">📊</span><span class="nav-label">Executive Dashboard</span>
+      </li>
+      <li class="nav-item" data-page="agents">
+        <span class="nav-icon">🤖</span><span class="nav-label">Agent Hub</span>
+      </li>
+      <li class="nav-item" data-page="chat">
+        <span class="nav-icon">💬</span><span class="nav-label">Enterprise Chat</span>
+        <span class="nav-badge">AI</span>
+      </li>
+      <li class="nav-item" data-page="recommendations">
+        <span class="nav-icon">🎯</span><span class="nav-label">Recommendations</span>
+        <span class="nav-badge alert" id="rec-count-badge">—</span>
+      </li>
+      <li class="nav-item" data-page="workflows">
+        <span class="nav-icon">⚙️</span><span class="nav-label">Workflows</span>
+      </li>
+    </ul>
+    <div class="sidebar-bottom">
+      <div class="nav-item" data-page="settings">
+        <span class="nav-icon">⚙</span><span class="nav-label">Settings</span>
+      </div>
+      <div class="sidebar-version">MVP · Synthetic Data</div>
+    </div>
+  </nav>
+
+  <!-- MAIN -->
+  <main class="main" id="main">
+
+    <!-- ════════════════ PAGE: HOME ════════════════ -->
+    <section id="page-home" class="page active">
+      <div class="page-hero">
+        <div class="hero-content">
+          <h1 class="hero-title">Good morning, Executive.</h1>
+          <p class="hero-sub">Your Energy Enterprise AI Advisor is ready. <span class="hero-data-note">All data is synthetic — prototype only.</span></p>
+          <div class="hero-actions">
+            <button class="btn-primary" onclick="navigate('chat')">💬 Start AI Chat</button>
+            <button class="btn-secondary" onclick="navigate('dashboard')">📊 View Dashboard</button>
+            <button class="btn-secondary" onclick="navigate('agents')">🤖 Agent Hub</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quick KPI strip -->
+      <div class="quick-kpi-strip" id="home-kpi-strip">
+        <div class="qkpi" id="qkpi-gap">
+          <div class="qkpi-label">Demand-Supply Gap</div>
+          <div class="qkpi-value" id="qval-gap">…</div>
+          <div class="qkpi-status" id="qstat-gap">—</div>
+        </div>
+        <div class="qkpi unavailable">
+          <div class="qkpi-label">Revenue Growth</div>
+          <div class="qkpi-value">—</div>
+          <div class="qkpi-status">Unavailable</div>
+        </div>
+        <div class="qkpi unavailable">
+          <div class="qkpi-label">EBITDA Margin</div>
+          <div class="qkpi-value">—</div>
+          <div class="qkpi-status">Finance Disconnected</div>
+        </div>
+        <div class="qkpi" id="qkpi-dq">
+          <div class="qkpi-label">Data Quality</div>
+          <div class="qkpi-value" id="qval-dq">…</div>
+          <div class="qkpi-status" id="qstat-dq">—</div>
+        </div>
+        <div class="qkpi" id="qkpi-eol">
+          <div class="qkpi-label">EOL Apps</div>
+          <div class="qkpi-value" id="qval-eol">…</div>
+          <div class="qkpi-status" id="qstat-eol">—</div>
+        </div>
+        <div class="qkpi" id="qkpi-citation">
+          <div class="qkpi-label">Citation Coverage</div>
+          <div class="qkpi-value" id="qval-citation">…</div>
+          <div class="qkpi-status" id="qstat-citation">—</div>
+        </div>
+      </div>
+
+      <!-- Agent cards -->
+      <div class="section-heading">Active Agents</div>
+      <div class="agent-cards-grid" id="home-agents-grid"></div>
+
+      <!-- Recent alerts -->
+      <div class="section-heading">Recent Alerts</div>
+      <div id="home-alerts-list"></div>
+    </section>
+
+    <!-- ════════════════ PAGE: DASHBOARD ════════════════ -->
+    <section id="page-dashboard" class="page">
+      <div class="page-header-bar">
+        <h2>Executive Dashboard</h2>
+        <span class="page-sub">KPIs · Trends · Alerts · Insights</span>
+      </div>
+
+      <div class="kpi-grid" id="dash-kpi-grid">
+        <!-- 8 KPI cards injected by JS -->
+      </div>
+
+      <div class="chart-grid">
+        <div class="chart-glass">
+          <div class="chart-glass-title">Demand Forecast by Product <span class="chart-period-tag" id="dash-period-tag"></span></div>
+          <canvas id="chart-demand"></canvas>
+          <p class="chart-src">demand_forecast.csv · synthetic</p>
+        </div>
+        <div class="chart-glass">
+          <div class="chart-glass-title">Cold-Winter Scenario Impact</div>
+          <canvas id="chart-scenario"></canvas>
+          <p class="chart-src">demand_scenarios.csv · synthetic</p>
+        </div>
+        <div class="chart-glass">
+          <div class="chart-glass-title">Production by Plant</div>
+          <canvas id="chart-supply-plant"></canvas>
+          <p class="chart-src">production_plan.csv · synthetic</p>
+        </div>
+        <div class="chart-glass">
+          <div class="chart-glass-title">Data Quality by Source (bottom 10)</div>
+          <canvas id="chart-dq-sources"></canvas>
+          <p class="chart-src">datasource_inventory.csv · synthetic</p>
+        </div>
+      </div>
+
+      <div class="section-heading">Critical Alerts</div>
+      <div class="glass-table-wrap">
+        <table class="glass-table" id="alerts-table">
+          <thead><tr>
+            <th>Priority</th><th>Agent</th><th>Description</th><th>Scope</th><th>Owner</th><th>Action</th>
+          </tr></thead>
+          <tbody id="alerts-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ════════════════ PAGE: AGENT HUB ════════════════ -->
+    <section id="page-agents" class="page">
+      <div class="page-header-bar">
+        <h2>Agent Hub</h2>
+        <span class="page-sub">Browse, select and interact with MVP agents</span>
+      </div>
+      <div class="agent-hub-toolbar">
+        <input type="text" id="agent-search" class="hub-search" placeholder="🔍 Search agents…" />
+        <div class="agent-filter-tabs">
+          <button class="atab active" data-filter="all">All</button>
+          <button class="atab" data-filter="planning">Planning</button>
+          <button class="atab" data-filter="operations">Operations</button>
+          <button class="atab" data-filter="governance">Governance</button>
+        </div>
+      </div>
+      <div class="agent-catalog" id="agent-catalog"></div>
+    </section>
+
+    <!-- ════════════════ PAGE: ENTERPRISE CHAT ════════════════ -->
+    <section id="page-chat" class="page">
+      <div class="chat-shell">
+        <!-- Left: agent selector -->
+        <aside class="chat-agents-panel">
+          <div class="cap-title">Select Agents</div>
+          <div class="cap-mode-row">
+            <button class="mode-btn active" data-mode="all">All Agents</button>
+            <button class="mode-btn" data-mode="single">Single</button>
+          </div>
+          <div class="cap-agents" id="chat-agent-selector"></div>
+          <div class="cap-active-label">Participating:</div>
+          <div class="cap-active-list" id="chat-active-agents"></div>
+        </aside>
+
+        <!-- Center: chat window -->
+        <div class="chat-main">
+          <div class="chat-topbar">
+            <div class="chat-topbar-left">
+              <span class="chat-model-badge">⚡ EnergyAI</span>
+              <span id="chat-mode-label" class="chat-mode-label">All Agents Mode</span>
+            </div>
+            <button class="chat-clear-btn" id="chat-clear">Clear</button>
+          </div>
+          <div class="chat-messages" id="main-chat-msgs">
+            <div class="chat-welcome">
+              <div class="chat-welcome-icon">⚡</div>
+              <h3>Energy Enterprise AI Advisor</h3>
+              <p>Ask anything. Select one agent, multiple agents, or all agents at once for consolidated insights.</p>
+              <div class="welcome-prompts" id="welcome-prompts"></div>
+            </div>
+          </div>
+          <div class="chat-input-area">
+            <div class="chat-input-wrap">
+              <textarea id="main-chat-input" class="main-chat-input" rows="1"
+                placeholder="Ask all agents… e.g. What are the top supply risks this planning cycle?" ></textarea>
+              <button class="main-send-btn" id="main-send-btn">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/>
+                </svg>
+              </button>
+            </div>
+            <div class="chat-suggested" id="chat-suggested"></div>
+          </div>
+        </div>
+
+        <!-- Right: context panel -->
+        <aside class="chat-context-panel" id="chat-ctx-panel">
+          <div class="ctx-title">Context Panel</div>
+          <div class="ctx-kpis" id="ctx-kpis"></div>
+          <div class="ctx-title" style="margin-top:1rem">Last Response Sources</div>
+          <div class="ctx-sources" id="ctx-sources"></div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ════════════════ PAGE: RECOMMENDATIONS ════════════════ -->
+    <section id="page-recommendations" class="page">
+      <div class="page-header-bar">
+        <h2>Recommendations Center</h2>
+        <span class="page-sub">Priority actions · Risk indicators · Business decisions required</span>
+      </div>
+      <div class="rec-filters">
+        <button class="rec-ftab active" data-pf="all">All</button>
+        <button class="rec-ftab" data-pf="P0"><span class="p0">P0</span> Critical</button>
+        <button class="rec-ftab" data-pf="P1"><span class="p1">P1</span> High</button>
+        <button class="rec-ftab" data-pf="P2"><span class="p2">P2</span> Medium</button>
+        <button class="rec-ftab" data-pf="P3"><span class="p3">P3</span> Low</button>
+      </div>
+      <div class="rec-grid" id="rec-grid"></div>
+    </section>
+
+    <!-- ════════════════ PAGE: WORKFLOWS ════════════════ -->
+    <section id="page-workflows" class="page">
+      <div class="page-header-bar">
+        <h2>Workflow Center</h2>
+        <span class="page-sub">Active workflows · Approval gates · Agent participation</span>
+      </div>
+      <div class="workflow-grid" id="workflow-grid"></div>
+    </section>
+
+    <!-- ════════════════ PAGE: SETTINGS ════════════════ -->
+    <section id="page-settings" class="page">
+      <div class="page-header-bar"><h2>Settings</h2></div>
+      <div class="settings-card glass-card">
+        <h3>Application</h3>
+        <label class="setting-row"><span>Data mode</span><span class="setting-val">Synthetic fixtures (MVP)</span></label>
+        <label class="setting-row"><span>Agent runtime</span><span class="setting-val">Simulated — no LLM API</span></label>
+        <label class="setting-row"><span>Enterprise writes</span><span class="setting-val red-val">Disabled</span></label>
+        <label class="setting-row"><span>SAP connectivity</span><span class="setting-val red-val">Not configured</span></label>
+      </div>
+      <div class="settings-card glass-card">
+        <h3>Theme</h3>
+        <label class="setting-row"><span>Color scheme</span><span class="setting-val">Dark — Energy Operations Center</span></label>
+      </div>
+    </section>
+
+  </main><!-- /main -->
+</div><!-- /shell -->
+
+<footer class="app-footer">
+  ⚡ Energy Enterprise AI Advisor · MVP Prototype · All data synthetic · Read-only · No enterprise system writes · Made with IBM Bob
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
