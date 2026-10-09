@@ -4,7 +4,7 @@
 | | |
 |---|---|
 | **Scope** | 19 business-domain agents, 8 master entities, SAP target landscape |
-| **Sources** | README.md, SKILL.md, structure.md, Enterprise_Capability_Model.md, Enterprise_KPI_Model.md, Entity_Relationship_Model.md, Agent_Interaction_Model.md |
+| **Sources** | README.md, SKILL.md, structure.md, Enterprise_Capability_Model.md, Enterprise_KPI_Model.md, entity_relationship_model.md, Agent_Interaction_Model.md |
 | **Version** | 1.0 (draft for architecture review) |
 
 ---
