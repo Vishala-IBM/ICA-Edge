@@ -4,25 +4,33 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Energy Enterprise AI Advisor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 </head>
 <body>
 
-<!-- ═══════════════════════ HEADER ═══════════════════════════ -->
+<!-- ══════════════════════ HEADER ════════════════════════════ -->
 <header class="app-header">
   <div class="header-left">
-    <button class="sidebar-toggle" id="sidebar-toggle" title="Toggle sidebar">&#9776;</button>
-    <span class="header-logo">⚡</span>
-    <span class="header-title">Energy Enterprise AI Advisor</span>
-    <span class="header-badge">Operations Center</span>
+    <button class="sidebar-toggle" id="sidebar-toggle" title="Toggle sidebar">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </button>
+    <div class="header-brand">
+      <div class="header-brand-icon">⚡</div>
+      <div class="header-brand-text">
+        <span class="header-title">Energy AI Advisor</span>
+        <span class="header-sub">Operations Center</span>
+      </div>
+    </div>
   </div>
   <div class="header-center">
-    <div class="global-search">
-      <span class="search-icon">🔍</span>
-      <input type="text" id="global-search" placeholder="Ask anything across all agents…" autocomplete="off" />
-      <button class="search-go" id="search-go">⏎</button>
+    <div class="global-search" id="global-search-wrap">
+      <svg class="search-svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input type="text" id="global-search" placeholder="Ask the AI Advisor anything…" autocomplete="off" />
+      <kbd class="search-kbd">↵</kbd>
     </div>
   </div>
   <div class="header-right">
@@ -31,274 +39,401 @@
       <span class="pulse-dot"></span>
       <span id="last-refresh">Connecting…</span>
     </div>
-    <div class="header-avatar">EA</div>
+    <div class="header-notif" title="Alerts">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+      <span class="notif-badge" id="notif-badge">—</span>
+    </div>
+    <div class="header-avatar" title="Executive Advisor">EA</div>
   </div>
 </header>
 
-<!-- ═══════════════════════ LAYOUT ═══════════════════════════ -->
+<!-- ══════════════════════ SHELL ════════════════════════════ -->
 <div class="shell" id="shell">
 
   <!-- SIDEBAR -->
   <nav class="sidebar" id="sidebar">
     <div class="sidebar-brand">
-      <span class="brand-icon">⚡</span>
-      <span class="brand-name">EnergyAI</span>
+      <div class="sb-logo">⚡</div>
+      <div class="sb-name">EnergyAI</div>
     </div>
     <ul class="nav-list">
       <li class="nav-item active" data-page="home">
-        <span class="nav-icon">🏠</span><span class="nav-label">Home</span>
+        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></span>
+        <span class="nav-label">Home</span>
       </li>
       <li class="nav-item" data-page="dashboard">
-        <span class="nav-icon">📊</span><span class="nav-label">Executive Dashboard</span>
+        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg></span>
+        <span class="nav-label">Executive Dashboard</span>
       </li>
       <li class="nav-item" data-page="agents">
-        <span class="nav-icon">🤖</span><span class="nav-label">Agent Hub</span>
+        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg></span>
+        <span class="nav-label">Agent Hub</span>
       </li>
-      <li class="nav-item" data-page="chat">
-        <span class="nav-icon">💬</span><span class="nav-label">Enterprise Chat</span>
-        <span class="nav-badge">AI</span>
+      <li class="nav-item nav-chat" data-page="chat">
+        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+        <span class="nav-label">AI Advisor Chat</span>
+        <span class="nav-pill">AI</span>
       </li>
       <li class="nav-item" data-page="recommendations">
-        <span class="nav-icon">🎯</span><span class="nav-label">Recommendations</span>
-        <span class="nav-badge alert" id="rec-count-badge">—</span>
+        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span>
+        <span class="nav-label">Recommendations</span>
+        <span class="nav-count" id="rec-count-badge">—</span>
       </li>
       <li class="nav-item" data-page="workflows">
-        <span class="nav-icon">⚙️</span><span class="nav-label">Workflows</span>
+        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg></span>
+        <span class="nav-label">Workflows</span>
       </li>
     </ul>
     <div class="sidebar-bottom">
       <div class="nav-item" data-page="settings">
-        <span class="nav-icon">⚙</span><span class="nav-label">Settings</span>
+        <span class="nav-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg></span>
+        <span class="nav-label">Settings</span>
       </div>
-      <div class="sidebar-version">MVP · Synthetic Data</div>
+      <div class="sidebar-footer-note">MVP · Synthetic Data</div>
     </div>
   </nav>
 
   <!-- MAIN -->
   <main class="main" id="main">
 
-    <!-- ════════════════ PAGE: HOME ════════════════ -->
+    <!-- ══════════ PAGE: HOME ══════════ -->
     <section id="page-home" class="page active">
-      <div class="page-hero">
+
+      <!-- Hero Banner -->
+      <div class="hero-banner">
+        <div class="hero-img-wrap">
+          <img src="https://images.unsplash.com/photo-1580795479225-3eff11b12819?w=1600&q=80&fit=crop" alt="Energy Operations" class="hero-img" onerror="this.style.display='none'" />
+          <div class="hero-overlay"></div>
+        </div>
         <div class="hero-content">
-          <h1 class="hero-title">Good morning, Executive.</h1>
-          <p class="hero-sub">Your Energy Enterprise AI Advisor is ready. <span class="hero-data-note">All data is synthetic — prototype only.</span></p>
-          <div class="hero-actions">
-            <button class="btn-primary" onclick="navigate('chat')">💬 Start AI Chat</button>
-            <button class="btn-secondary" onclick="navigate('dashboard')">📊 View Dashboard</button>
-            <button class="btn-secondary" onclick="navigate('agents')">🤖 Agent Hub</button>
+          <div class="hero-eyebrow">Energy Enterprise Transformation</div>
+          <h1 class="hero-title">AI-Powered Operations Center</h1>
+          <p class="hero-lead">Unified intelligence across demand planning, supply chain, architecture and knowledge — powered by five specialist AI agents.</p>
+          <div class="hero-cta">
+            <button class="cta-primary" onclick="navigate('chat')">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+              Start AI Conversation
+            </button>
+            <button class="cta-secondary" onclick="navigate('dashboard')">View Executive Dashboard</button>
+            <button class="cta-secondary" onclick="navigate('agents')">Explore Agents</button>
+          </div>
+        </div>
+        <div class="hero-data-note">⚠ All data is synthetic — prototype only. No production systems connected.</div>
+      </div>
+
+      <!-- Quick KPI Strip -->
+      <div class="home-kpi-strip" id="home-kpi-strip">
+        <div class="hkpi" id="hkpi-gap">
+          <div class="hkpi-icon hkpi-blue">📉</div>
+          <div class="hkpi-body">
+            <div class="hkpi-label">Demand-Supply Gap</div>
+            <div class="hkpi-value" id="hval-gap">—</div>
+            <div class="hkpi-sub" id="hsub-gap">Calculating…</div>
+          </div>
+        </div>
+        <div class="hkpi hkpi-unavailable">
+          <div class="hkpi-icon hkpi-grey">💰</div>
+          <div class="hkpi-body">
+            <div class="hkpi-label">Revenue Growth</div>
+            <div class="hkpi-value">—</div>
+            <div class="hkpi-sub">Finance not connected</div>
+          </div>
+        </div>
+        <div class="hkpi hkpi-unavailable">
+          <div class="hkpi-icon hkpi-grey">📊</div>
+          <div class="hkpi-body">
+            <div class="hkpi-label">EBITDA Margin</div>
+            <div class="hkpi-value">—</div>
+            <div class="hkpi-sub">Finance not connected</div>
+          </div>
+        </div>
+        <div class="hkpi" id="hkpi-dq">
+          <div class="hkpi-icon hkpi-emerald">✅</div>
+          <div class="hkpi-body">
+            <div class="hkpi-label">Data Quality Score</div>
+            <div class="hkpi-value" id="hval-dq">—</div>
+            <div class="hkpi-sub" id="hsub-dq">Calculating…</div>
+          </div>
+        </div>
+        <div class="hkpi" id="hkpi-eol">
+          <div class="hkpi-icon hkpi-amber">⚠️</div>
+          <div class="hkpi-body">
+            <div class="hkpi-label">EOL Applications</div>
+            <div class="hkpi-value" id="hval-eol">—</div>
+            <div class="hkpi-sub" id="hsub-eol">Calculating…</div>
+          </div>
+        </div>
+        <div class="hkpi" id="hkpi-citation">
+          <div class="hkpi-icon hkpi-blue">📚</div>
+          <div class="hkpi-body">
+            <div class="hkpi-label">Citation Coverage</div>
+            <div class="hkpi-value" id="hval-citation">—</div>
+            <div class="hkpi-sub" id="hsub-citation">Calculating…</div>
           </div>
         </div>
       </div>
 
-      <!-- Quick KPI strip -->
-      <div class="quick-kpi-strip" id="home-kpi-strip">
-        <div class="qkpi" id="qkpi-gap">
-          <div class="qkpi-label">Demand-Supply Gap</div>
-          <div class="qkpi-value" id="qval-gap">…</div>
-          <div class="qkpi-status" id="qstat-gap">—</div>
+      <!-- Asset image grid -->
+      <div class="home-section-header">
+        <h2>Energy Asset Portfolio</h2>
+        <span class="hs-sub">Refineries · Upstream · Pipelines · Trading · Renewable</span>
+      </div>
+      <div class="asset-image-grid">
+        <div class="asset-img-card" style="--img:url('https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=600&q=70&fit=crop')">
+          <div class="aic-overlay"><div class="aic-label">Refinery Operations</div></div>
         </div>
-        <div class="qkpi unavailable">
-          <div class="qkpi-label">Revenue Growth</div>
-          <div class="qkpi-value">—</div>
-          <div class="qkpi-status">Unavailable</div>
+        <div class="asset-img-card" style="--img:url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=70&fit=crop')">
+          <div class="aic-overlay"><div class="aic-label">Upstream Production</div></div>
         </div>
-        <div class="qkpi unavailable">
-          <div class="qkpi-label">EBITDA Margin</div>
-          <div class="qkpi-value">—</div>
-          <div class="qkpi-status">Finance Disconnected</div>
+        <div class="asset-img-card" style="--img:url('https://images.unsplash.com/photo-1548625149-fc4a29cf7092?w=600&q=70&fit=crop')">
+          <div class="aic-overlay"><div class="aic-label">Pipeline Infrastructure</div></div>
         </div>
-        <div class="qkpi" id="qkpi-dq">
-          <div class="qkpi-label">Data Quality</div>
-          <div class="qkpi-value" id="qval-dq">…</div>
-          <div class="qkpi-status" id="qstat-dq">—</div>
-        </div>
-        <div class="qkpi" id="qkpi-eol">
-          <div class="qkpi-label">EOL Apps</div>
-          <div class="qkpi-value" id="qval-eol">…</div>
-          <div class="qkpi-status" id="qstat-eol">—</div>
-        </div>
-        <div class="qkpi" id="qkpi-citation">
-          <div class="qkpi-label">Citation Coverage</div>
-          <div class="qkpi-value" id="qval-citation">…</div>
-          <div class="qkpi-status" id="qstat-citation">—</div>
+        <div class="asset-img-card" style="--img:url('https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=600&q=70&fit=crop')">
+          <div class="aic-overlay"><div class="aic-label">Renewable Energy</div></div>
         </div>
       </div>
 
-      <!-- Agent cards -->
-      <div class="section-heading">Active Agents</div>
-      <div class="agent-cards-grid" id="home-agents-grid"></div>
-
-      <!-- Recent alerts -->
-      <div class="section-heading">Recent Alerts</div>
-      <div id="home-alerts-list"></div>
+      <!-- Two column: agents + alerts -->
+      <div class="home-two-col">
+        <div class="home-col">
+          <div class="home-section-header"><h2>Active AI Agents</h2></div>
+          <div class="home-agents-list" id="home-agents-grid"></div>
+        </div>
+        <div class="home-col">
+          <div class="home-section-header"><h2>Priority Alerts</h2></div>
+          <div id="home-alerts-list"></div>
+        </div>
+      </div>
     </section>
 
-    <!-- ════════════════ PAGE: DASHBOARD ════════════════ -->
+    <!-- ══════════ PAGE: DASHBOARD ══════════ -->
     <section id="page-dashboard" class="page">
-      <div class="page-header-bar">
-        <h2>Executive Dashboard</h2>
-        <span class="page-sub">KPIs · Trends · Alerts · Insights</span>
+      <div class="page-topbar">
+        <div>
+          <h2 class="page-title">Executive Dashboard</h2>
+          <p class="page-desc">Business health · KPI status · Planning signals · Data readiness</p>
+        </div>
+        <div class="page-topbar-right">
+          <span class="data-note-badge">⚠ Synthetic Data</span>
+        </div>
       </div>
 
-      <div class="kpi-grid" id="dash-kpi-grid">
-        <!-- 8 KPI cards injected by JS -->
-      </div>
+      <div class="kpi-grid" id="dash-kpi-grid"></div>
 
       <div class="chart-grid">
-        <div class="chart-glass">
-          <div class="chart-glass-title">Demand Forecast by Product <span class="chart-period-tag" id="dash-period-tag"></span></div>
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <div class="chart-card-title">Demand Forecast by Product <span class="chart-period-tag" id="dash-period-tag"></span></div>
+            <span class="chart-src-tag">demand_forecast.csv · synthetic</span>
+          </div>
           <canvas id="chart-demand"></canvas>
-          <p class="chart-src">demand_forecast.csv · synthetic</p>
         </div>
-        <div class="chart-glass">
-          <div class="chart-glass-title">Cold-Winter Scenario Impact</div>
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <div class="chart-card-title">Cold-Winter Scenario Impact</div>
+            <span class="chart-src-tag">demand_scenarios.csv · synthetic</span>
+          </div>
           <canvas id="chart-scenario"></canvas>
-          <p class="chart-src">demand_scenarios.csv · synthetic</p>
         </div>
-        <div class="chart-glass">
-          <div class="chart-glass-title">Production by Plant</div>
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <div class="chart-card-title">Production by Plant</div>
+            <span class="chart-src-tag">production_plan.csv · synthetic</span>
+          </div>
           <canvas id="chart-supply-plant"></canvas>
-          <p class="chart-src">production_plan.csv · synthetic</p>
         </div>
-        <div class="chart-glass">
-          <div class="chart-glass-title">Data Quality by Source (bottom 10)</div>
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <div class="chart-card-title">Data Quality by Source (bottom 10)</div>
+            <span class="chart-src-tag">datasource_inventory.csv · synthetic</span>
+          </div>
           <canvas id="chart-dq-sources"></canvas>
-          <p class="chart-src">datasource_inventory.csv · synthetic</p>
         </div>
       </div>
 
-      <div class="section-heading">Critical Alerts</div>
-      <div class="glass-table-wrap">
-        <table class="glass-table" id="alerts-table">
+      <div class="section-divider">
+        <h3>Critical Alerts</h3>
+      </div>
+      <div class="table-wrap">
+        <table class="data-table" id="alerts-table">
           <thead><tr>
-            <th>Priority</th><th>Agent</th><th>Description</th><th>Scope</th><th>Owner</th><th>Action</th>
+            <th>Priority</th><th>Agent</th><th>Description</th><th>Scope</th><th>Owner</th><th>Action Required</th>
           </tr></thead>
           <tbody id="alerts-body"></tbody>
         </table>
       </div>
     </section>
 
-    <!-- ════════════════ PAGE: AGENT HUB ════════════════ -->
+    <!-- ══════════ PAGE: AGENT HUB ══════════ -->
     <section id="page-agents" class="page">
-      <div class="page-header-bar">
-        <h2>Agent Hub</h2>
-        <span class="page-sub">Browse, select and interact with MVP agents</span>
+      <div class="page-topbar">
+        <div>
+          <h2 class="page-title">Agent Hub</h2>
+          <p class="page-desc">Browse, configure and launch specialist AI agents</p>
+        </div>
       </div>
-      <div class="agent-hub-toolbar">
-        <input type="text" id="agent-search" class="hub-search" placeholder="🔍 Search agents…" />
-        <div class="agent-filter-tabs">
-          <button class="atab active" data-filter="all">All</button>
-          <button class="atab" data-filter="planning">Planning</button>
-          <button class="atab" data-filter="operations">Operations</button>
-          <button class="atab" data-filter="governance">Governance</button>
+      <div class="hub-toolbar">
+        <div class="hub-search-wrap">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="text" id="agent-search" placeholder="Search agents…" />
+        </div>
+        <div class="filter-tabs">
+          <button class="ftab active" data-filter="all">All Agents</button>
+          <button class="ftab" data-filter="planning">Planning</button>
+          <button class="ftab" data-filter="operations">Operations</button>
+          <button class="ftab" data-filter="governance">Governance</button>
         </div>
       </div>
       <div class="agent-catalog" id="agent-catalog"></div>
     </section>
 
-    <!-- ════════════════ PAGE: ENTERPRISE CHAT ════════════════ -->
-    <section id="page-chat" class="page">
-      <div class="chat-shell">
-        <!-- Left: agent selector -->
-        <aside class="chat-agents-panel">
-          <div class="cap-title">Select Agents</div>
-          <div class="cap-mode-row">
-            <button class="mode-btn active" data-mode="all">All Agents</button>
-            <button class="mode-btn" data-mode="single">Single</button>
+    <!-- ══════════ PAGE: AI ADVISOR CHAT ══════════ -->
+    <section id="page-chat" class="page page-chat">
+      <div class="chat-layout">
+
+        <!-- Left rail: agent selector -->
+        <aside class="chat-rail">
+          <div class="rail-section-label">Mode</div>
+          <div class="rail-modes">
+            <button class="rail-mode active" data-mode="all">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
+              All Agents
+            </button>
+            <button class="rail-mode" data-mode="single">Single Agent</button>
+            <button class="rail-mode" data-mode="multi">Multi-Agent</button>
           </div>
-          <div class="cap-agents" id="chat-agent-selector"></div>
-          <div class="cap-active-label">Participating:</div>
-          <div class="cap-active-list" id="chat-active-agents"></div>
+          <div class="rail-section-label" style="margin-top:.85rem">Agents</div>
+          <div class="rail-agents" id="chat-agent-selector"></div>
+          <div class="rail-section-label" style="margin-top:.85rem">Participating</div>
+          <div class="rail-active" id="chat-active-agents"></div>
         </aside>
 
-        <!-- Center: chat window -->
-        <div class="chat-main">
-          <div class="chat-topbar">
-            <div class="chat-topbar-left">
-              <span class="chat-model-badge">⚡ EnergyAI</span>
-              <span id="chat-mode-label" class="chat-mode-label">All Agents Mode</span>
+        <!-- Center: chat -->
+        <div class="chat-center">
+          <div class="chat-header">
+            <div class="chat-header-left">
+              <div class="chat-avatar-main">⚡</div>
+              <div>
+                <div class="chat-header-name">Energy AI Advisor</div>
+                <div class="chat-header-sub" id="chat-mode-label">All Agents · 5 active</div>
+              </div>
             </div>
-            <button class="chat-clear-btn" id="chat-clear">Clear</button>
+            <button class="chat-clear-btn" id="chat-clear">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6"/><path d="M14 11v6"/></svg>
+              Clear
+            </button>
           </div>
+
           <div class="chat-messages" id="main-chat-msgs">
-            <div class="chat-welcome">
-              <div class="chat-welcome-icon">⚡</div>
-              <h3>Energy Enterprise AI Advisor</h3>
-              <p>Ask anything. Select one agent, multiple agents, or all agents at once for consolidated insights.</p>
+            <div class="chat-welcome" id="chat-welcome-screen">
+              <div class="welcome-logo">⚡</div>
+              <h2 class="welcome-title">Energy Enterprise AI Advisor</h2>
+              <p class="welcome-sub">Ask one question — get consolidated insights from all specialist agents across demand planning, supply chain, architecture, data quality and knowledge.</p>
               <div class="welcome-prompts" id="welcome-prompts"></div>
+              <div class="welcome-categories">
+                <div class="wcat">
+                  <div class="wcat-icon">🏭</div>
+                  <div class="wcat-label">Supply Chain</div>
+                </div>
+                <div class="wcat">
+                  <div class="wcat-icon">📊</div>
+                  <div class="wcat-label">Planning</div>
+                </div>
+                <div class="wcat">
+                  <div class="wcat-icon">🏗️</div>
+                  <div class="wcat-label">Architecture</div>
+                </div>
+                <div class="wcat">
+                  <div class="wcat-icon">🔍</div>
+                  <div class="wcat-label">Data Quality</div>
+                </div>
+                <div class="wcat">
+                  <div class="wcat-icon">📚</div>
+                  <div class="wcat-label">Knowledge</div>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="chat-input-area">
-            <div class="chat-input-wrap">
-              <textarea id="main-chat-input" class="main-chat-input" rows="1"
-                placeholder="Ask all agents… e.g. What are the top supply risks this planning cycle?" ></textarea>
-              <button class="main-send-btn" id="main-send-btn">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                  <line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/>
-                </svg>
-              </button>
+
+          <div class="chat-input-section">
+            <div class="chat-input-box">
+              <div class="chat-input-inner">
+                <textarea id="main-chat-input" class="chat-textarea" rows="1"
+                  placeholder="Ask the Energy AI Advisor…  e.g. What are the top supply risks this planning cycle?"></textarea>
+                <button class="chat-send-btn" id="main-send-btn" title="Send">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+                </button>
+              </div>
+              <div class="chat-suggestions" id="chat-suggested"></div>
             </div>
-            <div class="chat-suggested" id="chat-suggested"></div>
+            <p class="chat-disclaimer">AI Advisor responses are advisory only. All data is synthetic. No enterprise system writes are performed.</p>
           </div>
         </div>
 
         <!-- Right: context panel -->
-        <aside class="chat-context-panel" id="chat-ctx-panel">
-          <div class="ctx-title">Context Panel</div>
-          <div class="ctx-kpis" id="ctx-kpis"></div>
-          <div class="ctx-title" style="margin-top:1rem">Last Response Sources</div>
-          <div class="ctx-sources" id="ctx-sources"></div>
+        <aside class="chat-ctx" id="chat-ctx-panel">
+          <div class="ctx-header">Live KPIs</div>
+          <div id="ctx-kpis" class="ctx-kpi-list"></div>
+          <div class="ctx-header" style="margin-top:1.25rem">Response Sources</div>
+          <div id="ctx-sources" class="ctx-sources-list"></div>
         </aside>
       </div>
     </section>
 
-    <!-- ════════════════ PAGE: RECOMMENDATIONS ════════════════ -->
+    <!-- ══════════ PAGE: RECOMMENDATIONS ══════════ -->
     <section id="page-recommendations" class="page">
-      <div class="page-header-bar">
-        <h2>Recommendations Center</h2>
-        <span class="page-sub">Priority actions · Risk indicators · Business decisions required</span>
+      <div class="page-topbar">
+        <div>
+          <h2 class="page-title">Recommendations Center</h2>
+          <p class="page-desc">Priority actions · Business risks · Transformation opportunities</p>
+        </div>
       </div>
-      <div class="rec-filters">
-        <button class="rec-ftab active" data-pf="all">All</button>
-        <button class="rec-ftab" data-pf="P0"><span class="p0">P0</span> Critical</button>
-        <button class="rec-ftab" data-pf="P1"><span class="p1">P1</span> High</button>
-        <button class="rec-ftab" data-pf="P2"><span class="p2">P2</span> Medium</button>
-        <button class="rec-ftab" data-pf="P3"><span class="p3">P3</span> Low</button>
+      <div class="rec-filter-bar">
+        <button class="rec-ftab active" data-pf="all">All Priorities</button>
+        <button class="rec-ftab" data-pf="P0"><span class="pbadge p0">P0</span> Critical</button>
+        <button class="rec-ftab" data-pf="P1"><span class="pbadge p1">P1</span> High</button>
+        <button class="rec-ftab" data-pf="P2"><span class="pbadge p2">P2</span> Medium</button>
+        <button class="rec-ftab" data-pf="P3"><span class="pbadge p3">P3</span> Low</button>
       </div>
       <div class="rec-grid" id="rec-grid"></div>
     </section>
 
-    <!-- ════════════════ PAGE: WORKFLOWS ════════════════ -->
+    <!-- ══════════ PAGE: WORKFLOWS ══════════ -->
     <section id="page-workflows" class="page">
-      <div class="page-header-bar">
-        <h2>Workflow Center</h2>
-        <span class="page-sub">Active workflows · Approval gates · Agent participation</span>
+      <div class="page-topbar">
+        <div>
+          <h2 class="page-title">Workflow Center</h2>
+          <p class="page-desc">Active workflows · Approval gates · Agent participation</p>
+        </div>
       </div>
       <div class="workflow-grid" id="workflow-grid"></div>
     </section>
 
-    <!-- ════════════════ PAGE: SETTINGS ════════════════ -->
+    <!-- ══════════ PAGE: SETTINGS ══════════ -->
     <section id="page-settings" class="page">
-      <div class="page-header-bar"><h2>Settings</h2></div>
-      <div class="settings-card glass-card">
-        <h3>Application</h3>
-        <label class="setting-row"><span>Data mode</span><span class="setting-val">Synthetic fixtures (MVP)</span></label>
-        <label class="setting-row"><span>Agent runtime</span><span class="setting-val">Simulated — no LLM API</span></label>
-        <label class="setting-row"><span>Enterprise writes</span><span class="setting-val red-val">Disabled</span></label>
-        <label class="setting-row"><span>SAP connectivity</span><span class="setting-val red-val">Not configured</span></label>
-      </div>
-      <div class="settings-card glass-card">
-        <h3>Theme</h3>
-        <label class="setting-row"><span>Color scheme</span><span class="setting-val">Dark — Energy Operations Center</span></label>
+      <div class="page-topbar"><h2 class="page-title">Settings</h2></div>
+      <div class="settings-grid">
+        <div class="settings-card">
+          <h3>Application Configuration</h3>
+          <div class="settings-row"><span>Data mode</span><span class="sv">Synthetic fixtures (MVP)</span></div>
+          <div class="settings-row"><span>Agent runtime</span><span class="sv">Simulated — no LLM API</span></div>
+          <div class="settings-row"><span>Enterprise writes</span><span class="sv sv-red">Disabled</span></div>
+          <div class="settings-row"><span>SAP connectivity</span><span class="sv sv-red">Not configured</span></div>
+          <div class="settings-row"><span>ICA Edge runtime</span><span class="sv sv-amber">Not deployed</span></div>
+        </div>
+        <div class="settings-card">
+          <h3>Theme</h3>
+          <div class="settings-row"><span>Color scheme</span><span class="sv">Light — Executive Enterprise</span></div>
+          <div class="settings-row"><span>Typography</span><span class="sv">Inter — System UI</span></div>
+        </div>
       </div>
     </section>
 
-  </main><!-- /main -->
-</div><!-- /shell -->
+  </main>
+</div>
 
 <footer class="app-footer">
-  ⚡ Energy Enterprise AI Advisor · MVP Prototype · All data synthetic · Read-only · No enterprise system writes · Made with IBM Bob
+  ⚡ Energy Enterprise AI Advisor &nbsp;·&nbsp; MVP Prototype &nbsp;·&nbsp; All data synthetic &nbsp;·&nbsp; Read-only &nbsp;·&nbsp; No enterprise system writes &nbsp;·&nbsp; Made with IBM Bob
 </footer>
 
 <script src="app.js"></script>
