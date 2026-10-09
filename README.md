@@ -79,7 +79,7 @@ The `energy-enterprise-transformation-advisor/master-data/` directory contains n
 | `regions.csv` | `Region_ID` | Geographic hierarchy plus pricing, logistics, and climate zones. |
 | `business_units.csv` | `Business_Unit_ID` | Conformed reporting/ownership hierarchy across legacy BU labels. |
 
-Supporting files: `bu_crosswalk.csv` maps source BU values using a composite source key; `data_relationship_matrix.csv` documents 85 joins, cardinalities, coverage, and unmatched values. See the [master-data guide](energy-enterprise-transformation-advisor/master-data/README_master_data_model.md) and [dictionary](energy-enterprise-transformation-advisor/master-data/master_data_dictionary.md). The conventional `master-data/README.md` still needs a landing-page summary.
+Supporting files: `bu_crosswalk.csv` maps source BU values using a composite source key; `data_relationship_matrix.csv` documents 85 joins, cardinalities, coverage, and unmatched values. Start with the [master-data landing page](energy-enterprise-transformation-advisor/master-data/README.md), then consult the [detailed model](energy-enterprise-transformation-advisor/master-data/README_master_data_model.md) and [field dictionary](energy-enterprise-transformation-advisor/master-data/master_data_dictionary.md).
 
 Known data-model gaps include Material, Cost Center/GL Account, Counterparty, Commodity/Benchmark, Ship-To/Delivery Location, Carrier, Well, Project/Program, Contract, Employee/Organization/Role, Calendar/Period, and UoM/Currency. Product is not a substitute for every material; customer is not a ship-to; supplier is not automatically a carrier.
 
@@ -133,7 +133,7 @@ ICA-Edge/
 	└── references/                    # Patterns, technologies, search guidance
 ```
 
-For the detailed advisor tree, see [structure.md](energy-enterprise-transformation-advisor/structure.md). That guide should be refreshed to include the newer per-agent skills and enterprise models.
+For the detailed advisor tree, see the current [structure guide](energy-enterprise-transformation-advisor/structure.md). It indexes all 19 agents, their README/SKILL/sample-data layout, master-data assets, and enterprise and collaboration models.
 
 ## 10. Getting Started Guide
 
@@ -157,11 +157,10 @@ There is no repository-wide install/build command or runnable multi-agent servic
 These are proposed documentation and implementation priorities, not committed releases:
 
 1. Complete data dictionaries for Corporate Strategy, Demand Planning, and Transformation PMO; reconcile counts and filenames in the process model.
-2. Add the missing `master-data/README.md` landing page and refresh `structure.md` with the current agent skills, model files, and data directories.
-3. Expand capability ownership and KPI formulas, targets, sources, and approval status across all 19 agents.
-4. Reconcile the 28 process-model handoffs with the three explicit interaction contracts; define schemas, canonical keys, event triggers, owners, SLAs, replay, and escalation behavior.
-5. Prioritize Material, Cost Center/GL, Counterparty, Commodity/Benchmark, Ship-To, and Carrier master design; improve relationship coverage and crosswalk quality.
-6. Validate ECC/S/4HANA mappings against an actual customer release, license footprint, custom code, landscape inventory, and SAP simplification guidance.
-7. If a runtime is introduced, define its orchestration interfaces, authorization model, API/event integrations, human approval workflow, evaluation data, monitoring, and deployment/test process before production use.
+2. Expand capability ownership and KPI formulas, targets, sources, and approval status across all 19 agents.
+3. Reconcile the 28 process-model handoffs with the three explicit interaction contracts; define schemas, canonical keys, event triggers, owners, SLAs, replay, and escalation behavior.
+4. Prioritize Material, Cost Center/GL, Counterparty, Commodity/Benchmark, Ship-To, and Carrier master design; improve relationship coverage and crosswalk quality.
+5. Validate ECC/S/4HANA mappings against an actual customer release, license footprint, custom code, landscape inventory, and SAP simplification guidance.
+6. If a runtime is introduced, define its orchestration interfaces, authorization model, API/event integrations, human approval workflow, evaluation data, monitoring, and deployment/test process before production use.
 
 The completeness report is an audit snapshot dated 2026-10-09 and predates some documentation repairs. Re-run its scan and recalculate its rubric after roadmap work; do not present its original percentage as current repository health.
